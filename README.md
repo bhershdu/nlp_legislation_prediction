@@ -1,7 +1,7 @@
 # nlp_legislation_prediction
 Class project to predict party affiliation of of legistators from legislation text.
 
-This is part of a larger idea, to be able to simulate the effects of legislation. But the first step is learning how to process legislative text is highly formalized and run some sort of prediction from it.
+This is part of a larger idea, to be able to simulate the effects of legislation. But the first step is learning how to process legislative text, which is highly formalized. Then run some sort of categorization/predicition on it.
 
 The goal for this project is to take a set of legislative text. Extract the changes or new legislative text. Using the party affliation of the author(s) as the label. 
 
