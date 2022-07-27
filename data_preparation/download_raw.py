@@ -62,6 +62,25 @@ def get_first_bill(status_value, session_id, api_key):
                             done = True
 
 
+def get_all_bills(session_id, api_key):
+    print(f'downloading all bills for session {session_id}')
+    master_file_path = os.path.join(os.getcwd(), "../data/raw", f'master_list_{session_id}.json')
+    with open(master_file_path, 'r') as m:
+        bill_list = json.load(m)
+        for k in bill_list["masterlist"]:
+            b = bill_list["masterlist"][k]
+            if "status" in b:
+                bill_file_path = os.path.join(os.getcwd(),"../data/raw", f'bill_{session_id}_{b["bill_id"]}.json')
+                if not os.path.exists(bill_file_path):
+                    print(f'fetching bill {b["bill_id"]}')
+                    response = requests.get(API_LEGISCAN_COM,
+                                            params={"key": api_key, "op": "getBill", "id": b["bill_id"]})
+                    with open(bill_file_path, 'w') as f:
+                        json.dump(response.json(),f, indent=4)
+                else:
+                    print(f'file for bill {b["bill_id"]} exists. skipping')
+
+
 def get_bill_list(session_id, api_key):
     output_path = os.path.join(os.getcwd(), "../data/raw", f'master_list_{session_id}.json')
     if not os.path.exists(output_path):
@@ -78,12 +97,13 @@ def main():
     session = get_current_session(api_key)
     for s in session["sessions"]:
         get_legislators(s["session_id"], api_key)
-        get_bill_list(s["session_id"], api_key)
-        get_first_bill(0, s["session_id"], api_key)
-        get_first_bill(1, s["session_id"], api_key)
-        get_first_bill(2, s["session_id"], api_key)
-        get_first_bill(3, s["session_id"], api_key)
-        get_first_bill(4, s["session_id"], api_key)
+        get_all_bills(s["session_id"], api_key)
+#        get_all_bills(0, s["session_id"], api_key)
+#        get_first_bill(0, s["session_id"], api_key)
+#        get_first_bill(1, s["session_id"], api_key)
+#        get_first_bill(2, s["session_id"], api_key)
+#        get_first_bill(3, s["session_id"], api_key)
+#        get_first_bill(4, s["session_id"], api_key)
 
 if __name__=="__main__":
     main()
