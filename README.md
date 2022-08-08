@@ -13,3 +13,7 @@ b) did the legislation pass
 c) did the legislation get vetoed
 
 
+Data and model checkpoints are saved using git lfs. To clone this 
+repo, you will need to have git lfs installed on your system.
+
+[https://docs.github.com/en/repositories/working-with-files/managing-large-files/installing-git-large-file-storage](Git LFS install)
