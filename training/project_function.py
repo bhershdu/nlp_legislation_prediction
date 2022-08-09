@@ -146,12 +146,14 @@ def run_n_epochs(max_epoch,
                  training_dataloader,
                  validation_dataloader,
                  checkpoint_name,
-                 scheduler):
+                 scheduler,
+                 return_learning_rates=False):
     start_time = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
     writer = SummaryWriter('runs/fashion_trainer_{}'.format(start_time))
     epoch_num = 0
     val_losses = []
     train_losses = []
+    learning_rates = []
     for epoch in range(max_epoch):
         print(f"epoch {epoch}")
         print("turn on training")
@@ -186,10 +188,14 @@ def run_n_epochs(max_epoch,
         epoch_num += 1
         if scheduler != None:
             print("stepping scheduler")
+            learning_rates.append(scheduler.get_last_lr())
             scheduler.step()
     save_name = f'{checkpoint_name}_{start_time}.pkl'
     torch.save(model.state_dict(), save_name)
-    return [save_name, train_losses, val_losses]
+    if return_learning_rates:
+        return [save_name, train_losses, val_losses, learning_rates]
+    else:
+        return [save_name, train_losses, val_losses]
 
 def split_data(token_path, file_keyword, train_split, party_filter=None):
     train_files = []
@@ -223,4 +229,35 @@ def plot_losses(train_losses, validation_losses):
     plt2.plot(range(len(validation_loses_float)), validation_loses_float)
     plt2.set_yscale('log')
     plt2.set_title("validation loss vs epoch")
+
+def get_test_results(model, dataloader):
+    element_data = None
+    with (torch.no_grad()):
+        for i, tdata in enumerate(dataloader):
+            # print(f"validation {i}")
+            tinputs, tlabel = tdata
+            # print(tlabel[0])
+            l_array = np.array(tlabel[0].cpu())
+            # print(l_array)
+            i_index = np.argmax(l_array, axis=0)
+            # print(i_index)
+            # print(f'expected label index : {i_index} from {l_array}')
+            # print(f"label : {vlabel}")
+            toutputs = model(tinputs)
+            o_array = np.array(toutputs[0].cpu())
+            o_index = np.argmax(o_array, axis=0)
+            # print(f'inferred label index : {o_index} from {o_array}')
+            element = {"input": [l_array],
+                       "output": [o_array],
+                       "expected_index": [i_index],
+                       "inferred_index": [o_index]}
+            if element_data is None:
+                element_data = element
+            else:
+                element_data["input"].append(l_array)
+                element_data["output"].append(o_array)
+                element_data["expected_index"].append(i_index)
+                element_data["inferred_index"].append(o_index)
+                print(len(element_data))
+    return pd.DataFrame(element_data)
 
