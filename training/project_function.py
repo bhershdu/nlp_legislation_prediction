@@ -33,6 +33,53 @@ class TitlePartyModel(torch.nn.Module):
         x = self.output(x)
         return x
 
+class TitlePartyModelRelu(torch.nn.Module):
+    def __init__(self):
+        super().__init__()
+        self.input = torch.nn.Linear(2048,2048, dtype=torch.float32)
+        self.input_activation = torch.nn.ReLU()
+        self.hidden1 = torch.nn.Linear(2048,1024)
+        self.hidden1_activation = torch.nn.ReLU()
+        self.hidden2 = torch.nn.Linear(1024,128)
+        self.hidden2_activation = torch.nn.ReLU()
+        # 4 political party choices
+        self.hidden3 = torch.nn.Linear(128,4)
+        self.output = torch.nn.Softmax(dim=1)
+
+    def forward(self, x):
+        x = self.input(x)
+        x = self.input_activation(x)
+        x = self.hidden1(x)
+        x = self.hidden1_activation(x)
+        x = self.hidden2(x)
+        x = self.hidden2_activation(x)
+        x = self.hidden3(x)
+        x = self.output(x)
+        return x
+
+class TitlePartyModelReluCollapse(torch.nn.Module):
+    def __init__(self, num_labels):
+        super().__init__()
+        self.input = torch.nn.Linear(2048,2048, dtype=torch.float32)
+        self.input_activation = torch.nn.ReLU()
+        self.hidden1 = torch.nn.Linear(2048,1024)
+        self.hidden1_activation = torch.nn.ReLU()
+        self.hidden2 = torch.nn.Linear(1024,128)
+        self.hidden2_activation = torch.nn.ReLU()
+        # 4 political party choices
+        self.hidden3 = torch.nn.Linear(128,num_labels)
+        self.output = torch.nn.Softmax(dim=1)
+
+    def forward(self, x):
+        x = self.input(x)
+        x = self.input_activation(x)
+        x = self.hidden1(x)
+        x = self.hidden1_activation(x)
+        x = self.hidden2(x)
+        x = self.hidden2_activation(x)
+        x = self.hidden3(x)
+        x = self.output(x)
+        return x
 
 class SimilarityFilteredSummaryDataSet(torch.utils.data.Dataset):
     def __init__(self, file_path_arr, fixed_idx=False, allow_gpu=False, col_name="input_maxpool", similarity_threshold=0.5):
@@ -81,13 +128,81 @@ class SimilarityFilteredSummaryDataSet(torch.utils.data.Dataset):
         party_arr[party - 1] = 1  # set the value to 1 for the party index
         return encoding, torch.tensor(party_arr, dtype=torch.float, device=self.t_device)
 
-
-class SummaryDataSet(torch.utils.data.Dataset):
-    def __init__(self, file_path_arr, fixed_idx=False, allow_gpu=False, col_name="input_maxpool"):
+class SimilarityFilteredSummaryDataSetByLabel(torch.utils.data.Dataset):
+    def __init__(self, file_path_arr, fixed_idx=False, allow_gpu=False, col_name="input_maxpool", similarity_threshold=0.5):
         self.data_frames = []
         self.fixed_idx = fixed_idx
         self.allow_gpu = allow_gpu
         self.col_name = col_name
+        self.label_reference_array = {}
+#        self.reference_array = None
+        if torch.cuda.is_available() and allow_gpu:
+            self.t_device = f'cuda:{torch.cuda.current_device()}'
+        else:
+            self.t_device = 'cpu'
+        print(f"device set to {self.t_device}")
+        for f in file_path_arr:
+            print(f"loading {f}")
+            data_df = pd.read_pickle(f, compression="gzip")
+            l_array = np.array(data_df["party"])
+            # print(l_array)
+            i_index = np.argmax(l_array, axis=0)
+            i_index_str = str(i_index)
+            include = True
+            if i_index_str not in self.label_reference_array:
+                self.label_reference_array[i_index_str] = np.array(data_df[col_name])
+            else:
+                current_array = data_df[col_name]
+                dist = cosine_similarity([self.label_reference_array[i_index_str]], [np.array(current_array)])
+                include = dist > similarity_threshold
+            if include:
+                if self.data_frames is None:
+                    self.data_frames = data_df
+                else:
+                    self.data_frames.append(data_df)
+            else:
+                print(f"excluding {f} with label index {i_index}")
+#            if self.reference_array is None:
+#                self.reference_array = np.array(data_df[col_name])
+#                self.data_frames.append(data_df)
+#            else:
+#                current_array = data_df[col_name]
+#                dist = cosine_similarity([self.reference_array], [np.array(current_array)])
+#                print(dist)
+#                if max(dist) > similarity_threshold:
+#                    print(f"adding {f}")
+#                    self.data_frames.append(data_df)
+#                else:
+#                    print(f'rejecting {f}')
+
+    def __len__(self):
+        if self.fixed_idx:
+            return 1
+        else:
+            return len(self.data_frames)
+
+    def __getitem__(self, idx):
+        if self.fixed_idx:
+            next_df = self.data_frames[0]
+        else:
+            next_df = self.data_frames[idx]
+        party = next_df["party"][0]  # they are all the same, so just pick the first one
+        encoding = torch.tensor(np.array(next_df[self.col_name]), dtype=torch.float, device=self.t_device)
+        # 4 politcal party choices
+        party_arr = np.zeros(4, dtype=int)
+        # the party index was stored as value with a starting index of 1 -- rethink this
+        party_arr[party - 1] = 1  # set the value to 1 for the party index
+        return encoding, torch.tensor(party_arr, dtype=torch.float, device=self.t_device)
+
+
+class SummaryDataSet(torch.utils.data.Dataset):
+    def __init__(self, file_path_arr, fixed_idx=False, allow_gpu=False, col_name="input_maxpool", collapse_label=False, remove_index=0):
+        self.data_frames = []
+        self.fixed_idx = fixed_idx
+        self.allow_gpu = allow_gpu
+        self.col_name = col_name
+        self.collapse_label = collapse_label
+        self.remove_index = remove_index
         for f in file_path_arr:
             print(f"loading {f}")
             self.data_frames.append(pd.read_pickle(f, compression="gzip"))
@@ -115,6 +230,9 @@ class SummaryDataSet(torch.utils.data.Dataset):
         party_arr = np.zeros(4,dtype=int)
         # the party index was stored as value with a starting index of 1 -- rethink this
         party_arr[party-1] = 1 # set the value to 1 for the party index
+        if self.collapse_label:
+            party_arr = np.delete(party_arr, self.remove_index)
+
         return encoding, torch.tensor(party_arr,dtype=torch.float, device=self.t_device)
 
 def train_one_epoch(model, loss_function, the_optimizer, summary_writer, training_dataloader, scheduler):
@@ -216,6 +334,20 @@ def split_data(token_path, file_keyword, train_split, party_filter=None):
                         print(f'test : {f}')
                         test_files.append(os.path.join(root, f))
     return [train_files, validate_files, test_files]
+
+def split_data_from_array(filepath_arr, train_split):
+    train_files = []
+    validate_files = []
+    test_files = []
+    for f in filepath_arr:
+        if np.random.sample(1) <= train_split:
+            train_files.append(f)
+        elif np.random.sample(1) < 0.5:
+            validate_files.append(f)
+        else:
+            test_files.append(f)
+    return [train_files, validate_files, test_files]
+
 
 def plot_losses(train_losses, validation_losses):
     if isinstance(validation_losses[0], torch.Tensor):
