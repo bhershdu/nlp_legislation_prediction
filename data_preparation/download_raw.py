@@ -1,3 +1,4 @@
+import base64
 import os.path
 import sys
 import json
@@ -61,6 +62,30 @@ def get_first_bill(status_value, session_id, api_key):
                                 json.dump(response.json(),f, indent=4)
                             done = True
 
+def get_bill_text(session_id, bill_id, bill_json, api_key):
+    bill_data = bill_json["bill"]
+    if "texts" in bill_data:
+        texts_arr = bill_data["texts"]
+        if len(texts_arr) > 0:
+            # pick the last one
+            text_doc = texts_arr[-1]
+            doc_id = text_doc["doc_id"]
+            mime_type = text_doc["mime"]
+            if mime_type == "text/html":
+                file_ext = "html"
+            else:
+                print("unhandled mime type ", mime_type)
+                file_ext = "txt"
+            response = requests.get(API_LEGISCAN_COM,
+                                    params={"key": api_key, "op": "getBillText", "id": doc_id})
+            if response.status_code == 200:
+                text_doc = response.json()
+                base64_doc = text_doc["text"]["doc"]
+                doc_text = str(base64.decodebytes(bytes(base64_doc, 'utf-8')))
+                # print(doc_text)
+                text_file_path = os.path.join(os.getcwd(), "../data/raw", f'bill_text_{session_id}_{bill_id}.{file_ext}')
+                with open(text_file_path, 'w') as f:
+                    f.write(doc_text)
 
 def get_all_bills(session_id, api_key):
     print(f'downloading all bills for session {session_id}')
@@ -75,6 +100,7 @@ def get_all_bills(session_id, api_key):
                     print(f'fetching bill {b["bill_id"]}')
                     response = requests.get(API_LEGISCAN_COM,
                                             params={"key": api_key, "op": "getBill", "id": b["bill_id"]})
+                    get_bill_text(session_id, b["bill_id"], response.json(), api_key)
                     with open(bill_file_path, 'w') as f:
                         json.dump(response.json(),f, indent=4)
                 else:
