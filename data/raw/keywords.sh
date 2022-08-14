@@ -6,6 +6,11 @@ for f in *.html;do
 	if [[ $count -ne 0 ]];then
 		echo $f >> files-with-section.txt
 	else
-		echo $f >> files-without-sections.txt
+	  count=$(grep -i "an act" $f | wc -l)
+	  if [[ count -ne 0 ]];then
+	    echo $f >> files-with-an-act.txt
+	  else
+    	echo $f >> files-without-matches.txt
+    fi
 	fi
 done

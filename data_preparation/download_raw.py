@@ -20,8 +20,8 @@ def load_api_key():
     return api_key
 
 
-def get_current_session(api_key):
-    curr_year = datetime.date.today().year
+def get_current_session(api_key, offset):
+    curr_year = datetime.date.today().year-offset
     prev_year = curr_year-1
     print(os.getcwd())
     response = requests.get(API_LEGISCAN_COM,
@@ -89,7 +89,7 @@ def get_bill_text(session_id, bill_id, bill_json, api_key):
 
 def get_all_bills(session_id, api_key):
     print(f'downloading all bills for session {session_id}')
-    master_file_path = os.path.join(os.getcwd(), "../data/raw", f'master_list_{session_id}.json')
+    master_file_path = os.path.join(os.getcwd(), "..", "data", "raw", f'master_list_{session_id}.json')
     with open(master_file_path, 'r') as m:
         bill_list = json.load(m)
         for k in bill_list["masterlist"]:
@@ -120,8 +120,9 @@ def get_bill_list(session_id, api_key):
 
 def main():
     api_key = load_api_key()
-    session = get_current_session(api_key)
+    session = get_current_session(api_key,2)
     for s in session["sessions"]:
+        get_bill_list(s["session_id"], api_key)
         get_legislators(s["session_id"], api_key)
         get_all_bills(s["session_id"], api_key)
 #        get_all_bills(0, s["session_id"], api_key)

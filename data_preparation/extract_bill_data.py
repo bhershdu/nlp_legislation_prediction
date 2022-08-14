@@ -4,6 +4,9 @@ import sys
 import json
 
 party_labels = ["D","R", "I"]
+# file_name_match = "*bill*.json"
+file_name_match = "*bill*text*.json"
+text_field_name = "full_text"
 
 def main():
     path_to_scan = sys.argv[1]
@@ -20,14 +23,14 @@ def main():
 
     for root, dirs, files in os.walk(path_to_scan):
         for f in files:
-            if fnmatch.fnmatch(f, "bill*.json"):
+            if fnmatch.fnmatch(f, file_name_match):
                 output_file_path = os.path.join(output_path, f'summary_{f}')
                 print(f'processing {f}')
                 if not os.path.exists(output_file_path):
                     with open(output_file_path, 'w') as output_file, open(os.path.join(root, f), 'r') as input_file:
                         data = json.load(input_file)
                         output_data = {}
-                        output_data['text'] = data['bill']["title"]
+                        output_data['text'] = data['bill'][text_field_name]
                         # have seen issues at work where a label value of 0 can cause problems during training,
                         # so we increment the status by one
                         output_data['status'] = data['bill']['status']+1
