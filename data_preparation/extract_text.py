@@ -42,8 +42,17 @@ dir_name = os.path.dirname(file_list_file)
 
 
 class FileState:
-
+    """
+    For each file being processed, maintain a state of the important sections of the raw text.
+    Each time one section is hit a counter and a threshold value are reset. The counter is incremented
+    html span tag processed. Once the counter exceeds the threshold that text is saved off into an array
+    as the part of the full text of the bill.
+    Bill text with $ symbol(s) is rejected and not saved.
+    """
     def __init__(self, soup_instance: BeautifulSoup):
+        """
+        :param soup_instance: The BeautifulSoup instance for the html source
+        """
         self.soup_instance = soup_instance
         self.found_anno_domani = False
         self.found_an_act = False
@@ -55,10 +64,20 @@ class FileState:
         self.extract_threshold = 1
 
     def has_money(self, text):
+        """
+        Does the text contain the $ symbole
+        :param text: the text line
+        :return: None if no match
+        """
         m = re.search(MONEY_REGEX, text)
         return m is not None
 
     def skip(self, tag):
+        """
+        Should a particular span tag get skipped
+        :param tag:the span tag instacne
+        :return: True if it should be skipped
+        """
         if tag["class"][0] == HIGHLIGHT_CLASS:
             return True
         elif len(tag.text) <= 1:
@@ -77,6 +96,10 @@ class FileState:
             return False
 
     def process(self):
+        """
+        For the BeautifulSoup instance, go through all span tags
+        :return: an array of valid text sections
+        """
         spans = self.soup_instance.find_all('span')
         for s in spans:
             if not self.money_found:
@@ -118,6 +141,11 @@ class FileState:
 
 
 def clean(text_arr):
+    """
+    Clean the text of special things
+    :param text_arr: the text array
+    :return: the single String instance
+    """
     # remove any tabs
     clean_text = " ".join(text_arr)
     clean_text = re.sub(ALL_TABS, "", clean_text)
@@ -138,6 +166,12 @@ def clean(text_arr):
 
 
 def extract_text(html_file_name):
+    """
+    Run through the FileState process for the html file name.
+    the full text is appended to the summary bill information file (that is assumed to exist)
+    :param html_file_name: the input file name
+    :return: None
+    """
     expected_output_name = html_file_name.replace(".html", ".json")
     expected_bill_file = html_file_name.replace("_text","").replace(".html",".json")
 
@@ -161,6 +195,10 @@ def extract_text(html_file_name):
 
 
 def main():
+    """
+    The main process. Takes a file with html file names as an input.
+    :return:
+    """
     with open(file_list_file, 'r') as f:
         for line in f:
             html_file = line.strip()

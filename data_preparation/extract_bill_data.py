@@ -9,6 +9,10 @@ file_name_match = "*bill*text*.json"
 text_field_name = "full_text"
 
 def main():
+    """
+    Read the raw data from the disc and produced the extracted data summaries
+    :return: None
+    """
     path_to_scan = sys.argv[1]
     output_path = sys.argv[2]
 

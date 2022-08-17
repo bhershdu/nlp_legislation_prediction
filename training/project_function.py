@@ -10,6 +10,9 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 
 class TitlePartyModel(torch.nn.Module):
+    """
+    Simple NN using Sigmoid activations
+    """
     def __init__(self):
         super().__init__()
         self.input = torch.nn.Linear(2048,2048, dtype=torch.float32)
@@ -34,6 +37,9 @@ class TitlePartyModel(torch.nn.Module):
         return x
 
 class TitlePartyModelRelu(torch.nn.Module):
+    """
+    Simple model using ReLU activation
+    """
     def __init__(self):
         super().__init__()
         self.input = torch.nn.Linear(2048,2048, dtype=torch.float32)
@@ -58,6 +64,10 @@ class TitlePartyModelRelu(torch.nn.Module):
         return x
 
 class TitlePartyModelReluCollapse(torch.nn.Module):
+    """
+    Similar to TitlePartyModelRelu but allow the number of outputs to be specified.
+    This was an experiment in collapsing the labels, primarily removing missing party value.
+    """
     def __init__(self, num_labels):
         super().__init__()
         self.input = torch.nn.Linear(2048,2048, dtype=torch.float32)
@@ -82,7 +92,20 @@ class TitlePartyModelReluCollapse(torch.nn.Module):
         return x
 
 class SimilarityFilteredSummaryDataSet(torch.utils.data.Dataset):
+    """
+    Pytorch dataset that attempts to only include files above some cosine-similarity threshold.
+    This experiment didn't yield anything. Probably because I should have done a less-then check instead of a greater-than
+    check.
+    """
     def __init__(self, file_path_arr, fixed_idx=False, allow_gpu=False, col_name="input_maxpool", similarity_threshold=0.5):
+        """
+        Init the class
+        :param file_path_arr:  a list with the file paths to consider
+        :param fixed_idx: if True, only return the 0th indexed data
+        :param allow_gpu: if True, use the gpu for the Tensors
+        :param col_name: the column name to find the data in the data frame
+        :param similarity_threshold: the cosine-similarity threshold
+        """
         self.data_frames = []
         self.fixed_idx = fixed_idx
         self.allow_gpu = allow_gpu
@@ -129,7 +152,18 @@ class SimilarityFilteredSummaryDataSet(torch.utils.data.Dataset):
         return encoding, torch.tensor(party_arr, dtype=torch.float, device=self.t_device)
 
 class SimilarityFilteredSummaryDataSetByLabel(torch.utils.data.Dataset):
+    """
+    Calculate cosine-similarity against a reference data point per label.
+    """
     def __init__(self, file_path_arr, fixed_idx=False, allow_gpu=False, col_name="input_maxpool", similarity_threshold=0.5):
+        """
+        Init the class
+        :param file_path_arr:  a list with the file paths to consider
+        :param fixed_idx: if True, only return the 0th indexed data
+        :param allow_gpu: if True, use the gpu for the Tensors
+        :param col_name: the column name to find the data in the data frame
+        :param similarity_threshold: the cosine-similarity threshold
+        """
         self.data_frames = []
         self.fixed_idx = fixed_idx
         self.allow_gpu = allow_gpu
@@ -162,18 +196,6 @@ class SimilarityFilteredSummaryDataSetByLabel(torch.utils.data.Dataset):
                     self.data_frames.append(data_df)
             else:
                 print(f"excluding {f} with label index {i_index}")
-#            if self.reference_array is None:
-#                self.reference_array = np.array(data_df[col_name])
-#                self.data_frames.append(data_df)
-#            else:
-#                current_array = data_df[col_name]
-#                dist = cosine_similarity([self.reference_array], [np.array(current_array)])
-#                print(dist)
-#                if max(dist) > similarity_threshold:
-#                    print(f"adding {f}")
-#                    self.data_frames.append(data_df)
-#                else:
-#                    print(f'rejecting {f}')
 
     def __len__(self):
         if self.fixed_idx:
@@ -196,7 +218,18 @@ class SimilarityFilteredSummaryDataSetByLabel(torch.utils.data.Dataset):
 
 
 class SummaryDataSet(torch.utils.data.Dataset):
+    """
+    Use the dataset to remove one of the party label values.
+    """
     def __init__(self, file_path_arr, fixed_idx=False, allow_gpu=False, col_name="input_maxpool", collapse_label=False, remove_index=0):
+        """
+        Init the class
+        :param file_path_arr:  a list with the file paths to consider
+        :param fixed_idx: if True, only return the 0th indexed data
+        :param allow_gpu: if True, use the gpu for the Tensors
+        :param collapse_label: if True, remove the party label index specified next
+        :param remove_index: the party label index to remove
+        """
         self.data_frames = []
         self.fixed_idx = fixed_idx
         self.allow_gpu = allow_gpu
@@ -235,7 +268,18 @@ class SummaryDataSet(torch.utils.data.Dataset):
 
         return encoding, torch.tensor(party_arr,dtype=torch.float, device=self.t_device)
 
+
 def train_one_epoch(model, loss_function, the_optimizer, summary_writer, training_dataloader, scheduler):
+    """
+    Train one epoch of the model
+    :param model: the model instance
+    :param loss_function: the loss function instance
+    :param the_optimizer: the optimizer instance
+    :param summary_writer: the summary writer instance
+    :param training_dataloader: the training dataloader
+    :param scheduler: the optional scheduler (for learning rate reduction)
+    :return: the last loss seen
+    """
     running_loss = 0
     last_loss = 0.
     for i, data in enumerate(training_dataloader):
@@ -266,6 +310,20 @@ def run_n_epochs(max_epoch,
                  checkpoint_name,
                  scheduler,
                  return_learning_rates=False):
+    """
+    Run n epochs
+    :param max_epoch: the maximum number of epochs to run
+    :param model: the model instance
+    :param loss_function: the loss function instance
+    :param the_optimizer: the optimizer instance
+    :param summary_writer: the summary writer instance
+    :param training_dataloader: the training dataloader
+    :param validation_dataloader: the vailidation dataloader
+    :param checkpoint_name: the name of the model checkpoint file written at the end of n epochs
+    :param scheduler: the optional scheduler (for learning rate reduction)
+    :param return_learning_rates: if True the return will include the learning rates in the output
+    :return: a tuple of the checkpoint name (timestamped), the training losses, the validation losses, and the learning rates
+    """
     start_time = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
     writer = SummaryWriter('runs/fashion_trainer_{}'.format(start_time))
     epoch_num = 0
@@ -316,6 +374,14 @@ def run_n_epochs(max_epoch,
         return [save_name, train_losses, val_losses]
 
 def split_data(token_path, file_keyword, train_split, party_filter=None):
+    """
+    Split the data into training, validation, and test
+    :param token_path: the directory where the tokenized data is located
+    :param file_keyword: filter for file names with the substring
+    :param train_split: the training split value. validation and test are split equally from the remainder
+    :param party_filter: optionally filter the data to only 1 party value
+    :return: tuple of the train files, validation files, and test file paths
+    """
     train_files = []
     validate_files = []
     test_files = []
@@ -335,7 +401,14 @@ def split_data(token_path, file_keyword, train_split, party_filter=None):
                         test_files.append(os.path.join(root, f))
     return [train_files, validate_files, test_files]
 
+
 def split_data_from_array(filepath_arr, train_split):
+    """
+    Given an array of file paths, split the data
+    :param filepath_arr: the array of file paths
+    :param train_split: the train split value.
+    :return: tuple of the train files, validation files, and test file paths
+    """
     train_files = []
     validate_files = []
     test_files = []
@@ -350,6 +423,12 @@ def split_data_from_array(filepath_arr, train_split):
 
 
 def plot_losses(train_losses, validation_losses):
+    """
+    Plot the training and validation losses in a standard way
+    :param train_losses: training loss array
+    :param validation_losses: validation los array
+    :return: None
+    """
     if isinstance(validation_losses[0], torch.Tensor):
         validation_loses_float = list(map(lambda x: x.item(), validation_losses))
     else:
@@ -363,6 +442,12 @@ def plot_losses(train_losses, validation_losses):
     plt2.set_title("validation loss vs epoch")
 
 def get_test_results(model, dataloader):
+    """
+    Get the test data inference results
+    :param model: the trained model
+    :param dataloader: the test dataloader
+    :return: dataframe with the inference results
+    """
     element_data = None
     with (torch.no_grad()):
         for i, tdata in enumerate(dataloader):
