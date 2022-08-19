@@ -82,9 +82,7 @@ The [tar.gz](./data/tokenized/tokenized_data.tar.gz) file here can be extracted 
 Source code for the pytorch training lives here.
 * [train.ipynb](./training/training.ipynb) -- the first attempt at training on the summary_bill_(session_id)_(bill_id).json
 * [project_function.py](./training/project_function.py) -- has function and models used for later model trainings where I decided to extract common code
-* [maxpool_relu_training.ipynb](./training/maxpool_relu_training.ipynb) -- use project_function to train maxpool1d resampled data with ReLU activation model
-* [resample_one_party_relu_training.ipynb](./training/resample_one_party_relu_training.ipynb) -- use project_function to train just one party label with the 1d resampled data using ReLU activation
-* [resample_relu_training.ipynb](./training/resample_relu_training.ipynb) -- use project_function to train just all three party labels with the 1d resampled data using ReLU activation
+* [resample_relu_training.ipynb](./training/resample_relu_training.ipynb) -- use project_function to train just all three party labels with the 1d resampled data using ReLU activation. This is the notebook that went through the full training and evaluation.
 
 
 
