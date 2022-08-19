@@ -59,17 +59,13 @@ High level summaries of the text, tokenized text, status and party data is prese
 ### data/raw
 Raw data is written to the data/raw directory. This is where the download_raw.py and extract_text.py write their data.
 
-The [tar.gz](./data/raw/raw-data.tar.gz) file here can be extracted for the previously downloaded data.
 
 ### data/extracted
 Extracted (or summary data) is written to the data/extracted directory. The files here contain only the fields from the raw data that 
 are expected to be used in training.
 
-The [tar.gz](./data/extracted/extracted_data.tar.gz) file here can be extracted for the previously summarized data.
 ### data/tokenized
 The output from the convert_to_bert*.ipynb notebooks is written here.
-
-The [tar.gz](./data/tokenized/tokenized_data.tar.gz) file here can be extracted for the previously tokenized data (in pickle format with gzip compression)
 
 
 ## training
