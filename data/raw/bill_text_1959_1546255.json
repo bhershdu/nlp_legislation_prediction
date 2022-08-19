@@ -1,0 +1,440 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1546255,
+        "change_hash": "5c5c07491549f0e75dc3622da88255ff",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB52/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=636&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB52",
+        "completed": 0,
+        "status": 5,
+        "status_date": "2022-06-01",
+        "progress": [
+            {
+                "date": "2021-01-13",
+                "event": 1
+            },
+            {
+                "date": "2021-01-13",
+                "event": 9
+            },
+            {
+                "date": "2021-11-22",
+                "event": 10
+            },
+            {
+                "date": "2021-11-22",
+                "event": 10
+            },
+            {
+                "date": "2022-01-18",
+                "event": 2
+            },
+            {
+                "date": "2022-01-18",
+                "event": 9
+            },
+            {
+                "date": "2022-03-10",
+                "event": 10
+            },
+            {
+                "date": "2022-04-04",
+                "event": 3
+            },
+            {
+                "date": "2022-06-01",
+                "event": 5
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB52",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Apportioning congressional districts.",
+        "description": "Apportioning congressional districts.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-13",
+                "committee_id": 1794,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Special Committee on Redistricting"
+            },
+            {
+                "date": "2022-01-18",
+                "committee_id": 3825,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Election Law and Municipal Affairs"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-13",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Special Committee on Redistricting House Journal  2 P. 55",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-09",
+                "action": "Public Hearing: 03/09/2021 10:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/94125334680 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-23",
+                "action": "Retained in Committee",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-11-09",
+                "action": "Executive Session: 11/16/2021 10:00 am Legislative Office Building 210-211",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-11-22",
+                "action": "Majority Committee Report: Ought to Pass with Amendment # 2021-2271h 11/16/2021 (Vote 8-7; Regular Calendar) House Calendar 48 P. 43",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-11-22",
+                "action": "Minority Committee Report: Ought to Pass with Amendment # 2021-2245h",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-10",
+                "action": "Lay on Table (Rep. Silber): Motion Failed Regular Calendar 177-178 01/05/2022 House Journal  1",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-10",
+                "action": "FLAM # 2022-2301h (Rep. Abramson): Amendment Failed Regular Calendar 174-182 01/05/2022 House Journal  1",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-10",
+                "action": "Special Order To next order of business (Rep. B. Griffin): Motion Adopted Voice Vote 01/05/2022 House Journal  1",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-10",
+                "action": "Reconsider Special order (Rep. Cali-Pitts): Motion Failed DV 35-316 01/05/2022 House Journal  1",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-10",
+                "action": "Amendment # 2021-2271h: Amendment Adopted DV 184-171 01/05/2022 House Journal  1",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-10",
+                "action": "Amendment # 2021-2245h: Amendment Failed Regular Calendar 167-189 01/05/2022 House Journal  1",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-10",
+                "action": "Ought to Pass with Amendment 2021-2271h: Motion Adopted Regular Calendar 186-164 01/05/2022 House Journal  1",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-10",
+                "action": "Reconsider (Rep. Steven Smith): Motion Failed Voice Vote 01/05/2022 House Journal  1",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-11",
+                "action": "Reconsider Special Order (Rep. Cali-Pitts): Motion Failed Regular Calendar 35-316 01/05/2022 House Journal  1",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-18",
+                "action": "Introduced 01/05/2022 and Referred to Election Law and Municipal Affairs; Senate Journal 2",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-27",
+                "action": "Hearing: 01/31/2022, Room Representatives Hall, State House, 01:45 pm; Senate Calendar  5",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-10",
+                "action": "Committee Report: Ought to Pass, 03/17/2022; Senate Calendar  11",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-17",
+                "action": "Sen. Soucy Floor Amendment # 2022-1136s, Regular Calendar 10Y-14N, Amendment Failed; 03/17/2022; Senate Journal 5",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-17",
+                "action": "Ought to Pass: Regular Calendar 13Y-11N, Motion Adopted; OT3rdg; 03/17/2022; Senate Journal 5",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-01",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 03/31/2022); Senate Journal 8",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-04",
+                "action": "Enrolled (in recess of) 03/31/2022 House Journal  9",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-06-01",
+                "action": "Vetoed by Governor Sununu 05/27/2022",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 17024,
+                "person_hash": "fstof3o4",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Barbara Griffin",
+                "first_name": "Barbara",
+                "middle_name": "",
+                "last_name": "Griffin",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-06-HIL",
+                "ftm_eid": 6433920,
+                "votesmart_id": 21526,
+                "opensecrets_id": "",
+                "knowwho_pid": 501712,
+                "ballotpedia": "Barbara_Griffin_(New_Hampshire)",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [
+            {
+                "type_id": 9,
+                "type": "Carry Over",
+                "sast_bill_number": "HB52",
+                "sast_bill_id": 1405721
+            }
+        ],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2481316,
+                "date": "2022-01-05",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB52/id/2481316",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&txtFormat=html&v=HA&id=605",
+                "text_size": 36746,
+                "text_hash": "a744069b2e26451148eec10636884880"
+            },
+            {
+                "doc_id": 2551897,
+                "date": "2022-01-05",
+                "type": "Enrolled",
+                "type_id": 5,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB52/id/2551897",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&v=SP&id=605",
+                "text_size": 36753,
+                "text_hash": "fa8d9a421dd2d75ffe68c32cadddaf65"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1122496,
+                "date": "2022-01-05",
+                "desc": "Table",
+                "yea": 177,
+                "nay": 178,
+                "nv": 15,
+                "absent": 23,
+                "total": 393,
+                "passed": 0,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/HB52/id/1122496",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=10&sy=2022&lb=H&eb=HB0052&sortoption=&txtsessionyear=2022&txtbillnumber=HB52&ddlsponsors=&lsr=636"
+            },
+            {
+                "roll_call_id": 1122497,
+                "date": "2022-01-05",
+                "desc": "Adopt Amendment",
+                "yea": 167,
+                "nay": 189,
+                "nv": 14,
+                "absent": 23,
+                "total": 393,
+                "passed": 0,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/HB52/id/1122497",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=11&sy=2022&lb=H&eb=HB0052&sortoption=&txtsessionyear=2022&txtbillnumber=HB52&ddlsponsors=&lsr=636"
+            },
+            {
+                "roll_call_id": 1122498,
+                "date": "2022-01-05",
+                "desc": "Adopt Amendment",
+                "yea": 174,
+                "nay": 182,
+                "nv": 14,
+                "absent": 23,
+                "total": 393,
+                "passed": 0,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/HB52/id/1122498",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=12&sy=2022&lb=H&eb=HB0052&sortoption=&txtsessionyear=2022&txtbillnumber=HB52&ddlsponsors=&lsr=636"
+            },
+            {
+                "roll_call_id": 1122499,
+                "date": "2022-01-05",
+                "desc": "OTPA",
+                "yea": 186,
+                "nay": 164,
+                "nv": 20,
+                "absent": 23,
+                "total": 393,
+                "passed": 1,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/HB52/id/1122499",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=13&sy=2022&lb=H&eb=HB0052&sortoption=&txtsessionyear=2022&txtbillnumber=HB52&ddlsponsors=&lsr=636"
+            },
+            {
+                "roll_call_id": 1173185,
+                "date": "2022-03-17",
+                "desc": "Floor Amendment",
+                "yea": 10,
+                "nay": 14,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 0,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/HB52/id/1173185",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=52&sy=2022&lb=S&eb=HB0052&sortoption=&txtsessionyear=2022&txtbillnumber=HB52&ddlsponsors=&lsr=636"
+            },
+            {
+                "roll_call_id": 1173186,
+                "date": "2022-03-17",
+                "desc": "Ought to Pass",
+                "yea": 13,
+                "nay": 11,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/HB52/id/1173186",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=53&sy=2022&lb=S&eb=HB0052&sortoption=&txtsessionyear=2022&txtbillnumber=HB52&ddlsponsors=&lsr=636"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-09",
+                "time": "10:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Special Committee on Redistricting Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-11-16",
+                "time": "10:00",
+                "location": "Legislative Office Building 210-211",
+                "description": "Special Committee on Redistricting Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-31",
+                "time": "13:45",
+                "location": "Room Representatives Hall, State House",
+                "description": "Election Law and Municipal Affairs Hearing"
+            }
+        ],
+        "full_text": "u s representative districts rsa is repealed and reenacted to read as follows u s representative districts the state is divided into districts for the choosing of representatives in the congress of the united states each district may elect one representative the districts shall be constituted as follows the first district is constituted of a the county of belknap b in the county of carroll the towns of moultonborough tuftonboro wolfeboro c in the county of grafton the town of bridgewater d in the county of hillsborough the towns and city of bedford goffstown hudson litchfield manchester merrimack new boston pelham weare e in the county of merrimack the towns and city of allenstown canterbury chichester danbury dunbarton epsom franklin hill hooksett loudon northfield pembroke pittsfield f in the county of rockingham the towns and city of atkinson auburn brentwood candia chester danville derry deerfield east kingston epping exeter fremont greenland hampstead hampton hampton falls kensington kingston londonderry newfields newmarket newton north hampton northwood nottingham plaistow raymond rye salem sandown seabrook south hampton stratham windham g in the county of strafford the towns of new durham strafford the second district is constituted of a the counties of cheshire coos sullivan b in the county of carroll the towns and unincorporated places of albany bartlett brookfield chatham conway eaton effingham freedom hale s location hart s location jackson ossipee madison sandwich tamworth wakefield c in the county of grafton the towns city and unincorporated place of alexandria ashland bath benton bethlehem bristol campton canaan dorchester easton ellsworth enfield franconia grafton groton hanover haverhill hebron holderness landaff lebanon lincoln lisbon littleton livermore lyman lyme monroe orange orford piermont plymouth rumney sugar hill thornton warren waterville valley wentworth woodstock d in the county of hillsborough the towns and city of amherst antrim bennington brookline deering francestown greenfield greenville hancock hillsborough hollis lyndeborough mason milford mont vernon nashua new ipswich peterborough sharon temple wilton windsor e in the county of merrimack the towns and city of andover boscawen bow bradford concord henniker hopkinton newbury new london salisbury sutton warner webster wilmot f in the county of rockingham the towns and city of new castle newington portsmouth g in the county of strafford the towns of barrington dover durham farmington lee madbury middleton milton rochester rollinsford somersworth application this act shall in no way disqualify any person from any elective office to which he or she was elected prior to the effective date of this act"
+    }
+}

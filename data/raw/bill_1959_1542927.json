@@ -1,0 +1,335 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1542927,
+        "change_hash": "64cf322200ef4709b9458ed61848e1cb",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1380/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2531&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1380",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-12-01",
+        "progress": [
+            {
+                "date": "2021-12-01",
+                "event": 1
+            },
+            {
+                "date": "2021-12-01",
+                "event": 9
+            },
+            {
+                "date": "2022-03-09",
+                "event": 11
+            },
+            {
+                "date": "2022-03-09",
+                "event": 10
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1380",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to installation of solar photovoltaic energy systems by owners subject to deed restrictions in a homeowners association.",
+        "description": "Relative to installation of solar photovoltaic energy systems by owners subject to deed restrictions in a homeowners association.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-12-01",
+                "committee_id": 1238,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Commerce and Consumer Affairs"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-12-01",
+                "action": "Introduced 01/05/2022 and referred to Commerce and Consumer Affairs",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-02-09",
+                "action": "Public Hearing: 02/09/2022 10:30 a.m. Legislative Office Building302-304",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-15",
+                "action": "Subcommittee Work Session: 02/24/2022 09:00 am Legislative Office Building 302-304",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-23",
+                "action": "==CANCELLED== Subcommittee Work Session: 03/02/2022 09:00 am Legislative Office Building 302-304",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-03",
+                "action": "Executive Session: 03/03/2022 1:15 p.m. Legislative Office Building302-304",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-09",
+                "action": "Majority Committee Report: Inexpedient to Legislate (Vote 14-4; Regular Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-09",
+                "action": "Minority Committee Report: Ought to Pass",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-17",
+                "action": "Inexpedient to Legislate: Motion Adopted DV 200-131 03/15/2022 House Journal  6",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 19181,
+                "person_hash": "8bkveq0h",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Connie Van Houten",
+                "first_name": "Connie",
+                "middle_name": "",
+                "last_name": "Van Houten",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-08-ROC",
+                "ftm_eid": 6678008,
+                "votesmart_id": 172689,
+                "opensecrets_id": "",
+                "knowwho_pid": 587495,
+                "ballotpedia": "Connie_Van_Houten",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 17361,
+                "person_hash": "wk4qx5u0",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Kendall Snow",
+                "first_name": "Kendall",
+                "middle_name": "A.",
+                "last_name": "Snow",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-42-HIL",
+                "ftm_eid": 25005779,
+                "votesmart_id": 154311,
+                "opensecrets_id": "",
+                "knowwho_pid": 501857,
+                "ballotpedia": "Kendall_Snow",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 15535,
+                "person_hash": "opx63d2s",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Efstathia Booras",
+                "first_name": "Efstathia",
+                "middle_name": "C.",
+                "last_name": "Booras",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-33-HIL",
+                "ftm_eid": 13703756,
+                "votesmart_id": 143264,
+                "opensecrets_id": "",
+                "knowwho_pid": 428061,
+                "ballotpedia": "Efstathia_Booras",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 5017,
+                "person_hash": "2vvjb3zi",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Jane Beaulieu",
+                "first_name": "Jane",
+                "middle_name": "Ellen",
+                "last_name": "Beaulieu",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-45-HIL",
+                "ftm_eid": 6462888,
+                "votesmart_id": 42575,
+                "opensecrets_id": "",
+                "knowwho_pid": 228790,
+                "ballotpedia": "Jane_Beaulieu",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19774,
+                "person_hash": "tec8l4b3",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Joyce Weston",
+                "first_name": "Joyce",
+                "middle_name": "",
+                "last_name": "Weston",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-08-GRA",
+                "ftm_eid": 9723374,
+                "votesmart_id": 185235,
+                "opensecrets_id": "",
+                "knowwho_pid": 670357,
+                "ballotpedia": "Joyce_Weston",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19861,
+                "person_hash": "ue76ayj6",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Heidi Hamer",
+                "first_name": "Heidi",
+                "middle_name": "",
+                "last_name": "Hamer",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-17-HIL",
+                "ftm_eid": 39764862,
+                "votesmart_id": 185556,
+                "opensecrets_id": "",
+                "knowwho_pid": 670559,
+                "ballotpedia": "Heidi_Hamer",
+                "sponsor_type_id": 2,
+                "sponsor_order": 6,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2461549,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1380/id/2461549",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1624&txtFormat=html",
+                "text_size": 8873,
+                "text_hash": "7ec1491548ef2b21a308e6b64ed9128f"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-09",
+                "time": "10:30",
+                "location": "Legislative Office Building302-304",
+                "description": "Commerce and Consumer Affairs Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-24",
+                "time": "09:00",
+                "location": "Legislative Office Building 302-304",
+                "description": "Commerce and Consumer Affairs Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-03-02",
+                "time": "09:00",
+                "location": "Legislative Office Building 302-304",
+                "description": "(CANCELLED) Commerce and Consumer Affairs Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-03-03",
+                "time": "13:15",
+                "location": "Legislative Office Building302-304",
+                "description": "Commerce and Consumer Affairs Executive Session"
+            }
+        ]
+    }
+}

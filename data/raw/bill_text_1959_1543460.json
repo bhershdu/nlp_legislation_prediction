@@ -1,0 +1,352 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1543460,
+        "change_hash": "8480a9234cce14dc7a73a29e46402bb8",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1530/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2290&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1530",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2022-05-24",
+        "progress": [
+            {
+                "date": "2021-12-09",
+                "event": 1
+            },
+            {
+                "date": "2021-12-09",
+                "event": 9
+            },
+            {
+                "date": "2022-03-09",
+                "event": 10
+            },
+            {
+                "date": "2022-03-22",
+                "event": 2
+            },
+            {
+                "date": "2022-03-22",
+                "event": 9
+            },
+            {
+                "date": "2022-04-14",
+                "event": 10
+            },
+            {
+                "date": "2022-05-13",
+                "event": 3
+            },
+            {
+                "date": "2022-05-24",
+                "event": 8
+            },
+            {
+                "date": "2022-05-24",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1530",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Establishing curricular transfer pathways between the community college system of New Hampshire and the university system of New Hampshire.",
+        "description": "Establishing curricular transfer pathways between the community college system of New Hampshire and the university system of New Hampshire.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-12-09",
+                "committee_id": 1240,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Education"
+            },
+            {
+                "date": "2022-03-22",
+                "committee_id": 1267,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Education"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-12-09",
+                "action": "Introduced 01/05/2022 and referred to Education",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-07",
+                "action": "Public Hearing: 01/11/2022 10:30 am Legislative Office Building 205-207",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-12",
+                "action": "Subcommittee Work Session: 01/24/2022 01:00 pm Legislative Office Building 205-207",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-19",
+                "action": "Subcommittee Work Session: 01/31/2022 01:00 pm Legislative Office Building 205-207",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-19",
+                "action": "==CANCELLED== Full Committee Work Session: 02/07/2022 01:00 pm Legislative Office Building 205-207",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-19",
+                "action": "Subcommittee Work Session: 03/07/2022 09:00 am Legislative Office Building205-207",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-19",
+                "action": "Executive Session: 03/07/2022 10:00 am Legislative Office Building 205-207",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-09",
+                "action": "Committee Report: Ought to Pass with Amendment # 2022-0947h (NT) (Vote 19-0; Consent Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-15",
+                "action": "Ought to Pass with Amendment 2022-0947h: Motion Adopted Voice Vote 03/15/2022",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-16",
+                "action": "Amendment # 2022-0947h: Amendment Adopted Voice Vote 03/15/2022 House Journal  6",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-22",
+                "action": "Introduced 03/17/2022 and Referred to Education; Senate Journal 6",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-30",
+                "action": "Hearing: 04/06/2022, Room 101, Legislative Office Building, 01:10 pm; Senate Calendar  14",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-14",
+                "action": "Committee Report: Ought to Pass, 04/21/2022; Vote 5-0; Consent Calendar; Senate Calendar  16",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-04-21",
+                "action": "Ought to Pass: Motion Adopted, Voice Vote; OT3rdg; 04/21/2022; Senate Journal 9",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-13",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 05/12/2022); Senate Journal 13",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-13",
+                "action": "Enrolled (in recess of) 05/12/2022",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-05-24",
+                "action": "Signed by Governor Sununu 05/20/2022; Chapter 80; Eff. 07/01/2024",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 21811,
+                "person_hash": "xsus3r8c",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Oliver Ford",
+                "first_name": "Oliver",
+                "middle_name": "",
+                "last_name": "Ford",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-04-ROC",
+                "ftm_eid": 50226581,
+                "votesmart_id": 195048,
+                "opensecrets_id": "",
+                "knowwho_pid": 744275,
+                "ballotpedia": "Oliver_Ford",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2462066,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1530/id/2462066",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1383&txtFormat=html",
+                "text_size": 8533,
+                "text_hash": "aa626ba108627f510c5350800278e5ea"
+            },
+            {
+                "doc_id": 2549613,
+                "date": "2022-03-15",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1530/id/2549613",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&txtFormat=html&v=HA&id=1383",
+                "text_size": 12164,
+                "text_hash": "075355a42e0ee80271a8f53bb90a15f5"
+            },
+            {
+                "doc_id": 2573233,
+                "date": "2022-03-15",
+                "type": "Enrolled",
+                "type_id": 5,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1530/id/2573233",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&v=SP&id=1383",
+                "text_size": 12171,
+                "text_hash": "4b4a564cd25a87a2b4effaa4936d89d7"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-11",
+                "time": "10:30",
+                "location": "Legislative Office Building 205-207",
+                "description": "Education Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-24",
+                "time": "13:00",
+                "location": "Legislative Office Building 205-207",
+                "description": "Education Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-31",
+                "time": "13:00",
+                "location": "Legislative Office Building 205-207",
+                "description": "Education Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-07",
+                "time": "13:00",
+                "location": "Legislative Office Building 205-207",
+                "description": "Education Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-07",
+                "time": "13:00",
+                "location": "Legislative Office Building 205-207",
+                "description": "(CANCELLED) Education Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-03-07",
+                "time": "10:00",
+                "location": "Legislative Office Building 205-207",
+                "description": "Education Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-03-07",
+                "time": "09:00",
+                "location": "Legislative Office Building205-207",
+                "description": "Education Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-04-06",
+                "time": "13:10",
+                "location": "Room 101, Legislative Office Building",
+                "description": "Education Hearing"
+            }
+        ],
+        "full_text": "transfer pathways it is the intent of the general court that community college students who wish to earn baccalaureate degrees in the state s public higher education system be provided with clear and effective information and directions that specify curricular paths to a degree a the trustees of the university system of new hampshire shall work collaboratively with the trustees of the community college system of new hampshire to create and maintain transfer pathways that optimize the utility and affordability of the community college system for at least the undergraduate majors for which the demand from students in the community college system is the highest and for which pathways can reasonably be created through partnership between the systems b the pathways shall consist of general education and lower division major requirements at participating community college system institutions that are fully transferable as a block upon completion of an associate of science or associate of arts degree to any university system institution offering the chosen degree c an associate of science or associate of arts degree graduate enrolled in a pathway shall be deemed to have met all general education and lower division requirements for transfer to a university system institution as a junior notwithstanding paragraph ii admission into a particular program school or college within a college or university in the university system of new hampshire shall remain competitive in accordance with generally applicable policies and nothing in this section shall guarantee a time to degree completion transfer pathways it is the intent of the general court that community college students who wish to earn baccalaureate degrees in the state s public higher education system be provided with clear and effective information and directions that specify curricular paths to a degree a the trustees of the community college system shall work collaboratively with the trustees of the university system of new hampshire to create and maintain transfer pathways that optimize the utility and affordability of the community college system for at least the undergraduate majors for which the demand from students in the community college system is the highest and for which pathways can reasonably be created through partnership between the systems b the pathways shall consist of general education and lower division major requirements at participating community college system institution that are fully transferable as a block upon completion of an associate of science or associate of arts degree to any university system institution offering the chosen degree c each community college system institution shall clearly identify those programs that meet the requirements of this section students interested in pursuing a pathway program should notify the appropriate administrators as early as possible upon notification students shall be provided with appropriate resources designed to assist with successful completion of the chosen degree pathway"
+    }
+}

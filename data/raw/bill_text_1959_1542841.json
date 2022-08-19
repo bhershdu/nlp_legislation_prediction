@@ -1,0 +1,232 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1542841,
+        "change_hash": "79748f681cc5c6e976a8093237b373dc",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1189/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2398&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1189",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-11-17",
+        "progress": [
+            {
+                "date": "2021-11-17",
+                "event": 1
+            },
+            {
+                "date": "2021-11-17",
+                "event": 9
+            },
+            {
+                "date": "2022-02-08",
+                "event": 11
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1189",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Permitting voluntary donations to municipalities or the state to fund certain projects or to reduce taxation.",
+        "description": "Permitting voluntary donations to municipalities or the state to fund certain projects or to reduce taxation.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-11-17",
+                "committee_id": 1264,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Ways and Means"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-11-17",
+                "action": "Introduced 01/05/2022 and referred to Ways and Means",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-08",
+                "action": "Public Hearing: 01/11/2022 09:00 am Legislative Office Building 202-204",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-19",
+                "action": "Full Committee Work Session: 01/26/2022 09:30 am Legislative Office Building 202-204",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-08",
+                "action": "Executive Session: 01/26/2022 09:00 am Legislative Office Building 202-204",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-08",
+                "action": "Committee Report: Inexpedient to Legislate (Vote 20-1; Consent Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-02-16",
+                "action": "Inexpedient to Legislate: Motion Adopted Voice Vote 02/16/2022 House Journal  3",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 21871,
+                "person_hash": "rrbjtavc",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Julius Soti",
+                "first_name": "Julius",
+                "middle_name": "F.",
+                "last_name": "Soti",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-07-ROC",
+                "ftm_eid": 45378946,
+                "votesmart_id": 185316,
+                "opensecrets_id": "",
+                "knowwho_pid": 670639,
+                "ballotpedia": "Julius_Soti",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19788,
+                "person_hash": "u64uxl45",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Michael Yakubovich",
+                "first_name": "Michael",
+                "middle_name": "",
+                "last_name": "Yakubovich",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-24-MER",
+                "ftm_eid": 45378987,
+                "votesmart_id": 185288,
+                "opensecrets_id": "",
+                "knowwho_pid": 670727,
+                "ballotpedia": "Michael_Yakubovich",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 10931,
+                "person_hash": "qw6kqc7b",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Mark Warden",
+                "first_name": "Mark",
+                "middle_name": "",
+                "last_name": "Warden",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-39-HIL",
+                "ftm_eid": 9715337,
+                "votesmart_id": 122391,
+                "opensecrets_id": "",
+                "knowwho_pid": 296507,
+                "ballotpedia": "Mark_Warden",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2461463,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1189/id/2461463",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1491&txtFormat=html",
+                "text_size": 11987,
+                "text_hash": "9b418b0d5ce3585a0189f4f7876e0c2e"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-11",
+                "time": "09:00",
+                "location": "Legislative Office Building 202-204",
+                "description": "Ways and Means Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-26",
+                "time": "09:30",
+                "location": "Legislative Office Building 202-204",
+                "description": "Ways and Means Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-26",
+                "time": "09:00",
+                "location": "Legislative Office Building 202-204",
+                "description": "Ways and Means Executive Session"
+            }
+        ],
+        "full_text": "voluntary donations trust fund the governing body of a municipality may establish a voluntary donations trust fund for which they may accept and credit voluntary donations of money to be used to a reduce the amounts raised through property taxation b fund new or existing municipal road bridge or building construction projects c maintain parks or d make other authorized expenditures including election audit costs any moneys credited to the trust fund shall not lapse but shall be available for expenditure by the governing body in its annual budget any municipality establishing a voluntary donations trust fund shall make the availability of donating to the fund prominently displayed on the municipality s website the receipt of a donation under paragraph i shall be noted in the annual report of the municipality and the name of the donor shall be listed by the governing body on the municipality s website the governing body may approve suitable recognition of donations as they see fit voluntary donations to the state the governor may by executive order authorize the department of administrative services to accept for the state gifts of money which are donated for any of the following purposes a offsetting amounts raised through taxation b funding new or existing state road bridge or building construction projects c maintenance of state parks or d other authorized expenditures including election audit or recount costs the department of administrative services shall keep a permanent inventory or record of such donations any moneys received pursuant to this section shall not lapse but shall be available for expenditure and appropriated in the biennial state operating budget the availability of making voluntary donations of money to the state shall be prominently displayed on the state s website the name of the donor of a donation under paragraph i shall be noted on the state s website in addition the governor may provide for suitable recognition of donations"
+    }
+}

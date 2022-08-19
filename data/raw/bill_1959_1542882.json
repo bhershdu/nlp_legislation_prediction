@@ -1,0 +1,290 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1542882,
+        "change_hash": "1657105eba4a2dcf8150015498731745",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1206/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2108&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1206",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2022-05-24",
+        "progress": [
+            {
+                "date": "2021-11-18",
+                "event": 1
+            },
+            {
+                "date": "2021-11-18",
+                "event": 9
+            },
+            {
+                "date": "2022-02-14",
+                "event": 10
+            },
+            {
+                "date": "2022-03-15",
+                "event": 2
+            },
+            {
+                "date": "2022-03-15",
+                "event": 9
+            },
+            {
+                "date": "2022-04-06",
+                "event": 10
+            },
+            {
+                "date": "2022-05-13",
+                "event": 3
+            },
+            {
+                "date": "2022-05-24",
+                "event": 8
+            },
+            {
+                "date": "2022-05-24",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1206",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to the source of funding for appointment of counsel or other services for indigent persons.",
+        "description": "Relative to the source of funding for appointment of counsel or other services for indigent persons.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-11-18",
+                "committee_id": 1250,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Judiciary"
+            },
+            {
+                "date": "2022-03-15",
+                "committee_id": 1273,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Judiciary"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-11-18",
+                "action": "Introduced 01/05/2022 and referred to Judiciary",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-08",
+                "action": "Public Hearing: 01/13/2022 11:30 am Legislative Office Building 206-208",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-27",
+                "action": "Executive Session: 02/03/2022 09:00 am Legislative Office Building 206-208",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-14",
+                "action": "Committee Report: Ought to Pass (Vote 21-0; Consent Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-11",
+                "action": "Ought to Pass: Motion Adopted Voice Vote 03/10/2022 House Journal  5",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-15",
+                "action": "Introduced 02/24/2022 and Referred to Judiciary; Senate Journal 5",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-16",
+                "action": "Hearing: 03/22/2022, Room 100, State House, 01:45 pm; Senate Calendar  12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-06",
+                "action": "Committee Report: Ought to Pass, 04/14/2022; Vote 5-0; Consent Calendar; Senate Calendar  15",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-04-14",
+                "action": "Ought to Pass: Motion Adopted, Voice Vote; OT3rdg; 04/14/2022; Senate Journal 8",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-13",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 05/12/2022); Senate Journal 13",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-13",
+                "action": "Enrolled (in recess of) 05/12/2022",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-05-24",
+                "action": "Signed by Governor Sununu 05/20/2022; Chapter 67; Eff. 07/19/2022",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 21841,
+                "person_hash": "rfftx3km",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Bob Lynn",
+                "first_name": "Bob",
+                "middle_name": "",
+                "last_name": "Lynn",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-07-ROC",
+                "ftm_eid": 50226683,
+                "votesmart_id": 128464,
+                "opensecrets_id": "",
+                "knowwho_pid": 744345,
+                "ballotpedia": "Bob_Lynn",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4831,
+                "person_hash": "culspuxr",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Karen Umberger",
+                "first_name": "Karen",
+                "middle_name": "C.",
+                "last_name": "Umberger",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-02-CAR",
+                "ftm_eid": 6678005,
+                "votesmart_id": 109917,
+                "opensecrets_id": "",
+                "knowwho_pid": 269159,
+                "ballotpedia": "Karen_Umberger",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2461504,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1206/id/2461504",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1203&txtFormat=html",
+                "text_size": 20131,
+                "text_hash": "078bd99bff3e3f78051811c9246763d2"
+            },
+            {
+                "doc_id": 2570450,
+                "date": "2022-04-14",
+                "type": "Enrolled",
+                "type_id": 5,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1206/id/2570450",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&v=SP&id=1203",
+                "text_size": 20148,
+                "text_hash": "88964b5fd5ca6a506d7679bcbd3c79b6"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-13",
+                "time": "11:30",
+                "location": "Legislative Office Building 206-208",
+                "description": "Judiciary Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-03",
+                "time": "09:00",
+                "location": "Legislative Office Building 206-208",
+                "description": "Judiciary Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-03-22",
+                "time": "13:45",
+                "location": "Room 100, State House",
+                "description": "Judiciary Hearing"
+            }
+        ]
+    }
+}

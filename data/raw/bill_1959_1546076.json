@@ -1,0 +1,284 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1546076,
+        "change_hash": "abba2f28ba3cb9560c49d09b1699b5ca",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB619/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=485&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB619",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-14",
+        "progress": [
+            {
+                "date": "2021-01-14",
+                "event": 1
+            },
+            {
+                "date": "2021-01-14",
+                "event": 9
+            },
+            {
+                "date": "2021-11-03",
+                "event": 11
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB619",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Designating police and fire dispatchers as group II members of the retirement system.",
+        "description": "Designating police and fire dispatchers as group II members of the retirement system.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-14",
+                "committee_id": 1243,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Executive Departments and Administration"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-14",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Executive Departments and Administration House Journal  2 P. 57",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-21",
+                "action": "Public Hearing: 01/27/2021 10:30 am Members of the public may attend using the following link:To join the webinar: https://zoom.us/j/92995497899 / Executive session on pending legislation may be held throughout the day (time permitting) from the time thecommittee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-18",
+                "action": "Retained in Committee",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-08-30",
+                "action": "Subcommittee Work Session: 09/08/2021 09:00 am Legislative Office Building 306",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-10-25",
+                "action": "Executive Session: 10/25/2021 10:30 a.m. Legislative Office Building306-308",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-11-03",
+                "action": "Committee Report: Inexpedient to Legislate HB619-FN 10/29/2021 (Vote 18-0; Consent Calendar) House Calendar 48 P. 11",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-11",
+                "action": "Inexpedient to Legislate: Motion Adopted Voice Vote 01/05/2022 House Journal  1",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 21877,
+                "person_hash": "8iinsmky",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Douglas Trottier",
+                "first_name": "Douglas",
+                "middle_name": "R.",
+                "last_name": "Trottier",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-06-BEL",
+                "ftm_eid": 50226739,
+                "votesmart_id": 194690,
+                "opensecrets_id": "",
+                "knowwho_pid": 744027,
+                "ballotpedia": "Douglas_Trottier",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21840,
+                "person_hash": "rup7pir7",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Richard Littlefield",
+                "first_name": "Richard",
+                "middle_name": "",
+                "last_name": "Littlefield",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-03-BEL",
+                "ftm_eid": 50226771,
+                "votesmart_id": 194682,
+                "opensecrets_id": "",
+                "knowwho_pid": 744016,
+                "ballotpedia": "Richard_Littlefield",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21821,
+                "person_hash": "uvc8su8v",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Juliet Harvey-Bolia",
+                "first_name": "Juliet",
+                "middle_name": "",
+                "last_name": "Harvey-Bolia",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-04-BEL",
+                "ftm_eid": 50226793,
+                "votesmart_id": 194686,
+                "opensecrets_id": "",
+                "knowwho_pid": 744017,
+                "ballotpedia": "Juliet_Harvey-Bolia",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21797,
+                "person_hash": "5rqusslu",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Mike Bordes",
+                "first_name": "Mike",
+                "middle_name": "",
+                "last_name": "Bordes",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-03-BEL",
+                "ftm_eid": 50226768,
+                "votesmart_id": 194679,
+                "opensecrets_id": "",
+                "knowwho_pid": 744012,
+                "ballotpedia": "Mike_Bordes",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21851,
+                "person_hash": "4lb8srij",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Travis O'Hara",
+                "first_name": "Travis",
+                "middle_name": "J.",
+                "last_name": "O'Hara",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-09-BEL",
+                "ftm_eid": 50226741,
+                "votesmart_id": 194692,
+                "opensecrets_id": "",
+                "knowwho_pid": 744046,
+                "ballotpedia": "Travis_O%27Hara",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [
+            {
+                "type_id": 9,
+                "type": "Carry Over",
+                "sast_bill_number": "HB619",
+                "sast_bill_id": 1406885
+            }
+        ],
+        "subjects": [],
+        "texts": [],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-01-27",
+                "time": "10:30",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Executive Departments and Administration Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-09-08",
+                "time": "09:00",
+                "location": "Legislative Office Building 306",
+                "description": "Executive Departments and Administration Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-10-25",
+                "time": "10:30",
+                "location": "Legislative Office Building306-308",
+                "description": "Executive Departments and Administration Executive Session"
+            }
+        ]
+    }
+}

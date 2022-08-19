@@ -1,0 +1,583 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1542987,
+        "change_hash": "d5038a9acfbbeec87ca36e7d17f944b7",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/SB302/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=3010&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=SB302",
+        "completed": 0,
+        "status": 3,
+        "status_date": "2022-06-27",
+        "progress": [
+            {
+                "date": "2021-12-14",
+                "event": 1
+            },
+            {
+                "date": "2021-12-14",
+                "event": 9
+            },
+            {
+                "date": "2022-02-22",
+                "event": 10
+            },
+            {
+                "date": "2022-03-23",
+                "event": 2
+            },
+            {
+                "date": "2022-03-23",
+                "event": 9
+            },
+            {
+                "date": "2022-04-25",
+                "event": 10
+            },
+            {
+                "date": "2022-06-27",
+                "event": 3
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "SB302",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "S",
+        "body_id": 68,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Establishing the personal privacy protection act.",
+        "description": "Establishing the personal privacy protection act.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-12-14",
+                "committee_id": 1273,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Judiciary"
+            },
+            {
+                "date": "2022-03-23",
+                "committee_id": 1250,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Judiciary"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-12-14",
+                "action": "To Be Introduced 01/05/2022 and Referred to Judiciary; Senate Journal 1",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-12-20",
+                "action": "Hearing: 01/11/2022, Room 100, State House, 01:30 pm; Senate Calendar  50",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-22",
+                "action": "Committee Report: Ought to Pass with Amendment # 2022-0792s, 02/24/2022; Senate Calendar  8A",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-02-24",
+                "action": "Committee Amendment # 2022-0792s, Amendment Adopted, Voice Vote; 02/24/2022; Senate Journal 4",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-24",
+                "action": "Ought to Pass with Amendment 2022-0792s, Regular Calendar 14Y-9N, Motion Adopted; OT3rdg; 02/24/2022; Senate Journal 4",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-23",
+                "action": "Introduced 03/17/2022 and referred to Judiciary",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-30",
+                "action": "Public Hearing: 04/07/2022 01:00 pm Legislative Office Building 206-208",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-01",
+                "action": "Executive Session: 04/14/2022 09:00 am Legislative Office Building 206-208",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-25",
+                "action": "Majority Committee Report: Ought to Pass with Amendment # 2022-1443h (Vote 11-10; Regular Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-04-25",
+                "action": "Minority Committee Report: Refer for Interim Study",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-05",
+                "action": "Amendment # 1443h: Amendment Adopted Voice Vote 05/05/2022 House Journal  12",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-05",
+                "action": "Ought to Pass with Amendment 1443h: Motion Adopted Voice Vote 05/05/2022 House Journal  12",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-12",
+                "action": "Sen. Carson Moved Nonconcur with the House Amendment; Requests C of C, Motion Adopted, Voice Vote; 05/12/2022; Senate Journal 12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-12",
+                "action": "President Appoints: Senators Carson, French, Whitley; 05/12/2022; Senate Journal 12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-12",
+                "action": "House Accedes to Senate Request for CofC (Rep. Gordon): Motion Adopted Voice Vote 05/12/2022 House Journal  13",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-12",
+                "action": "Speaker Appoints: Reps. McLean, Wuelper, Silber 05/12/2022 House Journal  13",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-17",
+                "action": "Committee of Conference Meeting: 05/17/2022, 11:30 am, Room 100, State House",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-17",
+                "action": "Conferee Change; Senator Gannon Replaces Senator Whitley; Senate Journal 13",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-19",
+                "action": "Conference Committee Report # 2022-2036c Filed 05/17/2022; House Amendment + New Amendment",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-26",
+                "action": "Conference Committee Report 2022-2036c: Adopted, Voice Vote 05/26/2022 House Journal  14",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-26",
+                "action": "Conference Committee Report # 2022-2036c, Adopted, Voice Vote; 05/26/2022; Senate Journal 13",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-06-22",
+                "action": "Enrolled Bill Amendment # 2022-2124e: Amendment Adopted Voice Vote (in recess of) 05/26/2022 House Journal  14",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-06-22",
+                "action": "Enrolled Bill Amendment # 2022-2124e Adopted, Voice Vote, (In recess of 05/26/2022); Senate Journal 13",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-06-24",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 05/26/2022); Senate Journal 13",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-06-27",
+                "action": "Enrolled (in recess of) 05/26/2022 House Journal  14",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 11989,
+                "person_hash": "szz8y6ea",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Regina Birdsell",
+                "first_name": "Regina",
+                "middle_name": "",
+                "last_name": "Birdsell",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-019",
+                "ftm_eid": 6695412,
+                "votesmart_id": 126600,
+                "opensecrets_id": "",
+                "knowwho_pid": 296214,
+                "ballotpedia": "Regina_Birdsell",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 17477,
+                "person_hash": "1zeltkcr",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "William Gannon",
+                "first_name": "William",
+                "middle_name": "M.",
+                "last_name": "Gannon",
+                "suffix": "",
+                "nickname": "Bill",
+                "district": "SD-023",
+                "ftm_eid": 1161567,
+                "votesmart_id": 154540,
+                "opensecrets_id": "",
+                "knowwho_pid": 502121,
+                "ballotpedia": "William_Gannon",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4953,
+                "person_hash": "q2fztrlr",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Gary Daniels",
+                "first_name": "Gary",
+                "middle_name": "L.",
+                "last_name": "Daniels",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-011",
+                "ftm_eid": 6593963,
+                "votesmart_id": 5006,
+                "opensecrets_id": "",
+                "knowwho_pid": 249979,
+                "ballotpedia": "Gary_Daniels",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18170,
+                "person_hash": "dj3w7est",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Ruth Ward",
+                "first_name": "Ruth",
+                "middle_name": "B.",
+                "last_name": "Ward",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-008",
+                "ftm_eid": 13703554,
+                "votesmart_id": 141865,
+                "opensecrets_id": "",
+                "knowwho_pid": 426026,
+                "ballotpedia": "Ruth_Ward",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 16752,
+                "person_hash": "10ajy4x5",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Harold French",
+                "first_name": "Harold",
+                "middle_name": "F.",
+                "last_name": "French",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-007",
+                "ftm_eid": 6594361,
+                "votesmart_id": 42444,
+                "opensecrets_id": "",
+                "knowwho_pid": 426133,
+                "ballotpedia": "Harold_French",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18168,
+                "person_hash": "wzdy4vye",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Bob Giuda",
+                "first_name": "Robert",
+                "middle_name": "",
+                "last_name": "Giuda",
+                "suffix": "",
+                "nickname": "Bob",
+                "district": "SD-002",
+                "ftm_eid": 6594468,
+                "votesmart_id": 21328,
+                "opensecrets_id": "",
+                "knowwho_pid": 208524,
+                "ballotpedia": "Bob_Giuda",
+                "sponsor_type_id": 2,
+                "sponsor_order": 6,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21841,
+                "person_hash": "rfftx3km",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Bob Lynn",
+                "first_name": "Bob",
+                "middle_name": "",
+                "last_name": "Lynn",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-07-ROC",
+                "ftm_eid": 50226683,
+                "votesmart_id": 128464,
+                "opensecrets_id": "",
+                "knowwho_pid": 744345,
+                "ballotpedia": "Bob_Lynn",
+                "sponsor_type_id": 2,
+                "sponsor_order": 7,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19109,
+                "person_hash": "tlyu018w",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Charlotte DiLorenzo",
+                "first_name": "Charlotte",
+                "middle_name": "I.",
+                "last_name": "DiLorenzo",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-17-ROC",
+                "ftm_eid": 41757405,
+                "votesmart_id": 172682,
+                "opensecrets_id": "",
+                "knowwho_pid": 587692,
+                "ballotpedia": "Charlotte_DiLorenzo",
+                "sponsor_type_id": 2,
+                "sponsor_order": 8,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 16890,
+                "person_hash": "7h3at66n",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Mark McLean",
+                "first_name": "Mark",
+                "middle_name": "",
+                "last_name": "McLean",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-44-HIL",
+                "ftm_eid": 25005493,
+                "votesmart_id": 154490,
+                "opensecrets_id": "",
+                "knowwho_pid": 501728,
+                "ballotpedia": "Mark_McLean",
+                "sponsor_type_id": 2,
+                "sponsor_order": 9,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2461608,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB302/id/2461608",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=2103&txtFormat=html",
+                "text_size": 28392,
+                "text_hash": "5ff5d1bce0fcb61854131b129783a23c"
+            },
+            {
+                "doc_id": 2528976,
+                "date": "2022-02-24",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB302/id/2528976",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&txtFormat=html&v=SA&id=2103",
+                "text_size": 30958,
+                "text_hash": "631dbdf08ab046ed28c84abe36c75e81"
+            },
+            {
+                "doc_id": 2581404,
+                "date": "2022-02-24",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB302/id/2581404",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&txtFormat=html&v=HA&id=2103",
+                "text_size": 32091,
+                "text_hash": "0aef5cc6cc822fdfff28c725700d5f5a"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1167139,
+                "date": "2022-02-24",
+                "desc": "Ought to Pass w/Amendment",
+                "yea": 14,
+                "nay": 9,
+                "nv": 0,
+                "absent": 1,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB302/id/1167139",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=47&sy=2022&lb=S&eb=SB0302&sortoption=&txtsessionyear=2022&txtbillnumber=SB302&ddlsponsors=&lsr=3010"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-11",
+                "time": "13:30",
+                "location": "Room 100, State House",
+                "description": "Judiciary Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-04-07",
+                "time": "13:00",
+                "location": "Legislative Office Building 206-208",
+                "description": "Judiciary Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-04-14",
+                "time": "09:00",
+                "location": "Legislative Office Building 206-208",
+                "description": "Judiciary Executive Session"
+            }
+        ]
+    }
+}

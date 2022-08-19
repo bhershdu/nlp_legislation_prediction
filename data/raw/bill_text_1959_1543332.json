@@ -1,0 +1,270 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1543332,
+        "change_hash": "959de68c04460d7128a845c98984f366",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1369/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2828&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1369",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-11-20",
+        "progress": [
+            {
+                "date": "2021-11-20",
+                "event": 1
+            },
+            {
+                "date": "2021-11-20",
+                "event": 9
+            },
+            {
+                "date": "2022-02-25",
+                "event": 10
+            },
+            {
+                "date": "2022-02-25",
+                "event": 11
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1369",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to COVID-19 health and safety policies at New Hampshire performing arts venues.",
+        "description": "Relative to COVID-19 health and safety policies at New Hampshire performing arts venues.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-11-20",
+                "committee_id": 1249,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Health, Human Services & Elderly Affairs"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-11-20",
+                "action": "Introduced 01/05/2022 and referred to Health, Human Services and Elderly Affairs",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-12",
+                "action": "Public Hearing: 01/18/2022 02:45 pm Legislative Office Building 210-211",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-21",
+                "action": "Public Hearing: 02/07/2022 09:30 am Legislative Office Building 210-211",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-25",
+                "action": "Majority Committee Report: Ought to Pass with Amendment # 2022-0707h (NT) (Vote 11-9; Regular Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-02-25",
+                "action": "Minority Committee Report: Inexpedient to Legislate",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-20",
+                "action": "Lay HB1369 on Table (Rep. Cushman): Motion Adopted Regular Calendar 177-146 03/16/2022 House Journal  7",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 19891,
+                "person_hash": "865n4e99",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Matthew Wilhelm",
+                "first_name": "Matthew",
+                "middle_name": "B.",
+                "last_name": "Wilhelm",
+                "suffix": "",
+                "nickname": "Matt",
+                "district": "HD-42-HIL",
+                "ftm_eid": 42048257,
+                "votesmart_id": 185372,
+                "opensecrets_id": "",
+                "knowwho_pid": 670679,
+                "ballotpedia": "Matt_Wilhelm",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18167,
+                "person_hash": "gbz9mi50",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "William Marsh",
+                "first_name": "William",
+                "middle_name": "M.",
+                "last_name": "Marsh",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-17-ROC",
+                "ftm_eid": 6483516,
+                "votesmart_id": 65293,
+                "opensecrets_id": "",
+                "knowwho_pid": 587047,
+                "ballotpedia": "William_Marsh",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18129,
+                "person_hash": "bm6hy6dw",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Jerry Knirk",
+                "first_name": "Jerry",
+                "middle_name": "",
+                "last_name": "Knirk",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-03-CAR",
+                "ftm_eid": 41757281,
+                "votesmart_id": 172473,
+                "opensecrets_id": "",
+                "knowwho_pid": 587031,
+                "ballotpedia": "Jerry_Knirk",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 14488,
+                "person_hash": "elsfgcmi",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Thomas Sherman",
+                "first_name": "Thomas",
+                "middle_name": "",
+                "last_name": "Sherman",
+                "suffix": "",
+                "nickname": "Tom",
+                "district": "SD-024",
+                "ftm_eid": 13703813,
+                "votesmart_id": 141784,
+                "opensecrets_id": "",
+                "knowwho_pid": 426683,
+                "ballotpedia": "Tom_Sherman",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2461940,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1369/id/2461940",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1921&txtFormat=html",
+                "text_size": 7992,
+                "text_hash": "f316bd620cb91a3db5d61935f40b48c2"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1172107,
+                "date": "2022-03-16",
+                "desc": "Table",
+                "yea": 177,
+                "nay": 146,
+                "nv": 40,
+                "absent": 27,
+                "total": 390,
+                "passed": 1,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/HB1369/id/1172107",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=120&sy=2022&lb=H&eb=HB1369&sortoption=&txtsessionyear=2022&txtbillnumber=HB1369&ddlsponsors=&lsr=2828"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-18",
+                "time": "14:45",
+                "location": "Legislative Office Building 210-211",
+                "description": "Health, Human Services and Elderly Affairs Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-07",
+                "time": "09:30",
+                "location": "Legislative Office Building 210-211",
+                "description": "Health, Human Services and Elderly Affairs Public Hearing"
+            }
+        ],
+        "full_text": "health and safety policies at performing arts venues notwithstanding any other provision of law upon the expiration of the state of emergency declared in response to the pandemic the owners operators and promoters of performing arts venues located in new hampshire shall have the authority to establish policies including mask requirements vaccine requirements testing requirements or a combination thereof in order to protect patrons staff performers and the venue s financial investments any person acting in good faith to administer or enforce a performing venue s health and safety policy shall be immune from civil liability arising from such conduct"
+    }
+}

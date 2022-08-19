@@ -1,0 +1,384 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1542829,
+        "change_hash": "c08e83e4ffc714b42ed342e769c27162",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1562/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2043&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1562",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2022-05-06",
+        "progress": [
+            {
+                "date": "2021-12-14",
+                "event": 1
+            },
+            {
+                "date": "2021-12-14",
+                "event": 9
+            },
+            {
+                "date": "2022-03-15",
+                "event": 2
+            },
+            {
+                "date": "2022-03-15",
+                "event": 9
+            },
+            {
+                "date": "2022-03-29",
+                "event": 10
+            },
+            {
+                "date": "2022-04-25",
+                "event": 3
+            },
+            {
+                "date": "2022-05-06",
+                "event": 8
+            },
+            {
+                "date": "2022-05-06",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1562",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Clarifying the prohibition on using an electronic or telecommunications device while driving.",
+        "description": "Clarifying the prohibition on using an electronic or telecommunications device while driving.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-12-14",
+                "committee_id": 1263,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Transportation"
+            },
+            {
+                "date": "2022-03-15",
+                "committee_id": 1779,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Transportation"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-12-14",
+                "action": "Introduced 01/05/2022 and referred to Transportation",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-02-03",
+                "action": "Public Hearing: 02/08/2022 10:10 am Legislative Office Building201-203",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-23",
+                "action": "Executive Session: 03/01/2022 10:00 am Legislative Office Building 201-203",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-11",
+                "action": "Ought to Pass: Motion Adopted Voice Vote 03/10/2022 House Journal  5",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-15",
+                "action": "Introduced 02/24/2022 and Referred to Transportation; Senate Journal 5",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-23",
+                "action": "Hearing: 03/29/2022, Room 101, Legislative Office Building, 02:45 pm; Senate Calendar  13",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-29",
+                "action": "Committee Report: Ought to Pass, 03/31/2022; Vote 5-0; Consent Calendar; Senate Calendar  13A",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-31",
+                "action": "Ought to Pass: Motion Adopted, Voice Vote; OT3rdg; 03/31/2022; Senate Journal 7",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-25",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 04/21/2022); Senate Journal 10",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-25",
+                "action": "Enrolled (in recess of) 04/21/2022 House Journal  10",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-05-06",
+                "action": "Signed by Governor Sununu 05/03/2022; Chapter 43; eff 01/01/2023",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 16677,
+                "person_hash": "ybgdem4d",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "James Spillane",
+                "first_name": "James",
+                "middle_name": "",
+                "last_name": "Spillane",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-02-ROC",
+                "ftm_eid": 25005580,
+                "votesmart_id": 154538,
+                "opensecrets_id": "",
+                "knowwho_pid": 502120,
+                "ballotpedia": "James_Spillane",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 10468,
+                "person_hash": "p6tivb20",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Steven Smith",
+                "first_name": "Steven",
+                "middle_name": "",
+                "last_name": "Smith",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-11-SUL",
+                "ftm_eid": 6680106,
+                "votesmart_id": 110851,
+                "opensecrets_id": "",
+                "knowwho_pid": 297099,
+                "ballotpedia": "Steven_Smith,_New_Hampshire_Politician",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19790,
+                "person_hash": "9abbqn9i",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Alan Bershtein",
+                "first_name": "Alan",
+                "middle_name": "",
+                "last_name": "Bershtein",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-02-ROC",
+                "ftm_eid": 45378637,
+                "votesmart_id": 185293,
+                "opensecrets_id": "",
+                "knowwho_pid": 670583,
+                "ballotpedia": "Alan_Bershtein",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19825,
+                "person_hash": "rsi244to",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Rene Nunez",
+                "first_name": "Rene",
+                "middle_name": "Hershel",
+                "last_name": "Nunez",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-37-HIL",
+                "ftm_eid": 45378867,
+                "votesmart_id": 128075,
+                "opensecrets_id": "",
+                "knowwho_pid": 670663,
+                "ballotpedia": "Hershel_Nunez",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21796,
+                "person_hash": "20zp9bez",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Melissa Blasek",
+                "first_name": "Melissa",
+                "middle_name": "",
+                "last_name": "Blasek",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-21-HIL",
+                "ftm_eid": 50226637,
+                "votesmart_id": 195009,
+                "opensecrets_id": "",
+                "knowwho_pid": 744174,
+                "ballotpedia": "Melissa_Blasek",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4871,
+                "person_hash": "w5q7sakl",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "John Reagan",
+                "first_name": "John",
+                "middle_name": "",
+                "last_name": "Reagan",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-017",
+                "ftm_eid": 737365,
+                "votesmart_id": 65169,
+                "opensecrets_id": "",
+                "knowwho_pid": 250155,
+                "ballotpedia": "John_Reagan",
+                "sponsor_type_id": 2,
+                "sponsor_order": 6,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2461451,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1562/id/2461451",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1136&txtFormat=html",
+                "text_size": 7919,
+                "text_hash": "2c0aad0b6a9a821cd4e65f8c5a934d6a"
+            },
+            {
+                "doc_id": 2561364,
+                "date": "2022-03-31",
+                "type": "Enrolled",
+                "type_id": 5,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1562/id/2561364",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&v=SP&id=1136",
+                "text_size": 7930,
+                "text_hash": "cbf3a895e60152beac29a4a77f164452"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-08",
+                "time": "10:10",
+                "location": "Legislative Office Building201-203",
+                "description": "Transportation Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-03-01",
+                "time": "10:00",
+                "location": "Legislative Office Building 201-203",
+                "description": "Transportation Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-03-29",
+                "time": "14:45",
+                "location": "Room 101, Legislative Office Building",
+                "description": "Transportation Hearing"
+            }
+        ],
+        "full_text": "motor vehicles definition of serious traffic violation amend rsa x to read as follows driving a commercial motor vehicle in violation of rsa rsa repeal rsa relative to prohibited text messages and device usage while operating a motor vehicle is repealed"
+    }
+}

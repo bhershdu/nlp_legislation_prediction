@@ -1,0 +1,514 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1544143,
+        "change_hash": "5606e165d49df37f0e8e09d0a92ab5d8",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1667/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2612&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1667",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2022-06-01",
+        "progress": [
+            {
+                "date": "2021-12-30",
+                "event": 1
+            },
+            {
+                "date": "2021-12-30",
+                "event": 9
+            },
+            {
+                "date": "2022-03-10",
+                "event": 10
+            },
+            {
+                "date": "2022-03-10",
+                "event": 11
+            },
+            {
+                "date": "2022-03-22",
+                "event": 2
+            },
+            {
+                "date": "2022-03-22",
+                "event": 9
+            },
+            {
+                "date": "2022-04-20",
+                "event": 10
+            },
+            {
+                "date": "2022-05-18",
+                "event": 3
+            },
+            {
+                "date": "2022-06-01",
+                "event": 8
+            },
+            {
+                "date": "2022-06-01",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1667",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to the standard and optional veterans' tax credits and the all veterans' tax credit.",
+        "description": "Relative to the standard and optional veterans' tax credits and the all veterans' tax credit.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-12-30",
+                "committee_id": 1257,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Municipal and County Government"
+            },
+            {
+                "date": "2022-03-22",
+                "committee_id": 3825,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Election Law and Municipal Affairs"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-12-30",
+                "action": "Introduced 01/05/2022 and referred to Municipal and County Government",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-02-15",
+                "action": "Public Hearing: 02/15/2022 4:00 p.m. Legislative Office Building301-303",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-15",
+                "action": "Executive Session: 03/01/2022 09:00 am Legislative Office Building 301-303",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-01",
+                "action": "Executive Session: 03/01/2022 9:00 a.m. Legislative Office Building301-303",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-10",
+                "action": "Majority Committee Report: Ought to Pass (Vote 10-8; Regular Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-10",
+                "action": "Minority Committee Report: Inexpedient to Legislate",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-17",
+                "action": "Ought to Pass: Motion Adopted Regular Calendar 205-127 03/16/2022 House Journal  8",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-22",
+                "action": "Introduced 03/17/2022 and Referred to Election Law and Municipal Affairs; Senate Journal 6",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-04-06",
+                "action": "Hearing: 04/18/2022, Room 100, State House, 01:20 pm; Senate Calendar  15",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-20",
+                "action": "Committee Report: Ought to Pass, 04/28/2022; Vote 5-0; Consent Calendar; Senate Calendar  17",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-04-28",
+                "action": "Ought to Pass: Motion Adopted, Voice Vote; OT3rdg; 04/28/2022; Senate Journal 10",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-17",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 05/12/2022); Senate Journal 13",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-18",
+                "action": "Enrolled (in recess of) 05/12/2022",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-06-01",
+                "action": "Signed by Governor Sununu 05/27/2022; Chapter 121; 07/26/2022",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 21855,
+                "person_hash": "ka1p2mm2",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Diane Pauer",
+                "first_name": "Diane",
+                "middle_name": "",
+                "last_name": "Pauer",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-26-HIL",
+                "ftm_eid": 50226578,
+                "votesmart_id": 195060,
+                "opensecrets_id": "",
+                "knowwho_pid": 744188,
+                "ballotpedia": "Diane_Pauer",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21791,
+                "person_hash": "utnxsxt0",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Tim Baxter",
+                "first_name": "Tim",
+                "middle_name": "",
+                "last_name": "Baxter",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-20-ROC",
+                "ftm_eid": 50226956,
+                "votesmart_id": 195031,
+                "opensecrets_id": "",
+                "knowwho_pid": 744368,
+                "ballotpedia": "Tim_Baxter",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19144,
+                "person_hash": "jfm12os5",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "David Binford",
+                "first_name": "David",
+                "middle_name": "W.",
+                "last_name": "Binford",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-15-GRA",
+                "ftm_eid": 41757478,
+                "votesmart_id": 172601,
+                "opensecrets_id": "",
+                "knowwho_pid": 587150,
+                "ballotpedia": "David_W._Binford",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21823,
+                "person_hash": "zcl1pocn",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Susan Homola",
+                "first_name": "Susan",
+                "middle_name": "E.",
+                "last_name": "Homola",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-27-HIL",
+                "ftm_eid": 50226616,
+                "votesmart_id": 195059,
+                "opensecrets_id": "",
+                "knowwho_pid": 749914,
+                "ballotpedia": "Susan_Homola",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4822,
+                "person_hash": "0pk9ro5j",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Barbara Shaw",
+                "first_name": "Barbara",
+                "middle_name": "E.",
+                "last_name": "Shaw",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-16-HIL",
+                "ftm_eid": 6395279,
+                "votesmart_id": 42806,
+                "opensecrets_id": "",
+                "knowwho_pid": 208678,
+                "ballotpedia": "Barbara_Shaw",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 5099,
+                "person_hash": "vzldns9c",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Kenneth Weyler",
+                "first_name": "Kenneth",
+                "middle_name": "",
+                "last_name": "Weyler",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-13-ROC",
+                "ftm_eid": 13004260,
+                "votesmart_id": 8607,
+                "opensecrets_id": "",
+                "knowwho_pid": 283733,
+                "ballotpedia": "Ken_Weyler",
+                "sponsor_type_id": 2,
+                "sponsor_order": 6,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18153,
+                "person_hash": "h6wcnlm4",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Jess Edwards",
+                "first_name": "Jess",
+                "middle_name": "",
+                "last_name": "Edwards",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-11-HIL",
+                "ftm_eid": 25005737,
+                "votesmart_id": 172496,
+                "opensecrets_id": "",
+                "knowwho_pid": 587584,
+                "ballotpedia": "Jess_Edwards",
+                "sponsor_type_id": 2,
+                "sponsor_order": 7,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21812,
+                "person_hash": "waizsq89",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "William Foster",
+                "first_name": "William",
+                "middle_name": "Sanborn",
+                "last_name": "Foster",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-05-HIL",
+                "ftm_eid": 25005470,
+                "votesmart_id": 154462,
+                "opensecrets_id": "",
+                "knowwho_pid": 501708,
+                "ballotpedia": "William_Foster_(New_Hampshire)",
+                "sponsor_type_id": 2,
+                "sponsor_order": 8,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 11579,
+                "person_hash": "xg5ddnit",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Kevin Avard",
+                "first_name": "Kevin",
+                "middle_name": "A.",
+                "last_name": "Avard",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-012",
+                "ftm_eid": 9727190,
+                "votesmart_id": 13431,
+                "opensecrets_id": "",
+                "knowwho_pid": 296158,
+                "ballotpedia": "Kevin_Avard",
+                "sponsor_type_id": 2,
+                "sponsor_order": 9,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2462895,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1667/id/2462895",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1705&txtFormat=html",
+                "text_size": 11020,
+                "text_hash": "e22ed6c89574f7fce193b3fab84b7685"
+            },
+            {
+                "doc_id": 2577104,
+                "date": "2022-04-28",
+                "type": "Enrolled",
+                "type_id": 5,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1667/id/2577104",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&v=SP&id=1705",
+                "text_size": 11031,
+                "text_hash": "eda68061ac8b6fc8bfb12a1b491c6d50"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1172730,
+                "date": "2022-03-17",
+                "desc": "OTP",
+                "yea": 205,
+                "nay": 127,
+                "nv": 26,
+                "absent": 32,
+                "total": 390,
+                "passed": 1,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/HB1667/id/1172730",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=157&sy=2022&lb=H&eb=HB1667&sortoption=&txtsessionyear=2022&txtbillnumber=HB1667&ddlsponsors=&lsr=2612"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-15",
+                "time": "16:00",
+                "location": "Legislative Office Building301-303",
+                "description": "Municipal and County Government Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-03-01",
+                "time": "09:00",
+                "location": "Legislative Office Building301-303",
+                "description": "Municipal and County Government Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-03-01",
+                "time": "09:00",
+                "location": "Legislative Office Building 301-303",
+                "description": "Municipal and County Government Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-04-18",
+                "time": "13:20",
+                "location": "Room 100, State House",
+                "description": "Election Law and Municipal Affairs Hearing"
+            }
+        ]
+    }
+}

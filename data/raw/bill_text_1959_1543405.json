@@ -1,0 +1,261 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1543405,
+        "change_hash": "54195a25051458daf2e720b82e147e37",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/SB341/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=3097&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=SB341",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-12-15",
+        "progress": [
+            {
+                "date": "2021-12-15",
+                "event": 1
+            },
+            {
+                "date": "2021-12-15",
+                "event": 9
+            },
+            {
+                "date": "2022-03-15",
+                "event": 9
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "SB341",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "S",
+        "body_id": 68,
+        "current_body": "S",
+        "current_body_id": 68,
+        "title": "Relative to treatment of PFAS contaminants in the drinking water of the Merrimack Village Water District.",
+        "description": "Relative to treatment of PFAS contaminants in the drinking water of the Merrimack Village Water District.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-12-15",
+                "committee_id": 1736,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Energy and Natural Resources"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-12-15",
+                "action": "To Be Introduced 01/05/2022 and Referred to Energy and Natural Resources; Senate Journal 1",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-25",
+                "action": "Hearing: 02/01/2022, Room 103, State House, 09:15 am; Senate Calendar  5",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-15",
+                "action": "Committee Report: Referred to Interim Study, 03/24/2022; Senate Calendar  12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-24",
+                "action": "Sen. Daniels Moved Laid on Table, Motion Adopted, Voice Vote; 03/24/2022; Senate Journal 6",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-24",
+                "action": "Pending Motion Interim Study; 03/24/2022; Senate Journal 6",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 4953,
+                "person_hash": "q2fztrlr",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Gary Daniels",
+                "first_name": "Gary",
+                "middle_name": "L.",
+                "last_name": "Daniels",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-011",
+                "ftm_eid": 6593963,
+                "votesmart_id": 5006,
+                "opensecrets_id": "",
+                "knowwho_pid": 249979,
+                "ballotpedia": "Gary_Daniels",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21846,
+                "person_hash": "gdp0vkqa",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Maureen Mooney",
+                "first_name": "Maureen",
+                "middle_name": "",
+                "last_name": "Mooney",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-21-HIL",
+                "ftm_eid": 6595386,
+                "votesmart_id": 42661,
+                "opensecrets_id": "",
+                "knowwho_pid": 213057,
+                "ballotpedia": "Maureen_Mooney",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19868,
+                "person_hash": "wfj6hb0c",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Rosemarie Rung",
+                "first_name": "Rosemarie",
+                "middle_name": "",
+                "last_name": "Rung",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-21-HIL",
+                "ftm_eid": 9805733,
+                "votesmart_id": 185559,
+                "opensecrets_id": "",
+                "knowwho_pid": 670584,
+                "ballotpedia": "Rosemarie_Rung",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 10920,
+                "person_hash": "ocox7vyt",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Jeanine Notter",
+                "first_name": "Jeanine",
+                "middle_name": "M.",
+                "last_name": "Notter",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-21-HIL",
+                "ftm_eid": 13004224,
+                "votesmart_id": 122804,
+                "opensecrets_id": "",
+                "knowwho_pid": 296536,
+                "ballotpedia": "Jeanine_Notter",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21822,
+                "person_hash": "uhhk90d9",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Bob Healey",
+                "first_name": "Bob",
+                "middle_name": "",
+                "last_name": "Healey",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-21-HIL",
+                "ftm_eid": 50226638,
+                "votesmart_id": 195010,
+                "opensecrets_id": "",
+                "knowwho_pid": 744176,
+                "ballotpedia": "Bob_Healey",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2462012,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB341/id/2462012",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=2190&txtFormat=html",
+                "text_size": 19679,
+                "text_hash": "995041a14c06c72b05f988dc5426e49b"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-01",
+                "time": "09:15",
+                "location": "Room 103, State House",
+                "description": "Energy and Natural Resources Hearing"
+            }
+        ],
+        "full_text": "findings the general court finds that on april l the new hampshire department of environmental services issued correspondence to saint gobain performance plastics stating in relevant part the following this letter is a follow up to our meeting held on march regarding environmental contamination including but not necessarily limited to drinking water and groundwater contamination near the saint gobain performance plastics saint gobain facility located at daniel webster highway in merrimack new hampshire the facility as you are aware a number of public water systems and private drinking water wells tested in recent weeks have been found to contain elevated levels of perfluorinated compounds pfcs in particular perfluorooctanoic acid pfoa several of these wells have shown levels of pfoa that are above the epa provisional health advisory of ug based on the information available to date the new hampshire department of environmental services nhdes has determined that saint gobain is potentially responsible for the cleanup of the site restoration of impacted groundwater and drinking water other actions necessary to protect public health and the environment and any costs nhdes incurs for addressing the impacts of this contamination at our meeting we discussed a number of critical steps that need to be taken immediately to address the threats to public health and the environment posed by the pfc contamination to begin identifying the full extent of the contamination nhdes is initially sampling potentially contaminated wells and water sources including surface waters and sediments within an approximate one mile radius of the facility to date this sampling effort has detected impacts to private and public drinking water wells located both within and outside this one mile radius at this time we formally request that saint gobain commit to the following a provide for the design installation operation maintenance and monitoring of all water treatment system s necessary to effectively treat and remove pfc contamination from all affected public water systems b this may most effectively be accomplished by saint gobain by working in collaboration with the affected public water system suppliers to ensure fully operational treatment not later than august and will include but may not necessarily be limited to the following elements retain the services of a qualified professional engineer to design the treatment system s necessary to effectively treat and remove pfc contamination from all affected public water systems upon approval from nhdes and the public water supply owner s construct install and make operational the approved treatment system s provide for the necessary long term operation maintenance and monitoring of the installed treatment systems on july the department of environmental services issued correspondence to saint gobain performance plastics stating the following air deposition of and polufluoroalkyl substances pfas released from the saint gobain performance plastics saint gobain facility located at daniel webster highway in merrimack facility has resulted in regional groundwater contamination the new hampshire department of environmental services nhdes and saint gobain have sampled water supply wells in an area defined as a management zone pregmz that included numerous wells with perfluorooctanoic acid pfoa and or perfluorooctane sulfonic acid pfos in groundwater at levels that exceed the current combined ambient groundwater quality standard agqs of parts per trillion ppt for these two compounds pursuant to a responsible party needs to identify a gmz i e the subsurface volume in which groundwater contamination associated with a discharge is contained with monitoring ultimately governed by a corresponding groundwater management permit gmp as such further delineation of the extent of groundwater contamination relative to the newly adopted pfas standards is necessary in light of the fact that the new pfas water quality standards are anticipated to become effective this fall nhdes requests submission of a work plan to identify water supply wells that exceed the four new agqs due to impacts by releases from the saint gobain facility and to provide an alternate source of potable water that meets applicable federal and state water quality criteria where the new standards are exceeded in march pfas were detected in the merrimack village water district s public drinking water supply wells and at levels above ppt in may the department of environmental services adopted an agqs of ppt for pfas wells and serve drinking water to customers in merrimack and portions of bedford and amherst that merrimack village district wells and are contaminated with pfas and are within the saint gobain performance plastics preliminary groundwater management zone the boundaries of which were agreed to between saint gobain and the department of environmental services in the consent decree between the state of new hampshire and saint gobain performance plastics dated march which groundwater management zone will be modified following completion of additional site investigations and which will be included in a groundwater management permit to be issue to saint gobain by the department of environmental services the merrimack village water district has incurred costs in addressing pfas contamination impacting wells and and has constructed a water treatment system to treat the drinking water in wells and to remove pfas contamination said water treatment system was activated on october the merrimack village water district and saint gobain performance plastics entered into a settlement agreement dated march whereby saint gobain performance plastics paid for a portion of the construction and installation costs of the water treatment system and agreed to pay for a portion of the future operation and maintenance costs of the water treatment system limited to the first years of operation that the water treatment system operation and maintenance costs will continue for a period of time well beyond five years in order to continue to treat the drinking water of wells and for pfas considering that the pfoa concentration at wells and has been measured in excess of ppt and that the for pfoa is approximately years decrease of the current pfoa concentration will require approximately or years to be reduced from ppt to ppt to ppt to ppt before being reduced to the current ppt that as a result of the consent decree with the department of environmental services saint gobain performance plastic paid for water line extensions and for to connect to and become customers of the merrimack village water district and that approximately of these connections use water primarily from wells and the general court adopted new standards for pfas effective july under rsa and that merrimack village district wells and are required to comply with these standards for its drinking water remedy the general court finds that the operation and treatment costs for the water treatment system for wells and owned and operated by the merrimack village water district should not be borne by the merrimack village water district ratepayers who are not responsible for the contamination therefore beginning on october saint gobain performance plastics its successors transferee subsidiaries parent companies or assigns shall pay within days of receipt of quarterly submissions from the merrimack village water district all costs associated with the continued operation monitoring and maintenance and any necessary additional modifications thereto as determined by the merrimack village water district of the water treatment system and all additional incidental operation and maintenance costs of wells and caused by the installation of the water treatment system these payments from saint gobain performance plastics shall continue for so long as the merrimack village water district and its successor organizations treats the water from wells and in order to comply with any existing or future water quality standards set for pfas this remedy shall not affect any rights of saint gobain performance plastics to seek reimbursement for all costs it incurs associated with the water treatment system against any and all other parties if any responsible under any and all applicable laws if any of the payments are not timely made by saint gobain performance plastics the office of the attorney general shall seek such a remedy through any means appropriate severability if any provision of this act or the application thereof to any person or circumstance is held invalid the invalidity does not affect other provisions or applications of the act which can be given effect without the invalid provision or application and to this end the provisions of this act are severable"
+    }
+}

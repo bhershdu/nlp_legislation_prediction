@@ -1,0 +1,328 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1543483,
+        "change_hash": "35648580f192d192e1b099da87349eef",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/CACR19/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2357&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=CACR19",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-11-03",
+        "progress": [
+            {
+                "date": "2021-11-03",
+                "event": 1
+            },
+            {
+                "date": "2021-11-03",
+                "event": 9
+            },
+            {
+                "date": "2022-02-19",
+                "event": 10
+            },
+            {
+                "date": "2022-02-19",
+                "event": 11
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "CACR19",
+        "bill_type": "CA",
+        "bill_type_id": "7",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relating to paper ballots. Providing that all elections shall be conducted through paper ballots.",
+        "description": "Relating to paper ballots. Providing that all elections shall be conducted through paper ballots.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-11-03",
+                "committee_id": 1241,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Election Law"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-11-03",
+                "action": "Introduced 01/05/2022 and referred to Election Law",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-08",
+                "action": "Public Hearing: 01/13/2022 01:30 pm Legislative Office Building 306-308",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-03",
+                "action": "Executive Session: 02/03/2022 10:30 a.m. Legislative Office Building306-308",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-03",
+                "action": "Executive Session: 02/03/2022 10:30 a.m. Legislative Office Building306-308",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-19",
+                "action": "Majority Committee Report: Ought to Pass (Vote 11-9; Regular Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-02-19",
+                "action": "Minority Committee Report: Inexpedient to Legislate",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-21",
+                "action": "Ought to Pass: Motion Failed Regular Calendar 195-160 Lacking Necessary Three-Fifths Vote 03/16/2022 House Journal  7",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 19842,
+                "person_hash": "5wzmz1si",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Stephen Pearson",
+                "first_name": "Stephen",
+                "middle_name": "",
+                "last_name": "Pearson",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-06-ROC",
+                "ftm_eid": 13004253,
+                "votesmart_id": 173061,
+                "opensecrets_id": "",
+                "knowwho_pid": 587615,
+                "ballotpedia": "Stephen_Pearson",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 14866,
+                "person_hash": "0v39il75",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "David Milz",
+                "first_name": "David",
+                "middle_name": "E.",
+                "last_name": "Milz",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-06-ROC",
+                "ftm_eid": 13703659,
+                "votesmart_id": 132813,
+                "opensecrets_id": "",
+                "knowwho_pid": 426236,
+                "ballotpedia": "David_Milz",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 10468,
+                "person_hash": "p6tivb20",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Steven Smith",
+                "first_name": "Steven",
+                "middle_name": "",
+                "last_name": "Smith",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-11-SUL",
+                "ftm_eid": 6680106,
+                "votesmart_id": 110851,
+                "opensecrets_id": "",
+                "knowwho_pid": 297099,
+                "ballotpedia": "Steven_Smith,_New_Hampshire_Politician",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 10920,
+                "person_hash": "ocox7vyt",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Jeanine Notter",
+                "first_name": "Jeanine",
+                "middle_name": "M.",
+                "last_name": "Notter",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-21-HIL",
+                "ftm_eid": 13004224,
+                "votesmart_id": 122804,
+                "opensecrets_id": "",
+                "knowwho_pid": 296536,
+                "ballotpedia": "Jeanine_Notter",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 16797,
+                "person_hash": "3wdxrmgx",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Kimberly Rice",
+                "first_name": "Kimberly",
+                "middle_name": "",
+                "last_name": "Rice",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-37-HIL",
+                "ftm_eid": 25005534,
+                "votesmart_id": 154512,
+                "opensecrets_id": "",
+                "knowwho_pid": 502112,
+                "ballotpedia": "Kimberly_Rice",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 11989,
+                "person_hash": "szz8y6ea",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Regina Birdsell",
+                "first_name": "Regina",
+                "middle_name": "",
+                "last_name": "Birdsell",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-019",
+                "ftm_eid": 6695412,
+                "votesmart_id": 126600,
+                "opensecrets_id": "",
+                "knowwho_pid": 296214,
+                "ballotpedia": "Regina_Birdsell",
+                "sponsor_type_id": 2,
+                "sponsor_order": 6,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2462088,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/CACR19/id/2462088",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1450&txtFormat=html",
+                "text_size": 11417,
+                "text_hash": "d8c7bea3cfe4d85c97bc1e3393f32715"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1171706,
+                "date": "2022-03-16",
+                "desc": "OTP",
+                "yea": 195,
+                "nay": 160,
+                "nv": 14,
+                "absent": 21,
+                "total": 390,
+                "passed": 1,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/CACR19/id/1171706",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=102&sy=2022&lb=H&eb=HCA0019&sortoption=&txtsessionyear=2022&txtbillnumber=CACR19&ddlsponsors=&lsr=2357"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-13",
+                "time": "13:30",
+                "location": "Legislative Office Building 306-308",
+                "description": "Election Law Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-03",
+                "time": "10:30",
+                "location": "Legislative Office Building306-308",
+                "description": "Election Law Executive Session"
+            }
+        ]
+    }
+}

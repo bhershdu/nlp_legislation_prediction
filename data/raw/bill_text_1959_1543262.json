@@ -1,0 +1,424 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1543262,
+        "change_hash": "d91dfcac31b0f53a86eb607e252bc4b2",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1297/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2408&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1297",
+        "completed": 0,
+        "status": 2,
+        "status_date": "2022-03-22",
+        "progress": [
+            {
+                "date": "2021-11-19",
+                "event": 1
+            },
+            {
+                "date": "2021-11-19",
+                "event": 9
+            },
+            {
+                "date": "2022-02-01",
+                "event": 10
+            },
+            {
+                "date": "2022-02-01",
+                "event": 11
+            },
+            {
+                "date": "2022-03-22",
+                "event": 2
+            },
+            {
+                "date": "2022-03-22",
+                "event": 9
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1297",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "S",
+        "current_body_id": 68,
+        "title": "Relative to taking lobster while engaged in recreational scuba diving.",
+        "description": "Relative to taking lobster while engaged in recreational scuba diving.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-11-19",
+                "committee_id": 1248,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Fish and Game and Marine Resources"
+            },
+            {
+                "date": "2022-03-22",
+                "committee_id": 1736,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Energy and Natural Resources"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-11-19",
+                "action": "Introduced 01/05/2022 and referred to Fish and Game and Marine Resources",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-14",
+                "action": "Public Hearing: 01/14/2022 1:00 p.m. Legislative Office Building305-307",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-18",
+                "action": "Full Committee Work Session: 01/25/2022 09:00 am Legislative Office Building 305-307",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-31",
+                "action": "Executive Session: 01/25/2022 10:00 am Legislative Office Building 305--307",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-01",
+                "action": "Majority Committee Report: Ought to Pass with Amendment # 2022-0157h (Vote 11-8; Regular Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-02-01",
+                "action": "Minority Committee Report: Inexpedient to Legislate",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-17",
+                "action": "Amendment # 2022-0157h: Amendment Adopted Voice Vote 03/16/2022 House Journal  7",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-17",
+                "action": "Ought to Pass with Amendment 2022-0157h: Motion Adopted DV 197-143 03/16/2022 House Journal  7",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-22",
+                "action": "Introduced 03/17/2022 and Referred to Energy and Natural Resources; Senate Journal 6",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-04-13",
+                "action": "Hearing: 04/19/2022, Room 103, State House, 09:40 am; Senate Calendar  16",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-19",
+                "action": "Committee Report: No Recommendation, 04/28/2022; Senate Calendar  17",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-28",
+                "action": "Inexpedient to Legislate, Motion Adopted, Voice Vote === BILL KILLED ===; 04/28/2022; Senate Journal 10",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-28",
+                "action": "Sen. Gray Moved Inexpedient to Legislate; 04/28/2022; Senate Journal 10",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 11747,
+                "person_hash": "1xanj7dq",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Gregory Hill",
+                "first_name": "Gregory",
+                "middle_name": "",
+                "last_name": "Hill",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-06-MER",
+                "ftm_eid": 6695257,
+                "votesmart_id": 126565,
+                "opensecrets_id": "",
+                "knowwho_pid": 296582,
+                "ballotpedia": "Gregory_Hill_(New_Hampshire)",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 16797,
+                "person_hash": "3wdxrmgx",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Kimberly Rice",
+                "first_name": "Kimberly",
+                "middle_name": "",
+                "last_name": "Rice",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-37-HIL",
+                "ftm_eid": 25005534,
+                "votesmart_id": 154512,
+                "opensecrets_id": "",
+                "knowwho_pid": 502112,
+                "ballotpedia": "Kimberly_Rice",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 17493,
+                "person_hash": "upw2sr1e",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Leonard Turcotte",
+                "first_name": "Leonard",
+                "middle_name": "",
+                "last_name": "Turcotte",
+                "suffix": "",
+                "nickname": "Len",
+                "district": "HD-04-STR",
+                "ftm_eid": 13703851,
+                "votesmart_id": 141973,
+                "opensecrets_id": "",
+                "knowwho_pid": 436666,
+                "ballotpedia": "Len_Turcotte",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 5099,
+                "person_hash": "vzldns9c",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Kenneth Weyler",
+                "first_name": "Kenneth",
+                "middle_name": "",
+                "last_name": "Weyler",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-13-ROC",
+                "ftm_eid": 13004260,
+                "votesmart_id": 8607,
+                "opensecrets_id": "",
+                "knowwho_pid": 283733,
+                "ballotpedia": "Ken_Weyler",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4753,
+                "person_hash": "e4zrb1mf",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Andrew Renzullo",
+                "first_name": "Andrew",
+                "middle_name": "",
+                "last_name": "Renzullo",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-37-HIL",
+                "ftm_eid": 6665308,
+                "votesmart_id": 43000,
+                "opensecrets_id": "",
+                "knowwho_pid": 228826,
+                "ballotpedia": "Andrew_Renzullo",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 11579,
+                "person_hash": "xg5ddnit",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Kevin Avard",
+                "first_name": "Kevin",
+                "middle_name": "A.",
+                "last_name": "Avard",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-012",
+                "ftm_eid": 9727190,
+                "votesmart_id": 13431,
+                "opensecrets_id": "",
+                "knowwho_pid": 296158,
+                "ballotpedia": "Kevin_Avard",
+                "sponsor_type_id": 2,
+                "sponsor_order": 6,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 16752,
+                "person_hash": "10ajy4x5",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Harold French",
+                "first_name": "Harold",
+                "middle_name": "F.",
+                "last_name": "French",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-007",
+                "ftm_eid": 6594361,
+                "votesmart_id": 42444,
+                "opensecrets_id": "",
+                "knowwho_pid": 426133,
+                "ballotpedia": "Harold_French",
+                "sponsor_type_id": 2,
+                "sponsor_order": 7,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2461874,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1297/id/2461874",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1501&txtFormat=html",
+                "text_size": 15941,
+                "text_hash": "563889fef99da290a9be4ff1304c2144"
+            },
+            {
+                "doc_id": 2552005,
+                "date": "2022-03-16",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1297/id/2552005",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&txtFormat=html&v=HA&id=1501",
+                "text_size": 14584,
+                "text_hash": "9c54f052e743b4c42422012ff1165b3c"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-14",
+                "time": "13:00",
+                "location": "Legislative Office Building305-307",
+                "description": "Fish and Game and Marine Resources Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-25",
+                "time": "09:00",
+                "location": "Legislative Office Building 305-307",
+                "description": "Fish and Game and Marine Resources Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-25",
+                "time": "10:00",
+                "location": "Legislative Office Building 305--307",
+                "description": "Fish and Game and Marine Resources Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-04-19",
+                "time": "09:40",
+                "location": "Room 103, State House",
+                "description": "Energy and Natural Resources Hearing"
+            }
+        ],
+        "full_text": "lobster and crabs license amend rsa iii a to read as follows a if a person is a resident of this state and does not take lobsters or crabs for the purpose of sale and does not use more than traps the person may receive a recreational lobster and crab license a person receiving a recreational lobster and crab license shall not be eligible to receive the scuba diver recreational lobster license under paragraph new paragraph lobsters and crabs scuba diver recreational lobster license amend rsa by inserting after paragraph the following new paragraph a a person who is a resident of this state and wishes to engage in scuba diving or freediving also known as skin diving as a recreational activity and who is in compliance with rsa through and has attained years of age shall be permitted to take lobsters under a scuba diver recreational lobster license issued by the executive director the executive director shall make available a number of scuba diver recreational lobster licenses that is equivalent to the number of recreational lobster and crab licenses available in the prior calendar year under subparagraph iii a b the executive director shall set the fee for the scuba diver recreational lobster license which shall be credited to the derelict fishing gear and coastal cleanup fund established in rsa c the executive director shall establish the scuba diver recreational lobster season from april through september and a scuba diver recreational lobster license shall be valid for not less than weeks during such season d the license shall consist of letters and or numbers which the person engaged in scuba diving shall affix to his or her diving tanks and regulation dive flag in a contrasting color making it readily visible to a conservation officer e the executive director shall establish a limit on the number of lobsters taken per day by a scuba diver holding a license under this paragraph provided such limit shall not be less than lobsters per day per licensee lobsters shall be taken only for the consumption by the licensee and the licensee s family and guests f no person shall at any time take any lobsters by any method except by hand use of a tickle stick which is a straight or slightly bent stick used to agitate a lobster into coming out of its hole shall be permitted g all lobsters taken under a scuba diver recreational lobster license shall be of legal size as provisioned by rsa and in accordance with rsa measured immediately upon capture on the seafloor before surfacing h the scuba diver recreational lobster license shall not be transferred to any other person i annual catch reports shall be required of all scuba diver recreational lobster license holders at the time of renewal or if not renewing license at year end annual catch information in a format determined by the executive director shall be required of all divers before renewal application will be accepted j the executive director shall adopt rules for the issuance of the license under this paragraph and rules governing the sex and size of lobsters allowed to be taken under this paragraph provided such rules conform with requirements applicable to pot licenses and commercial lobster license holders k the executive director shall submit a report to the chairpersons of the house and senate committees with the jurisdiction over scuba diving recreational lobster licensing the report shall include the total number of lobsters reported taken by year by scuba diving license holders the total number of scuba diving lobster licenses issued the number of violations issued the number of investigations detailed by source such as public complaint commercial lobsterman complaint diver complaint conservation officer complaint the executive director shall submit the report within years of the effective date of this paragraph and every years thereafter new subparagraph lobsters and crabs scuba diver recreational lobster license amend rsa by inserting after subparagraph g the following new subparagraph h scuba diver recreational lobster license lobsters and crabs prohibited methods of taking amend rsa to read as follows prohibited methods of taking no person shall at any time take from any waters under the jurisdiction of this state any lobsters by diving spearing or dipping"
+    }
+}

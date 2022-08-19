@@ -1,0 +1,301 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1161959,
+        "change_hash": "54d57c9b83afcbefad535d3ce72ca95e",
+        "session_id": 1642,
+        "session": {
+            "session_id": 1642,
+            "state_id": 29,
+            "year_start": 2019,
+            "year_end": 2019,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2019 Regular Session",
+            "session_name": "2019 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/SB108/2019",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=838&sy=2019&sortoption=&txtsessionyear=2019&txtbillnumber=SB108",
+        "completed": 0,
+        "status": 2,
+        "status_date": "2019-04-01",
+        "progress": [
+            {
+                "date": "2019-01-18",
+                "event": 1
+            },
+            {
+                "date": "2019-01-18",
+                "event": 9
+            },
+            {
+                "date": "2019-03-19",
+                "event": 10
+            },
+            {
+                "date": "2019-04-01",
+                "event": 2
+            },
+            {
+                "date": "2019-04-01",
+                "event": 9
+            },
+            {
+                "date": "2019-10-31",
+                "event": 11
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "SB108",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "S",
+        "body_id": 68,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to eligibility for the governor's scholarship program.",
+        "description": "Relative to eligibility for the governor's scholarship program.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2019-01-18",
+                "committee_id": 3912,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Education and Workforce Development"
+            },
+            {
+                "date": "2019-04-01",
+                "committee_id": 1240,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Education"
+            }
+        ],
+        "history": [
+            {
+                "date": "2019-01-18",
+                "action": "Introduced 01/03/2019 and Referred to Education and Workforce Development; Senate Journal 4",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2019-01-23",
+                "action": "==RECESSED== Hearing: 01/29/2019, Room 103, Legislative Office Building, 11:00 am; Senate Calendar  8",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2019-02-20",
+                "action": "Hearing: 03/05/2019, Room 103, Legislative Office Building, 10:15 am; Senate Calendar  12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2019-03-19",
+                "action": "Committee Report: Ought to Pass with Amendment # 2019-1132s, 03/27/2019; Senate Calendar  15",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2019-03-27",
+                "action": "Special Order to the beginning of the regular calendar, Without Objection, Motion Adopted; 03/27/2019; Senate Journal 10",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2019-03-27",
+                "action": "Committee Amendment # 2019-1132s, Amendment Adopted, Voice Vote; 03/27/2019; Senate Journal 10",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2019-03-27",
+                "action": "Ought to Pass with Amendment 2019-1132s, Motion Adopted, Voice Vote; OT3rdg; 03/27/2019; Senate Journal 10",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2019-04-01",
+                "action": "Introduced 03/20/2019 and referred to Education House Journal  11 P. 73",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2019-04-03",
+                "action": "Public Hearing: 04/09/2019 02:30 pm Legislative Office Building 207",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2019-04-18",
+                "action": "Executive Session: 04/30/2019 10:00 am Legislative Office Building 207",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2019-04-30",
+                "action": "Retained in Committee",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2019-10-02",
+                "action": "Executive Session: 10/23/2019 10:00 am Legislative Office Building 207",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2019-10-31",
+                "action": "Committee Report: Inexpedient to Legislate (Vote 18-0; Consent Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 4789,
+                "person_hash": "8f5ct39f",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Martha Fuller Clark",
+                "first_name": "Martha",
+                "middle_name": "",
+                "last_name": "Fuller Clark",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-021",
+                "ftm_eid": 6433675,
+                "votesmart_id": 4911,
+                "opensecrets_id": "",
+                "knowwho_pid": 502092,
+                "ballotpedia": "Martha_Fuller_Clark",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19063,
+                "person_hash": "9vbummg1",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Jay Kahn",
+                "first_name": "Jay",
+                "middle_name": "",
+                "last_name": "Kahn",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-010",
+                "ftm_eid": 14796214,
+                "votesmart_id": 172406,
+                "opensecrets_id": "",
+                "knowwho_pid": 586828,
+                "ballotpedia": "Jay_Kahn",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 1860259,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB108/id/1860259",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2019&id=840&txtFormat=html",
+                "text_size": 23943,
+                "text_hash": "ee6aa95e9ba635fcd865d80572f700fe"
+            },
+            {
+                "doc_id": 1975217,
+                "date": "2019-03-27",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB108/id/1975217",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2019&txtFormat=html&v=SA&id=840",
+                "text_size": 18853,
+                "text_hash": "6c6bdb0fac3d9ae6d76ddd80a7d6b614"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2019-01-29",
+                "time": "11:00",
+                "location": "Room 103, Legislative Office Building",
+                "description": "Education and Workforce Development Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2019-03-05",
+                "time": "10:15",
+                "location": "Room 103, Legislative Office Building",
+                "description": "Education and Workforce Development Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2019-04-09",
+                "time": "14:30",
+                "location": "Legislative Office Building 207",
+                "description": "Education Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2019-04-30",
+                "time": "10:00",
+                "location": "Legislative Office Building 207",
+                "description": "Education Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2019-10-23",
+                "time": "10:00",
+                "location": "Legislative Office Building 207",
+                "description": "Education Executive Session"
+            }
+        ]
+    }
+}

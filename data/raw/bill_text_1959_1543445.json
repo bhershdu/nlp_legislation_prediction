@@ -1,0 +1,425 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1543445,
+        "change_hash": "a7f11a916aace9b3f7788e0feae72dab",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/SB345/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=3103&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=SB345",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2022-06-22",
+        "progress": [
+            {
+                "date": "2021-12-15",
+                "event": 1
+            },
+            {
+                "date": "2021-12-15",
+                "event": 9
+            },
+            {
+                "date": "2022-02-10",
+                "event": 10
+            },
+            {
+                "date": "2022-03-23",
+                "event": 2
+            },
+            {
+                "date": "2022-03-23",
+                "event": 9
+            },
+            {
+                "date": "2022-04-25",
+                "event": 10
+            },
+            {
+                "date": "2022-04-25",
+                "event": 11
+            },
+            {
+                "date": "2022-06-07",
+                "event": 3
+            },
+            {
+                "date": "2022-06-22",
+                "event": 8
+            },
+            {
+                "date": "2022-06-22",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "SB345",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "S",
+        "body_id": 68,
+        "current_body": "S",
+        "current_body_id": 68,
+        "title": "Relative to youth employment.",
+        "description": "Relative to youth employment.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-12-15",
+                "committee_id": 1780,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Commerce"
+            },
+            {
+                "date": "2022-03-23",
+                "committee_id": 1251,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Labor, Industrial and Rehabilitative Services"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-12-15",
+                "action": "To Be Introduced 01/05/2022 and Referred to Commerce; Senate Journal 1",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-12-20",
+                "action": "Hearing: 01/13/2022, Room 100, State House, 01:15 pm; Senate Calendar  50",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-10",
+                "action": "Committee Report: Ought to Pass with Amendment # 2022-0655s, 02/16/2022; Vote 5-0; Consent Calendar; Senate Calendar  7",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-02-16",
+                "action": "Committee Amendment # 2022-0655s, Amendment Adopted, Voice Vote; 02/16/2022; Senate Journal 3",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-16",
+                "action": "Ought to Pass with Amendment 2022-0655s, Motion Adopted, Voice Vote; OT3rdg; 02/16/2022; Senate Journal 3",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-23",
+                "action": "Introduced 03/17/2022 and referred to Labor, Industrial and Rehabilitative Services",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-04-05",
+                "action": "Public Hearing: 04/14/2022 11:30 am Legislative Office Building 305-307",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-12",
+                "action": "Executive Session: 04/20/2022 10:00 am Legislative Office Building 301-303",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-25",
+                "action": "Majority Committee Report: Ought to Pass with Amendment # 2022-1607h (Vote 11-10; Regular Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-04-25",
+                "action": "Minority Committee Report: Inexpedient to Legislate",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-05-05",
+                "action": "Amendment # 1607h: Amendment Adopted Voice Vote 05/05/2022 House Journal  12",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-05",
+                "action": "FLAM # 1705h (Rep. Sullivan): Amendment Failed Regular Calendar 154-181 05/05/2022 House Journal  12",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-05",
+                "action": "Lay SB345 on Table (Rep. T. Smith): Motion Failed Regular Calendar 145-192 05/05/2022 House Journal  12",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-05",
+                "action": "Ought to Pass with Amendment 1607h: Motion Adopted Regular Calendar 185-152 05/05/2022 House Journal  12",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-12",
+                "action": "Sen. French Moved to Concur with the House Amendment, Regular Calendar 14Y-9N, Motion Adopted; 05/12/2022; Senate Journal 12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-06-06",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 05/26/2022); Senate Journal 13",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-06-07",
+                "action": "Enrolled (in recess of) 05/26/2022 House Journal  14",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-06-22",
+                "action": "Signed by the Governor on 06/17/2022; Chapter 0221; Effective 06/17/2022",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 17481,
+                "person_hash": "ghibvwim",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Erin Hennessey",
+                "first_name": "Erin",
+                "middle_name": "Tapper",
+                "last_name": "Hennessey",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-001",
+                "ftm_eid": 25005445,
+                "votesmart_id": 154433,
+                "opensecrets_id": "",
+                "knowwho_pid": 501701,
+                "ballotpedia": "Erin_Hennessey",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18168,
+                "person_hash": "wzdy4vye",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Bob Giuda",
+                "first_name": "Robert",
+                "middle_name": "",
+                "last_name": "Giuda",
+                "suffix": "",
+                "nickname": "Bob",
+                "district": "SD-002",
+                "ftm_eid": 6594468,
+                "votesmart_id": 21328,
+                "opensecrets_id": "",
+                "knowwho_pid": 208524,
+                "ballotpedia": "Bob_Giuda",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2462051,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB345/id/2462051",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=2196&txtFormat=html",
+                "text_size": 16013,
+                "text_hash": "d789d610800bcf2d259c331c476b0532"
+            },
+            {
+                "doc_id": 2520612,
+                "date": "2022-02-16",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB345/id/2520612",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&txtFormat=html&v=SA&id=2196",
+                "text_size": 10479,
+                "text_hash": "409a6ff2de901f83ee32330837875231"
+            },
+            {
+                "doc_id": 2581391,
+                "date": "2022-02-16",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB345/id/2581391",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&txtFormat=html&v=HA&id=2196",
+                "text_size": 10712,
+                "text_hash": "0d5d87f46bba4fd5c549d3a128474dbc"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1200267,
+                "date": "2022-05-05",
+                "desc": "Adopt Floor Amendment",
+                "yea": 154,
+                "nay": 181,
+                "nv": 18,
+                "absent": 36,
+                "total": 389,
+                "passed": 0,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/SB345/id/1200267",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=236&sy=2022&lb=H&eb=SB0345&sortoption=&txtsessionyear=2022&txtbillnumber=SB345&ddlsponsors=&lsr=3103"
+            },
+            {
+                "roll_call_id": 1200268,
+                "date": "2022-05-05",
+                "desc": "Table",
+                "yea": 145,
+                "nay": 192,
+                "nv": 16,
+                "absent": 36,
+                "total": 389,
+                "passed": 0,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/SB345/id/1200268",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=237&sy=2022&lb=H&eb=SB0345&sortoption=&txtsessionyear=2022&txtbillnumber=SB345&ddlsponsors=&lsr=3103"
+            },
+            {
+                "roll_call_id": 1200269,
+                "date": "2022-05-05",
+                "desc": "OTPA",
+                "yea": 185,
+                "nay": 152,
+                "nv": 16,
+                "absent": 36,
+                "total": 389,
+                "passed": 1,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/SB345/id/1200269",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=238&sy=2022&lb=H&eb=SB0345&sortoption=&txtsessionyear=2022&txtbillnumber=SB345&ddlsponsors=&lsr=3103"
+            },
+            {
+                "roll_call_id": 1200270,
+                "date": "2022-05-05",
+                "desc": "Print Remarks",
+                "yea": 164,
+                "nay": 172,
+                "nv": 17,
+                "absent": 36,
+                "total": 389,
+                "passed": 0,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/SB345/id/1200270",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=239&sy=2022&lb=H&eb=SB0345&sortoption=&txtsessionyear=2022&txtbillnumber=SB345&ddlsponsors=&lsr=3103"
+            },
+            {
+                "roll_call_id": 1204325,
+                "date": "2022-05-12",
+                "desc": "Concur",
+                "yea": 14,
+                "nay": 9,
+                "nv": 0,
+                "absent": 1,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB345/id/1204325",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=150&sy=2022&lb=S&eb=SB0345&sortoption=&txtsessionyear=2022&txtbillnumber=SB345&ddlsponsors=&lsr=3103"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-13",
+                "time": "13:15",
+                "location": "Room 100, State House",
+                "description": "Commerce Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-04-14",
+                "time": "11:30",
+                "location": "Legislative Office Building 305-307",
+                "description": "Labor, Industrial and Rehabilitative Services Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-04-20",
+                "time": "10:00",
+                "location": "Legislative Office Building 301-303",
+                "description": "Labor, Industrial and Rehabilitative Services Executive Session"
+            }
+        ],
+        "full_text": "alcoholic beverages employment of minors amend rsa ii to read as follows an licensee may employ any person not less than years of age to serve or otherwise handle liquor and beverages while employed as a waiter waitress bartender or hostess in a licensed premises minors not less than years of age may be employed in dining areas and minors not less than years of age may be employed in lounge areas to clean tables remove empty containers and glasses and assist in stocking a person at least years of age shall be in attendance and be designated in charge of the employees and business youth employment law prohibitions amend rsa vi to read as follows a in any employer s predetermined designated work week during which school is in session for days no youth or years of age who is duly enrolled in school shall work more than consecutive days or more than hours during that work week b in any employer s predetermined designated work week during which school is in session for days no youth or years of age who is duly enrolled in school shall work more than consecutive days or more than hours in that work week c in any employer s predetermined designated work week during which school is in session for more than one but less than days no youth or years of age who is duly enrolled in school shall work more than consecutive days or more than hours in that work week repeal the following are repealed rsa relative night work by youths rsa relative to special agreement between employers and employees"
+    }
+}

@@ -1,0 +1,531 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1546143,
+        "change_hash": "e259d5a8ee999b05486d101eb17c30f3",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB293/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=550&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB293",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2022-06-28",
+        "progress": [
+            {
+                "date": "2021-01-09",
+                "event": 1
+            },
+            {
+                "date": "2021-01-09",
+                "event": 9
+            },
+            {
+                "date": "2021-03-23",
+                "event": 10
+            },
+            {
+                "date": "2021-04-13",
+                "event": 2
+            },
+            {
+                "date": "2021-04-13",
+                "event": 9
+            },
+            {
+                "date": "2021-05-25",
+                "event": 9
+            },
+            {
+                "date": "2021-05-27",
+                "event": 9
+            },
+            {
+                "date": "2021-12-16",
+                "event": 10
+            },
+            {
+                "date": "2022-06-14",
+                "event": 3
+            },
+            {
+                "date": "2022-06-28",
+                "event": 8
+            },
+            {
+                "date": "2022-06-28",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB293",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to the procedure for adoption of a minor child.",
+        "description": "Relative to the procedure for adoption of a minor child.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-09",
+                "committee_id": 1237,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Children and Family Law"
+            },
+            {
+                "date": "2021-04-13",
+                "committee_id": 1273,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Judiciary"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-09",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Children and Family Law House Journal  2 P. 42",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-04",
+                "action": "Public Hearing: 03/04/2021 01:00 pm Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/94672611666 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-11",
+                "action": "Executive Session: 03/11/2021 09:30 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/91927749754",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-23",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-0590h (Vote 8-7; Regular Calendar) House Calendar 18 P. 33",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Amendment # 2021-0590h: Amendment Adopted Voice Vote 04/07/2021 House Journal  5 P. 133",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Ought to Pass with Amendment 2021-0590h: Motion Adopted Voice Vote 04/07/2021 House Journal  5 P. 133",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-13",
+                "action": "Introduced 04/08/2021 and Referred to Judiciary; Senate Journal 12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-28",
+                "action": "Remote Hearing: 05/04/2021, 01:00 pm; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  22",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-25",
+                "action": "Committee Report: Rereferred to Committee, 05/27/2021; Vote 5-0; Consent Calendar; Senate Calendar  25A",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-05-27",
+                "action": "Rereferred to Committee, Motion Adopted, Voice Vote; 05/27/2021; Senate Journal 17",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-12-16",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-2290s, 01/05/2022; Senate Calendar  49",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-05",
+                "action": "Committee Amendment # 2021-2290s, Amendment Adopted, Voice Vote; 01/05/2022; Senate Journal 1",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-05",
+                "action": "Ought to Pass with Amendment 2021-2290s, Regular Calendar 19Y-5N, Motion Adopted; OT3rdg; 01/05/2022; Senate Journal 1",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-12",
+                "action": "House Concurs with Senate Amendment (Rep. Rice): Motion Adopted Voice Vote 05/12/2022 House Journal  13",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-06-14",
+                "action": "Enrolled (in recess of) 05/26/2022 House Journal  14",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-06-14",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 05/26/2022); Senate Journal 13",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-06-28",
+                "action": "Signed by Governor Sununu 06/24/2022; Chapter 247; 06/24/2022 House Journal  14",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 21792,
+                "person_hash": "0vmft5br",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Cody Belanger",
+                "first_name": "Cody",
+                "middle_name": "",
+                "last_name": "Belanger",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-09-ROC",
+                "ftm_eid": 47921475,
+                "votesmart_id": 186713,
+                "opensecrets_id": "",
+                "knowwho_pid": 744354,
+                "ballotpedia": "Cody_Belanger",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21796,
+                "person_hash": "20zp9bez",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Melissa Blasek",
+                "first_name": "Melissa",
+                "middle_name": "",
+                "last_name": "Blasek",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-21-HIL",
+                "ftm_eid": 50226637,
+                "votesmart_id": 195009,
+                "opensecrets_id": "",
+                "knowwho_pid": 744174,
+                "ballotpedia": "Melissa_Blasek",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 16753,
+                "person_hash": "kmft1pyd",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Max Abramson",
+                "first_name": "Max",
+                "middle_name": "",
+                "last_name": "Abramson",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-20-ROC",
+                "ftm_eid": 6695475,
+                "votesmart_id": 126615,
+                "opensecrets_id": "",
+                "knowwho_pid": 502128,
+                "ballotpedia": "Max_Abramson",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21797,
+                "person_hash": "5rqusslu",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Mike Bordes",
+                "first_name": "Mike",
+                "middle_name": "",
+                "last_name": "Bordes",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-03-BEL",
+                "ftm_eid": 50226768,
+                "votesmart_id": 194679,
+                "opensecrets_id": "",
+                "knowwho_pid": 744012,
+                "ballotpedia": "Mike_Bordes",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19797,
+                "person_hash": "mkwm5wf1",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "David Love",
+                "first_name": "David",
+                "middle_name": "C.",
+                "last_name": "Love",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-06-ROC",
+                "ftm_eid": 41757581,
+                "votesmart_id": 173059,
+                "opensecrets_id": "",
+                "knowwho_pid": 587609,
+                "ballotpedia": "David_Love",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 16622,
+                "person_hash": "k000lozh",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Katherine Prudhomme-O'Brien",
+                "first_name": "Katherine",
+                "middle_name": "",
+                "last_name": "Prudhomme-O'Brien",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-06-ROC",
+                "ftm_eid": 6695401,
+                "votesmart_id": 127368,
+                "opensecrets_id": "",
+                "knowwho_pid": 296206,
+                "ballotpedia": "Katherine_Prudhomme_O%27Brien",
+                "sponsor_type_id": 2,
+                "sponsor_order": 6,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21867,
+                "person_hash": "ouurz3f2",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Vanessa Sheehan",
+                "first_name": "Vanessa",
+                "middle_name": "L.",
+                "last_name": "Sheehan",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-23-HIL",
+                "ftm_eid": 50226644,
+                "votesmart_id": 195016,
+                "opensecrets_id": "",
+                "knowwho_pid": 744182,
+                "ballotpedia": "Vanessa_Sheehan",
+                "sponsor_type_id": 2,
+                "sponsor_order": 7,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4775,
+                "person_hash": "kswslwpv",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Sharon Carson",
+                "first_name": "Sharon",
+                "middle_name": "",
+                "last_name": "Carson",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-014",
+                "ftm_eid": 6593753,
+                "votesmart_id": 42537,
+                "opensecrets_id": "",
+                "knowwho_pid": 208650,
+                "ballotpedia": "Sharon_Carson",
+                "sponsor_type_id": 2,
+                "sponsor_order": 8,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4871,
+                "person_hash": "w5q7sakl",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "John Reagan",
+                "first_name": "John",
+                "middle_name": "",
+                "last_name": "Reagan",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-017",
+                "ftm_eid": 737365,
+                "votesmart_id": 65169,
+                "opensecrets_id": "",
+                "knowwho_pid": 250155,
+                "ballotpedia": "John_Reagan",
+                "sponsor_type_id": 2,
+                "sponsor_order": 9,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [
+            {
+                "type_id": 9,
+                "type": "Carry Over",
+                "sast_bill_number": "HB293",
+                "sast_bill_id": 1395683
+            }
+        ],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2482624,
+                "date": "2021-04-07",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB293/id/2482624",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&txtFormat=html&v=HA&id=539",
+                "text_size": 9940,
+                "text_hash": "dff54685202e28bfd30d367a6b0c49da"
+            },
+            {
+                "doc_id": 2482625,
+                "date": "2022-01-05",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB293/id/2482625",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&txtFormat=html&v=SA&id=539",
+                "text_size": 9427,
+                "text_hash": "fc4b1ae0844a21405f1ece85e8800e80"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1122113,
+                "date": "2022-01-05",
+                "desc": "Ought to Pass w/Amendment",
+                "yea": 19,
+                "nay": 5,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/HB293/id/1122113",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=7&sy=2022&lb=S&eb=HB0293&sortoption=&txtsessionyear=2022&txtbillnumber=HB293&ddlsponsors=&lsr=550"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-04",
+                "time": "13:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Children and Family Law Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-11",
+                "time": "09:30",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Children and Family Law Executive Session"
+            }
+        ],
+        "full_text": "adoption assessment not required amend rsa v to read as follows notwithstanding the provisions of rsa i and ii in the adoption of a related minor child the court may for good cause shown proceed to a hearing and a decree without an assessment when both of the following circumstances are met a the parents of the minor child have surrendered their parental rights the parents of the minor are deceased or the parents parental rights have been terminated and b the minor child has resided with the petitioners to whom the child is related for at least consecutive years prior to filing the petition for adoption"
+    }
+}

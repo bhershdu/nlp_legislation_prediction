@@ -1,0 +1,350 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1543300,
+        "change_hash": "06c813fbfca5ffdca2a59705b54a3ea9",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1296/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2475&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1296",
+        "completed": 0,
+        "status": 2,
+        "status_date": "2022-03-22",
+        "progress": [
+            {
+                "date": "2021-11-19",
+                "event": 1
+            },
+            {
+                "date": "2021-11-19",
+                "event": 9
+            },
+            {
+                "date": "2022-03-09",
+                "event": 10
+            },
+            {
+                "date": "2022-03-09",
+                "event": 11
+            },
+            {
+                "date": "2022-03-22",
+                "event": 2
+            },
+            {
+                "date": "2022-03-22",
+                "event": 9
+            },
+            {
+                "date": "2022-04-20",
+                "event": 10
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1296",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "S",
+        "current_body_id": 68,
+        "title": "Relative to the forfeiture of items used in connection with a drug offense.",
+        "description": "Relative to the forfeiture of items used in connection with a drug offense.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-11-19",
+                "committee_id": 1239,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Criminal Justice and Public Safety"
+            },
+            {
+                "date": "2022-03-22",
+                "committee_id": 1273,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Judiciary"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-11-19",
+                "action": "Introduced 01/05/2022 and referred to Criminal Justice and Public Safety",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-08",
+                "action": "Public Hearing: 01/12/2022 11:15 pm Legislative Office Building 202-204",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-03",
+                "action": "Public Hearing on Amendment # 2021-0264h: 02/09/2022 09:45 am Legislative Office Building 202-204",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-28",
+                "action": "Executive Session: 03/02/2022 10:00 am Legislative Office Building 202-204",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-09",
+                "action": "Majority Committee Report: Ought to Pass with Amendment # 2022-0874h (NT) (Vote 11-10; Regular Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-09",
+                "action": "Minority Committee Report: Inexpedient to Legislate",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-15",
+                "action": "Amendment # 2022-0874h: Amendment Adopted Voice Vote 03/15/2022 House Journal  6",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-15",
+                "action": "Ought to Pass: Motion Adopted Voice Vote 03/15/2022 House Journal  6",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-22",
+                "action": "Introduced 03/17/2022 and Referred to Judiciary; Senate Journal 6",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-30",
+                "action": "Hearing: 04/05/2022, Room 100, State House, 02:30 pm; Senate Calendar  14",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-20",
+                "action": "Committee Report: Ought to Pass with Amendment # 2022-1677s, 04/28/2022; Senate Calendar  17",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-04-28",
+                "action": "Committee Amendment # 2022-1677s, Amendment Failed, Voice Vote; 04/28/2022; Senate Journal 10",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-28",
+                "action": "Ought to Pass: Motion Failed, Voice Vote; 04/28/2022; Senate Journal 10",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-28",
+                "action": "Sen. French Moved Inexpedient to Legislate; 04/28/2022; Senate Journal 10",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-28",
+                "action": "Sen. French Withdraws motion of Inexpedient to Legislate; 04/28/2022; Senate Journal 10",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-28",
+                "action": "Sen. French Move to Refer to Interim Study, Motion Adopted, Voice Vote; 04/28/2022; Senate Journal 10",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 15247,
+                "person_hash": "z1he67k0",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Michael Sylvia",
+                "first_name": "Michael",
+                "middle_name": "",
+                "last_name": "Sylvia",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-06-BEL",
+                "ftm_eid": 16072474,
+                "votesmart_id": 143477,
+                "opensecrets_id": "",
+                "knowwho_pid": 436674,
+                "ballotpedia": "Michael_Sylvia",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 16885,
+                "person_hash": "wv76xmbo",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Chris True",
+                "first_name": "Chris",
+                "middle_name": "",
+                "last_name": "True",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-04-ROC",
+                "ftm_eid": 25005586,
+                "votesmart_id": 154543,
+                "opensecrets_id": "",
+                "knowwho_pid": 501771,
+                "ballotpedia": "Chris_True",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18162,
+                "person_hash": "69syqij2",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Norman Silber",
+                "first_name": "Norman",
+                "middle_name": "",
+                "last_name": "Silber",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-02-BEL",
+                "ftm_eid": 17005721,
+                "votesmart_id": 172402,
+                "opensecrets_id": "",
+                "knowwho_pid": 586968,
+                "ballotpedia": "Norman_Silber",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21790,
+                "person_hash": "69jch8v8",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Glenn Bailey",
+                "first_name": "Glenn",
+                "middle_name": "",
+                "last_name": "Bailey",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-01-STR",
+                "ftm_eid": 50226935,
+                "votesmart_id": 194983,
+                "opensecrets_id": "",
+                "knowwho_pid": 744397,
+                "ballotpedia": "Glenn_Bailey_(New_Hampshire)",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2461909,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1296/id/2461909",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1568&txtFormat=html",
+                "text_size": 19181,
+                "text_hash": "1105b3965921cc89b0f0a711498715ef"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-12",
+                "time": "23:15",
+                "location": "Legislative Office Building 202-204",
+                "description": "Criminal Justice and Public Safety Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-03-02",
+                "time": "10:00",
+                "location": "Legislative Office Building 202-204",
+                "description": "Criminal Justice and Public Safety Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-04-05",
+                "time": "14:30",
+                "location": "Room 100, State House",
+                "description": "Judiciary Hearing"
+            }
+        ]
+    }
+}

@@ -1,0 +1,253 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1542950,
+        "change_hash": "d0ab4f640c1afff31b2d426090d8a10a",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1204/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2056&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1204",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-11-18",
+        "progress": [
+            {
+                "date": "2021-11-18",
+                "event": 1
+            },
+            {
+                "date": "2021-11-18",
+                "event": 9
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1204",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Reducing the rate of the meals and rooms tax and increasing the revenue sharing of meals and rooms tax revenue with municipalities.",
+        "description": "Reducing the rate of the meals and rooms tax and increasing the revenue sharing of meals and rooms tax revenue with municipalities.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-11-18",
+                "committee_id": 1264,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Ways and Means"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-11-18",
+                "action": "Introduced 01/05/2022 and referred to Ways and Means",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-08",
+                "action": "Public Hearing: 01/13/2022 02:00 pm Legislative Office Building 202-204",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-19",
+                "action": "Full Committee Work Session: 01/26/2022 09:30 am Legislative Office Building 202-204",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-08",
+                "action": "Executive Session: 01/26/2022 09:30 am Legislative Office Building 202-204",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-08",
+                "action": "Committee Report: Refer for Interim Study (Vote 21-0; Consent Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-16",
+                "action": "Refer for Interim Study: Motion Adopted Voice Vote 02/16/2022 House Journal  3",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 21807,
+                "person_hash": "tlbyuyoy",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Brodie Deshaies",
+                "first_name": "Brodie",
+                "middle_name": "",
+                "last_name": "Deshaies",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-06-CAR",
+                "ftm_eid": 50226968,
+                "votesmart_id": 194708,
+                "opensecrets_id": "",
+                "knowwho_pid": 744060,
+                "ballotpedia": "Brodie_Deshaies",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19758,
+                "person_hash": "2k4jpn3j",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "John MacDonald",
+                "first_name": "John",
+                "middle_name": "T.",
+                "last_name": "MacDonald",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-06-CAR",
+                "ftm_eid": 45378811,
+                "votesmart_id": 184776,
+                "opensecrets_id": "",
+                "knowwho_pid": 670246,
+                "ballotpedia": "John_MacDonald_(New_Hampshire)",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 15544,
+                "person_hash": "c25fk7m0",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Karel Crawford",
+                "first_name": "Karel",
+                "middle_name": "A.",
+                "last_name": "Crawford",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-04-CAR",
+                "ftm_eid": 13703549,
+                "votesmart_id": 141860,
+                "opensecrets_id": "",
+                "knowwho_pid": 426019,
+                "ballotpedia": "Karel_Crawford",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21797,
+                "person_hash": "5rqusslu",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Mike Bordes",
+                "first_name": "Mike",
+                "middle_name": "",
+                "last_name": "Bordes",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-03-BEL",
+                "ftm_eid": 50226768,
+                "votesmart_id": 194679,
+                "opensecrets_id": "",
+                "knowwho_pid": 744012,
+                "ballotpedia": "Mike_Bordes",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2461572,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1204/id/2461572",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1149&txtFormat=html",
+                "text_size": 35823,
+                "text_hash": "dc9b43f5740a52d0ad1d1c9529fc1b33"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-13",
+                "time": "14:00",
+                "location": "Legislative Office Building 202-204",
+                "description": "Ways and Means Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-26",
+                "time": "09:30",
+                "location": "Legislative Office Building 202-204",
+                "description": "Ways and Means Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-26",
+                "time": "09:30",
+                "location": "Legislative Office Building 202-204",
+                "description": "Ways and Means Executive Session"
+            }
+        ]
+    }
+}

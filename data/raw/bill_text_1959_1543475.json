@@ -1,0 +1,310 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1543475,
+        "change_hash": "87fb9e1c41e4a179ba2df11cc59b9606",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1330/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2412&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1330",
+        "completed": 0,
+        "status": 2,
+        "status_date": "2022-03-22",
+        "progress": [
+            {
+                "date": "2021-11-20",
+                "event": 1
+            },
+            {
+                "date": "2021-11-20",
+                "event": 9
+            },
+            {
+                "date": "2022-03-09",
+                "event": 10
+            },
+            {
+                "date": "2022-03-09",
+                "event": 10
+            },
+            {
+                "date": "2022-03-22",
+                "event": 2
+            },
+            {
+                "date": "2022-03-22",
+                "event": 9
+            },
+            {
+                "date": "2022-04-20",
+                "event": 11
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1330",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "S",
+        "current_body_id": 68,
+        "title": "Repealing the board of medical technicians in the office of professional licensure and certification.",
+        "description": "Repealing the board of medical technicians in the office of professional licensure and certification.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-11-20",
+                "committee_id": 1243,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Executive Departments and Administration"
+            },
+            {
+                "date": "2022-03-22",
+                "committee_id": 1270,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Executive Departments and Administration"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-11-20",
+                "action": "Introduced 01/05/2022 and referred to Executive Departments and Administration",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-20",
+                "action": "Public Hearing: 01/20/2022 11:30 a.m. Legislative Office Building302-304",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-26",
+                "action": "Subcommittee Work Session: 02/01/2022 08:00 am Legislative Office Building 302-304",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-03",
+                "action": "Public Hearing on Amendment # 2022-0399h: 02/14/2022 10:00 am Legislative Office Building 302-304",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-07",
+                "action": "Executive Session: 03/07/2022 11:50 a.m. Legislative Office Building302-304",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-09",
+                "action": "Minority Committee Report: Ought to Pass with Amendment # 2022-0699h",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-09",
+                "action": "Majority Committee Report: Ought to Pass with Amendment # 2022-0399h (NT) (Vote 10-9; Regular Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-17",
+                "action": "Amendment # 2022-0399h: Amendment Adopted Regular Calendar 175-168 03/16/2022 House Journal  7",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-17",
+                "action": "Ought to Pass with Amendment 2022-0399h : Motion Adopted Voice Vote 03/16/2022 House Journal  7",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-20",
+                "action": "Amendment # 2022-0699h: Amendment Failed Regular Calendar 167-184 03/16/2022 House Journal  7",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-22",
+                "action": "Introduced 03/17/2022 and Referred to Executive Departments and Administration; Senate Journal 6",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-23",
+                "action": "Hearing: 03/30/2022, Room 103, State House, 10:20 am; Senate Calendar  13",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-20",
+                "action": "Committee Report: Inexpedient to Legislate; Vote 5-0; Consent Calendar; 04/28/2022; Senate Calendar  17",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-04-28",
+                "action": "Inexpedient to Legislate, Motion Adopted, Voice Vote === BILL KILLED ===; 04/28/2022; Senate Journal 10",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 5002,
+                "person_hash": "3xgx7037",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Peter Schmidt",
+                "first_name": "Peter",
+                "middle_name": "B.",
+                "last_name": "Schmidt",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-19-STR",
+                "ftm_eid": 6395255,
+                "votesmart_id": 42754,
+                "opensecrets_id": "",
+                "knowwho_pid": 213131,
+                "ballotpedia": "Peter_Schmidt",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2462080,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1330/id/2462080",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1505&txtFormat=html",
+                "text_size": 40487,
+                "text_hash": "24aab6af7cbcc354fb6b327b8eb26e38"
+            },
+            {
+                "doc_id": 2551821,
+                "date": "2022-03-16",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1330/id/2551821",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&txtFormat=html&v=HA&id=1505",
+                "text_size": 9180,
+                "text_hash": "2ded94c3ad3048653f8645bc0b3000a2"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1171774,
+                "date": "2022-03-16",
+                "desc": "Adopt Amendment",
+                "yea": 175,
+                "nay": 168,
+                "nv": 24,
+                "absent": 23,
+                "total": 390,
+                "passed": 1,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/HB1330/id/1171774",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=109&sy=2022&lb=H&eb=HB1330&sortoption=&txtsessionyear=2022&txtbillnumber=HB1330&ddlsponsors=&lsr=2412"
+            },
+            {
+                "roll_call_id": 1171775,
+                "date": "2022-03-16",
+                "desc": "Adopt Amendment",
+                "yea": 167,
+                "nay": 184,
+                "nv": 16,
+                "absent": 23,
+                "total": 390,
+                "passed": 0,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/HB1330/id/1171775",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=110&sy=2022&lb=H&eb=HB1330&sortoption=&txtsessionyear=2022&txtbillnumber=HB1330&ddlsponsors=&lsr=2412"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-20",
+                "time": "11:30",
+                "location": "Legislative Office Building302-304",
+                "description": "Executive Departments and Administration Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-01",
+                "time": "08:00",
+                "location": "Legislative Office Building 302-304",
+                "description": "Executive Departments and Administration Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-03-07",
+                "time": "11:50",
+                "location": "Legislative Office Building302-304",
+                "description": "Executive Departments and Administration Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-03-30",
+                "time": "10:20",
+                "location": "Room 103, State House",
+                "description": "Executive Departments and Administration Hearing"
+            }
+        ],
+        "full_text": "office of professional licensure and certification telemedicine and telehealth amend rsa iii to read as follows individuals licensed certified or registered pursuant to rsa rsa rsa rsa rsa rsa rsa rsa rsa rsa rsa rsa rsa rsa rsa rsa rsa rsa rsa rsa or rsa may provide services through telemedicine or telehealth provided the services rendered are authorized by scope of practice nothing in this provision shall be construed to expand the scope of practice for individuals regulated under this chapter repeal the following are repealed rsa relative to the verification of medical technician registration rsa i pp relative to the certification and regulation of medical technicians by the office of professional licensure and certification rsa relative to the board of medical technicians"
+    }
+}

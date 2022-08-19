@@ -1,0 +1,190 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1542977,
+        "change_hash": "d0acd6ab83e04e6cd7e05b7c6c03f985",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1619/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2772&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1619",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-12-22",
+        "progress": [
+            {
+                "date": "2021-12-22",
+                "event": 1
+            },
+            {
+                "date": "2021-12-22",
+                "event": 9
+            },
+            {
+                "date": "2022-02-08",
+                "event": 11
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1619",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to qualifying conditions for the therapeutic cannabis program.",
+        "description": "Relative to qualifying conditions for the therapeutic cannabis program.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-12-22",
+                "committee_id": 1249,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Health, Human Services & Elderly Affairs"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-12-22",
+                "action": "Introduced 01/05/2022 and referred to Health, Human Services and Elderly Affairs",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-18",
+                "action": "Public Hearing: 01/25/2022 01:00 pm Legislative Office Building 210-211",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-01",
+                "action": "Executive Session: 01/31/2022 04:00 pm Legislative Office Building 210-211",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-08",
+                "action": "Committee Report: Inexpedient to Legislate (Vote 19-0; Consent Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-02-16",
+                "action": "Inexpedient to Legislate: Motion Adopted Voice Vote 02/16/2022 House Journal  3",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 15601,
+                "person_hash": "0p3lapll",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Suzanne Vail",
+                "first_name": "Suzanne",
+                "middle_name": "Mercier",
+                "last_name": "Vail",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-29-HIL",
+                "ftm_eid": 13703743,
+                "votesmart_id": 141743,
+                "opensecrets_id": "",
+                "knowwho_pid": 426619,
+                "ballotpedia": "Suzanne_Vail",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19809,
+                "person_hash": "rh4yysxz",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Wendy Chase",
+                "first_name": "Wendy",
+                "middle_name": "",
+                "last_name": "Chase",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-18-STR",
+                "ftm_eid": 45378661,
+                "votesmart_id": 185394,
+                "opensecrets_id": "",
+                "knowwho_pid": 670925,
+                "ballotpedia": "Wendy_Chase",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2461599,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1619/id/2461599",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1865&txtFormat=html",
+                "text_size": 10783,
+                "text_hash": "75c79f9092d5eb421a686be4ae7fce13"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-25",
+                "time": "13:00",
+                "location": "Legislative Office Building 210-211",
+                "description": "Health, Human Services and Elderly Affairs Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-31",
+                "time": "16:00",
+                "location": "Legislative Office Building 210-211",
+                "description": "Health, Human Services and Elderly Affairs Executive Session"
+            }
+        ]
+    }
+}

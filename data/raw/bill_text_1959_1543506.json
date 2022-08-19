@@ -1,0 +1,369 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1543506,
+        "change_hash": "8129739325735d11d174c48e96270e73",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/SB201/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2854&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=SB201",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2022-05-24",
+        "progress": [
+            {
+                "date": "2021-12-07",
+                "event": 1
+            },
+            {
+                "date": "2021-12-07",
+                "event": 9
+            },
+            {
+                "date": "2022-01-27",
+                "event": 10
+            },
+            {
+                "date": "2022-03-23",
+                "event": 2
+            },
+            {
+                "date": "2022-03-23",
+                "event": 9
+            },
+            {
+                "date": "2022-04-08",
+                "event": 10
+            },
+            {
+                "date": "2022-05-13",
+                "event": 3
+            },
+            {
+                "date": "2022-05-24",
+                "event": 8
+            },
+            {
+                "date": "2022-05-24",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "SB201",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "S",
+        "body_id": 68,
+        "current_body": "S",
+        "current_body_id": 68,
+        "title": "Relative to naming a bridge in the town of Rumney and a bridge in the town of Center Harbor.",
+        "description": "Relative to naming a bridge in the town of Rumney and a bridge in the town of Center Harbor.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-12-07",
+                "committee_id": 1779,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Transportation"
+            },
+            {
+                "date": "2022-03-23",
+                "committee_id": 1258,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Public Works and Highways"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-12-07",
+                "action": "To Be Introduced 01/05/2022 and Referred to Transportation; Senate Journal 1",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-12-22",
+                "action": "Hearing: 01/11/2022, Room 101, Legislative Office Building, 01:40 pm; Senate Calendar  50",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-27",
+                "action": "Committee Report: Ought to Pass, 02/03/2022; Vote 5-0; Consent Calendar; Senate Calendar  5",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-02-03",
+                "action": "Ought to Pass: Motion Adopted, Voice Vote; OT3rdg; 02/03/2022; Senate Journal 2",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-23",
+                "action": "Introduced 03/17/2022 and referred to Public Works and Highways",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-28",
+                "action": "Public Hearing: 04/06/2022 10:00 am Legislative Office Building 201-203",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-07",
+                "action": "Executive Session: 04/06/2022 10:00 am Legislative Office Building 201-203",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-08",
+                "action": "Committee Report: Ought to Pass (Vote 22-0; Consent Calendar) House Calendar 15 P. 11",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-04-21",
+                "action": "Ought to Pass: Motion Adopted Voice Vote 04/21/2022 House Journal  10",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-13",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 05/12/2022); Senate Journal 13",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-13",
+                "action": "Enrolled (in recess of) 05/12/2022",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-05-24",
+                "action": "Signed by the Governor on 05/20/2022; Chapter 0087; Effective 05/20/2022",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 18168,
+                "person_hash": "wzdy4vye",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Bob Giuda",
+                "first_name": "Robert",
+                "middle_name": "",
+                "last_name": "Giuda",
+                "suffix": "",
+                "nickname": "Bob",
+                "district": "SD-002",
+                "ftm_eid": 6594468,
+                "votesmart_id": 21328,
+                "opensecrets_id": "",
+                "knowwho_pid": 208524,
+                "ballotpedia": "Bob_Giuda",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19833,
+                "person_hash": "oksr8u28",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Edward Gordon",
+                "first_name": "Edward",
+                "middle_name": "",
+                "last_name": "Gordon",
+                "suffix": "",
+                "nickname": "Ned",
+                "district": "HD-09-GRA",
+                "ftm_eid": 45972179,
+                "votesmart_id": 8649,
+                "opensecrets_id": "",
+                "knowwho_pid": 670369,
+                "ballotpedia": "Edward_M._Gordon",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21859,
+                "person_hash": "gtxkk5z9",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Tom Ploszaj",
+                "first_name": "Tom",
+                "middle_name": "",
+                "last_name": "Ploszaj",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-01-BEL",
+                "ftm_eid": 13703737,
+                "votesmart_id": 141713,
+                "opensecrets_id": "",
+                "knowwho_pid": 436629,
+                "ballotpedia": "Tom_Ploszaj",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21865,
+                "person_hash": "4jlw139m",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Gail Sanborn",
+                "first_name": "Gail",
+                "middle_name": "",
+                "last_name": "Sanborn",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-06-GRA",
+                "ftm_eid": 45378924,
+                "votesmart_id": 185481,
+                "opensecrets_id": "",
+                "knowwho_pid": 670367,
+                "ballotpedia": "Gail_Sanborn",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21816,
+                "person_hash": "bk5q55n7",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Jeffrey Greeson",
+                "first_name": "Jeffrey",
+                "middle_name": "",
+                "last_name": "Greeson",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-16-GRA",
+                "ftm_eid": 50226804,
+                "votesmart_id": 194779,
+                "opensecrets_id": "",
+                "knowwho_pid": 744105,
+                "ballotpedia": "Jeffrey_Greeson",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2462111,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB201/id/2462111",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1947&txtFormat=html",
+                "text_size": 8515,
+                "text_hash": "f8d73372497b7d073e09a948144023cc"
+            },
+            {
+                "doc_id": 2573442,
+                "date": "2022-04-21",
+                "type": "Enrolled",
+                "type_id": 5,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB201/id/2573442",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&v=HP&id=1947",
+                "text_size": 8396,
+                "text_hash": "49df7474877f38cefc22d8006486285f"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-11",
+                "time": "13:40",
+                "location": "Room 101, Legislative Office Building",
+                "description": "Transportation Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-04-06",
+                "time": "10:00",
+                "location": "Legislative Office Building 201-203",
+                "description": "Public Works and Highways Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-04-06",
+                "time": "10:00",
+                "location": "Legislative Office Building 201-203",
+                "description": "Public Works and Highways Executive Session"
+            }
+        ],
+        "full_text": "joseph gearty memorial bridge pursuant to rsa the bridge on main street in the town of rumney bridge number shall be named the joseph gearty memorial bridge the commissioner of the department of transportation shall erect a suitable memorial marker in the of the designated section david reilly bridge pursuant to rsa the bridge on winona road in the town of center harbor bridge number shall be named the david reilly bridge the commissioner of the department of transportation shall erect a suitable memorial marker in the of the designated section signage the cost of design construction maintenance and installation of any signage replacement signage or other markers required under this act shall not be a charge to the state however the design construction and installation of any signage or other markers required under this act shall be approved by the department of transportation"
+    }
+}

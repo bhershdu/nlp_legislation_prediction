@@ -1,0 +1,191 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1546343,
+        "change_hash": "5dcc9f7676254f43335fc443e415d3b8",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB359/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=130&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB359",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-09",
+        "progress": [
+            {
+                "date": "2021-01-09",
+                "event": 1
+            },
+            {
+                "date": "2021-01-09",
+                "event": 9
+            },
+            {
+                "date": "2021-11-12",
+                "event": 11
+            },
+            {
+                "date": "2021-11-12",
+                "event": 10
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB359",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Creating a private cause of action for discrimination based on hairstyles relative to a person's ethnicity.",
+        "description": "Creating a private cause of action for discrimination based on hairstyles relative to a person's ethnicity.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-09",
+                "committee_id": 1250,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Judiciary"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-09",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Judiciary House Journal  2 P. 44",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-03",
+                "action": "Public Hearing: 02/10/2021 03:00 pm Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/91322816360 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-15",
+                "action": "Retained in Committee",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-09-08",
+                "action": "Executive Session: 09/28/2021 10:00 am Legislative Office Building 206-208",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-09-09",
+                "action": "Subcommittee Work Session: 09/21/2021 10:00 am Legislative Office Building 206-208",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-11-12",
+                "action": "Majority Committee Report: Inexpedient to Legislate HB359 09/28/2021 (Vote 11-10; Regular Calendar) House Calendar 48 P. 35",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-11-12",
+                "action": "Minority Committee Report: Ought to Pass with Amendment # 2021-2165h",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-09",
+                "action": "Lay on Table (Rep. McLean): Motion Adopted Voice Vote 01/06/2022 House Journal  1",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 5039,
+                "person_hash": "wsg4iz9c",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Mary Walz",
+                "first_name": "Mary",
+                "middle_name": "Beth",
+                "last_name": "Walz",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-23-MER",
+                "ftm_eid": 6464009,
+                "votesmart_id": 42845,
+                "opensecrets_id": "",
+                "knowwho_pid": 228853,
+                "ballotpedia": "Mary_Beth_Walz",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [
+            {
+                "type_id": 9,
+                "type": "Carry Over",
+                "sast_bill_number": "HB359",
+                "sast_bill_id": 1396502
+            }
+        ],
+        "subjects": [],
+        "texts": [],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-10",
+                "time": "15:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Judiciary Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-09-21",
+                "time": "10:00",
+                "location": "Legislative Office Building 206-208",
+                "description": "Judiciary Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-09-28",
+                "time": "10:00",
+                "location": "Legislative Office Building 206-208",
+                "description": "Judiciary Executive Session"
+            }
+        ]
+    }
+}

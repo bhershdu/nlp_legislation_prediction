@@ -1,0 +1,409 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1543282,
+        "change_hash": "87de2bba64e910f93b6045ae5bcd5481",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1228/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2393&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1228",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2022-04-20",
+        "progress": [
+            {
+                "date": "2021-11-18",
+                "event": 1
+            },
+            {
+                "date": "2021-11-18",
+                "event": 9
+            },
+            {
+                "date": "2022-02-08",
+                "event": 10
+            },
+            {
+                "date": "2022-03-01",
+                "event": 2
+            },
+            {
+                "date": "2022-03-01",
+                "event": 9
+            },
+            {
+                "date": "2022-03-16",
+                "event": 10
+            },
+            {
+                "date": "2022-04-08",
+                "event": 3
+            },
+            {
+                "date": "2022-04-20",
+                "event": 8
+            },
+            {
+                "date": "2022-04-20",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1228",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to recommendations of the joint committee on dedicated funds.",
+        "description": "Relative to recommendations of the joint committee on dedicated funds.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-11-18",
+                "committee_id": 1264,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Ways and Means"
+            },
+            {
+                "date": "2022-03-01",
+                "committee_id": 1277,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Ways and Means"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-11-18",
+                "action": "Introduced 01/05/2022 and referred to Ways and Means",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-08",
+                "action": "Public Hearing: 01/11/2022 09:45 am Legislative Office Building 202-204",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-19",
+                "action": "Full Committee Work Session: 01/26/2022 09:30 am Legislative Office Building 202-204",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-08",
+                "action": "Executive Session: 01/26/2022 09:30 am Legislative Office Building 202-204",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-08",
+                "action": "Committee Report: Ought to Pass (Vote 21-0; Consent Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-02-16",
+                "action": "Ought to Pass: Motion Adopted Voice Vote 02/16/2022 House Journal  3",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-01",
+                "action": "Introduced 02/24/2022 and Referred to Ways and Means; Senate Journal 5",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-09",
+                "action": "Hearing: 03/16/2022, Room 100, State House, 10:10 am; Senate Calendar  11",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-16",
+                "action": "Committee Report: Ought to Pass, 03/24/2022; Vote 5-0; Consent Calendar; Senate Calendar  12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-24",
+                "action": "Ought to Pass: Motion Adopted, Voice Vote; OT3rdg; 03/24/2022; Senate Journal 6",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-07",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 03/31/2022); Senate Journal 8",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-08",
+                "action": "Enrolled (in recess of) 03/31/2022",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-04-20",
+                "action": "Signed by Governor Sununu 04/18/2022; Chapter 25; EFF.06/30/2022",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 4853,
+                "person_hash": "iwvtz8vb",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Norman Major",
+                "first_name": "Norman",
+                "middle_name": "L.",
+                "last_name": "Major",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-14-ROC",
+                "ftm_eid": 6595208,
+                "votesmart_id": 15170,
+                "opensecrets_id": "",
+                "knowwho_pid": 197125,
+                "ballotpedia": "Norman_Major",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4829,
+                "person_hash": "p7484y9q",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Susan Almy",
+                "first_name": "Susan",
+                "middle_name": "W.",
+                "last_name": "Almy",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-13-GRA",
+                "ftm_eid": 199534,
+                "votesmart_id": 15165,
+                "opensecrets_id": "",
+                "knowwho_pid": 197099,
+                "ballotpedia": "Susan_Almy",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18153,
+                "person_hash": "h6wcnlm4",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Jess Edwards",
+                "first_name": "Jess",
+                "middle_name": "",
+                "last_name": "Edwards",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-11-HIL",
+                "ftm_eid": 25005737,
+                "votesmart_id": 172496,
+                "opensecrets_id": "",
+                "knowwho_pid": 587584,
+                "ballotpedia": "Jess_Edwards",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4831,
+                "person_hash": "culspuxr",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Karen Umberger",
+                "first_name": "Karen",
+                "middle_name": "C.",
+                "last_name": "Umberger",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-02-CAR",
+                "ftm_eid": 6678005,
+                "votesmart_id": 109917,
+                "opensecrets_id": "",
+                "knowwho_pid": 269159,
+                "ballotpedia": "Karen_Umberger",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18168,
+                "person_hash": "wzdy4vye",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Bob Giuda",
+                "first_name": "Robert",
+                "middle_name": "",
+                "last_name": "Giuda",
+                "suffix": "",
+                "nickname": "Bob",
+                "district": "SD-002",
+                "ftm_eid": 6594468,
+                "votesmart_id": 21328,
+                "opensecrets_id": "",
+                "knowwho_pid": 208524,
+                "ballotpedia": "Bob_Giuda",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4783,
+                "person_hash": "65ugj1s8",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Lou D'Allesandro",
+                "first_name": "Lou",
+                "middle_name": "C.",
+                "last_name": "D'Allesandro",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-020",
+                "ftm_eid": 13012859,
+                "votesmart_id": 14808,
+                "opensecrets_id": "",
+                "knowwho_pid": 196895,
+                "ballotpedia": "Lou_D%27Allesandro",
+                "sponsor_type_id": 2,
+                "sponsor_order": 6,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2461893,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1228/id/2461893",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1486&txtFormat=html",
+                "text_size": 29098,
+                "text_hash": "821b250343fcd781be6965eff5e419de"
+            },
+            {
+                "doc_id": 2556599,
+                "date": "2022-03-24",
+                "type": "Enrolled",
+                "type_id": 5,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1228/id/2556599",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&v=SP&id=1486",
+                "text_size": 28985,
+                "text_hash": "79a3470ccac9c20dcd7c4a3c62b66358"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-11",
+                "time": "09:45",
+                "location": "Legislative Office Building 202-204",
+                "description": "Ways and Means Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-26",
+                "time": "09:30",
+                "location": "Legislative Office Building 202-204",
+                "description": "Ways and Means Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-26",
+                "time": "09:30",
+                "location": "Legislative Office Building 202-204",
+                "description": "Ways and Means Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-03-16",
+                "time": "10:10",
+                "location": "Room 100, State House",
+                "description": "Ways and Means Hearing"
+            }
+        ]
+    }
+}

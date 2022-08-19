@@ -1,0 +1,424 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1545793,
+        "change_hash": "d9f278287a746f082deab549fe88f338",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB230/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=148&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB230",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2022-07-07",
+        "progress": [
+            {
+                "date": "2021-01-09",
+                "event": 1
+            },
+            {
+                "date": "2021-01-09",
+                "event": 9
+            },
+            {
+                "date": "2021-11-16",
+                "event": 10
+            },
+            {
+                "date": "2022-01-18",
+                "event": 2
+            },
+            {
+                "date": "2022-01-18",
+                "event": 9
+            },
+            {
+                "date": "2022-04-14",
+                "event": 10
+            },
+            {
+                "date": "2022-06-22",
+                "event": 3
+            },
+            {
+                "date": "2022-07-07",
+                "event": 8
+            },
+            {
+                "date": "2022-07-07",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB230",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to child day care monitoring visits and the appeals process for child day care providers.",
+        "description": "Relative to child day care monitoring visits and the appeals process for child day care providers.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-09",
+                "committee_id": 1243,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Executive Departments and Administration"
+            },
+            {
+                "date": "2022-01-18",
+                "committee_id": 1272,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Health and Human Services"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-09",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Executive Departments and Administration House Journal  2 P. 40",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-27",
+                "action": "Public Hearing: 02/04/2021 09:30 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/99659562277 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-11",
+                "action": "Retained in Committee",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-09-02",
+                "action": "Subcommittee Work Session: 09/14/2021 10:00 am Legislative Office Building 306",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-10-25",
+                "action": "Executive Session: 10/25/2021 10:30 a.m. Legislative Office Building306-308",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-11-08",
+                "action": "Executive Session: 11/08/2021 10:30 a.m. Legislative Office Building306-308",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-11-16",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-2227h 11/15/2021 (Vote 18-0; Consent Calendar) House Calendar 48 P. 10",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-11",
+                "action": "Amendment # 2021-2227h: Amendment Adopted Voice Vote 01/05/2022 House Journal  1",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-11",
+                "action": "Ought to Pass with Amendment 2021-2227h: Motion Adopted Voice Vote 01/05/2022 House Journal  1",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-18",
+                "action": "Introduced 01/05/2022 and Referred to Health and Human Services; Senate Journal 2",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-17",
+                "action": "Hearing: 03/23/2022, Room 100, State House, 09:00 am; Senate Calendar  12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-14",
+                "action": "Committee Report: Ought to Pass with Amendment # 2022-1518s, 04/21/2022; Vote 5-0; Consent Calendar; Senate Calendar  16",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-04-21",
+                "action": "Committee Amendment # 2022-1518s, Amendment Adopted, Voice Vote; 04/21/2022; Senate Journal 9",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-21",
+                "action": "Ought to Pass with Amendment 2022-1518s, Motion Adopted, Voice Vote; OT3rdg; 04/21/2022; Senate Journal 9",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-10",
+                "action": "House Non-Concurs with Senate Amendment 2022-1518s and Requests CofC (Reps. T. Lekas, S. Pearson, Schuett, Grote): Motion Adopted Voice Vote 05/05/2022 House Journal  12",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-12",
+                "action": "Sen. Bradley Accedes to House Request for Committee of Conference, Motion Adopted, Voice Vote; 05/12/2022; Senate Journal 12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-12",
+                "action": "President Appoints: Senators Bradley, Avard, Whitley; 05/12/2022; Senate Journal 12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-16",
+                "action": "Conference Committee Meeting: 05/16/2022 10:00 am Legislative Office Building 305-307",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-19",
+                "action": "Conference Committee Report Filed, # 2022-2019c; 05/26/2022",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-26",
+                "action": "Conference Committee Report # 2022-2019c, Adopted, Voice Vote; 05/26/2022; Senate Journal 13",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-26",
+                "action": "Conference Committee Report 2022-2019c: Adopted, Voice Vote 05/26/2022 House Journal  14",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-06-22",
+                "action": "Enrolled (in recess of) 05/26/2022 House Journal  14",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-06-22",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 05/26/2022); Senate Journal 13",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-07-07",
+                "action": "Signed by Governor Sununu 07/01/2022; Chapter 287; I. Sec 2 eff. 01/01/2023 II. Rem eff. 08/30/2022 House Journal  14",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 19743,
+                "person_hash": "ryfcko8x",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Rebecca McWilliams",
+                "first_name": "Rebecca",
+                "middle_name": "",
+                "last_name": "McWilliams",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-27-MER",
+                "ftm_eid": 45378835,
+                "votesmart_id": 185383,
+                "opensecrets_id": "",
+                "knowwho_pid": 670731,
+                "ballotpedia": "Rebecca_McWilliams",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19878,
+                "person_hash": "n0xfc702",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Josh Yokela",
+                "first_name": "Josh",
+                "middle_name": "",
+                "last_name": "Yokela",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-33-ROC",
+                "ftm_eid": 45378989,
+                "votesmart_id": 185522,
+                "opensecrets_id": "",
+                "knowwho_pid": 670769,
+                "ballotpedia": "Josh_Yokela",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21883,
+                "person_hash": "70cv20ch",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Becky Whitley",
+                "first_name": "Becky",
+                "middle_name": "",
+                "last_name": "Whitley",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-015",
+                "ftm_eid": 50226754,
+                "votesmart_id": 194987,
+                "opensecrets_id": "",
+                "knowwho_pid": 743970,
+                "ballotpedia": "Becky_Whitley",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [
+            {
+                "type_id": 9,
+                "type": "Carry Over",
+                "sast_bill_number": "HB230",
+                "sast_bill_id": 1395530
+            }
+        ],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2481294,
+                "date": "2022-01-05",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB230/id/2481294",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&txtFormat=html&v=HA&id=157",
+                "text_size": 16293,
+                "text_hash": "b05df3d8404f72bf3869b6a42289ed72"
+            },
+            {
+                "doc_id": 2573378,
+                "date": "2022-04-21",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB230/id/2573378",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&txtFormat=html&v=SA&id=157",
+                "text_size": 12115,
+                "text_hash": "12efc734c24e63ecbb57ced99325a08c"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-04",
+                "time": "09:30",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Executive Departments and Administration Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-09-14",
+                "time": "10:00",
+                "location": "Legislative Office Building 306",
+                "description": "Executive Departments and Administration Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-10-25",
+                "time": "10:30",
+                "location": "Legislative Office Building306-308",
+                "description": "Executive Departments and Administration Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-11-08",
+                "time": "10:30",
+                "location": "Legislative Office Building306-308",
+                "description": "Executive Departments and Administration Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-03-23",
+                "time": "09:00",
+                "location": "Room 100, State House",
+                "description": "Health and Human Services Hearing"
+            }
+        ],
+        "full_text": "child day care licensing record of licenses and investigatory and monitoring visits rsa ii and iii are repealed and reenacted to read as follows information submitted in the application process shall be private confidential and not available for review however the license itself the findings of investigatory and monitoring visits and final decisions relative to licensure of the child day care agency shall be considered public information posted on the department s website and available for review by members of the public the findings of investigatory and monitoring visits and final decisions relative to licensure shall be posted on the department s website not less than business days from the date of the finding or decision and shall be available on the website for a period of years at least business days before posting the results or findings of an investigatory visit monitoring visit or a final decision relative to licensure on the department s website the department shall notify the child day care agency of its findings and the date on which the information shall be posted on the department s website the department may provide such notice by email or if the child day care agency has not provided an email address by united states mail if the child day care agency submits a response prior to the date of posting the child day care agency s response shall also be posted on the department s website child day care licensees hearings amend rsa iii to read as follows when the department decides to suspend revoke deny or refuse to renew a license or permit and it expressly finds that the continued operation of a child day care agency violates any minimum standard prescribed by law or rule or otherwise jeopardizes poses a present and credible threat to the health or safety morals or welfare of children served by the agency the department shall include in its order issued under paragraph i an order of closure directing that the operation of the agency terminate immediately or on the date specified in this event the agency shall not unless the department has ordered the agency to terminate immediately the agency shall be permitted to operate during the pendency of any proceeding for the review of the decision of the department except under court order notwithstanding the above the agency shall retain the right to seek injunctive relief in accordance with rsa the remainder of this act shall take effect days after its passage"
+    }
+}

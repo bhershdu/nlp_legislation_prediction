@@ -1,0 +1,464 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1543340,
+        "change_hash": "1bbea90bbccb0c8893672692fbf807c8",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB2022/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2379&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB2022",
+        "completed": 0,
+        "status": 3,
+        "status_date": "2022-06-27",
+        "progress": [
+            {
+                "date": "2021-11-02",
+                "event": 1
+            },
+            {
+                "date": "2021-11-02",
+                "event": 9
+            },
+            {
+                "date": "2022-03-07",
+                "event": 10
+            },
+            {
+                "date": "2022-03-07",
+                "event": 10
+            },
+            {
+                "date": "2022-03-22",
+                "event": 2
+            },
+            {
+                "date": "2022-03-22",
+                "event": 9
+            },
+            {
+                "date": "2022-04-26",
+                "event": 10
+            },
+            {
+                "date": "2022-06-27",
+                "event": 3
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB2022",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to the 10-year transportation plan.",
+        "description": "Relative to the 10-year transportation plan.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-11-02",
+                "committee_id": 1258,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Public Works and Highways"
+            },
+            {
+                "date": "2022-03-22",
+                "committee_id": 1779,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Transportation"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-11-02",
+                "action": "Introduced 01/05/2022 and referred to Public Works and Highways",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-09",
+                "action": "Public Hearing: 01/19/2022 01:45 pm Legislative Office Building 201-203",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-18",
+                "action": "Full Committee Work Session: 01/27/2022 10:30 am Legislative Office Building 201-203",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-18",
+                "action": "Full Committee Work Session: 02/03/2022 09:30 am Legislative Office Building 201-203",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-07",
+                "action": "==CONTINUED== Executive Session: 02/24/2022 09:30 am Legislative Office Building 201-203",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-07",
+                "action": "Executive Session: 02/10/2022 01:15 pm Legislative Office Building 201-203",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-07",
+                "action": "Majority Committee Report: Ought to Pass with Amendment # 2022-0745h (Vote 21-2; Regular Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-07",
+                "action": "Minority Committee Report: Ought to Pass with Amendment # 2022-0859h",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-20",
+                "action": "Amendment # 2022-0745h: Amendment Adopted Voice Vote 03/17/2022 House Journal  8",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-20",
+                "action": "Amendment # 2022-0859h: Amendment Failed Voice Vote 03/17/2022 House Journal  8",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-20",
+                "action": "Ought to Pass with Amendment 2022-0745h: Motion Adopted Voice Vote 03/17/2022 House Journal  8",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-22",
+                "action": "Introduced 03/17/2022 and Referred to Transportation; Senate Journal 6",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-04-06",
+                "action": "Hearing: 04/12/2022, Room 101, Legislative Office Building, 02:00 pm; Senate Calendar  15",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-26",
+                "action": "Committee Report: Ought to Pass with Amendment # 2022-1816s, 04/28/2022; Senate Calendar  18",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-04-28",
+                "action": "Sen. Birdsell Floor Amendment # 2022-1878s, Amendment Adopted, Voice Vote; 04/28/2022; Senate Journal 10",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-28",
+                "action": "Sen. Watters Floor Amendment # 2022-1872s, Amendment Adopted, Voice Vote; 04/28/2022; Senate Journal 10",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-28",
+                "action": "Ought to Pass with Amendments 2022-1816s, 2022-1878s, and 2022-1872s, Motion Adopted, Voice Vote; OT3rdg; 04/28/2022; Senate Journal 10",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-28",
+                "action": "Without Objection, the Clerk is authorized to make technical and administrative corrections which are necessary to reflect the intent of the Senate, Motion Adopted; 04/28/2022; Senate Journal 10",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-28",
+                "action": "Committee Amendment # 2022-1816s, Amendment Adopted, Voice Vote; 04/28/2022; Senate Journal 10",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-10",
+                "action": "House Non-Concurs with Senate Amendment 2022-1872s 2022-1878s 2022-1816s and Requests CofC (Reps. Graham, Thompson, Edgar, Milz): Motion Adopted Voice Vote 05/05/2022 House Journal  12",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-12",
+                "action": "Sen. Birdsell Accedes to House Request for Committee of Conference, Motion Adopted, Voice Vote; 05/12/2022; Senate Journal 12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-12",
+                "action": "President Appoints: Senators Birdsell, Watters, Ward; 05/12/2022; Senate Journal 12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-16",
+                "action": "==RECESSED== Conference Committee Meeting: 05/16/2022 10:00 am Legislative Office Building 201-203",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-17",
+                "action": "Conferee Change: Rep. Packard Replaces Rep. Milz 05/17/2022",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-17",
+                "action": "Conferee Change: Rep. Steven Smith Replaces Rep. Edgar 05/17/2022",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-17",
+                "action": "Conferee Change: Rep. Osborne Replaces Rep.Thompson 05/17/2022",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-18",
+                "action": "Conference Committee Meeting: 05/18/2022 10:30 am Legislative Office Building 306-308",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-19",
+                "action": "Conferee Change: Rep. Steven Smith Becomes Chair 05/19/2022",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-19",
+                "action": "Conferee Change: Rep. Doucette Replaces Rep. Graham 05/19/2022",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-19",
+                "action": "Conference Committee Report Filed, # 2022-2048c; 05/26/2022",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-26",
+                "action": "Conference Committee Report # 2022-2048c, Adopted, Voice Vote; 05/26/2022; Senate Journal 13",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-26",
+                "action": "Conference Committee Report 2022-2048c: Adopted, Voice Vote 05/26/2022 House Journal  14",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-06-22",
+                "action": "Enrolled Bill Amendment # 2022-2131e Adopted, Voice Vote, (In recess of 05/26/2022); Senate Journal 13",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-06-22",
+                "action": "Enrolled Bill Amendment # 2022-2131e: Amendment Adopted Voice Vote (in recess of) 05/26/2022 House Journal  14",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-06-24",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 05/26/2022); Senate Journal 13",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-06-27",
+                "action": "Enrolled (in recess of) 05/26/2022 House Journal  14",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 4883,
+                "person_hash": "d1gyrn1n",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "John Graham",
+                "first_name": "John",
+                "middle_name": "A.",
+                "last_name": "Graham",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-18-HIL",
+                "ftm_eid": 6594544,
+                "votesmart_id": 42142,
+                "opensecrets_id": "",
+                "knowwho_pid": 208616,
+                "ballotpedia": "John_Graham,_New_Hampshire_Representative",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2461948,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB2022/id/2461948",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1472&txtFormat=html",
+                "text_size": 7025,
+                "text_hash": "5d23c6028f5a428c7697387b8dc07137"
+            },
+            {
+                "doc_id": 2552837,
+                "date": "2022-03-17",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB2022/id/2552837",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&txtFormat=html&v=HA&id=1472",
+                "text_size": 23425,
+                "text_hash": "be8ee41f0af5e0f549b7944a374e2243"
+            },
+            {
+                "doc_id": 2579276,
+                "date": "2022-04-28",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB2022/id/2579276",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&txtFormat=html&v=SA&id=1472",
+                "text_size": 40971,
+                "text_hash": "8d78564005f65fe203509324c8fe17af"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-19",
+                "time": "13:45",
+                "location": "Legislative Office Building 201-203",
+                "description": "Public Works and Highways Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-27",
+                "time": "10:30",
+                "location": "Legislative Office Building 201-203",
+                "description": "Public Works and Highways Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-03",
+                "time": "09:30",
+                "location": "Legislative Office Building 201-203",
+                "description": "Public Works and Highways Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-10",
+                "time": "13:15",
+                "location": "Legislative Office Building 201-203",
+                "description": "Public Works and Highways Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-24",
+                "time": "09:30",
+                "location": "Legislative Office Building 201-203",
+                "description": "Public Works and Highways Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-04-12",
+                "time": "14:00",
+                "location": "Room 101, Legislative Office Building",
+                "description": "Transportation Hearing"
+            }
+        ]
+    }
+}

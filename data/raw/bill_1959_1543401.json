@@ -1,0 +1,212 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1543401,
+        "change_hash": "7a7f5696767348bab281a8fcf18bf42b",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1273/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2270&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1273",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-11-19",
+        "progress": [
+            {
+                "date": "2021-11-19",
+                "event": 1
+            },
+            {
+                "date": "2021-11-19",
+                "event": 9
+            },
+            {
+                "date": "2022-02-02",
+                "event": 11
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1273",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to the use of free and open source software.",
+        "description": "Relative to the use of free and open source software.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-11-19",
+                "committee_id": 1243,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Executive Departments and Administration"
+            },
+            {
+                "date": "2022-02-17",
+                "committee_id": 1239,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Criminal Justice and Public Safety"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-11-19",
+                "action": "Introduced 01/05/2022 and referred to Executive Departments and Administration",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-11",
+                "action": "Public Hearing: 01/11/2022 10:30 a.m. Legislative Office Building302-304",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-18",
+                "action": "Subcommittee Work Session: 01/20/2022 09:00 am Legislative Office Building302-304",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-02",
+                "action": "Executive Session: 01/20/2022 09:00 am Legislative Office Building302-304",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-02",
+                "action": "Committee Report: Inexpedient to Legislate (Vote 16-0; Consent Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-02-16",
+                "action": "Inexpedient to Legislate: Motion Adopted Voice Vote 02/16/2022 House Journal  3",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 21814,
+                "person_hash": "lkojttrr",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Eric Gallager",
+                "first_name": "Eric",
+                "middle_name": "",
+                "last_name": "Gallager",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-15-MER",
+                "ftm_eid": 45378733,
+                "votesmart_id": 185382,
+                "opensecrets_id": "",
+                "knowwho_pid": 670730,
+                "ballotpedia": "Eric_Gallager",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18167,
+                "person_hash": "gbz9mi50",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "William Marsh",
+                "first_name": "William",
+                "middle_name": "M.",
+                "last_name": "Marsh",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-17-ROC",
+                "ftm_eid": 6483516,
+                "votesmart_id": 65293,
+                "opensecrets_id": "",
+                "knowwho_pid": 587047,
+                "ballotpedia": "William_Marsh",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2462008,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1273/id/2462008",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1363&txtFormat=html",
+                "text_size": 22283,
+                "text_hash": "c89d807bd7e61f153586f607f01cef4d"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-11",
+                "time": "10:30",
+                "location": "Legislative Office Building302-304",
+                "description": "Executive Departments and Administration Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-20",
+                "time": "09:00",
+                "location": "Legislative Office Building302-304",
+                "description": "Executive Departments and Administration Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-20",
+                "time": "09:00",
+                "location": "Legislative Office Building302-304",
+                "description": "Executive Departments and Administration Executive Session"
+            }
+        ]
+    }
+}

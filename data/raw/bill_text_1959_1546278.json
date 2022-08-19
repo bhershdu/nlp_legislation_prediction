@@ -1,0 +1,256 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1546278,
+        "change_hash": "39ec0eb69079e7a45f84254915cc9719",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB228/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=236&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB228",
+        "completed": 0,
+        "status": 2,
+        "status_date": "2022-01-18",
+        "progress": [
+            {
+                "date": "2021-01-04",
+                "event": 1
+            },
+            {
+                "date": "2021-01-04",
+                "event": 9
+            },
+            {
+                "date": "2021-09-21",
+                "event": 10
+            },
+            {
+                "date": "2022-01-18",
+                "event": 2
+            },
+            {
+                "date": "2022-01-18",
+                "event": 9
+            },
+            {
+                "date": "2022-03-09",
+                "event": 9
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB228",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "S",
+        "current_body_id": 68,
+        "title": "Relative to the calculation of child support in cases with equal or approximately equal parenting time.",
+        "description": "Relative to the calculation of child support in cases with equal or approximately equal parenting time.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-04",
+                "committee_id": 1237,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Children and Family Law"
+            },
+            {
+                "date": "2022-01-18",
+                "committee_id": 1273,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Judiciary"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-04",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Children and Family Law House Journal  2 P. 40",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-27",
+                "action": "Public Hearing: 02/03/2021 10:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/96640856922 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-11",
+                "action": "Executive Session: 03/11/2021 09:30 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/91927749754",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-15",
+                "action": "Retained in Committee",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-08-18",
+                "action": "Full Committee Work Session: 09/15/2021 10:00 am Legislative Office Building 206 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-09-21",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-2116h (Vote 8-7; Regular Calendar) House Calendar 48 P. 20",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-07",
+                "action": "Amendment # 2021-2116h: Amendment Adopted Voice Vote 01/05/2022 House Journal  1",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-07",
+                "action": "Ought to Pass with Amendment 2021-2116h: Motion Adopted DV 189-163 01/05/2022 House Journal  1",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-18",
+                "action": "Introduced 01/05/2022 and Referred to Judiciary; Senate Journal 2",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-02-23",
+                "action": "Hearing: 03/08/2022, Room 100, State House, 02:20 pm; Senate Calendar  9",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-09",
+                "action": "Committee Report: Referred to Interim Study, 03/17/2022; Vote 5-0; Consent Calendar; Senate Calendar  11",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-17",
+                "action": "Refer to Interim Study, Motion Adopted, Voice Vote; 03/17/2022; Senate Journal 5",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 10924,
+                "person_hash": "n896l4e6",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Debra DeSimone",
+                "first_name": "Debra",
+                "middle_name": "L.",
+                "last_name": "DeSimone",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-14-ROC",
+                "ftm_eid": 6677758,
+                "votesmart_id": 110064,
+                "opensecrets_id": "",
+                "knowwho_pid": 269435,
+                "ballotpedia": "Debra_DeSimone",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [
+            {
+                "type_id": 9,
+                "type": "Carry Over",
+                "sast_bill_number": "HB228",
+                "sast_bill_id": 1393033
+            }
+        ],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2481293,
+                "date": "2022-01-05",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB228/id/2481293",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&txtFormat=html&v=HA&id=239",
+                "text_size": 9577,
+                "text_hash": "808d4c5382d557146b5ae5f443cac6f8"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-03",
+                "time": "10:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Children and Family Law Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-11",
+                "time": "09:30",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Children and Family Law Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-09-15",
+                "time": "10:00",
+                "location": "Legislative Office Building 206 / Executive session on pending l",
+                "description": "Children and Family Law Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-03-08",
+                "time": "14:20",
+                "location": "Room 100, State House",
+                "description": "Judiciary Hearing"
+            }
+        ],
+        "full_text": "child support guidelines adjustment to the application of the guidelines under special circumstances equal parenting time amend rsa by inserting after paragraph ii the following new paragraph in the event of a disparity of income between the parties there shall be a rebuttable presumption that where the parties have agreed or the court finds the parties have equal or approximately equal periods of parenting time for the child or children for which a child support order shall be applicable child support shall be equalized and allocated in the following manner a the child support guidelines shall be calculated based on each party s income and a child support amount shall be determined b the amount of the child support payment shall then be calculated according to the guidelines as if the higher income party were to pay the lower income party and then calculated as if the lower income party were to pay the higher income party the difference between the amounts shall be the presumptive child support obligation and paid to the party with the lower income this amount shall become the presumptive child support order c nothing in this paragraph shall preclude a court from modification of the presumptive child support order such as justice and the best interest of the child may require adjustments to the application of the guidelines in cases of equal parenting time amend rsa i h to read as follows equal or approximately equal parenting residential responsibilities in and of itself shall not eliminate the need for child support and shall not by itself constitute ground for an adjustment"
+    }
+}

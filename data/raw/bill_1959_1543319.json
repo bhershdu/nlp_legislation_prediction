@@ -1,0 +1,414 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1543319,
+        "change_hash": "161307bca8899d93475b9fbf0322d46b",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1066/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2053&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1066",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2022-07-07",
+        "progress": [
+            {
+                "date": "2021-11-02",
+                "event": 1
+            },
+            {
+                "date": "2021-11-02",
+                "event": 9
+            },
+            {
+                "date": "2022-03-10",
+                "event": 10
+            },
+            {
+                "date": "2022-03-15",
+                "event": 2
+            },
+            {
+                "date": "2022-03-15",
+                "event": 9
+            },
+            {
+                "date": "2022-04-13",
+                "event": 10
+            },
+            {
+                "date": "2022-04-26",
+                "event": 10
+            },
+            {
+                "date": "2022-06-22",
+                "event": 3
+            },
+            {
+                "date": "2022-07-07",
+                "event": 8
+            },
+            {
+                "date": "2022-07-07",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1066",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Requiring the commissioner of the department of environmental services to prepare a plan relative to cyanobacterial blooms in New Hampshire.",
+        "description": "Requiring the commissioner of the department of environmental services to prepare a plan relative to cyanobacterial blooms in New Hampshire.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-11-02",
+                "committee_id": 1259,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Resources, Recreation and Development"
+            },
+            {
+                "date": "2022-03-15",
+                "committee_id": 1736,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Energy and Natural Resources"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-11-02",
+                "action": "To Be Introduced 01/05/2022 and referred to Resources, Recreation and Development",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-12",
+                "action": "Public Hearing: 01/12/2022 1:45 p.m. Legislative Office Building305-307",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-02",
+                "action": "Executive Session: 02/02/2022 10:00 a.m. Legislative Office Building305-307",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-23",
+                "action": "Executive Session: 02/23/2022 10:00 a.m. Legislative Office Building305-307",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-10",
+                "action": "Committee Report: Ought to Pass with Amendment # 2022-0505h(NT) (Vote 21-0; Consent Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-11",
+                "action": "Ought to Pass with Amendment 2022-0505h: Motion Adopted Voice Vote 03/10/2022 House Journal  5",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-11",
+                "action": "Amendment # 2022-0505h: Amendment Adopted Voice Vote 03/10/2022 House Journal  5",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-15",
+                "action": "Introduced 02/24/2022 and Referred to Energy and Natural Resources; Senate Journal 5",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-04-06",
+                "action": "Hearing: 04/12/2022, Room 103, State House, 09:45 am; Senate Calendar  15",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-13",
+                "action": "Committee Report: Ought to Pass with Amendment # 2022-1460s, 04/21/2022; Vote 5-0; Consent Calendar; Senate Calendar  16",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-04-21",
+                "action": "Committee Amendment # 2022-1460s, Amendment Adopted, Voice Vote; 04/21/2022; Senate Journal 9",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-21",
+                "action": "Ought to Pass with Amendment 2022-1460s, Motion Adopted, Voice Vote; Refer to Finance Rule 4-5; 04/21/2022; Senate Journal 9",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-26",
+                "action": "Committee Report: Ought to Pass, 05/05/2022; Senate Calendar  18",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-05-05",
+                "action": "Ought to Pass: Regular Calendar 24Y-0N, Motion Adopted; OT3rdg; 05/05/2022; Senate Journal 11",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-10",
+                "action": "House Non-Concurs with Senate Amendment 2022-1460s and Requests CofC (Reps. Harb, Chretien, Renzullo, Suzanne Smith): Motion Adopted Voice Vote 05/05/2022 House Journal  12",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-12",
+                "action": "Sen. Avard Accedes to House Request for Committee of Conference, Motion Adopted, Voice Vote; 05/12/2022; Senate Journal 12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-12",
+                "action": "President Appoints: Senators Giuda, Avard, Perkins Kwoka; 05/12/2022; Senate Journal 12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-16",
+                "action": "Conference Committee Meeting: 05/16/2022 01:30 pm Legislative Office Building 305-307",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-18",
+                "action": "Conference Committee Report Filed, # 2022-2022c; 05/26/2022",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-26",
+                "action": "Conference Committee Report # 2022-2022c, Adopted, Voice Vote; 05/26/2022; Senate Journal 13",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-26",
+                "action": "Conference Committee Report 2022-2022c: Adopted, Voice Vote 05/26/2022 House Journal  14",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-06-22",
+                "action": "Enrolled (in recess of) 05/26/2022 House Journal  14",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-06-22",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 05/26/2022); Senate Journal 13",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-07-07",
+                "action": "Signed by Governor Sununu 07/01/2022; Chapter 292; 07/01/2022 House Journal  14",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 19868,
+                "person_hash": "wfj6hb0c",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Rosemarie Rung",
+                "first_name": "Rosemarie",
+                "middle_name": "",
+                "last_name": "Rung",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-21-HIL",
+                "ftm_eid": 9805733,
+                "votesmart_id": 185559,
+                "opensecrets_id": "",
+                "knowwho_pid": 670584,
+                "ballotpedia": "Rosemarie_Rung",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21861,
+                "person_hash": "pdunw5it",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Suzanne Prentiss",
+                "first_name": "Suzanne",
+                "middle_name": "M.",
+                "last_name": "Prentiss",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-005",
+                "ftm_eid": 50226736,
+                "votesmart_id": 194271,
+                "opensecrets_id": "",
+                "knowwho_pid": 743968,
+                "ballotpedia": "Suzanne_Prentiss",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2461927,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1066/id/2461927",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1146&txtFormat=html",
+                "text_size": 15877,
+                "text_hash": "f796bee898d403f3b06a427379bba314"
+            },
+            {
+                "doc_id": 2546466,
+                "date": "2022-03-10",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1066/id/2546466",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&txtFormat=html&v=HA&id=1146",
+                "text_size": 8172,
+                "text_hash": "666afdede9490b65188fd70dbc1927e4"
+            },
+            {
+                "doc_id": 2573443,
+                "date": "2022-04-21",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1066/id/2573443",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&txtFormat=html&v=SA&id=1146",
+                "text_size": 19554,
+                "text_hash": "cb191e0ea3c5ab3d0460f64aa0d1fbe5"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1200907,
+                "date": "2022-05-05",
+                "desc": "Ought to Pass",
+                "yea": 24,
+                "nay": 0,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/HB1066/id/1200907",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=123&sy=2022&lb=S&eb=HB1066&sortoption=&txtsessionyear=2022&txtbillnumber=HB1066&ddlsponsors=&lsr=2053"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-12",
+                "time": "13:45",
+                "location": "Legislative Office Building305-307",
+                "description": "Resources, Recreation and Development Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-02",
+                "time": "10:00",
+                "location": "Legislative Office Building305-307",
+                "description": "Resources, Recreation and Development Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-23",
+                "time": "10:00",
+                "location": "Legislative Office Building305-307",
+                "description": "Resources, Recreation and Development Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-04-12",
+                "time": "09:45",
+                "location": "Room 103, State House",
+                "description": "Energy and Natural Resources Hearing"
+            }
+        ]
+    }
+}

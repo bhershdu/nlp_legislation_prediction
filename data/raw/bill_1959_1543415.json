@@ -1,0 +1,367 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1543415,
+        "change_hash": "359c6dcf213c68af9793d53be6dc730c",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1258/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2162&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1258",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2022-06-23",
+        "progress": [
+            {
+                "date": "2021-11-19",
+                "event": 1
+            },
+            {
+                "date": "2021-11-19",
+                "event": 9
+            },
+            {
+                "date": "2022-03-07",
+                "event": 10
+            },
+            {
+                "date": "2022-03-22",
+                "event": 2
+            },
+            {
+                "date": "2022-03-22",
+                "event": 9
+            },
+            {
+                "date": "2022-04-26",
+                "event": 10
+            },
+            {
+                "date": "2022-06-20",
+                "event": 3
+            },
+            {
+                "date": "2022-06-23",
+                "event": 8
+            },
+            {
+                "date": "2022-06-23",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1258",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to the implementation of the department of energy and relative to the definition of \"municipal host\" for purposes of limited electrical energy producers.",
+        "description": "Relative to the implementation of the department of energy and relative to the definition of \"municipal host\" for purposes of limited electrical energy producers.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-11-19",
+                "committee_id": 1261,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Science, Technology and Energy"
+            },
+            {
+                "date": "2022-03-22",
+                "committee_id": 1736,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Energy and Natural Resources"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-11-19",
+                "action": "Introduced 01/05/2022 and referred to Science, Technology and Energy",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-19",
+                "action": "Public Hearing: 01/25/2022 03:30 pm Legislative Office Building 306-308",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-03",
+                "action": "Subcommittee Work Session: 02/14/2022 10:00 am Legislative Office Building306-308",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-19",
+                "action": "Subcommittee Work Session: 02/22/2022 10:00 am Legislative Office Building 306-308",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-01",
+                "action": "Executive Session: 03/01/2022 10:00 a.m. Legislative Office Building306-308",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-07",
+                "action": "Committee Report: Ought to Pass with Amendment # 2022-0851h (Vote 22-0; Regular Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-17",
+                "action": "Amendment # 2022-0851h: Amendment Adopted Voice Vote 03/17/2022 House Journal  8",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-17",
+                "action": "Ought to Pass with Amendment 2022-0851h: Motion Adopted Voice Vote 03/17/2022 House Journal  8",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-22",
+                "action": "Introduced 03/17/2022 and Referred to Energy and Natural Resources; Senate Journal 6",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-04-20",
+                "action": "Hearing: 04/25/2022, Room 103, State House, 09:00 am; Senate Calendar  17",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-26",
+                "action": "Committee Report: Ought to Pass with Amendment # 2022-1824s, 05/05/2022; Vote 5-0; Consent Calendar; Senate Calendar  18",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-05-05",
+                "action": "Committee Amendment # 2022-1824s, Amendment Adopted, Voice Vote; 05/05/2022; Senate Journal 11",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-05",
+                "action": "Ought to Pass with Amendment 2022-1824s, Motion Adopted, Voice Vote; OT3rdg; 05/05/2022; Senate Journal 11",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-13",
+                "action": "House Concurs with Senate Amendment (Rep. Vose): Motion Adopted Voice Vote 05/12/2022 House Journal  13",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-06-17",
+                "action": "Enrolled Bill Amendment # 2022-2126e Adopted, Voice Vote, (In recess of 05/26/2022); Senate Journal 13",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-06-17",
+                "action": "Enrolled Bill Amendment # 2022-2126e: Amendment Adopted Voice Vote (in recess of) 05/26/2022 House Journal  14",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-06-20",
+                "action": "Enrolled (in recess of) 05/26/2022 House Journal  14",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-06-20",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 05/26/2022); Senate Journal 13",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-06-23",
+                "action": "Signed by Governor Sununu 06/21/2022; Chapter 245; eff. 08/20/2022 House Journal  14",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 18160,
+                "person_hash": "hp88brg1",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Michael Harrington",
+                "first_name": "Michael",
+                "middle_name": "D.",
+                "last_name": "Harrington",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-03-STR",
+                "ftm_eid": 6594659,
+                "votesmart_id": 14569,
+                "opensecrets_id": "",
+                "knowwho_pid": 208531,
+                "ballotpedia": "Michael_Harrington_(New_Hampshire)",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 17495,
+                "person_hash": "9stsskue",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Michael Vose",
+                "first_name": "Michael",
+                "middle_name": "",
+                "last_name": "Vose",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-09-ROC",
+                "ftm_eid": 25005609,
+                "votesmart_id": 154583,
+                "opensecrets_id": "",
+                "knowwho_pid": 503499,
+                "ballotpedia": "Michael_Vose",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2462022,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1258/id/2462022",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1255&txtFormat=html",
+                "text_size": 39664,
+                "text_hash": "659ef9d72b5376a2fbc58a72d2f9123c"
+            },
+            {
+                "doc_id": 2551812,
+                "date": "2022-03-17",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1258/id/2551812",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&txtFormat=html&v=HA&id=1255",
+                "text_size": 60960,
+                "text_hash": "8c3ff987e5a0e240ac4f2c67c7e30303"
+            },
+            {
+                "doc_id": 2580244,
+                "date": "2022-05-05",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1258/id/2580244",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&txtFormat=html&v=SA&id=1255",
+                "text_size": 63023,
+                "text_hash": "7cf379895cadeb077a67567691d746ca"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-25",
+                "time": "15:30",
+                "location": "Legislative Office Building 306-308",
+                "description": "Science, Technology and Energy Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-14",
+                "time": "10:00",
+                "location": "Legislative Office Building306-308",
+                "description": "Science, Technology and Energy Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-22",
+                "time": "10:00",
+                "location": "Legislative Office Building 306-308",
+                "description": "Science, Technology and Energy Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-03-01",
+                "time": "10:00",
+                "location": "Legislative Office Building306-308",
+                "description": "Science, Technology and Energy Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-04-25",
+                "time": "09:00",
+                "location": "Room 103, State House",
+                "description": "Energy and Natural Resources Hearing"
+            }
+        ]
+    }
+}

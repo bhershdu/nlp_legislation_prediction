@@ -1,0 +1,348 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1546384,
+        "change_hash": "4ef265a0a4ac8dc1eb6bc5845cc7da49",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB54/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=632&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB54",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2022-03-08",
+        "progress": [
+            {
+                "date": "2021-01-13",
+                "event": 1
+            },
+            {
+                "date": "2021-01-13",
+                "event": 9
+            },
+            {
+                "date": "2021-11-22",
+                "event": 10
+            },
+            {
+                "date": "2021-11-22",
+                "event": 10
+            },
+            {
+                "date": "2022-01-18",
+                "event": 2
+            },
+            {
+                "date": "2022-01-18",
+                "event": 9
+            },
+            {
+                "date": "2022-02-08",
+                "event": 10
+            },
+            {
+                "date": "2022-02-28",
+                "event": 3
+            },
+            {
+                "date": "2022-03-08",
+                "event": 8
+            },
+            {
+                "date": "2022-03-08",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB54",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Apportioning county commissioner districts.",
+        "description": "Apportioning county commissioner districts.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-13",
+                "committee_id": 1794,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Special Committee on Redistricting"
+            },
+            {
+                "date": "2022-01-18",
+                "committee_id": 3825,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Election Law and Municipal Affairs"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-13",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Special Committee on Redistricting House Journal  2 P. 55",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-09",
+                "action": "Public Hearing: 03/09/2021 10:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/94125334680 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-23",
+                "action": "Retained in Committee",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-11-09",
+                "action": "Executive Session: 11/16/2021 10:00 am Legislative Office Building 210-211",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-11-22",
+                "action": "Majority Committee Report: Ought to Pass with Amendment # 2021-2273h 11/16/2021 (Vote 10-5; Regular Calendar) House Calendar 48 P. 44",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-11-22",
+                "action": "Minority Committee Report: Ought to Pass with Amendment # 2021-2276h",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-10",
+                "action": "Special Order To next order of business (Rep. B. Griffin): Motion Adopted Voice Vote 01/05/2022 House Journal  1",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-10",
+                "action": "Reconsider Special order (Rep. Cali-Pitts): Motion Failed Regular Calendar 35-316 01/05/2022 House Journal  1",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-10",
+                "action": "Amendment # 2021-2273h: Amendment Adopted Voice Vote 01/05/2022 House Journal  1",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-10",
+                "action": "Amendment # 2021-2276h: Amendment Failed DV 157-182 01/05/2022 House Journal  1",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-10",
+                "action": "Ought to Pass with Amendment 2021-2273h: Motion Adopted DV 184-159 01/05/2022 House Journal  1",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-10",
+                "action": "Reconsider (Rep. Doucette): Motion Failed Voice Vote 01/05/2022 House Journal  1",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-18",
+                "action": "Introduced 01/05/2022 and Referred to Election Law and Municipal Affairs; Senate Journal 2",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-20",
+                "action": "Hearing: 01/26/2022, Room 103, State House, 01:45 pm; Senate Calendar  4",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-08",
+                "action": "Committee Report: Ought to Pass, 02/16/2022; Senate Calendar  7",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-02-16",
+                "action": "Sen. Soucy Floor Amendment # 2022-0713s, Regular Calendar 11Y-13N, Amendment Failed; 02/16/2022; Senate Journal 3",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-16",
+                "action": "Ought to Pass: Motion Adopted, Voice Vote; OT3rdg; 02/16/2022; Senate Journal 3",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-23",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 02/16/2022); Senate Journal 4",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-28",
+                "action": "Enrolled (in recess of) 02/17/2022 House Journal  3",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-08",
+                "action": "Signed by Governor Sununu 02/24/2022; Chapter 4; eff. 02/24/2022",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 17024,
+                "person_hash": "fstof3o4",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Barbara Griffin",
+                "first_name": "Barbara",
+                "middle_name": "",
+                "last_name": "Griffin",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-06-HIL",
+                "ftm_eid": 6433920,
+                "votesmart_id": 21526,
+                "opensecrets_id": "",
+                "knowwho_pid": 501712,
+                "ballotpedia": "Barbara_Griffin_(New_Hampshire)",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [
+            {
+                "type_id": 9,
+                "type": "Carry Over",
+                "sast_bill_number": "HB54",
+                "sast_bill_id": 1405709
+            }
+        ],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2481321,
+                "date": "2022-01-05",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB54/id/2481321",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&txtFormat=html&v=HA&id=609",
+                "text_size": 13241,
+                "text_hash": "bf5d5bec4d581f44f828adc5ce2182d3"
+            },
+            {
+                "doc_id": 2521160,
+                "date": "2022-01-05",
+                "type": "Enrolled",
+                "type_id": 5,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB54/id/2521160",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&v=SP&id=609",
+                "text_size": 13248,
+                "text_hash": "0492a8f6a60c70ee405f51be4a0ec242"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1148189,
+                "date": "2022-02-16",
+                "desc": "Committee Amendment 0713s",
+                "yea": 11,
+                "nay": 13,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 0,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/HB54/id/1148189",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=40&sy=2022&lb=S&eb=HB0054&sortoption=&txtsessionyear=2022&txtbillnumber=HB54&ddlsponsors=&lsr=632"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-09",
+                "time": "10:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Special Committee on Redistricting Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-11-16",
+                "time": "10:00",
+                "location": "Legislative Office Building 210-211",
+                "description": "Special Committee on Redistricting Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-26",
+                "time": "13:45",
+                "location": "Room 103, State House",
+                "description": "Election Law and Municipal Affairs Hearing"
+            }
+        ],
+        "full_text": "county commissioner districts rsa is repealed and reenacted to read as follows county commissioner districts except for strafford county where county commissioners shall be elected at large for the purposes of choosing county commissioners the counties shall be divided into districts as follows belknap district the towns of center harbor and meredith and the city of laconia wards and district the towns of belmont gilmanton new hampton sanbornton and tilton district the towns of alton barnstead and gilford and the city of laconia ward carroll district the towns of albany bartlett chatham conway hart s location jackson and sandwich and the unincorporated place of hale s location district the towns of madison moultonborough ossipee tamworth and tuftonboro district the towns of brookfield eaton effingham freedom wakefield and wolfeboro cheshire district the towns of chesterfield fitzwilliam hinsdale richmond swanzey troy and winchester district the towns of marlborough and roxbury and the city of keene district the towns of alstead dublin gilsum harrisville jaffrey marlow nelson rindge stoddard sullivan surry walpole and westmoreland coos district the city of berlin and the town of milan district the unincorporated place of kilkenny and the towns of dalton jefferson lancaster northumberland randolph and whitefield district the unincorporated places of atkinson and gilmanton academy grant bean s grant bean s purchase cambridge chandler s purchase crawford s purchase cutt s grant dix s grant dixville erving s location green s grant hadley s purchase low and burbank s grant martin s location odell pinkham s grant sargent s purchase second college grant success and thompson and meserve s purchase and the towns of carroll clarksville colebrook columbia dummer errol gorham millsfield pittsburg shelburne stark stewartstown stratford and wentworth s location grafton district the towns of enfield and hanover and the city of lebanon district the unincorporated place of livermore and the towns of bath benton bethlehem easton franconia haverhill landaff lincoln lisbon littleton lyman lyme monroe orford piermont sugar hill thornton waterville valley and woodstock district the towns of alexandria ashland bridgewater bristol campton canaan dorchester ellsworth grafton groton hebron holderness orange plymouth rumney warren and wentworth hillsborough district the towns of bedford and new boston and the city of manchester district the towns of hudson litchfield and pelham and the city of nashua district the towns of amherst antrim bennington brookline deering francestown goffstown greenfield greenville hancock hillsborough hollis lyndeborough mason merrimack milford mont vernon new ipswich peterborough sharon temple weare wilton and windsor merrimack district the town of bow and the city of concord district the towns of andover boscawen bradford canterbury chichester danbury hill loudon new london newbury northfield salisbury sutton warner webster and wilmot and the city of franklin district the towns of allenstown dunbarton epsom henniker hooksett hopkinton pembroke pittsfield rockingham district the towns of epping exeter greenland hampton hampton falls kensington new castle newfields newington newmarket north hampton rye and stratham and the city of portsmouth district the towns of atkinson derry newton plaistow salem seabrook south hampton and windham district the towns of auburn brentwood candia chester danville deerfield east kingston fremont hampstead kingston londonderry northwood nottingham raymond and sandown sullivan district the town of cornish and the city of claremont district the towns of croydon grantham newport plainfield and springfield district the towns of acworth charlestown goshen langdon lempster sunapee unity and washington application no provision of this act shall be construed as affecting the constituencies or terms of office of county commissioners presently in office if there shall be a vacancy in a county commissioner district for any reason prior to the state general election the vacancy shall be filled under the terms of rsa from the same county commissioner district that existed for the state general election the nomination and election of county commissioners at the state general election shall be by districts as provided in this act"
+    }
+}

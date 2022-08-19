@@ -1,0 +1,486 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1546423,
+        "change_hash": "8836fce290b1d96f8c9fe95058eb798d",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB307/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=553&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB307",
+        "completed": 0,
+        "status": 2,
+        "status_date": "2021-04-13",
+        "progress": [
+            {
+                "date": "2021-01-09",
+                "event": 1
+            },
+            {
+                "date": "2021-01-09",
+                "event": 9
+            },
+            {
+                "date": "2021-03-03",
+                "event": 10
+            },
+            {
+                "date": "2021-03-03",
+                "event": 11
+            },
+            {
+                "date": "2021-04-13",
+                "event": 2
+            },
+            {
+                "date": "2021-04-13",
+                "event": 9
+            },
+            {
+                "date": "2021-05-25",
+                "event": 9
+            },
+            {
+                "date": "2021-05-27",
+                "event": 9
+            },
+            {
+                "date": "2021-12-16",
+                "event": 10
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB307",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "S",
+        "current_body_id": 68,
+        "title": "Relative to the state preemption of the regulation of firearms and ammunition.",
+        "description": "Relative to the state preemption of the regulation of firearms and ammunition.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-09",
+                "committee_id": 1239,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Criminal Justice and Public Safety"
+            },
+            {
+                "date": "2021-04-13",
+                "committee_id": 1273,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Judiciary"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-09",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Criminal Justice and Public Safety House Journal  2 P. 43",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-28",
+                "action": "Public Hearing: 02/10/2021 11:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/99588247178 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-03",
+                "action": "Majority Committee Report: Ought to Pass with Amendment # 2021-0411h (Vote 11-9; Regular Calendar) House Calendar 18 P. 35",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-03",
+                "action": "Minority Committee Report: Inexpedient to Legislate",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Amendment # 2021-0411h: Amendment Adopted Regular Calendar 200-162 04/07/2021 House Journal  5 P. 148",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Ought to Pass with Amendment 2021-0411h: Motion Adopted Regular Calendar 191-162 04/07/2021 House Journal  5 P. 148",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-13",
+                "action": "Introduced 04/08/2021 and Referred to Judiciary; Senate Journal 12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-05-06",
+                "action": "Remote Hearing: 05/10/2021, 01:30 pm; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  23",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-25",
+                "action": "Committee Report: Rereferred to Committee, 05/27/2021; Senate Calendar  25A",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-05-27",
+                "action": "Rereferred to Committee, Motion Adopted, Voice Vote; 05/27/2021; Senate Journal 17",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-12-16",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-2288s, 01/05/2022; Senate Calendar  49",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-05",
+                "action": "Committee Amendment # 2021-2288s, Regular Calendar 14Y-10N, Amendment Adopted; 01/05/2022; Senate Journal 1",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-05",
+                "action": "Sen. Whitley Floor Amendment # 2021-2302s, Regular Calendar 12Y-12N, Amendment Failed; 01/05/2022; Senate Journal 1",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-05",
+                "action": "Sen. Bradley Moved to Reconsider the vote on: Sen. Whitley Floor Amendment #2021-2302, Motion Adopted, Voice Vote; 01/05/2022; Senate Journal 1",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-05",
+                "action": "Sen. Whitley Floor Amendment # 2021-2302s, Regular Calendar 10Y-14N, Amendment Failed; 01/05/2022; Senate Journal 1",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-05",
+                "action": "Ought to Pass with Amendment 2021-2288s, Regular Calendar 14Y-10N, Motion Adopted; OT3rdg; 01/05/2022; Senate Journal 1",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-05",
+                "action": "Sen. Whitley Floor Amendment # 2021-2307s, Regular Calendar 10Y-14N, Amendment Failed; 01/05/2022; Senate Journal 1",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-10",
+                "action": "House Non-Concurs with Senate Amendment 2021-2288s and Requests CofC (Reps. Abbas, Burt, Roy, Wallace): Motion Adopted Voice Vote 05/05/2022 House Journal  12",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-12",
+                "action": "Sen. Carson Accedes to House Request for Committee of Conference, Motion Adopted, Voice Vote; 05/12/2022; Senate Journal 12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-12",
+                "action": "President Appoints: Senators Carson, French, Kahn; 05/12/2022; Senate Journal 12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-17",
+                "action": "Conferee Change; Senator Whitley Replaces Senator Kahn; Senate Journal 13",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-18",
+                "action": "Conference Committee Meeting: 05/18/2022 09:00 am Legislative Office Building 201-203",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-23",
+                "action": "Conference Committee Report; Not Signed Off; Senate Journal 13",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 18162,
+                "person_hash": "69syqij2",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Norman Silber",
+                "first_name": "Norman",
+                "middle_name": "",
+                "last_name": "Silber",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-02-BEL",
+                "ftm_eid": 17005721,
+                "votesmart_id": 172402,
+                "opensecrets_id": "",
+                "knowwho_pid": 586968,
+                "ballotpedia": "Norman_Silber",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19788,
+                "person_hash": "u64uxl45",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Michael Yakubovich",
+                "first_name": "Michael",
+                "middle_name": "",
+                "last_name": "Yakubovich",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-24-MER",
+                "ftm_eid": 45378987,
+                "votesmart_id": 185288,
+                "opensecrets_id": "",
+                "knowwho_pid": 670727,
+                "ballotpedia": "Michael_Yakubovich",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19148,
+                "person_hash": "uoe1imz7",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Barbara Comtois",
+                "first_name": "Barbara",
+                "middle_name": "",
+                "last_name": "Comtois",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-07-BEL",
+                "ftm_eid": 6694842,
+                "votesmart_id": 172408,
+                "opensecrets_id": "",
+                "knowwho_pid": 587013,
+                "ballotpedia": "Barbara_Comtois",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 16624,
+                "person_hash": "5ydai6qf",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Linda Gould",
+                "first_name": "Linda",
+                "middle_name": "",
+                "last_name": "Gould",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-07-HIL",
+                "ftm_eid": 9711345,
+                "votesmart_id": 154475,
+                "opensecrets_id": "",
+                "knowwho_pid": 502379,
+                "ballotpedia": "Linda_Gould",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [
+            {
+                "type_id": 9,
+                "type": "Carry Over",
+                "sast_bill_number": "HB307",
+                "sast_bill_id": 1396097
+            }
+        ],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2481941,
+                "date": "2021-04-07",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB307/id/2481941",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&txtFormat=html&v=HA&id=536",
+                "text_size": 23780,
+                "text_hash": "667099cf42c1d1318fb44badd43cc86a"
+            },
+            {
+                "doc_id": 2517115,
+                "date": "2022-01-05",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB307/id/2517115",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&txtFormat=html&v=SA2&id=536",
+                "text_size": 24216,
+                "text_hash": "d64a4a2e81f515583b71537de856b4cd"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1122115,
+                "date": "2022-01-05",
+                "desc": "Committee Amendment",
+                "yea": 14,
+                "nay": 10,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/HB307/id/1122115",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=8&sy=2022&lb=S&eb=HB0307&sortoption=&txtsessionyear=2022&txtbillnumber=HB307&ddlsponsors=&lsr=553"
+            },
+            {
+                "roll_call_id": 1122116,
+                "date": "2022-01-05",
+                "desc": "Floor Amendment",
+                "yea": 12,
+                "nay": 12,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 0,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/HB307/id/1122116",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=9&sy=2022&lb=S&eb=HB0307&sortoption=&txtsessionyear=2022&txtbillnumber=HB307&ddlsponsors=&lsr=553"
+            },
+            {
+                "roll_call_id": 1122117,
+                "date": "2022-01-05",
+                "desc": "Floor Amendment",
+                "yea": 10,
+                "nay": 14,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 0,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/HB307/id/1122117",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=10&sy=2022&lb=S&eb=HB0307&sortoption=&txtsessionyear=2022&txtbillnumber=HB307&ddlsponsors=&lsr=553"
+            },
+            {
+                "roll_call_id": 1122118,
+                "date": "2022-01-05",
+                "desc": "Floor Amendment",
+                "yea": 10,
+                "nay": 14,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 0,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/HB307/id/1122118",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=11&sy=2022&lb=S&eb=HB0307&sortoption=&txtsessionyear=2022&txtbillnumber=HB307&ddlsponsors=&lsr=553"
+            },
+            {
+                "roll_call_id": 1122119,
+                "date": "2022-01-05",
+                "desc": "Ought to Pass w/Amendment",
+                "yea": 14,
+                "nay": 10,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/HB307/id/1122119",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=12&sy=2022&lb=S&eb=HB0307&sortoption=&txtsessionyear=2022&txtbillnumber=HB307&ddlsponsors=&lsr=553"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-10",
+                "time": "11:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Criminal Justice and Public Safety Public Hearing"
+            }
+        ]
+    }
+}

@@ -1,0 +1,246 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1542789,
+        "change_hash": "1e53c71933479166778a050f93de5398",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1494/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2551&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1494",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-12-03",
+        "progress": [
+            {
+                "date": "2021-12-03",
+                "event": 1
+            },
+            {
+                "date": "2021-12-03",
+                "event": 9
+            },
+            {
+                "date": "2022-02-24",
+                "event": 11
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1494",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to a property tax exemption concerning certain communications services leases.",
+        "description": "Relative to a property tax exemption concerning certain communications services leases.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-12-03",
+                "committee_id": 1264,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Ways and Means"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-12-03",
+                "action": "Introduced 01/05/2022 and referred to Ways and Means",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-13",
+                "action": "Public Hearing: 01/20/2022 01:00 pm Legislative Office Building 202-204",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-19",
+                "action": "Full Committee Work Session: 01/26/2022 09:30 am Legislative Office Building 202-204",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-26",
+                "action": "Full Committee Work Session: 02/02/2022 09:00 am Legislative Office Building 202-204",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-03",
+                "action": "Full Committee Work Session: 02/10/2022 09:30 am Legislative Office Building 202-204",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-24",
+                "action": "Committee Report: Inexpedient to Legislate (Vote 19-0; Consent Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-11",
+                "action": "Inexpedient to Legislate: Motion Adopted Voice Vote 03/10/2022 House Journal  5",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 17495,
+                "person_hash": "9stsskue",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Michael Vose",
+                "first_name": "Michael",
+                "middle_name": "",
+                "last_name": "Vose",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-09-ROC",
+                "ftm_eid": 25005609,
+                "votesmart_id": 154583,
+                "opensecrets_id": "",
+                "knowwho_pid": 503499,
+                "ballotpedia": "Michael_Vose",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 14478,
+                "person_hash": "1kegb9fu",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Glenn Cordelli",
+                "first_name": "Glenn",
+                "middle_name": "",
+                "last_name": "Cordelli",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-04-CAR",
+                "ftm_eid": 13703548,
+                "votesmart_id": 143307,
+                "opensecrets_id": "",
+                "knowwho_pid": 427994,
+                "ballotpedia": "Glenn_Cordelli",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 10920,
+                "person_hash": "ocox7vyt",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Jeanine Notter",
+                "first_name": "Jeanine",
+                "middle_name": "M.",
+                "last_name": "Notter",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-21-HIL",
+                "ftm_eid": 13004224,
+                "votesmart_id": 122804,
+                "opensecrets_id": "",
+                "knowwho_pid": 296536,
+                "ballotpedia": "Jeanine_Notter",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2461412,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1494/id/2461412",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1644&txtFormat=html",
+                "text_size": 12888,
+                "text_hash": "1cce604d002a7ddeb0b90c9425d24c5f"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-20",
+                "time": "13:00",
+                "location": "Legislative Office Building 202-204",
+                "description": "Ways and Means Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-26",
+                "time": "09:30",
+                "location": "Legislative Office Building 202-204",
+                "description": "Ways and Means Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-02",
+                "time": "09:00",
+                "location": "Legislative Office Building 202-204",
+                "description": "Ways and Means Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-10",
+                "time": "09:30",
+                "location": "Legislative Office Building 202-204",
+                "description": "Ways and Means Work Session"
+            }
+        ]
+    }
+}

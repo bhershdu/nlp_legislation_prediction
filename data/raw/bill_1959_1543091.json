@@ -1,0 +1,171 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1543091,
+        "change_hash": "a8aa2d817120ba60a0f56c6519f8f2bd",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1640/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2281&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1640",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-12-27",
+        "progress": [
+            {
+                "date": "2021-12-27",
+                "event": 1
+            },
+            {
+                "date": "2021-12-27",
+                "event": 9
+            },
+            {
+                "date": "2022-01-20",
+                "event": 11
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1640",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to the payment of motor vehicle fines.",
+        "description": "Relative to the payment of motor vehicle fines.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-12-27",
+                "committee_id": 1263,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Transportation"
+            },
+            {
+                "date": "2022-02-17",
+                "committee_id": 1244,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Finance"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-12-27",
+                "action": "Introduced 01/05/2022 and referred to Transportation",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-13",
+                "action": "Public Hearing: 01/18/2022 01:00 pm Legislative Office Building 201-203",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-20",
+                "action": "Committee Report: Inexpedient to Legislate (Vote ; 13-0)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-27",
+                "action": "Executive Session: 01/18/2022 01:00 pm Legislative Office Building 205-207",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-16",
+                "action": "Inexpedient to Legislate: Motion Adopted Voice Vote 02/16/2022 House Journal  3",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 21792,
+                "person_hash": "0vmft5br",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Cody Belanger",
+                "first_name": "Cody",
+                "middle_name": "",
+                "last_name": "Belanger",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-09-ROC",
+                "ftm_eid": 47921475,
+                "votesmart_id": 186713,
+                "opensecrets_id": "",
+                "knowwho_pid": 744354,
+                "ballotpedia": "Cody_Belanger",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2462345,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1640/id/2462345",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1374&txtFormat=html",
+                "text_size": 19940,
+                "text_hash": "06b7f757a89cac375e8735eaf041a1fe"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-18",
+                "time": "13:00",
+                "location": "Legislative Office Building 201-203",
+                "description": "Transportation Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-18",
+                "time": "13:00",
+                "location": "Legislative Office Building 205-207",
+                "description": "Transportation Executive Session"
+            }
+        ]
+    }
+}

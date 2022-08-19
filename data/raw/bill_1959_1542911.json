@@ -1,0 +1,250 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1542911,
+        "change_hash": "829777bf71d4f04ae937787194a643a6",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1506/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2805&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1506",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-12-03",
+        "progress": [
+            {
+                "date": "2021-12-03",
+                "event": 1
+            },
+            {
+                "date": "2021-12-03",
+                "event": 9
+            },
+            {
+                "date": "2022-02-09",
+                "event": 11
+            },
+            {
+                "date": "2022-02-09",
+                "event": 10
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1506",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Establishing a revolving clean energy accelerator fund in the department of energy.",
+        "description": "Establishing a revolving clean energy accelerator fund in the department of energy.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-12-03",
+                "committee_id": 1261,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Science, Technology and Energy"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-12-03",
+                "action": "Introduced 01/05/2022 and referred to Science, Technology and Energy",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-11",
+                "action": "Public Hearing: 01/11/2022 1:00 p.m. Legislative Office Building306-308",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-07",
+                "action": "Executive Session: 02/07/2022 2:00 p.m. Legislative Office Building306-308",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-09",
+                "action": "Committee Report: Inexpedient to Legislate (Vote 12-9; Regular Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-02-09",
+                "action": "Minority Committee Report: Ought to Pass",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-02-22",
+                "action": "Lay HB1506 on Table (Rep. Vose): Motion Adopted DV 183-166 02/17/2022 House Journal  4",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-21",
+                "action": "Remove from Table (Rep. McWilliams): Motion Failed Regular Calendar 147-184 04/21/2022 House Journal  10",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 19743,
+                "person_hash": "ryfcko8x",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Rebecca McWilliams",
+                "first_name": "Rebecca",
+                "middle_name": "",
+                "last_name": "McWilliams",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-27-MER",
+                "ftm_eid": 45378835,
+                "votesmart_id": 185383,
+                "opensecrets_id": "",
+                "knowwho_pid": 670731,
+                "ballotpedia": "Rebecca_McWilliams",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 5039,
+                "person_hash": "wsg4iz9c",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Mary Walz",
+                "first_name": "Mary",
+                "middle_name": "Beth",
+                "last_name": "Walz",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-23-MER",
+                "ftm_eid": 6464009,
+                "votesmart_id": 42845,
+                "opensecrets_id": "",
+                "knowwho_pid": 228853,
+                "ballotpedia": "Mary_Beth_Walz",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19829,
+                "person_hash": "2ajjrn2j",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Jacqueline Chretien",
+                "first_name": "Jacqueline",
+                "middle_name": "",
+                "last_name": "Chretien",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-42-HIL",
+                "ftm_eid": 45378663,
+                "votesmart_id": 185371,
+                "opensecrets_id": "",
+                "knowwho_pid": 670677,
+                "ballotpedia": "Jacqueline_Chretien",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2461533,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1506/id/2461533",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1898&txtFormat=html",
+                "text_size": 41319,
+                "text_hash": "455f82f49451edd7102d05095176d811"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1191641,
+                "date": "2022-04-21",
+                "desc": "Remove From Table",
+                "yea": 147,
+                "nay": 184,
+                "nv": 22,
+                "absent": 36,
+                "total": 389,
+                "passed": 0,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/HB1506/id/1191641",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=195&sy=2022&lb=H&eb=HB1506&sortoption=&txtsessionyear=2022&txtbillnumber=HB1506&ddlsponsors=&lsr=2805"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-11",
+                "time": "13:00",
+                "location": "Legislative Office Building306-308",
+                "description": "Science, Technology and Energy Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-07",
+                "time": "14:00",
+                "location": "Legislative Office Building306-308",
+                "description": "Science, Technology and Energy Executive Session"
+            }
+        ]
+    }
+}

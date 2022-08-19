@@ -1,0 +1,197 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1542669,
+        "change_hash": "c54bdde318d6cc6ac2202f63abc50354",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/CACR25/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2211&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=CACR25",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-11-18",
+        "progress": [
+            {
+                "date": "2021-11-18",
+                "event": 1
+            },
+            {
+                "date": "2021-11-18",
+                "event": 9
+            },
+            {
+                "date": "2022-03-04",
+                "event": 11
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "CACR25",
+        "bill_type": "CA",
+        "bill_type_id": "7",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Legislative term limits.  Providing that no person shall serve more than 15 terms in either the house of representatives or the senate.",
+        "description": "Legislative term limits.  Providing that no person shall serve more than 15 terms in either the house of representatives or the senate.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-11-18",
+                "committee_id": 1255,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Legislative Administration"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-11-18",
+                "action": "Introduced 01/05/2022 and referred to Legislative Administration",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-12",
+                "action": "Public Hearing: 01/12/2022 11:30 a.m. Legislative Office Building301-303",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-04",
+                "action": "Executive Session: 01/12/2022 11:30 am Legislative Office Building301-303",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-04",
+                "action": "Committee Report: Inexpedient to Legislate (Vote 15-0; Consent Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-21",
+                "action": "Removed from Consent (Rep. Labranche) 03/15/2022 House Journal  6",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-31",
+                "action": "Inexpedient to Legislate: Motion Adopted DV 301-40 03/31/2022 House Journal  9",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 21835,
+                "person_hash": "obohez3u",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Tony Labranche",
+                "first_name": "Tony",
+                "middle_name": "",
+                "last_name": "Labranche",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-22-HIL",
+                "ftm_eid": 50226570,
+                "votesmart_id": 194956,
+                "opensecrets_id": "",
+                "knowwho_pid": 744546,
+                "ballotpedia": "Tony_Labranche",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21837,
+                "person_hash": "d4m83bpi",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Stacie-Marie Laughton",
+                "first_name": "Stacie-Marie",
+                "middle_name": "",
+                "last_name": "Laughton",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-31-HIL",
+                "ftm_eid": 50226645,
+                "votesmart_id": 141745,
+                "opensecrets_id": "",
+                "knowwho_pid": 426621,
+                "ballotpedia": "Stacie-Marie_Laughton",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2461294,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/CACR25/id/2461294",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1304&txtFormat=html",
+                "text_size": 11553,
+                "text_hash": "55f75a3fd27ce4625685896e6376afe0"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-12",
+                "time": "11:30",
+                "location": "Legislative Office Building301-303",
+                "description": "Legislative Administration Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-12",
+                "time": "11:30",
+                "location": "Legislative Office Building301-303",
+                "description": "Legislative Administration Executive Session"
+            }
+        ]
+    }
+}

@@ -1,0 +1,190 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1542902,
+        "change_hash": "2826e6835e785cd2f2b8412501ca138a",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1232/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2423&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1232",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-11-18",
+        "progress": [
+            {
+                "date": "2021-11-18",
+                "event": 1
+            },
+            {
+                "date": "2021-11-18",
+                "event": 9
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1232",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Reducing the penalty for first offense drug possession and repealing certain mandatory minimum sentences.",
+        "description": "Reducing the penalty for first offense drug possession and repealing certain mandatory minimum sentences.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-11-18",
+                "committee_id": 1239,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Criminal Justice and Public Safety"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-11-18",
+                "action": "Introduced 01/05/2022 and referred to Criminal Justice and Public Safety",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-08",
+                "action": "Public Hearing: 01/12/2022 01:45 pm Legislative Office Building 202-204",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-27",
+                "action": "Executive Session: 01/12/2022 01:00 pm Legislative Office Building 205-207",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-19",
+                "action": "Committee Report: Refer for Interim Study (Vote 17-1; Consent Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-11",
+                "action": "Refer for Interim Study: Motion Adopted Voice Vote 03/10/2022",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-02",
+                "action": "Full Committee Work Session: 06/02/2022 10:00 am Legislative Office Building 202-204",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-06-08",
+                "action": "Executive Session: 06/02/2022 09:30 am Legislative Office Building 205-207",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 10931,
+                "person_hash": "qw6kqc7b",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Mark Warden",
+                "first_name": "Mark",
+                "middle_name": "",
+                "last_name": "Warden",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-39-HIL",
+                "ftm_eid": 9715337,
+                "votesmart_id": 122391,
+                "opensecrets_id": "",
+                "knowwho_pid": 296507,
+                "ballotpedia": "Mark_Warden",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2461524,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1232/id/2461524",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1516&txtFormat=html",
+                "text_size": 35267,
+                "text_hash": "f9c73cdf2f0f320fce674b0703fc3ea7"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-12",
+                "time": "13:45",
+                "location": "Legislative Office Building 202-204",
+                "description": "Criminal Justice and Public Safety Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-12",
+                "time": "13:00",
+                "location": "Legislative Office Building 205-207",
+                "description": "Criminal Justice and Public Safety Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-06-02",
+                "time": "10:00",
+                "location": "Legislative Office Building 202-204",
+                "description": "Criminal Justice and Public Safety Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-06-02",
+                "time": "09:30",
+                "location": "Legislative Office Building 205-207",
+                "description": "Criminal Justice and Public Safety Executive Session"
+            }
+        ]
+    }
+}

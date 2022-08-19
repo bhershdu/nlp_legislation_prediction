@@ -1,0 +1,227 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1543464,
+        "change_hash": "de0ef05704978a8816c2c6f121cb8fae",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1557/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2552&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1557",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-12-14",
+        "progress": [
+            {
+                "date": "2021-12-14",
+                "event": 1
+            },
+            {
+                "date": "2021-12-14",
+                "event": 9
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1557",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to survivor benefit optional allowances under the retirement system.",
+        "description": "Relative to survivor benefit optional allowances under the retirement system.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-12-14",
+                "committee_id": 1243,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Executive Departments and Administration"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-12-14",
+                "action": "Introduced 01/05/2022 and referred to Executive Departments and Administration",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-13",
+                "action": "Public Hearing: 01/25/2022 10:45 am Legislative Office Building 302-304",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-08",
+                "action": "Executive Session: 01/25/2022 10:45 am Legislative Office Building 302-304",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-08",
+                "action": "Committee Report: Refer for Interim Study (Vote 18-0; Consent Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-16",
+                "action": "Refer for Interim Study: Motion Adopted Voice Vote House Journal  3",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-06",
+                "action": "Interim Study Subcommittee Work Session: 05/24/2022 10:30 am Legislative Office Building 302-304",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 5040,
+                "person_hash": "opq5ppvl",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Jeffrey Goley",
+                "first_name": "Jeffrey",
+                "middle_name": "",
+                "last_name": "Goley",
+                "suffix": "",
+                "nickname": "Jeff",
+                "district": "HD-08-HIL",
+                "ftm_eid": 6394409,
+                "votesmart_id": 14617,
+                "opensecrets_id": "",
+                "knowwho_pid": 228771,
+                "ballotpedia": "Jeffrey_Goley",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19842,
+                "person_hash": "5wzmz1si",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Stephen Pearson",
+                "first_name": "Stephen",
+                "middle_name": "",
+                "last_name": "Pearson",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-06-ROC",
+                "ftm_eid": 13004253,
+                "votesmart_id": 173061,
+                "opensecrets_id": "",
+                "knowwho_pid": 587615,
+                "ballotpedia": "Stephen_Pearson",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4955,
+                "person_hash": "ivx9pciv",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Dianne Schuett",
+                "first_name": "Dianne",
+                "middle_name": "E.",
+                "last_name": "Schuett",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-20-MER",
+                "ftm_eid": 6494657,
+                "votesmart_id": 109892,
+                "opensecrets_id": "",
+                "knowwho_pid": 269368,
+                "ballotpedia": "Dianne_Schuett",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2462069,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1557/id/2462069",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1645&txtFormat=html",
+                "text_size": 10737,
+                "text_hash": "7754acee616d00b013dfc1abd36ec78b"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-25",
+                "time": "10:45",
+                "location": "Legislative Office Building 302-304",
+                "description": "Executive Departments and Administration Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-25",
+                "time": "10:45",
+                "location": "Legislative Office Building 302-304",
+                "description": "Executive Departments and Administration Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-05-24",
+                "time": "10:30",
+                "location": "Legislative Office Building 302-304",
+                "description": "Executive Departments and Administration Work Session"
+            }
+        ]
+    }
+}

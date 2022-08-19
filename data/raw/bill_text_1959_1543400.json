@@ -1,0 +1,411 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1543400,
+        "change_hash": "275f7975606e670ae9b9dbcbc7bbd67d",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1397/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2680&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1397",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2022-07-07",
+        "progress": [
+            {
+                "date": "2021-12-01",
+                "event": 1
+            },
+            {
+                "date": "2021-12-01",
+                "event": 9
+            },
+            {
+                "date": "2022-02-09",
+                "event": 10
+            },
+            {
+                "date": "2022-03-01",
+                "event": 2
+            },
+            {
+                "date": "2022-03-01",
+                "event": 9
+            },
+            {
+                "date": "2022-04-27",
+                "event": 10
+            },
+            {
+                "date": "2022-06-22",
+                "event": 3
+            },
+            {
+                "date": "2022-07-07",
+                "event": 8
+            },
+            {
+                "date": "2022-07-07",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1397",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to the length of terms for Rockingham county officers.",
+        "description": "Relative to the length of terms for Rockingham county officers.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-12-01",
+                "committee_id": 1257,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Municipal and County Government"
+            },
+            {
+                "date": "2022-03-01",
+                "committee_id": 3825,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Election Law and Municipal Affairs"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-12-01",
+                "action": "Introduced 01/05/2022 and referred to Municipal and County Government",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-13",
+                "action": "Public Hearing: 01/13/2022 1:00 p.m. Legislative Office Building301-303",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-24",
+                "action": "Executive Session: 01/24/2022 10:00 a.m. Legislative Office Building301-303",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-09",
+                "action": "Committee Report: Ought to Pass with Amendment # 2022-0120h (NT) (Vote 19-0; Consent Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-02-16",
+                "action": "Amendment # 2022-0120h: Amendment Failed DV 150-189 02/17/2022 House Journal  4",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-18",
+                "action": "Ought to Pass: Motion Adopted DV 216-124 02/17/2022 House Journal  4",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-01",
+                "action": "Introduced 02/24/2022 and Referred to Election Law and Municipal Affairs; Senate Journal 5",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-09",
+                "action": "Hearing: 03/14/2022, Room 100, State House, 01:15 pm; Senate Calendar  11",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-21",
+                "action": "Removed from Consent (Rep. Stapleton) 02/16/2022 House Journal  3",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-14",
+                "action": "Hearing: 04/18/2022, Room 100, State House, 01:00 pm, on proposed amendment # 2022-1218s; Senate Calendar  16",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-27",
+                "action": "Committee Report: Ought to Pass with Amendment # 2022-1798s, 05/05/2022; Senate Calendar  18",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-05-05",
+                "action": "Committee Amendment # 2022-1798s, Amendment Failed, Voice Vote; 05/05/2022; Senate Journal 11",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-05",
+                "action": "Sen. Giuda Floor Amendment # 2022-1948s, Amendment Adopted, Voice Vote; 05/05/2022; Senate Journal 11",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-05",
+                "action": "Ought to Pass with Amendment 2022-1948s, Motion Adopted, Voice Vote; OT3rdg; 05/05/2022; Senate Journal 11",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-10",
+                "action": "House Non-Concurs with Senate Amendment 2022-1948s (Reps. Dolan, Pauer, Maggiore, Lascelles): Motion Adopted Voice Vote 05/05/2022 House Journal  12",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-12",
+                "action": "Sen. Gray Accedes to House Request for Committee of Conference, Motion Adopted, Voice Vote; 05/12/2022; Senate Journal 12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-12",
+                "action": "President Appoints: Senators Birdsell, Giuda, Perkins Kwoka; 05/12/2022; Senate Journal 12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-13",
+                "action": "Conferee Change: Rep. Piemonte Replaces Rep. Lascelles 05/13/2022",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-18",
+                "action": "==RECESSED== Conference Committee Meeting: 05/18/2022 02:30 pm Legislative Office Building 202-204",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-19",
+                "action": "Conference Committee Meeting: 05/19/2022 10:00 am Legislative Office Building 205-207",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-19",
+                "action": "Conferee Change: Rep. Doucette Replaces Rep. Piemonte 05/19/2022",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-19",
+                "action": "Conferee Change; Senator Morse Replaces Senator Giuda; Senate Journal 13",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-19",
+                "action": "Conference Committee Report Filed, # 2022-2075c; 05/26/2022",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-26",
+                "action": "Conference Committee Report # 2022-2075c, Adopted, Voice Vote; 05/26/2022; Senate Journal 13",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-26",
+                "action": "Conference Committee Report 2022-2075c: Adopted, Voice Vote 05/26/2022 House Journal  14",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-06-22",
+                "action": "Enrolled (in recess of) 05/26/2022 House Journal  14",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-06-22",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 05/26/2022); Senate Journal 13",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-07-07",
+                "action": "Signed by Governor Sununu 07/01/2022; Chapter 283; eff. 08/30/2022 House Journal  14",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 19793,
+                "person_hash": "7zsy50zf",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Tom Dolan",
+                "first_name": "Tom",
+                "middle_name": "",
+                "last_name": "Dolan",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-05-ROC",
+                "ftm_eid": 45378691,
+                "votesmart_id": 185508,
+                "opensecrets_id": "",
+                "knowwho_pid": 670616,
+                "ballotpedia": "Tom_Dolan",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 16696,
+                "person_hash": "rsvjzse8",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Douglas Thomas",
+                "first_name": "Douglas",
+                "middle_name": "",
+                "last_name": "Thomas",
+                "suffix": "",
+                "nickname": "Doug",
+                "district": "HD-05-ROC",
+                "ftm_eid": 16015398,
+                "votesmart_id": 154549,
+                "opensecrets_id": "",
+                "knowwho_pid": 502642,
+                "ballotpedia": "Doug_Thomas",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2462007,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1397/id/2462007",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1773&txtFormat=html",
+                "text_size": 8780,
+                "text_hash": "8d254ffa145c36b9cbd6f5af3a0a0ce0"
+            },
+            {
+                "doc_id": 2581000,
+                "date": "2022-05-05",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1397/id/2581000",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&txtFormat=html&v=SA&id=1773",
+                "text_size": 14510,
+                "text_hash": "55b6a712c78d7803beef8803a81c9e6a"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-13",
+                "time": "13:00",
+                "location": "Legislative Office Building301-303",
+                "description": "Municipal and County Government Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-24",
+                "time": "10:00",
+                "location": "Legislative Office Building301-303",
+                "description": "Municipal and County Government Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-03-14",
+                "time": "13:15",
+                "location": "Room 100, State House",
+                "description": "Election Law and Municipal Affairs Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-04-18",
+                "time": "13:00",
+                "location": "Room 100, State House",
+                "description": "Election Law and Municipal Affairs Hearing"
+            }
+        ],
+        "full_text": "county attorneys length of term amend rsa to read as follows election temporary vacancies there shall be a county attorney for each county who shall be a member of the new hampshire bar elected biennially by the voters of the county provided that at the state general election and at each subsequent state general election the county attorney for rockingham county shall be chosen in the county by the voters for a term if the county attorney is absent at any term of court or unable to discharge the duties of the office the superior court acting as a body shall appoint a county attorney who shall be a member of the new hampshire bar for the time being and allow said appointee such compensation for his or her services as set by the county delegation elected for term amend rsa v to read as follows one sheriff one county attorney one county treasurer one register of deeds and one register of probate by the voters in each county provided that at the state general election and at each subsequent state general election any such officer in rockingham county shall be chosen in the county by the voters for a term gunstock area commission commission member elections rsa as amended by is repealed and reenacted to read as follows commission member elections members of the commission shall be chosen by election held in conjunction with the state general election provided that the members elections shall be with candidates listed on a ballot that may be part of the regular ballot at the discretion of the secretary of state members of the commission shall be chosen for terms the november election shall fill any vacancy occurring in and the november election shall replace those commissioners whose terms expire in and the election shall replace the commissioner whose term expires in all future election cycles will continue with this sequence currently serving commissioners are eligible to run for during this transition each member shall continue in office until his or her successor has been elected and qualified and each member shall be subject to removal for cause by a vote of the county commissioners after public hearing no commissioner may serve more than consecutive terms gunstock area commission vacancies rsa is repealed and reenacted to read as follows vacancies if a vacancy occurs in said commission it shall be filled by a candidate appointed by majority vote of the county commissioners until the next general election at which time the voters will elect a commissioner to serve the unexpired remainder of the term new paragraph gunstock area commission quarterly report amend rsa as amended by by inserting after paragraph f the following new paragraph g at the beginning of each quarter by the th of the month the commission shall submit a financial and operations report to the following entities the county delegation the county commissioners and the clerk of every town and city in belknap county the report shall include but shall not be limited to a summary of profits or losses and the status of all capital projects gunstock area commission reference changes amend rsa to read as follows powers of the county commissioners as long as this chapter shall be in effect and upon the appointment of a commission by the appointive agency the county commissioners of belknap county shall be relieved of all duties and responsibilities with respect to the operation and maintenance of the area present assets loans and other obligations upon the appointment of a commission by the appointive agency all all money then held by the county of belknap for the account of the area shall be considered transferred to the commission for the purposes of this chapter which shall include any accounts which are kept as capital reserve accounts or accounts known as belknap county recreational area fund and any obligation for the payment of any outstanding serial notes or bonds or any other current bills at such time shall be considered to have been transferred to the commission and shall be payable out of future revenues the remainder of this act shall take effect upon its passage"
+    }
+}

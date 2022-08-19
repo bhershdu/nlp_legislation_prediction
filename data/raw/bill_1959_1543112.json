@@ -1,0 +1,386 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1543112,
+        "change_hash": "fbd68323ba7b660c987d690f654aa247",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1237/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2523&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1237",
+        "completed": 0,
+        "status": 2,
+        "status_date": "2022-04-05",
+        "progress": [
+            {
+                "date": "2021-11-18",
+                "event": 1
+            },
+            {
+                "date": "2021-11-18",
+                "event": 9
+            },
+            {
+                "date": "2022-02-07",
+                "event": 10
+            },
+            {
+                "date": "2022-02-07",
+                "event": 11
+            },
+            {
+                "date": "2022-02-24",
+                "event": 9
+            },
+            {
+                "date": "2022-03-21",
+                "event": 10
+            },
+            {
+                "date": "2022-04-05",
+                "event": 2
+            },
+            {
+                "date": "2022-04-05",
+                "event": 9
+            },
+            {
+                "date": "2022-04-19",
+                "event": 11
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1237",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "S",
+        "current_body_id": 68,
+        "title": "Relative to the definition of cigar bar.",
+        "description": "Relative to the definition of cigar bar.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-11-18",
+                "committee_id": 1238,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Commerce and Consumer Affairs"
+            },
+            {
+                "date": "2022-02-24",
+                "committee_id": 1264,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Ways and Means"
+            },
+            {
+                "date": "2022-04-05",
+                "committee_id": 1780,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Commerce"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-11-18",
+                "action": "Introduced 01/05/2022 and referred to Commerce and Consumer Affairs",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-13",
+                "action": "Public Hearing: 01/19/2022 09:45 am Legislative Office Building 302-304",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-19",
+                "action": "Subcommittee Work Session: 01/26/2022 10:30 am Legislative Office Building 302-304",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-27",
+                "action": "Subcommittee Work Session: 02/02/2022 09:15 am Legislative Office Building 302-304",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-02",
+                "action": "Executive Session: 02/02/2022 1:15 p.m. Legislative Office Building302-304",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-07",
+                "action": "Majority Committee Report: Ought to Pass with Amendment # 2022-0428h (NT) (Vote 16-3; Regular Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-02-07",
+                "action": "Minority Committee Report: Inexpedient to Legislate",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-02-18",
+                "action": "Ought to Pass with Amendment 2022-0428h: Motion Adopted Voice Vote 02/16/2022 House Journal  3",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-23",
+                "action": "Amendment # 2022-0428h: Amendment Adopted Voice Vote 02/16/2022 House Journal  3",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-24",
+                "action": "Referred to Ways and Means 02/16/2022 House Journal  3",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-14",
+                "action": "Full Committee Work Session: 03/18/2022 10:00 am Legislative Office Building 202-204",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-18",
+                "action": "Full Committee Work Session: 03/21/2022 10:00 am Legislative Office Building 202-204",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-18",
+                "action": "==CANCELLED== Full Committee Work Session: 03/23/2022 10:00 am Legislative Office Building 202-204",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-21",
+                "action": "Committee Report: Ought to Pass (Vote 16-0; Consent Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-31",
+                "action": "Ought to Pass: Motion Adopted Voice Vote 03/31/2022 House Journal  9",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-05",
+                "action": "Introduced 03/31/2022 and Referred to Commerce; Senate Journal 8",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-04-05",
+                "action": "Hearing: 04/12/2022, Room 100, State House, 09:20 am; Senate Calendar  15",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-19",
+                "action": "Committee Report: Inexpedient to Legislate, 04/28/2022; Senate Calendar  17",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-04-28",
+                "action": "Inexpedient to Legislate, Motion Adopted, Voice Vote === BILL KILLED ===; 04/28/2022; Senate Journal 10",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 5024,
+                "person_hash": "pj10rgq1",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "John Cloutier",
+                "first_name": "John",
+                "middle_name": "R.",
+                "last_name": "Cloutier",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-10-SUL",
+                "ftm_eid": 6394097,
+                "votesmart_id": 4985,
+                "opensecrets_id": "",
+                "knowwho_pid": 197011,
+                "ballotpedia": "John_Cloutier",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19888,
+                "person_hash": "vk9nhh38",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Walter Stapleton",
+                "first_name": "Walter",
+                "middle_name": "A.",
+                "last_name": "Stapleton",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-05-SUL",
+                "ftm_eid": 19883519,
+                "votesmart_id": 173079,
+                "opensecrets_id": "",
+                "knowwho_pid": 587780,
+                "ballotpedia": "Walter_Stapleton_(New_Hampshire)",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2461728,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1237/id/2461728",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1616&txtFormat=html",
+                "text_size": 20700,
+                "text_hash": "9b0490316f7371b9187bfe0d2e2cb27e"
+            },
+            {
+                "doc_id": 2523159,
+                "date": "2022-02-16",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1237/id/2523159",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&txtFormat=html&v=HA&id=1616",
+                "text_size": 19480,
+                "text_hash": "ea937622234f15e69641f2a2edeb79ee"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-19",
+                "time": "09:45",
+                "location": "Legislative Office Building 302-304",
+                "description": "Commerce and Consumer Affairs Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-26",
+                "time": "10:30",
+                "location": "Legislative Office Building 302-304",
+                "description": "Commerce and Consumer Affairs Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-02",
+                "time": "13:15",
+                "location": "Legislative Office Building302-304",
+                "description": "Commerce and Consumer Affairs Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-02",
+                "time": "09:15",
+                "location": "Legislative Office Building 302-304",
+                "description": "Commerce and Consumer Affairs Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-03-18",
+                "time": "10:00",
+                "location": "Legislative Office Building 202-204",
+                "description": "Ways and Means Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-03-21",
+                "time": "10:00",
+                "location": "Legislative Office Building 202-204",
+                "description": "Ways and Means Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-03-23",
+                "time": "10:00",
+                "location": "Legislative Office Building 202-204",
+                "description": "(CANCELLED) Ways and Means Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-04-12",
+                "time": "09:20",
+                "location": "Room 100, State House",
+                "description": "Commerce Hearing"
+            }
+        ]
+    }
+}

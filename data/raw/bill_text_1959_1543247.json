@@ -1,0 +1,191 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1543247,
+        "change_hash": "e68ecf5702a959915b9863f00fd364cb",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1068/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2126&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1068",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-11-02",
+        "progress": [
+            {
+                "date": "2021-11-02",
+                "event": 1
+            },
+            {
+                "date": "2021-11-02",
+                "event": 9
+            },
+            {
+                "date": "2022-03-03",
+                "event": 11
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1068",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to building codes for tiny houses.",
+        "description": "Relative to building codes for tiny houses.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-11-02",
+                "committee_id": 1257,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Municipal and County Government"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-11-02",
+                "action": "To Be Introduced 01/05/2022 and referred to Municipal and County Government",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-02-15",
+                "action": "Public Hearing: 02/15/2022 9:30 a.m. Legislative Office Building301-303",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-15",
+                "action": "Executive Session: 02/15/2022 09:30 am Legislative Office Building301-303",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-03",
+                "action": "Committee Report: Inexpedient to Legislate (Vote 15-0; Consent Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-11",
+                "action": "Inexpedient to Legislate: Motion Adopted Voice Vote 03/10/2022 House Journal  5",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 18802,
+                "person_hash": "mzg77iv9",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Dave Testerman",
+                "first_name": "Dave",
+                "middle_name": "",
+                "last_name": "Testerman",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-02-MER",
+                "ftm_eid": 41757550,
+                "votesmart_id": 172475,
+                "opensecrets_id": "",
+                "knowwho_pid": 587505,
+                "ballotpedia": "Dave_Testerman",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19871,
+                "person_hash": "s68lmcsc",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Jim Maggiore",
+                "first_name": "Jim",
+                "middle_name": "",
+                "last_name": "Maggiore",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-22-ROC",
+                "ftm_eid": 41772679,
+                "votesmart_id": 172400,
+                "opensecrets_id": "",
+                "knowwho_pid": 586928,
+                "ballotpedia": "Jim_Maggiore_(New_Hampshire_House)",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2461860,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1068/id/2461860",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1219&txtFormat=html",
+                "text_size": 13199,
+                "text_hash": "0da048eef868d6074193bcaca2697baa"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-15",
+                "time": "09:30",
+                "location": "Legislative Office Building301-303",
+                "description": "Municipal and County Government Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-15",
+                "time": "09:30",
+                "location": "Legislative Office Building301-303",
+                "description": "Municipal and County Government Executive Session"
+            }
+        ],
+        "full_text": "new subdivision tiny houses amend rsa by inserting after section the following new subdivision tiny houses definition as used in this subdivision tiny house means a structure intended for occupancy that meets the requirements of the state building code as defined in rsa and is of a smaller square footage than may be normally permitted by local zoning requirements and may include structures and which is built on either a permanent foundation or on a chassis that is suitable for registration for transport on public highways of the state general requirements all houses that meet the definition of tiny house in rsa shall contain facilities for sleeping eating cooking and sanitation all municipal and state building codes for single family dwelling units shall apply to tiny houses including but not limited to zoning fire safety emergency vehicle access attachments to electricity plumbing and public or private sewer systems if required requirements for tiny houses on wheels any tiny house on wheels shall be mounted on a chassis that is licensed registered with state and local governmental agencies and inspected a tiny house on wheels shall also have a seal from a third party inspection company authorized to provide such certification for tiny homes or recreational vehicles which indicates that the structure has successfully passed inspection at specific stages of construction for compliance with safety structure and energy efficiency standards such seal shall be permanently affixed to the tiny house a local engineer shall certify the connection of the tiny house to the chassis individual tiny houses a municipality that adopts a zoning ordinance pursuant to the authority granted in this chapter shall allow tiny houses as a matter of right in all zoning districts that permit single family dwellings and may allow in its discretion tiny houses in all other districts if a municipality permits detached accessory dwelling units pursuant to rsa it shall permit a single tiny house as a detached accessory dwelling unit municipalities allowing tiny houses pursuant to this paragraph may require additional lot area if it has such a requirement for detached accessory dwelling units and may require the tiny house meet the municipality s zoning dimensional standards for detached accessory dwelling units if such standards exist a property may include either an accessory dwelling unit or a tiny house but not both a tiny house used for habitation shall be connected to both a public water system or a private well and to a public sewer system or a subsurface wastewater disposal system that has been approved by the department of environmental services alternatively a tiny house used for habitation may include drinking water and sanitary systems a waste water system may not discharge any waste or liquid a if built on a chassis a tiny house used for habitation shall be taxable as real estate but shall not otherwise be regarded as real property b if a tiny house is located on the land of another the owner of the tiny house shall be liable for property taxes on the tiny house according to rsa unless exempted under rsa c when a tiny house on wheels is removed from a property the owner of such tiny house shall notify the municipality in order to remove the property tax liability tiny house parks municipal zoning ordinances shall also make provision for locating tiny homes in group park settings of at least units in which no more than one of the units may be the park property owner units shall be adequately spaced to allow for access by firefighting apparatus the overall lot size shall be at least square feet but if the park is not served by public water and sewer then the park or units shall meet the minimum overall standards for a community system the property owner shall have discretion to use either individual lots or a single lot and either individual or community wastewater and drinking systems"
+    }
+}

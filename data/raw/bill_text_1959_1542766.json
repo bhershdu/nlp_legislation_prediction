@@ -1,0 +1,332 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1542766,
+        "change_hash": "5527329a3cf40dcaf5932c5039dc52d3",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1193/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2343&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1193",
+        "completed": 0,
+        "status": 2,
+        "status_date": "2022-03-01",
+        "progress": [
+            {
+                "date": "2021-11-17",
+                "event": 1
+            },
+            {
+                "date": "2021-11-17",
+                "event": 9
+            },
+            {
+                "date": "2022-02-10",
+                "event": 10
+            },
+            {
+                "date": "2022-03-01",
+                "event": 2
+            },
+            {
+                "date": "2022-03-01",
+                "event": 9
+            },
+            {
+                "date": "2022-04-19",
+                "event": 11
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1193",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "S",
+        "current_body_id": 68,
+        "title": "Relative to chartered public school fees and enrollment policies.",
+        "description": "Relative to chartered public school fees and enrollment policies.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-11-17",
+                "committee_id": 1240,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Education"
+            },
+            {
+                "date": "2022-03-01",
+                "committee_id": 1267,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Education"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-11-17",
+                "action": "Introduced 01/05/2022 and referred to Education",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-09",
+                "action": "Public Hearing: 01/26/2022 10:15 am Legislative Office Building 205-207",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-10",
+                "action": "Committee Report: Ought to Pass (Vote 18-0; Consent Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-02-10",
+                "action": "Executive Session: 02/09/2022 10:15 am Legislative Office Building 205-207",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-16",
+                "action": "Ought to Pass: Motion Adopted Voice Vote 02/16/2022 House Journal  3",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-01",
+                "action": "Introduced 02/24/2022 and Referred to Education; Senate Journal 5",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-23",
+                "action": "Hearing: 03/29/2022, Room 101, Legislative Office Building, 09:15 am; Senate Calendar  13",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-19",
+                "action": "Committee Report: Inexpedient to Legislate, 04/28/2022; Senate Calendar  17",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-04-28",
+                "action": "Inexpedient to Legislate, Motion Adopted, Voice Vote === BILL KILLED ===; 04/28/2022; Senate Journal 10",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 14478,
+                "person_hash": "1kegb9fu",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Glenn Cordelli",
+                "first_name": "Glenn",
+                "middle_name": "",
+                "last_name": "Cordelli",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-04-CAR",
+                "ftm_eid": 13703548,
+                "votesmart_id": 143307,
+                "opensecrets_id": "",
+                "knowwho_pid": 427994,
+                "ballotpedia": "Glenn_Cordelli",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4962,
+                "person_hash": "a8w1fmfn",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Roderick Ladd",
+                "first_name": "Roderick",
+                "middle_name": "M.",
+                "last_name": "Ladd",
+                "suffix": "",
+                "nickname": "Rick",
+                "district": "HD-05-GRA",
+                "ftm_eid": 6677856,
+                "votesmart_id": 109958,
+                "opensecrets_id": "",
+                "knowwho_pid": 269203,
+                "ballotpedia": "Rick_Ladd",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21846,
+                "person_hash": "gdp0vkqa",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Maureen Mooney",
+                "first_name": "Maureen",
+                "middle_name": "",
+                "last_name": "Mooney",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-21-HIL",
+                "ftm_eid": 6595386,
+                "votesmart_id": 42661,
+                "opensecrets_id": "",
+                "knowwho_pid": 213057,
+                "ballotpedia": "Maureen_Mooney",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 15588,
+                "person_hash": "81g8j3t3",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Bill Nelson",
+                "first_name": "Bill",
+                "middle_name": "",
+                "last_name": "Nelson",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-05-CAR",
+                "ftm_eid": 13703551,
+                "votesmart_id": 141862,
+                "opensecrets_id": "",
+                "knowwho_pid": 426021,
+                "ballotpedia": "Bill_Nelson_(New_Hampshire)",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 10919,
+                "person_hash": "1v1bugsr",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Joseph Pitre",
+                "first_name": "Joseph",
+                "middle_name": "A.",
+                "last_name": "Pitre",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-03-STR",
+                "ftm_eid": 6695545,
+                "votesmart_id": 122332,
+                "opensecrets_id": "",
+                "knowwho_pid": 296674,
+                "ballotpedia": "Joseph_Pitre_(New_Hampshire)",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2461389,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1193/id/2461389",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1436&txtFormat=html",
+                "text_size": 8260,
+                "text_hash": "04dfb597219a2d691cfaaaf6cd631f79"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-26",
+                "time": "10:15",
+                "location": "Legislative Office Building 205-207",
+                "description": "Education Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-26",
+                "time": "10:15",
+                "location": "Legislative Office Building 205-207",
+                "description": "Education Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-09",
+                "time": "10:15",
+                "location": "Legislative Office Building 205-207",
+                "description": "Education Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-03-29",
+                "time": "09:15",
+                "location": "Room 101, Legislative Office Building",
+                "description": "Education Hearing"
+            }
+        ],
+        "full_text": "chartered public schools admission amend rsa iii to read as follows there shall be no application fee for pupil admission to any chartered public school and any fees to be charged to students shall not be assessed as a condition for enrollment new subparagraph charted public schools enrollment amend rsa i c by inserting after subparagraph the following new subparagraph if a chartered public school accepts students preference shall be given to students in determination of the chartered public school s maximum published enrollment prior to any lottery selection pursuant to this subparagraph"
+    }
+}

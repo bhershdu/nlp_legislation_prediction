@@ -1,0 +1,180 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1543402,
+        "change_hash": "90fa6ee9c16eb438818d9eaa15a212e3",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1123/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2727&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1123",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-11-16",
+        "progress": [
+            {
+                "date": "2021-11-16",
+                "event": 1
+            },
+            {
+                "date": "2021-11-16",
+                "event": 9
+            },
+            {
+                "date": "2022-02-02",
+                "event": 11
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1123",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Directing the department of administrative services in collaboration with the department of energy and the department of transportation to support the increased use of biofuels and biodiesel for state procurement needs.",
+        "description": "Directing the department of administrative services in collaboration with the department of energy and the department of transportation to support the increased use of biofuels and biodiesel for state procurement needs.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-11-16",
+                "committee_id": 1243,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Executive Departments and Administration"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-11-16",
+                "action": "Introduced 01/05/2022 and referred to Executive Departments and Administration",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-11",
+                "action": "Public Hearing: 01/11/2022 3:15 p.m. Legislative Office Building302-304",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-21",
+                "action": "==CANCELLED== Subcommittee Work Session: 02/04/2022 01:00 PM Legislative Office Building 302-304",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-26",
+                "action": "Executive Session: 01/25/2022 08:00 am Legislative Office Building 302",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-02",
+                "action": "Committee Report: Inexpedient to Legislate (Vote 16-2; Consent Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-02-16",
+                "action": "Inexpedient to Legislate: Motion Adopted Voice Vote 02/16/2022 House Journal  3",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 19179,
+                "person_hash": "uykj4zar",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Peter Somssich",
+                "first_name": "Peter",
+                "middle_name": "F.",
+                "last_name": "Somssich",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-27-ROC",
+                "ftm_eid": 9713370,
+                "votesmart_id": 172696,
+                "opensecrets_id": "",
+                "knowwho_pid": 587712,
+                "ballotpedia": "Peter_Somssich",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2462009,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1123/id/2462009",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1820&txtFormat=html",
+                "text_size": 11975,
+                "text_hash": "8f2fa36bba9941fc92a7d4095ad0fbbe"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-11",
+                "time": "15:15",
+                "location": "Legislative Office Building302-304",
+                "description": "Executive Departments and Administration Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-25",
+                "time": "08:00",
+                "location": "Legislative Office Building 302",
+                "description": "Executive Departments and Administration Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-04",
+                "time": "13:00",
+                "location": "Legislative Office Building 302-304",
+                "description": "(CANCELLED) Executive Departments and Administration Work Session"
+            }
+        ],
+        "full_text": "legislative findings and purpose the general court finds that within the last decade the national biodiesel board in conjunction with the american society of testing and materials astm have developed nationwide agreed upon standards designated as astm d that biodiesel must meet to be certified as such and that quality standards are verifiable the currently available biodiesel fuel meets united state environmental protection agency s definition of an advanced biofuel under the renewable fuel standard it is a renewable diesel replacement that reduces our country s dependence on imported oil creates jobs and improves our environment this type of biodiesel is particularly developed as a transportation and heating fuel and continues to be further modified for even lower fuel pollutants and more efficient cold temperature behavior the primary feedstocks for biodiesel are soybean oil and discarded cooking oil waste from restaurants both of which were sent to landfill sites at a cost to businesses while selling these materials for biodiesel production now produces revenue for these same businesses in addition to the application of biodiesel as a transportation fuel blending biodiesel along with traditional heating oil provides businesses and residents with an alternative to regular heating oil at a similar price and equivalent performance for example using a b bioheat blend is already widely accepted without the need for any modifications to conventional furnaces however even a blend between b and b is already being used in the northeast with good results in addition to the environmental benefits of biodiesel use biodiesel fuels reduce maintenance needs in conventional furnaces and transportation applications finally the increased benefits of biodiesel have been recognized in many northeast states as exemplified by state mandated use in rhode island connecticut and new york while the governor of massachusetts has issued executive orders requiring state agencies to increase their use of biodiesel to at least b for transportation and b for heating purposes over a period of the next years both biodiesel and renewable diesel are fossil diesel replacements made from the same feedstocks that are available in commercial scale now and provide similar benefits the new hampshire state government should support new clean renewable fuel technology when it is available and when it provides both financial and environmental benefits to our state by doing so the state would provide leadership in this area for our businesses and residents actions directed state support for biofuels the department of administrative services in collaboration with the department of energy and the department of transportation shall support the increase of the use of biofuels in new hampshire especially biodiesel and renewable diesel such increase in usage shall be a significant consideration in the procurement process when the need for heating fuels and transportation fuels are considered providing prices are competitive and the required performance criteria are met within years of the effective date of this act the department of administrative services shall generate a report documenting their experience with biofuels and provide that report to the science technology energy committee of the house the energy and natural resources committee of the senate the governor and relevant state agencies"
+    }
+}

@@ -1,0 +1,440 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1546213,
+        "change_hash": "5cf1126f0c4277a6a67c842086bb7a9d",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB490/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=807&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB490",
+        "completed": 0,
+        "status": 2,
+        "status_date": "2022-01-18",
+        "progress": [
+            {
+                "date": "2021-01-11",
+                "event": 1
+            },
+            {
+                "date": "2021-01-11",
+                "event": 9
+            },
+            {
+                "date": "2021-11-01",
+                "event": 10
+            },
+            {
+                "date": "2021-11-01",
+                "event": 11
+            },
+            {
+                "date": "2022-01-18",
+                "event": 2
+            },
+            {
+                "date": "2022-01-18",
+                "event": 9
+            },
+            {
+                "date": "2022-04-26",
+                "event": 10
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB490",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "S",
+        "current_body_id": 68,
+        "title": "Relative to the definitions of \"game camera\" and \"hunting day,\" relative to the use of game cameras, relative to the use of temporary tree stands or observation blinds, and relative to the definition of \"firearm.\"",
+        "description": "Relative to the definitions of \"game camera\" and \"hunting day,\" relative to the use of game cameras, relative to the use of temporary tree stands or observation blinds, and relative to the definition of \"firearm.\"",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-11",
+                "committee_id": 1248,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Fish and Game and Marine Resources"
+            },
+            {
+                "date": "2022-01-18",
+                "committee_id": 1736,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Energy and Natural Resources"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-11",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Fish and Game and Marine Resources House Journal  2 P. 50",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-21",
+                "action": "Public Hearing: 02/01/2021 10:30 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/94410519799 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-01-21",
+                "action": "Subcommittee Work Session: 02/01/2021 01:30 pm Remote info same as above",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-08",
+                "action": "Retained in Committee",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-21",
+                "action": "Full Committee Work Session: 04/28/2021 10:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/97783276704",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-08-17",
+                "action": "==ROOM CHANGE== Subcommittee Work Session: 09/15/2021 10:00 am Legislative Office Building 210-211",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-09-22",
+                "action": "Executive Session: 09/22/2021 09:00 am Legislative Office Building 307",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-11-01",
+                "action": "Majority Committee Report: Ought to Pass with Amendment # 2021-2140h New Title 10/05/2021 (Vote 14-7; Regular Calendar) House Calendar 48 P. 34",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-11-01",
+                "action": "Minority Committee Report: Inexpedient to Legislate HB490 10/05/2021 (Vote 14-7; Regular Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-09",
+                "action": "Amendment # 2021-2140h: Amendment Adopted Voice Vote 01/06/2022 House Journal  1",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-09",
+                "action": "Ought to Pass with Amendment : Motion Adopted DV 195-159 01/06/2022 House Journal  1",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-18",
+                "action": "Introduced 01/05/2022 and Referred to Energy and Natural Resources; Senate Journal 2",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-31",
+                "action": "Hearing: 04/07/2022, Room 103, State House, 09:30 am; Senate Calendar  14",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-26",
+                "action": "Committee Report: Ought to Pass with Amendment # 2022-1807s, 05/05/2022; Senate Calendar  18",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-05-05",
+                "action": "Committee Amendment # 2022-1807s, Regular Calendar 17Y-7N, Amendment Adopted; 05/05/2022; Senate Journal 11",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-05",
+                "action": "Sen. Giuda Floor Amendment # 2022-1924s, Regular Calendar 10Y-14N, Amendment Failed; 05/05/2022; Senate Journal 11",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-05",
+                "action": "Ought to Pass with Amendment 2022-1807s, Motion Adopted, Voice Vote; OT3rdg; 05/05/2022; Senate Journal 11",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-10",
+                "action": "House Non-Concurs with Senate Amendment 2022-1807s and Requests CofC (Reps. Lang, Khan, Roy, Egan): Motion Adopted Voice Vote 05/05/2022 House Journal  12",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-12",
+                "action": "Sen. Avard Accedes to House Request for Committee of Conference, Motion Adopted, Voice Vote; 05/12/2022; Senate Journal 12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-12",
+                "action": "President Appoints: Senators Avard, Giuda, Watters; 05/12/2022; Senate Journal 12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-18",
+                "action": "Conference Committee Meeting: 05/18/2022 09:00 am Legislative Office Building 305-307",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-23",
+                "action": "Conference Committee Report; Not Signed Off; Senate Journal 13",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 19877,
+                "person_hash": "fuqaltb9",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Terry Roy",
+                "first_name": "Terry",
+                "middle_name": "",
+                "last_name": "Roy",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-32-ROC",
+                "ftm_eid": 45378923,
+                "votesmart_id": 185521,
+                "opensecrets_id": "",
+                "knowwho_pid": 670768,
+                "ballotpedia": "Terry_Roy",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 16677,
+                "person_hash": "ybgdem4d",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "James Spillane",
+                "first_name": "James",
+                "middle_name": "",
+                "last_name": "Spillane",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-02-ROC",
+                "ftm_eid": 25005580,
+                "votesmart_id": 154538,
+                "opensecrets_id": "",
+                "knowwho_pid": 502120,
+                "ballotpedia": "James_Spillane",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4871,
+                "person_hash": "w5q7sakl",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "John Reagan",
+                "first_name": "John",
+                "middle_name": "",
+                "last_name": "Reagan",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-017",
+                "ftm_eid": 737365,
+                "votesmart_id": 65169,
+                "opensecrets_id": "",
+                "knowwho_pid": 250155,
+                "ballotpedia": "John_Reagan",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [
+            {
+                "type_id": 9,
+                "type": "Carry Over",
+                "sast_bill_number": "HB490",
+                "sast_bill_id": 1399992
+            }
+        ],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2481312,
+                "date": "2022-01-06",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB490/id/2481312",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&txtFormat=html&v=HA&id=793",
+                "text_size": 12826,
+                "text_hash": "a53ea5f336a6ed3413309775a44dd2e0"
+            },
+            {
+                "doc_id": 2580872,
+                "date": "2022-05-05",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB490/id/2580872",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&txtFormat=html&v=SA&id=793",
+                "text_size": 15951,
+                "text_hash": "7a0e9685b5bf6ab18833e472713fa302"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1200854,
+                "date": "2022-05-05",
+                "desc": "Committee Amendment",
+                "yea": 17,
+                "nay": 7,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/HB490/id/1200854",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=120&sy=2022&lb=S&eb=HB0490&sortoption=&txtsessionyear=2022&txtbillnumber=HB490&ddlsponsors=&lsr=807"
+            },
+            {
+                "roll_call_id": 1200855,
+                "date": "2022-05-05",
+                "desc": "Floor Amendment",
+                "yea": 10,
+                "nay": 14,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 0,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/HB490/id/1200855",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=121&sy=2022&lb=S&eb=HB0490&sortoption=&txtsessionyear=2022&txtbillnumber=HB490&ddlsponsors=&lsr=807"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-01",
+                "time": "13:30",
+                "location": "Remote info same as above",
+                "description": "Fish and Game and Marine Resources Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-01",
+                "time": "10:30",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Fish and Game and Marine Resources Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-04-28",
+                "time": "10:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Fish and Game and Marine Resources Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-09-15",
+                "time": "10:00",
+                "location": "Legislative Office Building 210-211",
+                "description": "Fish and Game and Marine Resources Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-09-22",
+                "time": "09:00",
+                "location": "Legislative Office Building 307",
+                "description": "Fish and Game and Marine Resources Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-04-07",
+                "time": "09:30",
+                "location": "Room 103, State House",
+                "description": "Energy and Natural Resources Hearing"
+            }
+        ]
+    }
+}

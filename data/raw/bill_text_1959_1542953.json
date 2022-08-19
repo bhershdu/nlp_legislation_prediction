@@ -1,0 +1,187 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1542953,
+        "change_hash": "cdb32ef635900932119f1c0c86cb28c1",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1368/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2824&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1368",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-11-20",
+        "progress": [
+            {
+                "date": "2021-11-20",
+                "event": 1
+            },
+            {
+                "date": "2021-11-20",
+                "event": 9
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1368",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to recusal by members of the general court for conflicts of interest.",
+        "description": "Relative to recusal by members of the general court for conflicts of interest.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-11-20",
+                "committee_id": 1255,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Legislative Administration"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-11-20",
+                "action": "Introduced 01/05/2022 and referred to Legislative Administration",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-19",
+                "action": "Public Hearing: 01/19/2022 2:00 p.m. Legislative Office Building301-303",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-04",
+                "action": "Executive Session: 01/19/2022 02:00 pm Legislative Office Building301-303",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-04",
+                "action": "Committee Report: Refer for Interim Study (Vote 13-0; Consent Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-16",
+                "action": "Refer for Interim Study: Motion Adopted Voice Vote 03/15/2022 House Journal  6",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 19833,
+                "person_hash": "oksr8u28",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Edward Gordon",
+                "first_name": "Edward",
+                "middle_name": "",
+                "last_name": "Gordon",
+                "suffix": "",
+                "nickname": "Ned",
+                "district": "HD-09-GRA",
+                "ftm_eid": 45972179,
+                "votesmart_id": 8649,
+                "opensecrets_id": "",
+                "knowwho_pid": 670369,
+                "ballotpedia": "Edward_M._Gordon",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 12822,
+                "person_hash": "y0vo14g4",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Janet Wall",
+                "first_name": "Janet",
+                "middle_name": "G.",
+                "last_name": "Wall",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-07-STR",
+                "ftm_eid": 13004285,
+                "votesmart_id": 8596,
+                "opensecrets_id": "",
+                "knowwho_pid": 197034,
+                "ballotpedia": "Janet_Wall",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2461575,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1368/id/2461575",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1917&txtFormat=html",
+                "text_size": 14897,
+                "text_hash": "1723c240027a5e26f0923e9fbdbed9e5"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-19",
+                "time": "14:00",
+                "location": "Legislative Office Building301-303",
+                "description": "Legislative Administration Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-19",
+                "time": "14:00",
+                "location": "Legislative Office Building301-303",
+                "description": "Legislative Administration Executive Session"
+            }
+        ],
+        "full_text": "findings purpose the general hereby finds that part ii article of the new hampshire constitution states no member of the general court shall take fees be of counsel or act as advocate in any cause before either branch of the legislature and upon due proof thereof such member shall forfeit his seat in the legislature that the general court has adopted principles of public service including the principle requiring independent objective judgment in performing a legislator s duties and deciding all matters on the merits free from conflicts of interest and both real and apparent improper influences that the new hampshire general court consistent with rsa has adopted guidelines prohibiting legislators from engaging in certain activities that in order to comply with new hampshire s constitutional requirements to satisfy statutory requirements and to maintain the confidence of the new hampshire citizenry recusal from participation in legislative matters when there is a conflict of interest is sometimes required chapter title amend the chapter title of rsa to read as follows chapter gifts honorariums and expense reimbursements requirements for legislators and legislative employees and conflicts of interest for legislators recusal for conflicts of interest a legislator shall recuse himself or herself from participation in any official legislative activity when the legislator or the legislator s household member has a special interest in the official legislative activity is receiving remuneration from an employer which has a special interest in the official legislative activity is acting as counsel or serving as an attorney for any party which has a special interest in the official legislative activity serves in any official capacity in an organization whether nonprofit or for profit which is the subject of the official legislative activity legislative ethics definition conflict of interest amend rsa i to read as follows conflict of interest means the condition in which a legislator has a special financial interest or a personal interest in any matter which could directly or indirectly affect or influence the performance of the legislator s official activities for this definition a a financial interest exists where a legislator or household member could stand to gain or lose anything of material value as a result of the official activity b a personal interest exists where a legislator or household member has a responsibility for the welfare of an organization by virtue of holding a position with a fiduciary responsibility such as a board member trustee or director legislative ethics definition special interest amend rsa v to read as follows special interest means any financial or personal interest in the outcome of a matter that is the subject of official legislative activity distinct from and greater than the interests of the public at large which could reasonably be expected to produce a direct benefit or detriment to the legislator or a legislator s household member or to produce a benefit or detriment to a business client or organization by whom the legislator or a legislator s household member is employed or holds a position of authority which is substantially greater than the benefit or detriment which would accrue to businesses clients or organizations in general"
+    }
+}

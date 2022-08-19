@@ -1,0 +1,461 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1545826,
+        "change_hash": "de5386896a0401e96aa4c8481501f848",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB95/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=72&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB95",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2022-03-21",
+        "progress": [
+            {
+                "date": "2021-01-04",
+                "event": 1
+            },
+            {
+                "date": "2021-01-04",
+                "event": 9
+            },
+            {
+                "date": "2021-02-10",
+                "event": 10
+            },
+            {
+                "date": "2021-03-04",
+                "event": 2
+            },
+            {
+                "date": "2021-03-04",
+                "event": 9
+            },
+            {
+                "date": "2021-03-23",
+                "event": 9
+            },
+            {
+                "date": "2021-04-01",
+                "event": 9
+            },
+            {
+                "date": "2021-12-16",
+                "event": 10
+            },
+            {
+                "date": "2022-03-15",
+                "event": 3
+            },
+            {
+                "date": "2022-03-21",
+                "event": 8
+            },
+            {
+                "date": "2022-03-21",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB95",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to milk pasteurization.",
+        "description": "Relative to milk pasteurization.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-04",
+                "committee_id": 1242,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Environment and Agriculture"
+            },
+            {
+                "date": "2021-03-04",
+                "committee_id": 1780,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Commerce"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-04",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Environment and Agriculture House Journal  2 P. 35",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-20",
+                "action": "Public Hearing: 01/27/2021 02:45 pm Members of the public may attend using the following links:To join the webinar: https://www.zoom.us/j/92887623403 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-10",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-0190h (Vote 18-0; Consent Calendar) House Calendar 12 P. 5",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-24",
+                "action": "Amendment # 2021-0190h: Amendment Adopted Voice Vote 02/24/2021 House Journal  3 P. 7",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-24",
+                "action": "Ought to Pass with Amendment 2021-0190h: Motion Adopted Voice Vote 02/24/2021 House Journal  3 P. 7",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-04",
+                "action": "Introduced 03/04/2021 and Referred to Commerce; Senate Journal 7",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-16",
+                "action": "Remote Hearing: 03/23/2021, 09:00 am; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  16",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-23",
+                "action": "Committee Report: Rereferred to Committee, 04/01/2021; Senate Calendar  17",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-01",
+                "action": "Rereferred to Committee, Regular Calendar 12Y-12N, Motion Failed; 04/01/2021; Senate Journal 10",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-01",
+                "action": "Sen. Bradley Moved to Rerefer to Committee, Regular Calendar 23Y-1N, Motion Adopted; 04/01/2021; Senate Journal 10",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-12-16",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-2234s, 01/05/2022; Senate Calendar  49",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-05",
+                "action": "Sen. French Floor Amendment # 2021-2300s, Amendment Adopted, Voice Vote; 01/05/2022; Senate Journal 1",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-05",
+                "action": "Committee Amendment # 2021-2234s, Amendment Failed, Voice Vote; 01/05/2022; Senate Journal 1",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-05",
+                "action": "Ought to Pass with Amendment 2021-2300s, Motion Adopted, Voice Vote; OT3rdg; 01/05/2022; Senate Journal 1",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-16",
+                "action": "House Concurs with Senate Amendment 2021-2300S (Rep. Pearl): Motion Adopted Voice Vote 02/16/2022 House Journal  3",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-15",
+                "action": "Enrolled (in recess of) 03/10/2022 House Journal  5",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-15",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 02/24/2022); Senate Journal 5",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-21",
+                "action": "Signed by Governor Sununu 03/18/2022; Chapter 6; 05/17/22",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 19784,
+                "person_hash": "swul5611",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "James Allard",
+                "first_name": "James",
+                "middle_name": "C.",
+                "last_name": "Allard",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-21-MER",
+                "ftm_eid": 45378622,
+                "votesmart_id": 185505,
+                "opensecrets_id": "",
+                "knowwho_pid": 670709,
+                "ballotpedia": "James_Allard",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18167,
+                "person_hash": "gbz9mi50",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "William Marsh",
+                "first_name": "William",
+                "middle_name": "M.",
+                "last_name": "Marsh",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-17-ROC",
+                "ftm_eid": 6483516,
+                "votesmart_id": 65293,
+                "opensecrets_id": "",
+                "knowwho_pid": 587047,
+                "ballotpedia": "William_Marsh",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19819,
+                "person_hash": "8zx0v085",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Judy Aron",
+                "first_name": "Judy",
+                "middle_name": "",
+                "last_name": "Aron",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-07-SUL",
+                "ftm_eid": 45378624,
+                "votesmart_id": 185539,
+                "opensecrets_id": "",
+                "knowwho_pid": 670808,
+                "ballotpedia": "Judy_Aron",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19757,
+                "person_hash": "yrgjv30x",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Stephen Woodcock",
+                "first_name": "Stephen",
+                "middle_name": "L.",
+                "last_name": "Woodcock",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-02-CAR",
+                "ftm_eid": 45378985,
+                "votesmart_id": 185471,
+                "opensecrets_id": "",
+                "knowwho_pid": 670238,
+                "ballotpedia": "Stephen_Woodcock",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 10468,
+                "person_hash": "p6tivb20",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Steven Smith",
+                "first_name": "Steven",
+                "middle_name": "",
+                "last_name": "Smith",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-11-SUL",
+                "ftm_eid": 6680106,
+                "votesmart_id": 110851,
+                "opensecrets_id": "",
+                "knowwho_pid": 297099,
+                "ballotpedia": "Steven_Smith,_New_Hampshire_Politician",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21807,
+                "person_hash": "tlbyuyoy",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Brodie Deshaies",
+                "first_name": "Brodie",
+                "middle_name": "",
+                "last_name": "Deshaies",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-06-CAR",
+                "ftm_eid": 50226968,
+                "votesmart_id": 194708,
+                "opensecrets_id": "",
+                "knowwho_pid": 744060,
+                "ballotpedia": "Brodie_Deshaies",
+                "sponsor_type_id": 2,
+                "sponsor_order": 6,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19823,
+                "person_hash": "dc1z3223",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Alicia Lekas",
+                "first_name": "Alicia",
+                "middle_name": "",
+                "last_name": "Lekas",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-37-HIL",
+                "ftm_eid": 45378800,
+                "votesmart_id": 185263,
+                "opensecrets_id": "",
+                "knowwho_pid": 670661,
+                "ballotpedia": "Alicia_Lekas",
+                "sponsor_type_id": 2,
+                "sponsor_order": 7,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [
+            {
+                "type_id": 9,
+                "type": "Carry Over",
+                "sast_bill_number": "HB95",
+                "sast_bill_id": 1393074
+            }
+        ],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2482686,
+                "date": "2021-02-24",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB95/id/2482686",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&txtFormat=html&v=HA&id=73",
+                "text_size": 10886,
+                "text_hash": "d18297847e6c8aa6ba2400a47764092d"
+            },
+            {
+                "doc_id": 2482687,
+                "date": "2022-01-05",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB95/id/2482687",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&txtFormat=html&v=SA&id=73",
+                "text_size": 12205,
+                "text_hash": "c570821b2e67e139a1318943f87c3de6"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-01-27",
+                "time": "14:45",
+                "location": "Members of the public may attend using the following links:To jo",
+                "description": "Environment and Agriculture Public Hearing"
+            }
+        ]
+    }
+}

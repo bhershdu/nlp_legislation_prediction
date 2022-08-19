@@ -1,0 +1,395 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1543075,
+        "change_hash": "8561c64a0d2544933ce1f0dc597d5555",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1049/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2029&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1049",
+        "completed": 0,
+        "status": 2,
+        "status_date": "2022-03-01",
+        "progress": [
+            {
+                "date": "2021-11-02",
+                "event": 1
+            },
+            {
+                "date": "2021-11-02",
+                "event": 9
+            },
+            {
+                "date": "2022-02-08",
+                "event": 10
+            },
+            {
+                "date": "2022-03-01",
+                "event": 2
+            },
+            {
+                "date": "2022-03-01",
+                "event": 9
+            },
+            {
+                "date": "2022-04-26",
+                "event": 11
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1049",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "S",
+        "current_body_id": 68,
+        "title": "Establishing a committee to study landfill siting criteria and methods for reducing pressure on landfill capacity.",
+        "description": "Establishing a committee to study landfill siting criteria and methods for reducing pressure on landfill capacity.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-11-02",
+                "committee_id": 1242,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Environment and Agriculture"
+            },
+            {
+                "date": "2022-03-01",
+                "committee_id": 1736,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Energy and Natural Resources"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-11-02",
+                "action": "Introduced 01/05/2022 and referred to Environment and Agriculture",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-18",
+                "action": "Public Hearing: 01/18/2022 11:15 a.m. Legislative Office Building301-303",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-31",
+                "action": "Executive Session: 01/25/2022 10:00 am Legislative Office Building 301--303",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-08",
+                "action": "Committee Report: Ought to Pass with Amendment # 2022-0269h (Vote 16-0; Consent Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-02-16",
+                "action": "Ought to Pass with Amendment 2022-0269h: Motion Adopted Voice Vote 02/16/2022 House Journal  3",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-23",
+                "action": "Amendment # 2022-0269h: Amendment Adopted Voice Vote 02/16/2022 House Journal  3",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-01",
+                "action": "Introduced 02/24/2022 and Referred to Energy and Natural Resources; Senate Journal 5",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-04-20",
+                "action": "Hearing: 04/26/2022, Room 103, State House, 09:10 am; Senate Calendar  17",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-26",
+                "action": "Committee Report: Inexpedient to Legislate, 05/05/2022; Senate Calendar  18",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-05-05",
+                "action": "Inexpedient to Legislate, Motion Adopted, Voice Vote === BILL KILLED ===; 05/05/2022; Senate Journal 11",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 19819,
+                "person_hash": "8zx0v085",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Judy Aron",
+                "first_name": "Judy",
+                "middle_name": "",
+                "last_name": "Aron",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-07-SUL",
+                "ftm_eid": 45378624,
+                "votesmart_id": 185539,
+                "opensecrets_id": "",
+                "knowwho_pid": 670808,
+                "ballotpedia": "Judy_Aron",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 15423,
+                "person_hash": "2ifxavzg",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Peter Bixby",
+                "first_name": "Peter",
+                "middle_name": "W.",
+                "last_name": "Bixby",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-17-STR",
+                "ftm_eid": 13703837,
+                "votesmart_id": 141796,
+                "opensecrets_id": "",
+                "knowwho_pid": 426709,
+                "ballotpedia": "Peter_Bixby",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19874,
+                "person_hash": "i2rfl1ky",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Megan Murray",
+                "first_name": "Megan",
+                "middle_name": "A.",
+                "last_name": "Murray",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-22-HIL",
+                "ftm_eid": 45378860,
+                "votesmart_id": 185562,
+                "opensecrets_id": "",
+                "knowwho_pid": 670591,
+                "ballotpedia": "Megan_Murray",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18166,
+                "person_hash": "k25p0mqi",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Troy Merner",
+                "first_name": "Troy",
+                "middle_name": "E.",
+                "last_name": "Merner",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-07-COO",
+                "ftm_eid": 6494514,
+                "votesmart_id": 110056,
+                "opensecrets_id": "",
+                "knowwho_pid": 296122,
+                "ballotpedia": "Troy_Merner",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19743,
+                "person_hash": "ryfcko8x",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Rebecca McWilliams",
+                "first_name": "Rebecca",
+                "middle_name": "",
+                "last_name": "McWilliams",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-27-MER",
+                "ftm_eid": 45378835,
+                "votesmart_id": 185383,
+                "opensecrets_id": "",
+                "knowwho_pid": 670731,
+                "ballotpedia": "Rebecca_McWilliams",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4958,
+                "person_hash": "2po1aje7",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "David Watters",
+                "first_name": "David",
+                "middle_name": "H.",
+                "last_name": "Watters",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-004",
+                "ftm_eid": 6494743,
+                "votesmart_id": 110047,
+                "opensecrets_id": "",
+                "knowwho_pid": 269494,
+                "ballotpedia": "David_Watters",
+                "sponsor_type_id": 2,
+                "sponsor_order": 6,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 17481,
+                "person_hash": "ghibvwim",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Erin Hennessey",
+                "first_name": "Erin",
+                "middle_name": "Tapper",
+                "last_name": "Hennessey",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-001",
+                "ftm_eid": 25005445,
+                "votesmart_id": 154433,
+                "opensecrets_id": "",
+                "knowwho_pid": 501701,
+                "ballotpedia": "Erin_Hennessey",
+                "sponsor_type_id": 2,
+                "sponsor_order": 7,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2461694,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1049/id/2461694",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1122&txtFormat=html",
+                "text_size": 10260,
+                "text_hash": "e6d19fd5b1583e630c1ab038cca4f043"
+            },
+            {
+                "doc_id": 2523158,
+                "date": "2022-02-16",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1049/id/2523158",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&txtFormat=html&v=HA&id=1122",
+                "text_size": 12112,
+                "text_hash": "4c8291eb8a01987f3096278d696469e3"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-18",
+                "time": "11:15",
+                "location": "Legislative Office Building301-303",
+                "description": "Environment and Agriculture Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-25",
+                "time": "10:00",
+                "location": "Legislative Office Building 301--303",
+                "description": "Environment and Agriculture Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-04-26",
+                "time": "09:10",
+                "location": "Room 103, State House",
+                "description": "Energy and Natural Resources Hearing"
+            }
+        ],
+        "full_text": "committee established there is established a committee to study the siting criteria for new landfills and to study solid waste policies in northeastern states as models for methods to reduce pressure on landfill capacity membership and compensation the members of the committee shall be as follows a three members of the house of representatives appointed by the speaker of the house of representatives b one member of the senate appointed by the president of the senate members of the committee shall receive mileage at the legislative rate when attending to the duties of the committee duties the committee shall study the siting criteria for new landfills with a focus on community impact environmental impact and public good solid waste policies in northeastern states that could be adapted to new hampshire with the goal of reducing pressure on landfill capacity surety bonding of landfills to ensure the capacity to pay for potential damages including clarification of how damages would be determined and who would be entitled to seek compensation for damages changing the definition of the required setback of landfills from water bodies by establishing standards that use the hydrogeological characteristic of the site and the time it would take potential contaminants to flow to water bodies extended producer responsibility epr as a mechanism for meeting the waste reduction goals established in rsa and reducing the tax burden that solid waste disposal places on municipalities specific attention shall be paid to laws in oregon maine and canadian provinces that establish producer responsibility for packaging and single use plastics in addition the committee shall examine laws and legislation in any other state or country that establish epr for electronic waste batteries automotive waste and hazardous waste the study shall assess how these laws could be adapted to the existing solid waste recovery infrastructure in new hampshire and what support the department of environmental services would require to implement such laws the roll of landfills and incinerators in preventing disposable wipes from entering and damaging sewer and septic infrastructure chairperson quorum the members of the study committee shall elect a chairperson from among the members the first meeting of the committee shall be called by the house member the first meeting of the committee shall be held within days of the effective date of this section three members of the committee shall constitute a quorum report the committee shall report its findings and any recommendations for proposed legislation to the speaker of the house of representatives the president of the senate the house clerk the senate clerk the governor and the state library on or before november"
+    }
+}

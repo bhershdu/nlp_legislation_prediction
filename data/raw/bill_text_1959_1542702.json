@@ -1,0 +1,499 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1542702,
+        "change_hash": "34c83afb0c88a2f4e0f833e709b71171",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/SB271/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=3039&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=SB271",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2022-06-28",
+        "progress": [
+            {
+                "date": "2021-12-14",
+                "event": 1
+            },
+            {
+                "date": "2021-12-14",
+                "event": 9
+            },
+            {
+                "date": "2022-03-15",
+                "event": 10
+            },
+            {
+                "date": "2022-03-28",
+                "event": 2
+            },
+            {
+                "date": "2022-03-28",
+                "event": 9
+            },
+            {
+                "date": "2022-04-27",
+                "event": 10
+            },
+            {
+                "date": "2022-06-15",
+                "event": 3
+            },
+            {
+                "date": "2022-06-28",
+                "event": 8
+            },
+            {
+                "date": "2022-06-28",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "SB271",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "S",
+        "body_id": 68,
+        "current_body": "S",
+        "current_body_id": 68,
+        "title": "Relative to the Burgess BioPower facility.",
+        "description": "Relative to the Burgess BioPower facility.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-12-14",
+                "committee_id": 1736,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Energy and Natural Resources"
+            },
+            {
+                "date": "2022-03-28",
+                "committee_id": 1261,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Science, Technology and Energy"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-12-14",
+                "action": "To Be Introduced 01/05/2022 and Referred to Energy and Natural Resources; Senate Journal 1",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-25",
+                "action": "Hearing: 02/01/2022, Room 103, State House, 09:30 am; Senate Calendar  5",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-15",
+                "action": "Committee Report: Ought to Pass with Amendment # 2022-1107s, 03/24/2022; Vote 5-0; Consent Calendar; Senate Calendar  12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-24",
+                "action": "Committee Amendment # 2022-1107s, Amendment Adopted, Voice Vote; 03/24/2022; Senate Journal 6",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-24",
+                "action": "Ought to Pass with Amendment 2022-1107s, Motion Adopted, Voice Vote; OT3rdg; 03/24/2022; Senate Journal 6",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-28",
+                "action": "Introduced 03/28/2022 and referred to Science, Technology and Energy",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-30",
+                "action": "Public Hearing: 04/12/2022 12:30 pm Legislative Office Building 306-308",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-13",
+                "action": "Executive Session: 04/19/2022 09:00 am Legislative Office Building 306-308",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-19",
+                "action": "==CONTINUED== Executive Session: 04/26/2022 10:00 am Legislative Office Building 306-308",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-27",
+                "action": "Committee Report: Ought to Pass with Amendment # 2022-1788h (Vote 20-2; Regular Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-05-05",
+                "action": "Amendment # 1788h: Amendment Adopted Voice Vote 05/05/2022 House Journal  12",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-05",
+                "action": "FLAM # 1894h (Rep. Somssich): Amendment Failed DV 143-190 05/05/2022 House Journal  12",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-05",
+                "action": "Ought to Pass with Amendment 1788h: Motion Adopted Voice Vote 05/05/2022 House Journal  12",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-12",
+                "action": "Sen. Avard Moved Nonconcur with the House Amendment; Requests C of C, Motion Adopted, Voice Vote; 05/12/2022; Senate Journal 12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-12",
+                "action": "President Appoints: Senators Avard, Bradley, Watters; 05/12/2022; Senate Journal 12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-12",
+                "action": "House Accedes to Senate Request for CofC (Rep. Vose): Motion Adopted Voice Vote 05/12/2022 House Journal  13",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-12",
+                "action": "Speaker Appoints: Reps. Thomas, Harrington, McGhee 05/12/2022 House Journal  13",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-12",
+                "action": "Committee of Conference Meeting: 05/17/2022, 9:00 a.m., Room 103, State House",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-19",
+                "action": "Conference Committee Report # 2022-2032c Filed 05/17/2022; House Amendment + New Amendment",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-26",
+                "action": "Conference Committee Report 2022-2032c: Adopted, Voice Vote 05/26/2022",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-26",
+                "action": "Conference Committee Report # 2022-2032c, Adopted, Voice Vote; 05/26/2022; Senate Journal 13",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-06-15",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 05/26/2022); Senate Journal 13",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-06-15",
+                "action": "Enrolled (in recess of) 05/26/2022 House Journal  14",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-06-28",
+                "action": "Signed by the Governor on 06/24/2022; Chapter 0275; Effective 06/24/2022",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 4760,
+                "person_hash": "8scgvpbd",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Jeb Bradley",
+                "first_name": "Jeb",
+                "middle_name": "",
+                "last_name": "Bradley",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-003",
+                "ftm_eid": 6636719,
+                "votesmart_id": 4953,
+                "opensecrets_id": "",
+                "knowwho_pid": 197009,
+                "ballotpedia": "Jeb_Bradley",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 17481,
+                "person_hash": "ghibvwim",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Erin Hennessey",
+                "first_name": "Erin",
+                "middle_name": "Tapper",
+                "last_name": "Hennessey",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-001",
+                "ftm_eid": 25005445,
+                "votesmart_id": 154433,
+                "opensecrets_id": "",
+                "knowwho_pid": 501701,
+                "ballotpedia": "Erin_Hennessey",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4958,
+                "person_hash": "2po1aje7",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "David Watters",
+                "first_name": "David",
+                "middle_name": "H.",
+                "last_name": "Watters",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-004",
+                "ftm_eid": 6494743,
+                "votesmart_id": 110047,
+                "opensecrets_id": "",
+                "knowwho_pid": 269494,
+                "ballotpedia": "David_Watters",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 11579,
+                "person_hash": "xg5ddnit",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Kevin Avard",
+                "first_name": "Kevin",
+                "middle_name": "A.",
+                "last_name": "Avard",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-012",
+                "ftm_eid": 9727190,
+                "votesmart_id": 13431,
+                "opensecrets_id": "",
+                "knowwho_pid": 296158,
+                "ballotpedia": "Kevin_Avard",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18170,
+                "person_hash": "dj3w7est",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Ruth Ward",
+                "first_name": "Ruth",
+                "middle_name": "B.",
+                "last_name": "Ward",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-008",
+                "ftm_eid": 13703554,
+                "votesmart_id": 141865,
+                "opensecrets_id": "",
+                "knowwho_pid": 426026,
+                "ballotpedia": "Ruth_Ward",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18168,
+                "person_hash": "wzdy4vye",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Bob Giuda",
+                "first_name": "Robert",
+                "middle_name": "",
+                "last_name": "Giuda",
+                "suffix": "",
+                "nickname": "Bob",
+                "district": "SD-002",
+                "ftm_eid": 6594468,
+                "votesmart_id": 21328,
+                "opensecrets_id": "",
+                "knowwho_pid": 208524,
+                "ballotpedia": "Bob_Giuda",
+                "sponsor_type_id": 2,
+                "sponsor_order": 6,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2461326,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB271/id/2461326",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=2132&txtFormat=html",
+                "text_size": 10210,
+                "text_hash": "8a173155db3381cce9608a606c86d341"
+            },
+            {
+                "doc_id": 2556943,
+                "date": "2022-03-24",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB271/id/2556943",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&txtFormat=html&v=SA&id=2132",
+                "text_size": 12832,
+                "text_hash": "e3068e28cb639e526f988f0c7306e48c"
+            },
+            {
+                "doc_id": 2581402,
+                "date": "2022-03-24",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB271/id/2581402",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&txtFormat=html&v=HA&id=2132",
+                "text_size": 10414,
+                "text_hash": "d9d508a67c5d3849c24dfc549c87fed3"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-01",
+                "time": "09:30",
+                "location": "Room 103, State House",
+                "description": "Energy and Natural Resources Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-04-12",
+                "time": "12:30",
+                "location": "Legislative Office Building 306-308",
+                "description": "Science, Technology and Energy Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-04-19",
+                "time": "09:00",
+                "location": "Legislative Office Building 306-308",
+                "description": "Science, Technology and Energy Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-04-26",
+                "time": "10:00",
+                "location": "Legislative Office Building 306-308",
+                "description": "Science, Technology and Energy Executive Session"
+            }
+        ],
+        "full_text": "burgess biopower plant are repealed and reenacted to read as follows findings the general court finds that the continued operation of the burgess biopower plant in berlin a is desirable to the energy infrastructure of the state of new hampshire b is a source of reliable baseload power that contributes to regional fuel security and reliability of the regional electricity grid c is important for the attainment of renewable energy portfolio standard goals of fuel diversity capacity sustainability and energy independence d is significant to the continued health of new hampshire s forests e provides valuable support to the timber industry and f is a contributor of jobs and to the economy of both the north country and the state as a whole public utilities commission proceedings authority to amend prior orders notwithstanding any other provision of the law to the contrary the public utilities commission shall reopen its docket de and forthwith revise its order no and its order no and order no in the following manner further suspension of operation of cap the public utilities commission shall amend its order no and its order no and order no issued in docket de to extend the suspension of the operation of the cap on the cumulative reduction factor as set forth on page of order no for an additional period of one year from the date the operation of the cap would have otherwise taken effect under order no and order no and order no the burgess biopower plant and its affiliates shall upon request therefor make its and their capital and operating cost and profit and loss records available to the department of energy for investigation and audit any of which records may be exempt from public disclosure under rsa iv if reasonably so designated by the plant all such records shall also be made available to the office of the consumer advocate the department of energy shall conduct an investigation and audit of the plant s costs and revenues and submit a report thereon to the house science technology and energy committee and to the senate energy and natural resources committee on or before december"
+    }
+}

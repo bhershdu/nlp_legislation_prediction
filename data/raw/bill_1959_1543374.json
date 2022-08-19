@@ -1,0 +1,363 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1543374,
+        "change_hash": "ed0ddc425f95222b6dc636962cdccfc2",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1103/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2496&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1103",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2022-06-22",
+        "progress": [
+            {
+                "date": "2021-11-16",
+                "event": 1
+            },
+            {
+                "date": "2021-11-16",
+                "event": 9
+            },
+            {
+                "date": "2022-01-27",
+                "event": 10
+            },
+            {
+                "date": "2022-03-01",
+                "event": 2
+            },
+            {
+                "date": "2022-03-01",
+                "event": 9
+            },
+            {
+                "date": "2022-04-27",
+                "event": 10
+            },
+            {
+                "date": "2022-06-09",
+                "event": 3
+            },
+            {
+                "date": "2022-06-22",
+                "event": 8
+            },
+            {
+                "date": "2022-06-22",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1103",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to certain assets in a divorce proceeding.",
+        "description": "Relative to certain assets in a divorce proceeding.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-11-16",
+                "committee_id": 1237,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Children and Family Law"
+            },
+            {
+                "date": "2022-03-01",
+                "committee_id": 1273,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Judiciary"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-11-16",
+                "action": "Introduced 01/05/2022 and referred to Children and Family Law",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-19",
+                "action": "Public Hearing: 01/25/2022 11:00 am Legislative Office Building 206-208",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-27",
+                "action": "Committee Report: Ought to Pass (Vote 12-0; Consent Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-28",
+                "action": "Executive Session: 01/25/2022 10:30 am Legislative Office Building 202-204",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-16",
+                "action": "Ought to Pass: Motion Adopted Voice Vote 02/16/2022 House Journal  3",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-01",
+                "action": "Introduced 02/24/2022 and Referred to Judiciary; Senate Journal 5",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-04-13",
+                "action": "Hearing: 04/19/2022, Room 100, State House, 01:45 pm; Senate Calendar  16",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-27",
+                "action": "Committee Report: Ought to Pass, 05/05/2022; Vote 5-0; Consent Calendar; Senate Calendar  18",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-05-05",
+                "action": "Sen. Gannon Moved to Remove HB 1103 from the Consent Calendar; 05/05/2022; Senate Journal 11",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-05",
+                "action": "Sen. Gannon Floor Amendment # 2022-1965s, Amendment Adopted, Voice Vote; 05/05/2022; Senate Journal 11",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-05",
+                "action": "Ought to Pass with Amendment 2022-1965s, Motion Adopted, Voice Vote; OT3rdg; 05/05/2022; Senate Journal 11",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-12",
+                "action": "House Concurs with Senate Amendment (Rep. Rice): Motion Adopted Voice Vote 05/12/2022 House Journal  13",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-06-09",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 05/26/2022); Senate Journal 13",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-06-09",
+                "action": "Enrolled (in recess of) 05/26/2022",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-06-22",
+                "action": "Signed by Governor Sununu 06/17/2022; Chapter 186; eff. 01/01/2023 House Journal  14",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 16677,
+                "person_hash": "ybgdem4d",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "James Spillane",
+                "first_name": "James",
+                "middle_name": "",
+                "last_name": "Spillane",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-02-ROC",
+                "ftm_eid": 25005580,
+                "votesmart_id": 154538,
+                "opensecrets_id": "",
+                "knowwho_pid": 502120,
+                "ballotpedia": "James_Spillane",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19109,
+                "person_hash": "tlyu018w",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Charlotte DiLorenzo",
+                "first_name": "Charlotte",
+                "middle_name": "I.",
+                "last_name": "DiLorenzo",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-17-ROC",
+                "ftm_eid": 41757405,
+                "votesmart_id": 172682,
+                "opensecrets_id": "",
+                "knowwho_pid": 587692,
+                "ballotpedia": "Charlotte_DiLorenzo",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19790,
+                "person_hash": "9abbqn9i",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Alan Bershtein",
+                "first_name": "Alan",
+                "middle_name": "",
+                "last_name": "Bershtein",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-02-ROC",
+                "ftm_eid": 45378637,
+                "votesmart_id": 185293,
+                "opensecrets_id": "",
+                "knowwho_pid": 670583,
+                "ballotpedia": "Alan_Bershtein",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4871,
+                "person_hash": "w5q7sakl",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "John Reagan",
+                "first_name": "John",
+                "middle_name": "",
+                "last_name": "Reagan",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-017",
+                "ftm_eid": 737365,
+                "votesmart_id": 65169,
+                "opensecrets_id": "",
+                "knowwho_pid": 250155,
+                "ballotpedia": "John_Reagan",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2461982,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1103/id/2461982",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1589&txtFormat=html",
+                "text_size": 7418,
+                "text_hash": "a2b633b1e71ccca02ff68ed217646312"
+            },
+            {
+                "doc_id": 2581186,
+                "date": "2022-05-05",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1103/id/2581186",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&txtFormat=html&v=SA&id=1589",
+                "text_size": 8595,
+                "text_hash": "be6c8dd86fddd0806e204b9746c2e0e3"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-25",
+                "time": "11:00",
+                "location": "Legislative Office Building 206-208",
+                "description": "Children and Family Law Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-25",
+                "time": "10:30",
+                "location": "Legislative Office Building 202-204",
+                "description": "Children and Family Law Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-04-19",
+                "time": "13:45",
+                "location": "Room 100, State House",
+                "description": "Judiciary Hearing"
+            }
+        ]
+    }
+}

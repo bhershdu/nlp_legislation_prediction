@@ -1,0 +1,401 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1543012,
+        "change_hash": "166292ec76903c574f848d727b5a3b01",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1398/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2684&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1398",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2022-06-22",
+        "progress": [
+            {
+                "date": "2021-12-01",
+                "event": 1
+            },
+            {
+                "date": "2021-12-01",
+                "event": 9
+            },
+            {
+                "date": "2022-02-10",
+                "event": 10
+            },
+            {
+                "date": "2022-03-01",
+                "event": 2
+            },
+            {
+                "date": "2022-03-01",
+                "event": 9
+            },
+            {
+                "date": "2022-04-14",
+                "event": 10
+            },
+            {
+                "date": "2022-06-07",
+                "event": 3
+            },
+            {
+                "date": "2022-06-22",
+                "event": 8
+            },
+            {
+                "date": "2022-06-22",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1398",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Establishing a committee to study the feasibility of centralized criminal history records checks in education.",
+        "description": "Establishing a committee to study the feasibility of centralized criminal history records checks in education.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-12-01",
+                "committee_id": 1240,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Education"
+            },
+            {
+                "date": "2022-03-01",
+                "committee_id": 1267,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Education"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-12-01",
+                "action": "Introduced 01/05/2022 and referred to Education",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-02-03",
+                "action": "Public Hearing: 02/03/2022 1:00 p.m. Legislative Office Building205-207",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-10",
+                "action": "Executive Session: 02/09/2022 01:00 pm Legislative Office Building205-207",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-10",
+                "action": "Committee Report: Ought to Pass (Vote 17-0; Consent Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-02-16",
+                "action": "Ought to Pass: Motion Adopted Voice Vote 02/16/2022 House Journal  3",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-01",
+                "action": "Introduced 02/24/2022 and Referred to Education; Senate Journal 5",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-09",
+                "action": "Hearing: 03/22/2022, Room 101, Legislative Office Building, 09:30 am; Senate Calendar  11",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-14",
+                "action": "Committee Report: Ought to Pass with Amendment # 2022-1545s, 04/21/2022; Vote 5-0; Consent Calendar; Senate Calendar  16",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-04-21",
+                "action": "Sen. Ward Moved to Remove HB 1398 from the Consent Calendar; 04/21/2022; Senate Journal 9",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-21",
+                "action": "Committee Amendment # 2022-1545s, Amendment Adopted, Voice Vote; 04/21/2022; Senate Journal 9",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-21",
+                "action": "Sen. Soucy Moved to Reconsider the vote on: Committee Amendment #2022-1545, Motion Adopted, Voice Vote; 04/21/2022; Senate Journal 9",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-21",
+                "action": "Committee Amendment # 2022-1545s, Amendment Failed, Voice Vote; 04/21/2022; Senate Journal 9",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-21",
+                "action": "Ought to Pass: Motion Adopted, Voice Vote; OT3rdg; 04/21/2022; Senate Journal 9",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-28",
+                "action": "Sen. Kahn Moved Reconsideration on the following action taken by this Body on HB 1398. Reconsider the vote on third reading and final passage. Rescind third reading. Reconsider the vote on Ought to Pass. Reconsider the vote on Committee Amendment #2022-1545s, Motion Adopted, Voice Vote; 04/28/2022; Senate Journal 10",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-28",
+                "action": "Committee Amendment # 2022-1545s, Amendment Adopted, Voice Vote; 04/28/2022; Senate Journal 10",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-28",
+                "action": "Ought to Pass with Amendment 2022-1545s, Motion Adopted, Voice Vote; OT3rdg; 04/28/2022; Senate Journal 10",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-13",
+                "action": "House Concurs with Senate Amendment (Rep. Ladd): Motion Adopted Voice Vote 05/12/2022 House Journal  13",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-06-06",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 05/26/2022); Senate Journal 13",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-06-07",
+                "action": "Enrolled (in recess of) 05/26/2022 House Journal  14",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-06-22",
+                "action": "Signed by Governor Sununu 06/17/2022; Chapter 198; 06/17/2022 House Journal  14",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 4754,
+                "person_hash": "p5hsu8yc",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Carol McGuire",
+                "first_name": "Carol",
+                "middle_name": "",
+                "last_name": "McGuire",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-29-MER",
+                "ftm_eid": 6677888,
+                "votesmart_id": 109938,
+                "opensecrets_id": "",
+                "knowwho_pid": 222865,
+                "ballotpedia": "Carol_McGuire",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19784,
+                "person_hash": "swul5611",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "James Allard",
+                "first_name": "James",
+                "middle_name": "C.",
+                "last_name": "Allard",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-21-MER",
+                "ftm_eid": 45378622,
+                "votesmart_id": 185505,
+                "opensecrets_id": "",
+                "knowwho_pid": 670709,
+                "ballotpedia": "James_Allard",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4871,
+                "person_hash": "w5q7sakl",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "John Reagan",
+                "first_name": "John",
+                "middle_name": "",
+                "last_name": "Reagan",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-017",
+                "ftm_eid": 737365,
+                "votesmart_id": 65169,
+                "opensecrets_id": "",
+                "knowwho_pid": 250155,
+                "ballotpedia": "John_Reagan",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2461631,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1398/id/2461631",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1777&txtFormat=html",
+                "text_size": 11279,
+                "text_hash": "6ff77e16f560e3035a1fd389c425ccc9"
+            },
+            {
+                "doc_id": 2573370,
+                "date": "2022-04-21",
+                "type": "Enrolled",
+                "type_id": 5,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1398/id/2573370",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&v=SP&id=1777",
+                "text_size": 11290,
+                "text_hash": "16ca6d95d9173e187605b0be66be72a0"
+            },
+            {
+                "doc_id": 2577089,
+                "date": "2022-04-28",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1398/id/2577089",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&txtFormat=html&v=SA2&id=1777",
+                "text_size": 11334,
+                "text_hash": "6049cf60b89a98733dfb5e6859de2793"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-03",
+                "time": "13:45",
+                "location": "Legislative Office Building 205-207",
+                "description": "Education Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-03",
+                "time": "13:00",
+                "location": "Legislative Office Building205-207",
+                "description": "Education Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-03",
+                "time": "13:00",
+                "location": "Legislative Office Building205-207",
+                "description": "Education Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-09",
+                "time": "13:00",
+                "location": "Legislative Office Building205-207",
+                "description": "Education Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-03-22",
+                "time": "09:30",
+                "location": "Room 101, Legislative Office Building",
+                "description": "Education Hearing"
+            }
+        ],
+        "full_text": "committee established there is established a committee to study the feasibility of centralized criminal history records checks in education membership and compensation the members of the committee shall be as follows a four members of the house of representatives one of whom shall be from the education committee one from the executive departments and administration committee and one from the criminal justice and public safety committee appointed by the speaker of the house of representatives b one member of the senate appointed by the president of the senate members of the committee shall receive mileage at the legislative rate when attending to the duties of the committee duties because current law allows the department of education to conduct criminal history records checks for school bus drivers and transportation monitors so that they can work for multiple school districts with only one check and other professions also work with multiple schools or school districts but need to apply for a separate independent records check for each since the results cannot be shared nor sent to other than a government entity the study committee shall investigate which professions often serve multiple schools the degree of mobility within the professions subject to a criminal history records check the availability of other background clearance procedures such as from a professional regulatory board any restrictions on sharing the results of criminal history records checks and any other questions which would encourage or mitigate against having the department of education maintain such a registry of professionals chairperson quorum the members of the study committee shall elect a chairperson from among the members the first meeting of the committee shall be called by the house member the first meeting of the committee shall be held within days of the effective date of this section a majority of members of the committee shall constitute a quorum report the committee shall report its findings and any recommendations for proposed legislation to the speaker of the house of representatives the president of the senate the house clerk the senate clerk the governor and the state library on or before november"
+    }
+}

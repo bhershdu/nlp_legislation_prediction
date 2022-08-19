@@ -1,0 +1,693 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1543327,
+        "change_hash": "2ee4d984c7cc63c8883a1e6e33c40933",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1439/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2492&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1439",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2022-07-07",
+        "progress": [
+            {
+                "date": "2021-12-01",
+                "event": 1
+            },
+            {
+                "date": "2021-12-01",
+                "event": 9
+            },
+            {
+                "date": "2022-03-09",
+                "event": 10
+            },
+            {
+                "date": "2022-03-09",
+                "event": 10
+            },
+            {
+                "date": "2022-03-22",
+                "event": 2
+            },
+            {
+                "date": "2022-03-22",
+                "event": 9
+            },
+            {
+                "date": "2022-04-14",
+                "event": 10
+            },
+            {
+                "date": "2022-06-22",
+                "event": 3
+            },
+            {
+                "date": "2022-07-07",
+                "event": 8
+            },
+            {
+                "date": "2022-07-07",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1439",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to health care facility visitation policies.",
+        "description": "Relative to health care facility visitation policies.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-12-01",
+                "committee_id": 1249,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Health, Human Services & Elderly Affairs"
+            },
+            {
+                "date": "2022-03-22",
+                "committee_id": 1272,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Health and Human Services"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-12-01",
+                "action": "Introduced 01/05/2022 and referred to Health, Human Services and Elderly Affairs",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-12",
+                "action": "Public Hearing: 01/24/2022 10:00 am Legislative Office Building 210-211",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-07",
+                "action": "Subcommittee Work Session: 02/15/2022 08:30 am Legislative Office Building 210-211",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-15",
+                "action": "Subcommittee Work Session: 02/22/2022 08:30 am Legislative Office Building 210-211",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-01",
+                "action": "Executive Session: 03/08/2022 09:30 am Legislative Office Building 210-211",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-09",
+                "action": "Majority Committee Report: Ought to Pass with Amendment # 2022-1029h (Vote 11-10; Regular Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-09",
+                "action": "Minority Committee Report: Ought to Pass with Amendment # 2022-0946h",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-16",
+                "action": "Amendment # 2022-1029h: Amendment Adopted Voice Vote 03/16/2022 House Journal  7",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-16",
+                "action": "Ought to Pass with Amendment 2022-1029h: Motion Adopted Voice Vote 03/15/2022 House Journal  7",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-16",
+                "action": "Ought to Pass with Amendment 2022-0946h: Motion Failed Regular Calendar 158-177 03/16/2022 House Journal  7",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-22",
+                "action": "Introduced 03/17/2022 and Referred to Health and Human Services; Senate Journal 6",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-29",
+                "action": "Hearing: 04/06/2022, Room 100, State House, 10:40 am; Senate Calendar  14",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-14",
+                "action": "Committee Report: Ought to Pass with Amendment # 2022-1564s, 04/21/2022; Vote 5-0; Consent Calendar; Senate Calendar  16",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-04-21",
+                "action": "Ought to Pass with Amendment 2022-1564s, Motion Adopted, Voice Vote; OT3rdg; 04/21/2022; Senate Journal 9",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-21",
+                "action": "Committee Amendment # 2022-1564s, Amendment Adopted, Voice Vote; 04/21/2022; Senate Journal 9",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-10",
+                "action": "House Non-Concurs with Senate Amendment 2022-1564s and Requests CofC (Reps. M. Pearson, Layon, Cushman, Kelsey): Motion Adopted Voice Vote 05/05/2022 House Journal  12",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-12",
+                "action": "Sen. Bradley Accedes to House Request for Committee of Conference, Motion Adopted, Voice Vote; 05/12/2022; Senate Journal 12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-12",
+                "action": "President Appoints: Senators Bradley, Gannon, Sherman; 05/12/2022; Senate Journal 12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-13",
+                "action": "Conferee Change: Rep. Acton Replaces Rep. Cushman 05/13/2022",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-16",
+                "action": "Conference Committee Meeting: 05/16/2022 10:15 am Legislative Office Building 205-207",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-19",
+                "action": "Conference Committee Report Filed, # 2022-2016c; 05/26/2022",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-26",
+                "action": "Conference Committee Report # 2022-2016c, Adopted, Voice Vote; 05/26/2022; Senate Journal 13",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-26",
+                "action": "Conference Committee Report 2022-2016c: Adopted, Voice Vote 05/26/2022 House Journal  14",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-06-16",
+                "action": "Enrolled Bill Amendment # 2022-2121e Adopted, Voice Vote, (In recess of 05/26/2022); Senate Journal 13",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-06-16",
+                "action": "Enrolled Bill Amendment # 2022-2121e: Amendment Adopted Voice Vote (in recess of) 05/26/2022 House Journal  14",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-06-22",
+                "action": "Enrolled (in recess of) 05/26/2022 House Journal  14",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-06-22",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 05/26/2022); Senate Journal 13",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-07-07",
+                "action": "Signed by Governor Sununu 07/01/2022; Chapter 304; 07/01/2022 House Journal  14",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 16797,
+                "person_hash": "3wdxrmgx",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Kimberly Rice",
+                "first_name": "Kimberly",
+                "middle_name": "",
+                "last_name": "Rice",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-37-HIL",
+                "ftm_eid": 25005534,
+                "votesmart_id": 154512,
+                "opensecrets_id": "",
+                "knowwho_pid": 502112,
+                "ballotpedia": "Kimberly_Rice",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21838,
+                "person_hash": "en9fh5dn",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Erica Layon",
+                "first_name": "Erica",
+                "middle_name": "",
+                "last_name": "Layon",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-06-ROC",
+                "ftm_eid": 50226598,
+                "votesmart_id": 195044,
+                "opensecrets_id": "",
+                "knowwho_pid": 744333,
+                "ballotpedia": "Erica_Layon",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19819,
+                "person_hash": "8zx0v085",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Judy Aron",
+                "first_name": "Judy",
+                "middle_name": "",
+                "last_name": "Aron",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-07-SUL",
+                "ftm_eid": 45378624,
+                "votesmart_id": 185539,
+                "opensecrets_id": "",
+                "knowwho_pid": 670808,
+                "ballotpedia": "Judy_Aron",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 10920,
+                "person_hash": "ocox7vyt",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Jeanine Notter",
+                "first_name": "Jeanine",
+                "middle_name": "M.",
+                "last_name": "Notter",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-21-HIL",
+                "ftm_eid": 13004224,
+                "votesmart_id": 122804,
+                "opensecrets_id": "",
+                "knowwho_pid": 296536,
+                "ballotpedia": "Jeanine_Notter",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19877,
+                "person_hash": "fuqaltb9",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Terry Roy",
+                "first_name": "Terry",
+                "middle_name": "",
+                "last_name": "Roy",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-32-ROC",
+                "ftm_eid": 45378923,
+                "votesmart_id": 185521,
+                "opensecrets_id": "",
+                "knowwho_pid": 670768,
+                "ballotpedia": "Terry_Roy",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21821,
+                "person_hash": "uvc8su8v",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Juliet Harvey-Bolia",
+                "first_name": "Juliet",
+                "middle_name": "",
+                "last_name": "Harvey-Bolia",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-04-BEL",
+                "ftm_eid": 50226793,
+                "votesmart_id": 194686,
+                "opensecrets_id": "",
+                "knowwho_pid": 744017,
+                "ballotpedia": "Juliet_Harvey-Bolia",
+                "sponsor_type_id": 2,
+                "sponsor_order": 6,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4822,
+                "person_hash": "0pk9ro5j",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Barbara Shaw",
+                "first_name": "Barbara",
+                "middle_name": "E.",
+                "last_name": "Shaw",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-16-HIL",
+                "ftm_eid": 6395279,
+                "votesmart_id": 42806,
+                "opensecrets_id": "",
+                "knowwho_pid": 208678,
+                "ballotpedia": "Barbara_Shaw",
+                "sponsor_type_id": 2,
+                "sponsor_order": 7,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19846,
+                "person_hash": "o5k0dfka",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Daryl Abbas",
+                "first_name": "Daryl",
+                "middle_name": "A.",
+                "last_name": "Abbas",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-08-ROC",
+                "ftm_eid": 45378616,
+                "votesmart_id": 185319,
+                "opensecrets_id": "",
+                "knowwho_pid": 670640,
+                "ballotpedia": "Daryl_Abbas",
+                "sponsor_type_id": 2,
+                "sponsor_order": 8,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19822,
+                "person_hash": "cxfke49i",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Bob Greene",
+                "first_name": "Bob",
+                "middle_name": "",
+                "last_name": "Greene",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-37-HIL",
+                "ftm_eid": 45378745,
+                "votesmart_id": 185261,
+                "opensecrets_id": "",
+                "knowwho_pid": 670660,
+                "ballotpedia": "Bob_Greene",
+                "sponsor_type_id": 2,
+                "sponsor_order": 9,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 11579,
+                "person_hash": "xg5ddnit",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Kevin Avard",
+                "first_name": "Kevin",
+                "middle_name": "A.",
+                "last_name": "Avard",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-012",
+                "ftm_eid": 9727190,
+                "votesmart_id": 13431,
+                "opensecrets_id": "",
+                "knowwho_pid": 296158,
+                "ballotpedia": "Kevin_Avard",
+                "sponsor_type_id": 2,
+                "sponsor_order": 10,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 11989,
+                "person_hash": "szz8y6ea",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Regina Birdsell",
+                "first_name": "Regina",
+                "middle_name": "",
+                "last_name": "Birdsell",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-019",
+                "ftm_eid": 6695412,
+                "votesmart_id": 126600,
+                "opensecrets_id": "",
+                "knowwho_pid": 296214,
+                "ballotpedia": "Regina_Birdsell",
+                "sponsor_type_id": 2,
+                "sponsor_order": 11,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2461935,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1439/id/2461935",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1585&txtFormat=html",
+                "text_size": 13509,
+                "text_hash": "120b12a171753feed59d8b325fe3eaeb"
+            },
+            {
+                "doc_id": 2550662,
+                "date": "2022-03-16",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1439/id/2550662",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&txtFormat=html&v=HA&id=1585",
+                "text_size": 15482,
+                "text_hash": "4ac77266f2bec6642b42740276b8d0e6"
+            },
+            {
+                "doc_id": 2573414,
+                "date": "2022-04-21",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1439/id/2573414",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&txtFormat=html&v=SA&id=1585",
+                "text_size": 13494,
+                "text_hash": "9e68fc76ce6cac0e4d122e008eff790e"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1172026,
+                "date": "2022-03-16",
+                "desc": "Adopt Amendment",
+                "yea": 158,
+                "nay": 177,
+                "nv": 28,
+                "absent": 27,
+                "total": 390,
+                "passed": 0,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/HB1439/id/1172026",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=124&sy=2022&lb=H&eb=HB1439&sortoption=&txtsessionyear=2022&txtbillnumber=HB1439&ddlsponsors=&lsr=2492"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-24",
+                "time": "10:00",
+                "location": "Legislative Office Building 210-211",
+                "description": "Health, Human Services and Elderly Affairs Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-15",
+                "time": "08:30",
+                "location": "Legislative Office Building 210-211",
+                "description": "Health, Human Services and Elderly Affairs Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-22",
+                "time": "08:30",
+                "location": "Legislative Office Building 210-211",
+                "description": "Health, Human Services and Elderly Affairs Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-03-07",
+                "time": "09:30",
+                "location": "Legislative Office Building 210-211",
+                "description": "Health, Human Services and Elderly Affairs Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-03-08",
+                "time": "09:30",
+                "location": "Legislative Office Building 210-211",
+                "description": "Health, Human Services and Elderly Affairs Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-04-06",
+                "time": "10:40",
+                "location": "Room 100, State House",
+                "description": "Health and Human Services Hearing"
+            }
+        ],
+        "full_text": "new paragraph residential care and health facility licensing patients bill of rights visitation policies amend rsa by inserting after paragraph xxi the following new paragraph a in addition to the rights specified in paragraph xviii the patient shall be entitled to designate a spouse family member or caregiver who may visit the facility while the patient is receiving care a patient who is a minor may have a parent guardian or person standing in loco parentis visit the facility while the minor patient is receiving care b notwithstanding subparagraph a a health care facility may establish visitation policies that limit or restrict visitation when a the presence of visitors would be medically or therapeutically contraindicated in the best clinical judgment of health care professionals b the presence of visitors would interfere with the care of or rights of any patient c visitors are engaging in disruptive threatening or violent behavior toward any staff member patient or another visitor or d visitors are noncompliant with written hospital policy upon request the patient or patient s representative if the patient is incapacitated shall be provided the reason for denial or revocation of visitation rights under this paragraph c a health care facility may require visitors to wear personal protective equipment provided by the facility or provided by the visitor and approved by the facility a health care facility may require visitors to comply with reasonable safety protocols and rules of conduct the health care facility may revoke visitation rights for failure to comply with this subparagraph d nothing in this paragraph shall be construed to require a health care facility to allow a visitor to enter an operating room isolation room isolation unit behavioral health setting or other typically restricted area or to remain present during the administration of emergency care in critical situations nothing in this paragraph shall be construed to require a health care facility to allow a visitor access beyond the rooms units or wards in which the patient is receiving care or beyond general common areas in the health care facility e the rights specified in this paragraph shall not be terminated suspended or waived by the health care facility the department of health and human services or any governmental entity notwithstanding declarations of emergency declared by the governor or the legislature no health care facility licensed pursuant to rsa shall require a patient to waive the rights specified in this paragraph f each health care facility licensed pursuant to rsa shall post on its website informational materials explaining the rights specified in this paragraph the patients bill of rights which applies to the facility on its website and hospital visitation policy detailing the rights and responsibilities specified in this paragraph and the limitations placed upon those rights by written hospital policy on its website g unless expressly required by federal law or regulation the department or any other state agency shall not take any action arising out of this paragraph against a health care facility for giving a visitor individual access to a property or location controlled by the health care facility failing to protect or otherwise ensure the safety or comfort of a visitor given access to a property or location controlled by the health care facility the acts or omissions of any visitor who is given access to a property or location controlled by the health care facility"
+    }
+}

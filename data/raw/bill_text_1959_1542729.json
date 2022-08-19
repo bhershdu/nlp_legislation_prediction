@@ -1,0 +1,217 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1542729,
+        "change_hash": "754f4d88076e014273d49161bb886c51",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1628/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2536&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1628",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-12-27",
+        "progress": [
+            {
+                "date": "2021-12-27",
+                "event": 1
+            },
+            {
+                "date": "2021-12-27",
+                "event": 9
+            },
+            {
+                "date": "2022-03-07",
+                "event": 11
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1628",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Directing the department of energy to generate a report on the microgrid project currently in progress at the university of New Hampshire in collaboration with the regional utilities.",
+        "description": "Directing the department of energy to generate a report on the microgrid project currently in progress at the university of New Hampshire in collaboration with the regional utilities.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-12-27",
+                "committee_id": 1261,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Science, Technology and Energy"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-12-27",
+                "action": "Introduced 01/05/2022 and referred to Science, Technology and Energy",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-19",
+                "action": "Public Hearing: 01/25/2022 12:30 pm Legislative Office Building 306-308",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-01",
+                "action": "Executive Session: 03/01/2022 10:00 a.m. Legislative Office Building306-308",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-07",
+                "action": "Committee Report: Inexpedient to Legislate (Vote 19-3; Regular Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-17",
+                "action": "Lay HB1628 on Table (Rep. Vose): Motion Adopted DV 208-99 03/17/2022 House Journal  8",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 19179,
+                "person_hash": "uykj4zar",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Peter Somssich",
+                "first_name": "Peter",
+                "middle_name": "F.",
+                "last_name": "Somssich",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-27-ROC",
+                "ftm_eid": 9713370,
+                "votesmart_id": 172696,
+                "opensecrets_id": "",
+                "knowwho_pid": 587712,
+                "ballotpedia": "Peter_Somssich",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21819,
+                "person_hash": "cgjq2ovw",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Joan Hamblet",
+                "first_name": "Joan",
+                "middle_name": "",
+                "last_name": "Hamblet",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-31-ROC",
+                "ftm_eid": 15859987,
+                "votesmart_id": 194860,
+                "opensecrets_id": "",
+                "knowwho_pid": 744651,
+                "ballotpedia": "Joan_Hamblet",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19876,
+                "person_hash": "kxf3zylz",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "David Meuse",
+                "first_name": "David",
+                "middle_name": "",
+                "last_name": "Meuse",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-29-ROC",
+                "ftm_eid": 28765616,
+                "votesmart_id": 185615,
+                "opensecrets_id": "",
+                "knowwho_pid": 670889,
+                "ballotpedia": "David_Meuse",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2462338,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1628/id/2462338",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1629&txtFormat=html",
+                "text_size": 13067,
+                "text_hash": "8fe7173b0ddb2dff07269b38b09ed846"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-25",
+                "time": "12:30",
+                "location": "Legislative Office Building 306-308",
+                "description": "Science, Technology and Energy Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-03-01",
+                "time": "10:00",
+                "location": "Legislative Office Building306-308",
+                "description": "Science, Technology and Energy Executive Session"
+            }
+        ],
+        "full_text": "legislative findings and purpose the general court finds that the first microgrid in new hampshire is currently under construction on the campus of the university of new hampshire in durham in collaboration with the regional utilities and a consulting company a microgrid can be described as a localized energy system that can be disconnected from the traditional centralized electricity grid to operate autonomously this type of system has been implemented in small neighborhoods and large municipalities the most example of this type of installation is operated by the united states military which operates many microgrid sites including sites at the portsmouth naval shipyard however the benefits of microgrid sites for small communities that partner with other communities and the safety enhancement of emergency services for all municipalities have not been fully explored in new hampshire using the university of new hampshire microgrid as a learning experience can be very useful because this project will highlight barriers to microgrid projects if new hampshire can benefit from the application of microgrids the microgrid project at the university of new hampshire can be invaluable report the department of energy shall generate a report describing a the goal of the microgrid project at the university of new hampshire in durham b the progress of the project to date and barriers that are limiting the progress of the project and c new hampshire communities where a microgrid project may have the greatest impact the department of energy may collaborate with any relevant stakeholders to generate the report the department of energy shall submit the report to the house science technology and energy committee the senate energy and natural resources committee the governor and the state library on or before november lba hb fiscal note as introduced as introduced at this time the department of energy was contacted for a fiscal note worksheet initially on with several contacts when completed the fiscal note will be forwarded to the house clerk s office agencies contacted department of energy"
+    }
+}

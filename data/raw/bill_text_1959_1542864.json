@@ -1,0 +1,258 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1542864,
+        "change_hash": "ba393055d7925bbd06b9a443a9c71837",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1238/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2524&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1238",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-11-18",
+        "progress": [
+            {
+                "date": "2021-11-18",
+                "event": 1
+            },
+            {
+                "date": "2021-11-18",
+                "event": 9
+            },
+            {
+                "date": "2022-03-09",
+                "event": 11
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1238",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to zoning powers and the supply of workforce housing.",
+        "description": "Relative to zoning powers and the supply of workforce housing.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-11-18",
+                "committee_id": 1257,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Municipal and County Government"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-11-18",
+                "action": "Introduced 01/05/2022 and referred to Municipal and County Government",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-02-07",
+                "action": "==RECESSED== Public Hearing: 02/07/2022 10:30 am Legislative Office Building301-303",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-15",
+                "action": "==CONTINUED== Public Hearing: 02/15/2022 10:00 am Legislative Office Building301-303",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-28",
+                "action": "Executive Session: 02/28/2022 9:00 a.m. Legislative Office Building301-303",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-09",
+                "action": "Committee Report: Inexpedient to Legislate (Vote 16-0; Consent Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-16",
+                "action": "Inexpedient to Legislate: Motion Adopted Voice Vote 03/15/2022 House Journal  6",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 17495,
+                "person_hash": "9stsskue",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Michael Vose",
+                "first_name": "Michael",
+                "middle_name": "",
+                "last_name": "Vose",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-09-ROC",
+                "ftm_eid": 25005609,
+                "votesmart_id": 154583,
+                "opensecrets_id": "",
+                "knowwho_pid": 503499,
+                "ballotpedia": "Michael_Vose",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19878,
+                "person_hash": "n0xfc702",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Josh Yokela",
+                "first_name": "Josh",
+                "middle_name": "",
+                "last_name": "Yokela",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-33-ROC",
+                "ftm_eid": 45378989,
+                "votesmart_id": 185522,
+                "opensecrets_id": "",
+                "knowwho_pid": 670769,
+                "ballotpedia": "Josh_Yokela",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21795,
+                "person_hash": "d7aq9ynt",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Ross Berry",
+                "first_name": "Ross",
+                "middle_name": "",
+                "last_name": "Berry",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-44-HIL",
+                "ftm_eid": 50226566,
+                "votesmart_id": 194740,
+                "opensecrets_id": "",
+                "knowwho_pid": 744237,
+                "ballotpedia": "Ross_Berry",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21840,
+                "person_hash": "rup7pir7",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Richard Littlefield",
+                "first_name": "Richard",
+                "middle_name": "",
+                "last_name": "Littlefield",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-03-BEL",
+                "ftm_eid": 50226771,
+                "votesmart_id": 194682,
+                "opensecrets_id": "",
+                "knowwho_pid": 744016,
+                "ballotpedia": "Richard_Littlefield",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2461486,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1238/id/2461486",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1618&txtFormat=html",
+                "text_size": 7962,
+                "text_hash": "6a613eaa662dc09e4317278557229951"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-07",
+                "time": "10:30",
+                "location": "Legislative Office Building301-303",
+                "description": "Municipal and County Government Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-15",
+                "time": "10:00",
+                "location": "Legislative Office Building301-303",
+                "description": "Municipal and County Government Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-28",
+                "time": "09:00",
+                "location": "Legislative Office Building301-303",
+                "description": "Municipal and County Government Executive Session"
+            }
+        ],
+        "full_text": "workforce housing general provisions for planning and zoning amend rsa to read as follows all citizens of the state benefit from a balanced supply of housing which is affordable to persons and families of low and moderate income establishment of housing which is decent safe sanitary and affordable to low and moderate income persons and families is in the best interests of each community and the state of new hampshire and serves a vital public need opportunity for development of such housing shall not be prohibited or unreasonably discouraged by use of municipal planning and zoning powers or by unreasonable interpretation of such powers including prohibitions on workforce housing that meets all other applicable standards in any defined zone"
+    }
+}

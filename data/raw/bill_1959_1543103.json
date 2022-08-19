@@ -1,0 +1,279 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1543103,
+        "change_hash": "3c2cfe0469aa916181461327a278c500",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1113/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2834&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1113",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-11-16",
+        "progress": [
+            {
+                "date": "2021-11-16",
+                "event": 1
+            },
+            {
+                "date": "2021-11-16",
+                "event": 9
+            },
+            {
+                "date": "2022-03-07",
+                "event": 11
+            },
+            {
+                "date": "2022-03-07",
+                "event": 10
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1113",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Prohibiting the department of education and the state board of education from directing or limiting school instructional options, such as remote learning.",
+        "description": "Prohibiting the department of education and the state board of education from directing or limiting school instructional options, such as remote learning.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-11-16",
+                "committee_id": 1240,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Education"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-11-16",
+                "action": "Introduced 02/05/2022 and referred to Education",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-09",
+                "action": "Public Hearing: 01/20/2022 01:45 pm Legislative Office Building 205-207",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-07",
+                "action": "Executive Session: 01/20/2022 01:45 pm Legislative Office Building 205-207",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-07",
+                "action": "Majority Committee Report: Inexpedient to Legislate (Vote 10-9; Regular Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-07",
+                "action": "Minority Committee Report: Ought to Pass with Amendment # 2022-0878h (NT)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-17",
+                "action": "Inexpedient to Legislate: Motion Adopted DV 166-154 03/15/2022 House Journal  6",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 12886,
+                "person_hash": "2bsgot9r",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Marjorie Porter",
+                "first_name": "Marjorie",
+                "middle_name": "",
+                "last_name": "Porter",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-01-HIL",
+                "ftm_eid": 6510482,
+                "votesmart_id": 14523,
+                "opensecrets_id": "",
+                "knowwho_pid": 296493,
+                "ballotpedia": "Marjorie_Porter",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19757,
+                "person_hash": "yrgjv30x",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Stephen Woodcock",
+                "first_name": "Stephen",
+                "middle_name": "L.",
+                "last_name": "Woodcock",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-02-CAR",
+                "ftm_eid": 45378985,
+                "votesmart_id": 185471,
+                "opensecrets_id": "",
+                "knowwho_pid": 670238,
+                "ballotpedia": "Stephen_Woodcock",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 14484,
+                "person_hash": "qd1dpodj",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Mel Myler",
+                "first_name": "Mel",
+                "middle_name": "",
+                "last_name": "Myler",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-10-MER",
+                "ftm_eid": 13703645,
+                "votesmart_id": 143338,
+                "opensecrets_id": "",
+                "knowwho_pid": 428108,
+                "ballotpedia": "Mel_Myler",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19843,
+                "person_hash": "xz34mimu",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Sue Mullen",
+                "first_name": "Sue",
+                "middle_name": "",
+                "last_name": "Mullen",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-07-HIL",
+                "ftm_eid": 45378856,
+                "votesmart_id": 185326,
+                "opensecrets_id": "",
+                "knowwho_pid": 670399,
+                "ballotpedia": "Sue_Mullen",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19789,
+                "person_hash": "o9ep2oo3",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Arthur Ellison",
+                "first_name": "Arthur",
+                "middle_name": "",
+                "last_name": "Ellison",
+                "suffix": "",
+                "nickname": "Art",
+                "district": "HD-27-MER",
+                "ftm_eid": 42048163,
+                "votesmart_id": 185381,
+                "opensecrets_id": "",
+                "knowwho_pid": 670729,
+                "ballotpedia": "Art_Ellison",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2461719,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1113/id/2461719",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1927&txtFormat=html",
+                "text_size": 7944,
+                "text_hash": "8f63fe6b3feba682ef9d612242fe2c52"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-20",
+                "time": "13:45",
+                "location": "Legislative Office Building 205-207",
+                "description": "Education Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-20",
+                "time": "13:45",
+                "location": "Legislative Office Building 205-207",
+                "description": "Education Executive Session"
+            }
+        ]
+    }
+}

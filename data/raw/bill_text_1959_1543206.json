@@ -1,0 +1,475 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1543206,
+        "change_hash": "1da6bc6ac4b7fa67f692537ec9e3b07a",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1586/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2656&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1586",
+        "completed": 0,
+        "status": 2,
+        "status_date": "2022-03-01",
+        "progress": [
+            {
+                "date": "2021-12-21",
+                "event": 1
+            },
+            {
+                "date": "2021-12-21",
+                "event": 9
+            },
+            {
+                "date": "2022-02-09",
+                "event": 10
+            },
+            {
+                "date": "2022-03-01",
+                "event": 2
+            },
+            {
+                "date": "2022-03-01",
+                "event": 9
+            },
+            {
+                "date": "2022-03-09",
+                "event": 10
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1586",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "S",
+        "current_body_id": 68,
+        "title": "Relative to a likeness of Wentworth Cheswill at the state house.",
+        "description": "Relative to a likeness of Wentworth Cheswill at the state house.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-12-21",
+                "committee_id": 1255,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Legislative Administration"
+            },
+            {
+                "date": "2022-03-01",
+                "committee_id": 1270,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Executive Departments and Administration"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-12-21",
+                "action": "Introduced 01/05/2022 and referred to Legislative Administration",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-19",
+                "action": "Public Hearing: 01/19/2022 2:45 p.m. Legislative Office Building301-303",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-09",
+                "action": "Executive Session: 01/19/2022 02:45 pm Legislative Office Building301-303",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-09",
+                "action": "Committee Report: Ought to Pass with Amendment # 2022-0345h (Vote 17-0; Regular Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-02-22",
+                "action": "Amendment # 2022-0345h: Amendment Adopted Voice Vote 02/17/2022 House Journal  4",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-22",
+                "action": "Ought to Pass with Amendment 2022-0345h: Motion Adopted Voice Vote 02/17/2022 House Journal  4",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-01",
+                "action": "Introduced 02/24/2022 and Referred to Executive Departments and Administration; Senate Journal 5",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-02",
+                "action": "Hearing: 03/09/2022, Room 103, State House, 10:15 am; Senate Calendar  10",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-09",
+                "action": "Committee Report: Ought to Pass with Amendment # 2022-1046s, 03/17/2022; Vote 5-0; Consent Calendar; Senate Calendar  11",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-17",
+                "action": "Committee Amendment # 2022-1046s, Amendment Adopted, Voice Vote; 03/17/2022; Senate Journal 5",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-17",
+                "action": "Ought to Pass with Amendment 2022-1046s, Motion Adopted, Voice Vote; OT3rdg; 03/17/2022; Senate Journal 5",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-10",
+                "action": "House Non-Concurs with Senate Amendment 2022-1046s and Requests CofC (Reps. Hill, Wall, Rouillard, Espitia): Motion Adopted Voice Vote 05/05/2022 House Journal  12",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-12",
+                "action": "Sen. Carson Accedes to House Request for Committee of Conference, Motion Adopted, Voice Vote; 05/12/2022; Senate Journal 12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-12",
+                "action": "President Appoints: Senators Carson, Ricciardi, Watters; 05/12/2022; Senate Journal 12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-18",
+                "action": "Conference Committee Meeting: 05/18/2022 11:00 am Legislative Office Building 305-307",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-23",
+                "action": "Conference Committee Report; Not Signed Off; Senate Journal 13",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 19109,
+                "person_hash": "tlyu018w",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Charlotte DiLorenzo",
+                "first_name": "Charlotte",
+                "middle_name": "I.",
+                "last_name": "DiLorenzo",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-17-ROC",
+                "ftm_eid": 41757405,
+                "votesmart_id": 172682,
+                "opensecrets_id": "",
+                "knowwho_pid": 587692,
+                "ballotpedia": "Charlotte_DiLorenzo",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4845,
+                "person_hash": "0rmbg8t7",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Marjorie Smith",
+                "first_name": "Marjorie",
+                "middle_name": "",
+                "last_name": "Smith",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-07-STR",
+                "ftm_eid": 6395309,
+                "votesmart_id": 14725,
+                "opensecrets_id": "",
+                "knowwho_pid": 197019,
+                "ballotpedia": "Marjorie_Smith",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 5026,
+                "person_hash": "fenlx6qz",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Robert Cushing",
+                "first_name": "Robert",
+                "middle_name": "Reynolds",
+                "last_name": "Cushing",
+                "suffix": "",
+                "nickname": "Renny",
+                "district": "HD-21-ROC",
+                "ftm_eid": 6433716,
+                "votesmart_id": 14688,
+                "opensecrets_id": "",
+                "knowwho_pid": 233889,
+                "ballotpedia": "Robert_Cushing",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18127,
+                "person_hash": "kl3fp6h1",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Ellen Read",
+                "first_name": "Ellen",
+                "middle_name": "",
+                "last_name": "Read",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-16-ROC",
+                "ftm_eid": 6494587,
+                "votesmart_id": 172683,
+                "opensecrets_id": "",
+                "knowwho_pid": 587693,
+                "ballotpedia": "Ellen_Read",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4750,
+                "person_hash": "vpo1f77e",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Timothy Horrigan",
+                "first_name": "Timothy",
+                "middle_name": "",
+                "last_name": "Horrigan",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-07-STR",
+                "ftm_eid": 6494379,
+                "votesmart_id": 110051,
+                "opensecrets_id": "",
+                "knowwho_pid": 269497,
+                "ballotpedia": "Timothy_Horrigan",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 17406,
+                "person_hash": "x7t5ym7k",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Alexis Simpson",
+                "first_name": "Alexis",
+                "middle_name": "",
+                "last_name": "Simpson",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-36-ROC",
+                "ftm_eid": 25005832,
+                "votesmart_id": 154348,
+                "opensecrets_id": "",
+                "knowwho_pid": 502160,
+                "ballotpedia": "Alexis_Simpson",
+                "sponsor_type_id": 2,
+                "sponsor_order": 6,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 15540,
+                "person_hash": "9pz8otrg",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Michael Cahill",
+                "first_name": "Michael",
+                "middle_name": "",
+                "last_name": "Cahill",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-17-ROC",
+                "ftm_eid": 13703690,
+                "votesmart_id": 143292,
+                "opensecrets_id": "",
+                "knowwho_pid": 428138,
+                "ballotpedia": "Michael_Cahill",
+                "sponsor_type_id": 2,
+                "sponsor_order": 7,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21857,
+                "person_hash": "10182fj6",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Rebecca Perkins Kwoka",
+                "first_name": "Rebecca",
+                "middle_name": "",
+                "last_name": "Perkins Kwoka",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-021",
+                "ftm_eid": 50165879,
+                "votesmart_id": 194373,
+                "opensecrets_id": "",
+                "knowwho_pid": 743972,
+                "ballotpedia": "Rebecca_Perkins_Kwoka",
+                "sponsor_type_id": 2,
+                "sponsor_order": 8,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2461820,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1586/id/2461820",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1749&txtFormat=html",
+                "text_size": 18973,
+                "text_hash": "d825aac61b4b2dcf39c88c7453bb49df"
+            },
+            {
+                "doc_id": 2526307,
+                "date": "2022-02-17",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1586/id/2526307",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&txtFormat=html&v=HA&id=1749",
+                "text_size": 18394,
+                "text_hash": "7fcdcaa0699d41f1dce741aa019fc3e8"
+            },
+            {
+                "doc_id": 2551871,
+                "date": "2022-03-17",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1586/id/2551871",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&txtFormat=html&v=SA&id=1749",
+                "text_size": 11307,
+                "text_hash": "99d5304378e0ec1834da86f42105865d"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-19",
+                "time": "14:45",
+                "location": "Legislative Office Building301-303",
+                "description": "Legislative Administration Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-19",
+                "time": "14:45",
+                "location": "Legislative Office Building301-303",
+                "description": "Legislative Administration Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-03-09",
+                "time": "10:15",
+                "location": "Room 103, State House",
+                "description": "Executive Departments and Administration Hearing"
+            }
+        ],
+        "full_text": "declaration of purpose mr wentworth cheswill was born on april in newmarket new hampshire mr cheswill a man of color has been said to have been the first elected official in the united states he was a revolutionary war veteran and served under john langdon in langdon s company of light horse volunteers he was an elected newmarket town official and served the town in various elected town offices from until his death in in mr cheswill was among the founders of the first free library in the town and provided in his will for public access to his personal library commemorative historical plaque for wentworth cheswill the joint legislative historical committee is authorized to accept a gift of a commemorative historical plaque for wentworth cheswill and oversee the placement of the plaque in the state house lba amended hb fiscal note as amended by the house amendment h methodology the office of legislative budget assistant states this bill as amended by the house has no fiscal impact on state county and local expenditures or revenue agencies contacted none"
+    }
+}

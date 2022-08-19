@@ -1,0 +1,346 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1542732,
+        "change_hash": "1354ef61c7ec7293d3ade9aaf06a456b",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1416/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2773&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1416",
+        "completed": 0,
+        "status": 2,
+        "status_date": "2022-03-22",
+        "progress": [
+            {
+                "date": "2021-12-01",
+                "event": 1
+            },
+            {
+                "date": "2021-12-01",
+                "event": 9
+            },
+            {
+                "date": "2022-03-09",
+                "event": 10
+            },
+            {
+                "date": "2022-03-09",
+                "event": 11
+            },
+            {
+                "date": "2022-03-22",
+                "event": 2
+            },
+            {
+                "date": "2022-03-22",
+                "event": 9
+            },
+            {
+                "date": "2022-04-27",
+                "event": 9
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1416",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "S",
+        "current_body_id": 68,
+        "title": "Relative to consent for mental health treatment in parenting cases with shared decision-making responsibility.",
+        "description": "Relative to consent for mental health treatment in parenting cases with shared decision-making responsibility.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-12-01",
+                "committee_id": 1237,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Children and Family Law"
+            },
+            {
+                "date": "2022-03-22",
+                "committee_id": 1273,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Judiciary"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-12-01",
+                "action": "Introduced 01/05/2022 and referred to Children and Family Law",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-07",
+                "action": "Public Hearing: 01/11/2022 01:00 pm Legislative Office Building 206-208",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-23",
+                "action": "Executive Session: 03/01/2022 0900am Legislative Office Building 206-208",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-09",
+                "action": "Majority Committee Report: Ought to Pass with Amendment # 2022-0871h (Vote 14-1; Regular Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-09",
+                "action": "Minority Committee Report: Inexpedient to Legislate",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-16",
+                "action": "Amendment # 2022-0871h: Amendment Adopted Voice Vote 03/15/2022 House Journal  6",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-16",
+                "action": "Ought to Pass with Amendment 2022-0871h: Motion Adopted Voice Vote 03/15/2022 House Journal  6",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-22",
+                "action": "Introduced 03/17/2022 and Referred to Judiciary; Senate Journal 6",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-04-20",
+                "action": "Hearing: 04/26/2022, Room 100, State House, 01:50 pm; Senate Calendar  17",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-27",
+                "action": "Committee Report: Referred to Interim Study, 05/05/2022; Vote 5-0; Consent Calendar; Senate Calendar  18",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-05-05",
+                "action": "Refer to Interim Study, Motion Adopted, Voice Vote; 05/05/2022; Senate Journal 11",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 16959,
+                "person_hash": "0btljhov",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Amanda Bouldin",
+                "first_name": "Amanda",
+                "middle_name": "",
+                "last_name": "Bouldin",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-12-HIL",
+                "ftm_eid": 25005739,
+                "votesmart_id": 154276,
+                "opensecrets_id": "",
+                "knowwho_pid": 501853,
+                "ballotpedia": "Amanda_Bouldin",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19172,
+                "person_hash": "m1yswrtd",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Allison Nutting",
+                "first_name": "Allison",
+                "middle_name": "",
+                "last_name": "Nutting",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-34-HIL",
+                "ftm_eid": 25005768,
+                "votesmart_id": 154304,
+                "opensecrets_id": "",
+                "knowwho_pid": 502275,
+                "ballotpedia": "Allison_Nutting-Wong",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19883,
+                "person_hash": "2tjp2hjv",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Andrew Bouldin",
+                "first_name": "Andrew",
+                "middle_name": "",
+                "last_name": "Bouldin",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-12-HIL",
+                "ftm_eid": 45378645,
+                "votesmart_id": 185553,
+                "opensecrets_id": "",
+                "knowwho_pid": 670551,
+                "ballotpedia": "Andrew_Bouldin",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 17361,
+                "person_hash": "wk4qx5u0",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Kendall Snow",
+                "first_name": "Kendall",
+                "middle_name": "A.",
+                "last_name": "Snow",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-42-HIL",
+                "ftm_eid": 25005779,
+                "votesmart_id": 154311,
+                "opensecrets_id": "",
+                "knowwho_pid": 501857,
+                "ballotpedia": "Kendall_Snow",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19858,
+                "person_hash": "ytpokuhi",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Joshua Query",
+                "first_name": "Joshua",
+                "middle_name": "",
+                "last_name": "Query",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-16-HIL",
+                "ftm_eid": 45378906,
+                "votesmart_id": 185357,
+                "opensecrets_id": "",
+                "knowwho_pid": 670558,
+                "ballotpedia": "Joshua_Query",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2461355,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1416/id/2461355",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1866&txtFormat=html",
+                "text_size": 7668,
+                "text_hash": "ce7fa21e21d246b19fcf9aca14ebdadb"
+            },
+            {
+                "doc_id": 2550773,
+                "date": "2022-03-15",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1416/id/2550773",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&txtFormat=html&v=HA&id=1866",
+                "text_size": 7688,
+                "text_hash": "91d5d9022d7a8c35e04aca7e9d03b268"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-11",
+                "time": "13:00",
+                "location": "Legislative Office Building 206-208",
+                "description": "Children and Family Law Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-04-26",
+                "time": "13:50",
+                "location": "Room 100, State House",
+                "description": "Judiciary Hearing"
+            }
+        ],
+        "full_text": "new paragraph parenting plans consent to mental health treatment amend rsa by inserting after paragraph iv the following new paragraph if the parents have joint responsibility either parent may consent to counseling services or other mental health treatment for the child provided that the parent who obtains such services for the child notifies the other parent before treatment begins"
+    }
+}

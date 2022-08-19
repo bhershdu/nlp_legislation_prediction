@@ -1,0 +1,484 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1542886,
+        "change_hash": "9daa8384e550c03d2aaaf6cec301736c",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/SB272/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2864&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=SB272",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2022-06-08",
+        "progress": [
+            {
+                "date": "2021-12-14",
+                "event": 1
+            },
+            {
+                "date": "2021-12-14",
+                "event": 9
+            },
+            {
+                "date": "2022-01-26",
+                "event": 10
+            },
+            {
+                "date": "2022-03-23",
+                "event": 2
+            },
+            {
+                "date": "2022-03-23",
+                "event": 9
+            },
+            {
+                "date": "2022-04-22",
+                "event": 10
+            },
+            {
+                "date": "2022-05-27",
+                "event": 3
+            },
+            {
+                "date": "2022-06-08",
+                "event": 8
+            },
+            {
+                "date": "2022-06-08",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "SB272",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "S",
+        "body_id": 68,
+        "current_body": "S",
+        "current_body_id": 68,
+        "title": "Establishing a committee to study the oversight and operation of the public deposit investment pool.",
+        "description": "Establishing a committee to study the oversight and operation of the public deposit investment pool.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-12-14",
+                "committee_id": 1271,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Finance"
+            },
+            {
+                "date": "2022-03-23",
+                "committee_id": 1238,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Commerce and Consumer Affairs"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-12-14",
+                "action": "To Be Introduced 01/05/2022 and Referred to Finance; Senate Journal 1",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-12-20",
+                "action": "Hearing: 01/18/2022, Room 103, State House, 01:10 pm; Senate Calendar  50",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-26",
+                "action": "Committee Report: Ought to Pass with Amendment # 2022-0163s, 02/03/2022; Senate Calendar  5",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-02-03",
+                "action": "Committee Amendment # 2022-0163s, Amendment Adopted, Voice Vote; 02/03/2022; Senate Journal 2",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-03",
+                "action": "Ought to Pass with Amendment 2022-0163s, Motion Adopted, Voice Vote; OT3rdg; 02/03/2022; Senate Journal 2",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-23",
+                "action": "Introduced 03/17/2022 and referred to Commerce and Consumer Affairs",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-30",
+                "action": "Public Hearing: 04/06/2022 02:00 pm Legislative Office Building 302-304",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-30",
+                "action": "Subcommittee Work Session: 04/07/2022 10:00 am Legislative Office Building 302-304",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-13",
+                "action": "Executive Session: 04/20/2022 01:00 pm Legislative Office Building 302-304",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-14",
+                "action": "Subcommittee Work Session: 04/20/2022 10:00 am Legislative Office Building 302-304",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-22",
+                "action": "Committee Report: Ought to Pass with Amendment # 2022-1490h (Vote 18-0; Consent Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-05-04",
+                "action": "Amendment # 1490h: Amendment Adopted Voice Vote 05/04/2022 House Journal  11",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-04",
+                "action": "Ought to Pass with Amendment 1490h: Motion Adopted Voice Vote 05/04/2022 House Journal  11",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-12",
+                "action": "Sen. Daniels Moved to Concur with the House Amendment, Motion Adopted, Voice Vote; 05/12/2022; Senate Journal 12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-27",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 05/26/2022); Senate Journal 13",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-27",
+                "action": "Enrolled (in recess of) 05/26/2022 House Journal  14",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-06-08",
+                "action": "Signed by the Governor on 06/07/2022; Chapter 0154; Effective 06/07/2022",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 4924,
+                "person_hash": "5p0a0w6s",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Cindy Rosenwald",
+                "first_name": "Lucinda",
+                "middle_name": "",
+                "last_name": "Rosenwald",
+                "suffix": "",
+                "nickname": "Cindy",
+                "district": "SD-013",
+                "ftm_eid": 6463841,
+                "votesmart_id": 42204,
+                "opensecrets_id": "",
+                "knowwho_pid": 228804,
+                "ballotpedia": "Lucinda_Rosenwald",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19435,
+                "person_hash": "pcvm1xbc",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Kevin Cavanaugh",
+                "first_name": "Kevin",
+                "middle_name": "J.",
+                "last_name": "Cavanaugh",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-016",
+                "ftm_eid": 43568196,
+                "votesmart_id": 176396,
+                "opensecrets_id": "",
+                "knowwho_pid": 634333,
+                "ballotpedia": "Kevin_Cavanaugh_(New_Hampshire)",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21857,
+                "person_hash": "10182fj6",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Rebecca Perkins Kwoka",
+                "first_name": "Rebecca",
+                "middle_name": "",
+                "last_name": "Perkins Kwoka",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-021",
+                "ftm_eid": 50165879,
+                "votesmart_id": 194373,
+                "opensecrets_id": "",
+                "knowwho_pid": 743972,
+                "ballotpedia": "Rebecca_Perkins_Kwoka",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 15125,
+                "person_hash": "g54db31d",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Donna Soucy",
+                "first_name": "Donna",
+                "middle_name": "M.",
+                "last_name": "Soucy",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-018",
+                "ftm_eid": 9862727,
+                "votesmart_id": 8532,
+                "opensecrets_id": "",
+                "knowwho_pid": 425979,
+                "ballotpedia": "Donna_Soucy",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 11837,
+                "person_hash": "9bfp0ziy",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Patrick Abrami",
+                "first_name": "Patrick",
+                "middle_name": "",
+                "last_name": "Abrami",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-19-ROC",
+                "ftm_eid": 13004265,
+                "votesmart_id": 126608,
+                "opensecrets_id": "",
+                "knowwho_pid": 296219,
+                "ballotpedia": "Patrick_Abrami",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4829,
+                "person_hash": "p7484y9q",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Susan Almy",
+                "first_name": "Susan",
+                "middle_name": "W.",
+                "last_name": "Almy",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-13-GRA",
+                "ftm_eid": 199534,
+                "votesmart_id": 15165,
+                "opensecrets_id": "",
+                "knowwho_pid": 197099,
+                "ballotpedia": "Susan_Almy",
+                "sponsor_type_id": 2,
+                "sponsor_order": 6,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4896,
+                "person_hash": "mtn0aneh",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "John Hunt",
+                "first_name": "John",
+                "middle_name": "B.",
+                "last_name": "Hunt",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-11-CHE",
+                "ftm_eid": 6594796,
+                "votesmart_id": 8051,
+                "opensecrets_id": "",
+                "knowwho_pid": 197041,
+                "ballotpedia": "John_Hunt_(New_Hampshire)",
+                "sponsor_type_id": 2,
+                "sponsor_order": 7,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2461508,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB272/id/2461508",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1957&txtFormat=html",
+                "text_size": 10999,
+                "text_hash": "236ab1f2dab1c934ce0e85d8520f2870"
+            },
+            {
+                "doc_id": 2504505,
+                "date": "2022-02-03",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB272/id/2504505",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&txtFormat=html&v=SA&id=1957",
+                "text_size": 10985,
+                "text_hash": "01723e1892fdd8bc60aa4d005ce536d2"
+            },
+            {
+                "doc_id": 2579932,
+                "date": "2022-02-03",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB272/id/2579932",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&txtFormat=html&v=HA&id=1957",
+                "text_size": 11027,
+                "text_hash": "deb9d4ba64eacc2d53eeafe1d8e829c3"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-18",
+                "time": "13:10",
+                "location": "Room 103, State House",
+                "description": "Finance Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-04-06",
+                "time": "14:00",
+                "location": "Legislative Office Building 302-304",
+                "description": "Commerce and Consumer Affairs Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-04-07",
+                "time": "10:00",
+                "location": "Legislative Office Building 302-304",
+                "description": "Commerce and Consumer Affairs Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-04-20",
+                "time": "13:00",
+                "location": "Legislative Office Building 302-304",
+                "description": "Commerce and Consumer Affairs Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-04-20",
+                "time": "10:00",
+                "location": "Legislative Office Building 302-304",
+                "description": "Commerce and Consumer Affairs Work Session"
+            }
+        ],
+        "full_text": "committee established there is established a committee to study the banking department s role in operating the public deposit investment pool membership and compensation the members of the committee shall be as follows a one member of the senate appointed by the president of the senate b three members of the house of representatives appointed by the speaker of the house of representatives one of whom who shall be a member of the commerce and consumer affairs committee one of whom who shall be a member of the municipal and county government committee and one of whom who shall be a member of the ways and means committee members of the committee shall receive mileage at the legislative rate when attending to the duties of the committee duties the committee shall study a moving the public deposit pool from under the banking department s oversight to the treasury b how other states handle their pool and c the public deposit investment pool s advisory board s responsibilities board representation of entities utilizing the pool and rate of return the committee may solicit input from other entities of its choosing chairperson quorum the members of the study committee shall elect a chairperson from among the members the first meeting of the committee shall be called by the senate member the first meeting of the committee shall be held within days of the effective date of this section three members of the committee shall constitute a quorum report the committee shall report its findings and any recommendations for proposed legislation to the president of the senate the speaker of the house of representatives the senate clerk the house clerk the governor and the state library on or before november"
+    }
+}

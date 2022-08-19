@@ -1,0 +1,598 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1543438,
+        "change_hash": "5dfb6bdbd15b94f7bbe33ee67ad81187",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/SB418/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=3015&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=SB418",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2022-06-22",
+        "progress": [
+            {
+                "date": "2021-12-23",
+                "event": 1
+            },
+            {
+                "date": "2021-12-23",
+                "event": 9
+            },
+            {
+                "date": "2022-03-15",
+                "event": 10
+            },
+            {
+                "date": "2022-03-24",
+                "event": 10
+            },
+            {
+                "date": "2022-04-01",
+                "event": 2
+            },
+            {
+                "date": "2022-04-01",
+                "event": 9
+            },
+            {
+                "date": "2022-04-14",
+                "event": 10
+            },
+            {
+                "date": "2022-04-14",
+                "event": 11
+            },
+            {
+                "date": "2022-04-21",
+                "event": 9
+            },
+            {
+                "date": "2022-04-28",
+                "event": 10
+            },
+            {
+                "date": "2022-06-09",
+                "event": 3
+            },
+            {
+                "date": "2022-06-22",
+                "event": 8
+            },
+            {
+                "date": "2022-06-22",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "SB418",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "S",
+        "body_id": 68,
+        "current_body": "S",
+        "current_body_id": 68,
+        "title": "Relative to verification of voter affidavits.",
+        "description": "Relative to verification of voter affidavits.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-12-23",
+                "committee_id": 3825,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Election Law and Municipal Affairs"
+            },
+            {
+                "date": "2022-04-01",
+                "committee_id": 1241,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Election Law"
+            },
+            {
+                "date": "2022-04-21",
+                "committee_id": 1244,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Finance"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-12-23",
+                "action": "To Be Introduced 01/05/2022 and Referred to Election Law and Municipal Affairs; Senate Journal 1",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-05",
+                "action": "Hearing: 01/20/2022, Room 100, State House, 02:30 pm; Senate Calendar  2",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-15",
+                "action": "Committee Report: Ought to Pass with Amendment # 2022-1096s, 03/24/2022; Senate Calendar  12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-24",
+                "action": "Special Order to Next Session, Without Objection, Motion Adopted; 03/24/2022; Senate Journal 6",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-24",
+                "action": "Committee Report: Ought to Pass with Amendment # 2022-1096s, 03/31/2022; Senate Calendar  13",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-31",
+                "action": "Committee Amendment # 2022-1096s, Regular Calendar 13Y-11N, Amendment Adopted; 03/31/2022; Senate Journal 7",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-31",
+                "action": "Ought to Pass with Amendment 2022-1096s, Regular Calendar 13Y-11N, Motion Adopted; OT3rdg; 03/31/2022; Senate Journal 7",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-01",
+                "action": "Introduced 03/31/2022 and referred to Election Law",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-04-04",
+                "action": "Public Hearing: 04/08/2022 11:00 am Legislative Office Building 306-308",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-04",
+                "action": "Executive Session: 04/13/2022 10:00 am Legislative Office Building 306-308",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-14",
+                "action": "Majority Committee Report: Ought to Pass with Amendment # 2022-1487h (Vote 11-9; Regular Calendar) House Calendar 15 P. 15",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-04-14",
+                "action": "Minority Committee Report: Inexpedient to Legislate",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-04-21",
+                "action": "Amendment # 2022-1487h: Amendment Adopted Voice Vote 04/21/2022",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-21",
+                "action": "Ought to Pass with Amendment 2022-1487h: Motion Adopted Regular Calendar 180-154 04/21/2022 House Journal  10",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-21",
+                "action": "Referred to Finance 04/21/2022 House Journal  10",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-04-22",
+                "action": "Division Work Session: 04/26/2022 01:00 pm Legislative Office Building 212",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-22",
+                "action": "Executive Session: 04/27/2022 03:00 pm Legislative Office Building 210-211",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-28",
+                "action": "Majority Committee Report: Ought to Pass with Amendment # 2022-1870h (Vote 12-9; Regular Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-04-28",
+                "action": "Minority Committee Report: Refer for Interim Study",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-04",
+                "action": "Amendment # 1870h: Amendment Adopted Voice Vote 05/04/2022 House Journal  11",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-04",
+                "action": "Ought to Pass with Amendment 1870h: Motion Adopted Regular Calendar 164-155 05/04/2022 House Journal  11",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-12",
+                "action": "Sen. Gray Moved to Concur with the House Amendment, Regular Calendar 14Y-9N, Motion Adopted; 05/12/2022; Senate Journal 12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-06-09",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 05/26/2022); Senate Journal 13",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-06-09",
+                "action": "Enrolled (in recess of) 05/26/2022",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-06-22",
+                "action": "Signed by the Governor on 06/17/2022; Chapter 0239; Effective 01/01/2023",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 18168,
+                "person_hash": "wzdy4vye",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Bob Giuda",
+                "first_name": "Robert",
+                "middle_name": "",
+                "last_name": "Giuda",
+                "suffix": "",
+                "nickname": "Bob",
+                "district": "SD-002",
+                "ftm_eid": 6594468,
+                "votesmart_id": 21328,
+                "opensecrets_id": "",
+                "knowwho_pid": 208524,
+                "ballotpedia": "Bob_Giuda",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4760,
+                "person_hash": "8scgvpbd",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Jeb Bradley",
+                "first_name": "Jeb",
+                "middle_name": "",
+                "last_name": "Bradley",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-003",
+                "ftm_eid": 6636719,
+                "votesmart_id": 4953,
+                "opensecrets_id": "",
+                "knowwho_pid": 197009,
+                "ballotpedia": "Jeb_Bradley",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 16752,
+                "person_hash": "10ajy4x5",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Harold French",
+                "first_name": "Harold",
+                "middle_name": "F.",
+                "last_name": "French",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-007",
+                "ftm_eid": 6594361,
+                "votesmart_id": 42444,
+                "opensecrets_id": "",
+                "knowwho_pid": 426133,
+                "ballotpedia": "Harold_French",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 17477,
+                "person_hash": "1zeltkcr",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "William Gannon",
+                "first_name": "William",
+                "middle_name": "M.",
+                "last_name": "Gannon",
+                "suffix": "",
+                "nickname": "Bill",
+                "district": "SD-023",
+                "ftm_eid": 1161567,
+                "votesmart_id": 154540,
+                "opensecrets_id": "",
+                "knowwho_pid": 502121,
+                "ballotpedia": "William_Gannon",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 17360,
+                "person_hash": "dga0ijjy",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Raymond Howard",
+                "first_name": "Raymond",
+                "middle_name": "",
+                "last_name": "Howard",
+                "suffix": "Jr.",
+                "nickname": "",
+                "district": "HD-08-BEL",
+                "ftm_eid": 25005409,
+                "votesmart_id": 154406,
+                "opensecrets_id": "",
+                "knowwho_pid": 502539,
+                "ballotpedia": "Raymond_Howard",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2462044,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB418/id/2462044",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=2108&txtFormat=html",
+                "text_size": 35087,
+                "text_hash": "2bd6c748a567918697388fbbe4f3e2a8"
+            },
+            {
+                "doc_id": 2561986,
+                "date": "2022-03-31",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB418/id/2561986",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&txtFormat=html&v=SA&id=2108",
+                "text_size": 38821,
+                "text_hash": "3a4c1e8f9196419f57dab0dbad90e421"
+            },
+            {
+                "doc_id": 2573421,
+                "date": "2022-03-31",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB418/id/2573421",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&txtFormat=html&v=HA&id=2108",
+                "text_size": 39619,
+                "text_hash": "ec99488d7fdf0beb0299368ebc678ac2"
+            },
+            {
+                "doc_id": 2580246,
+                "date": "2022-03-31",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB418/id/2580246",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&txtFormat=html&v=HA2&id=2108",
+                "text_size": 40382,
+                "text_hash": "b5465b3f88728958915386d61ea2dad9"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1182266,
+                "date": "2022-03-31",
+                "desc": "Committee Amendment",
+                "yea": 13,
+                "nay": 11,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB418/id/1182266",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=74&sy=2022&lb=S&eb=SB0418&sortoption=&txtsessionyear=2022&txtbillnumber=SB418&ddlsponsors=&lsr=3015"
+            },
+            {
+                "roll_call_id": 1182267,
+                "date": "2022-03-31",
+                "desc": "Ought to Pass w/Amendment",
+                "yea": 13,
+                "nay": 11,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB418/id/1182267",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=75&sy=2022&lb=S&eb=SB0418&sortoption=&txtsessionyear=2022&txtbillnumber=SB418&ddlsponsors=&lsr=3015"
+            },
+            {
+                "roll_call_id": 1191621,
+                "date": "2022-04-21",
+                "desc": "OTPA",
+                "yea": 180,
+                "nay": 154,
+                "nv": 19,
+                "absent": 36,
+                "total": 389,
+                "passed": 1,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/SB418/id/1191621",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=196&sy=2022&lb=H&eb=SB0418&sortoption=&txtsessionyear=2022&txtbillnumber=SB418&ddlsponsors=&lsr=3015"
+            },
+            {
+                "roll_call_id": 1200136,
+                "date": "2022-05-04",
+                "desc": "OTPA",
+                "yea": 164,
+                "nay": 155,
+                "nv": 24,
+                "absent": 46,
+                "total": 389,
+                "passed": 1,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/SB418/id/1200136",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=227&sy=2022&lb=H&eb=SB0418&sortoption=&txtsessionyear=2022&txtbillnumber=SB418&ddlsponsors=&lsr=3015"
+            },
+            {
+                "roll_call_id": 1204239,
+                "date": "2022-05-12",
+                "desc": "Concur",
+                "yea": 14,
+                "nay": 9,
+                "nv": 0,
+                "absent": 1,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB418/id/1204239",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=151&sy=2022&lb=S&eb=SB0418&sortoption=&txtsessionyear=2022&txtbillnumber=SB418&ddlsponsors=&lsr=3015"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-20",
+                "time": "14:30",
+                "location": "Room 100, State House",
+                "description": "Election Law and Municipal Affairs Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-04-08",
+                "time": "11:00",
+                "location": "Legislative Office Building 306-308",
+                "description": "Election Law Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-04-13",
+                "time": "10:00",
+                "location": "Legislative Office Building 306-308",
+                "description": "Election Law Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-04-26",
+                "time": "13:00",
+                "location": "Legislative Office Building 212",
+                "description": "Finance Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-04-27",
+                "time": "15:00",
+                "location": "Legislative Office Building 210-211",
+                "description": "Finance Executive Session"
+            }
+        ]
+    }
+}

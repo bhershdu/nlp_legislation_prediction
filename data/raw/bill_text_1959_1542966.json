@@ -1,0 +1,417 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1542966,
+        "change_hash": "c1962902e815758ffc0ce283a7a297b9",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1187/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2148&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1187",
+        "completed": 0,
+        "status": 2,
+        "status_date": "2022-03-01",
+        "progress": [
+            {
+                "date": "2021-11-17",
+                "event": 1
+            },
+            {
+                "date": "2021-11-17",
+                "event": 9
+            },
+            {
+                "date": "2022-02-08",
+                "event": 10
+            },
+            {
+                "date": "2022-03-01",
+                "event": 2
+            },
+            {
+                "date": "2022-03-01",
+                "event": 9
+            },
+            {
+                "date": "2022-04-13",
+                "event": 10
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1187",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "S",
+        "current_body_id": 68,
+        "title": "Relative to milk pasteurization.",
+        "description": "Relative to milk pasteurization.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-11-17",
+                "committee_id": 1242,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Environment and Agriculture"
+            },
+            {
+                "date": "2022-03-01",
+                "committee_id": 1736,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Energy and Natural Resources"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-11-17",
+                "action": "Introduced 01/05/2022 and referred to Environment and Agriculture",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-09",
+                "action": "Executive Session: 01/25/2022 10:30 am Legislative Office Building 301-303",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-25",
+                "action": "Public Hearing: 01/25/2022 10:30 a.m. Legislative Office Building301-303",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-08",
+                "action": "Committee Report: Ought to Pass with Amendment # 2022-0340h (Vote 17-0; Consent Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-02-16",
+                "action": "Ought to Pass with Amendment 2022-0340h: Motion Adopted Voice Vote 02/16/2022 House Journal  3",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-23",
+                "action": "Amendment # 2022-0340h: Amendment Adopted Voice Vote 02/16/2022 House Journal  3",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-01",
+                "action": "Introduced 02/24/2022 and Referred to Energy and Natural Resources; Senate Journal 5",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-31",
+                "action": "Hearing: 04/05/2022, Room 103, State House, 10:00 am; Senate Calendar  14",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-13",
+                "action": "Committee Report: Ought to Pass, 04/21/2022; Vote 5-0; Consent Calendar; Senate Calendar  16",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-04-21",
+                "action": "Sen. Avard Moved to Remove HB 1187 from the Consent Calendar; 04/21/2022; Senate Journal 9",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-21",
+                "action": "Sen. Avard Moved Laid on Table, Motion Adopted, Voice Vote; 04/21/2022; Senate Journal 9",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-21",
+                "action": "Pending Motion Ought to Pass; 04/21/2022; Senate Journal 9",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 19784,
+                "person_hash": "swul5611",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "James Allard",
+                "first_name": "James",
+                "middle_name": "C.",
+                "last_name": "Allard",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-21-MER",
+                "ftm_eid": 45378622,
+                "votesmart_id": 185505,
+                "opensecrets_id": "",
+                "knowwho_pid": 670709,
+                "ballotpedia": "James_Allard",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19757,
+                "person_hash": "yrgjv30x",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Stephen Woodcock",
+                "first_name": "Stephen",
+                "middle_name": "L.",
+                "last_name": "Woodcock",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-02-CAR",
+                "ftm_eid": 45378985,
+                "votesmart_id": 185471,
+                "opensecrets_id": "",
+                "knowwho_pid": 670238,
+                "ballotpedia": "Stephen_Woodcock",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18167,
+                "person_hash": "gbz9mi50",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "William Marsh",
+                "first_name": "William",
+                "middle_name": "M.",
+                "last_name": "Marsh",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-17-ROC",
+                "ftm_eid": 6483516,
+                "votesmart_id": 65293,
+                "opensecrets_id": "",
+                "knowwho_pid": 587047,
+                "ballotpedia": "William_Marsh",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21807,
+                "person_hash": "tlbyuyoy",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Brodie Deshaies",
+                "first_name": "Brodie",
+                "middle_name": "",
+                "last_name": "Deshaies",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-06-CAR",
+                "ftm_eid": 50226968,
+                "votesmart_id": 194708,
+                "opensecrets_id": "",
+                "knowwho_pid": 744060,
+                "ballotpedia": "Brodie_Deshaies",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19817,
+                "person_hash": "b2bzem0t",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Gary Merchant",
+                "first_name": "Gary",
+                "middle_name": "",
+                "last_name": "Merchant",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-04-SUL",
+                "ftm_eid": 9718120,
+                "votesmart_id": 185387,
+                "opensecrets_id": "",
+                "knowwho_pid": 670932,
+                "ballotpedia": "Gary_Merchant",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19819,
+                "person_hash": "8zx0v085",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Judy Aron",
+                "first_name": "Judy",
+                "middle_name": "",
+                "last_name": "Aron",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-07-SUL",
+                "ftm_eid": 45378624,
+                "votesmart_id": 185539,
+                "opensecrets_id": "",
+                "knowwho_pid": 670808,
+                "ballotpedia": "Judy_Aron",
+                "sponsor_type_id": 2,
+                "sponsor_order": 6,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19823,
+                "person_hash": "dc1z3223",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Alicia Lekas",
+                "first_name": "Alicia",
+                "middle_name": "",
+                "last_name": "Lekas",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-37-HIL",
+                "ftm_eid": 45378800,
+                "votesmart_id": 185263,
+                "opensecrets_id": "",
+                "knowwho_pid": 670661,
+                "ballotpedia": "Alicia_Lekas",
+                "sponsor_type_id": 2,
+                "sponsor_order": 7,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2461588,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1187/id/2461588",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1241&txtFormat=html",
+                "text_size": 8090,
+                "text_hash": "9bd5b9341ccdc7b4b62635d2cdbed68a"
+            },
+            {
+                "doc_id": 2522793,
+                "date": "2022-02-16",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1187/id/2522793",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&txtFormat=html&v=HA&id=1241",
+                "text_size": 9237,
+                "text_hash": "d1e98135518ad1a083d1939a8fbc428a"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-25",
+                "time": "10:30",
+                "location": "Legislative Office Building301-303",
+                "description": "Environment and Agriculture Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-25",
+                "time": "10:30",
+                "location": "Legislative Office Building 301-303",
+                "description": "Environment and Agriculture Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-25",
+                "time": "10:30",
+                "location": "Legislative Office Building 301-303",
+                "description": "Environment and Agriculture Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-04-05",
+                "time": "10:00",
+                "location": "Room 103, State House",
+                "description": "Energy and Natural Resources Hearing"
+            }
+        ],
+        "full_text": "license required exemptions amend the introductory paragraph of rsa v to read as follows a milk who daily produces for sale less than gallons of raw milk or processes less than gallons of raw milk into cheese aged at least days yogurt cream butter ice cream frozen yogurt or kefir shall not require a milk license provided these products are offered as direct sales from the s own farm farm stand or at a farmers market to the food consumer within the state of new hampshire only ice cream and frozen yogurt produced and sold under this paragraph shall be packaged in containers no larger than fluid ounces and shall be marked with an expiration date days from the date of manufacture labeling of raw milk products amend rsa v a to read as follows a any product containing raw milk from the milk s farm or farm stand or at farmers markets shall be clearly labeled if the product is sold in containers provided by the the individual container shall have a label which contains the name address and phone number of the milk s farm the name of the product and the following statement this product is made with raw milk and is exempt from new hampshire licensing and inspection raw milk consuming raw milk may increase your risk of foodborne illness"
+    }
+}

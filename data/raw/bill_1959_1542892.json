@@ -1,0 +1,269 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1542892,
+        "change_hash": "c54d813fff75049b0c4c2b22f6d9cd30",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/SB374/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=3001&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=SB374",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-12-17",
+        "progress": [
+            {
+                "date": "2021-12-17",
+                "event": 1
+            },
+            {
+                "date": "2021-12-17",
+                "event": 9
+            },
+            {
+                "date": "2022-03-09",
+                "event": 9
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "SB374",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "S",
+        "body_id": 68,
+        "current_body": "S",
+        "current_body_id": 68,
+        "title": "Relative to the SARS-CoV-2 vaccinations.",
+        "description": "Relative to the SARS-CoV-2 vaccinations.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-12-17",
+                "committee_id": 1272,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Health and Human Services"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-12-17",
+                "action": "To Be Introduced 01/05/2022 and Referred to Health and Human Services; Senate Journal 1",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-19",
+                "action": "==TIME CHANGE== Hearing: 02/09/2022, Room 100, State House, 10:30 am; Senate Calendar  6",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-09",
+                "action": "Committee Report: Referred to Interim Study, 03/17/2022; Senate Calendar  11",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-17",
+                "action": "Refer to Interim Study, Regular Calendar 18Y-6N, Motion Adopted; 03/17/2022; Senate Journal 5",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 16752,
+                "person_hash": "10ajy4x5",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Harold French",
+                "first_name": "Harold",
+                "middle_name": "F.",
+                "last_name": "French",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-007",
+                "ftm_eid": 6594361,
+                "votesmart_id": 42444,
+                "opensecrets_id": "",
+                "knowwho_pid": 426133,
+                "ballotpedia": "Harold_French",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 11579,
+                "person_hash": "xg5ddnit",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Kevin Avard",
+                "first_name": "Kevin",
+                "middle_name": "A.",
+                "last_name": "Avard",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-012",
+                "ftm_eid": 9727190,
+                "votesmart_id": 13431,
+                "opensecrets_id": "",
+                "knowwho_pid": 296158,
+                "ballotpedia": "Kevin_Avard",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 11747,
+                "person_hash": "1xanj7dq",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Gregory Hill",
+                "first_name": "Gregory",
+                "middle_name": "",
+                "last_name": "Hill",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-06-MER",
+                "ftm_eid": 6695257,
+                "votesmart_id": 126565,
+                "opensecrets_id": "",
+                "knowwho_pid": 296582,
+                "ballotpedia": "Gregory_Hill_(New_Hampshire)",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21824,
+                "person_hash": "04qt4vfv",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Gregg Hough",
+                "first_name": "Gregg",
+                "middle_name": "",
+                "last_name": "Hough",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-03-BEL",
+                "ftm_eid": 50226769,
+                "votesmart_id": 194680,
+                "opensecrets_id": "",
+                "knowwho_pid": 744013,
+                "ballotpedia": "Gregg_Hough",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18162,
+                "person_hash": "69syqij2",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Norman Silber",
+                "first_name": "Norman",
+                "middle_name": "",
+                "last_name": "Silber",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-02-BEL",
+                "ftm_eid": 17005721,
+                "votesmart_id": 172402,
+                "opensecrets_id": "",
+                "knowwho_pid": 586968,
+                "ballotpedia": "Norman_Silber",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2461514,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB374/id/2461514",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=2094&txtFormat=html",
+                "text_size": 30301,
+                "text_hash": "5dd0f528eae25b7c2ad7a578f52bd113"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1173344,
+                "date": "2022-03-17",
+                "desc": "Refer to Interim Study",
+                "yea": 18,
+                "nay": 6,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB374/id/1173344",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=55&sy=2022&lb=S&eb=SB0374&sortoption=&txtsessionyear=2022&txtbillnumber=SB374&ddlsponsors=&lsr=3001"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-09",
+                "time": "10:30",
+                "location": "Room 100, State House",
+                "description": "Health and Human Services Hearing"
+            }
+        ]
+    }
+}

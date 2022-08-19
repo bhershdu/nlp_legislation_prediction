@@ -1,0 +1,349 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1543509,
+        "change_hash": "cb7ba3d12267668b9080f7cd9ca45601",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1139/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2226&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1139",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2022-07-07",
+        "progress": [
+            {
+                "date": "2021-11-17",
+                "event": 1
+            },
+            {
+                "date": "2021-11-17",
+                "event": 9
+            },
+            {
+                "date": "2022-03-09",
+                "event": 10
+            },
+            {
+                "date": "2022-03-22",
+                "event": 2
+            },
+            {
+                "date": "2022-03-22",
+                "event": 9
+            },
+            {
+                "date": "2022-04-14",
+                "event": 10
+            },
+            {
+                "date": "2022-06-22",
+                "event": 3
+            },
+            {
+                "date": "2022-07-07",
+                "event": 8
+            },
+            {
+                "date": "2022-07-07",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1139",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to ophthalmic prescription requirements.",
+        "description": "Relative to ophthalmic prescription requirements.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-11-17",
+                "committee_id": 1249,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Health, Human Services & Elderly Affairs"
+            },
+            {
+                "date": "2022-03-22",
+                "committee_id": 1272,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Health and Human Services"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-11-17",
+                "action": "Introduced 01/05/2022 and referred to Health, Human Services and Elderly Affairs",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-12",
+                "action": "Public Hearing: 01/18/2022 01:30 pm Legislative Office Building 210-211",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-01",
+                "action": "Executive Session: 03/07/2022 09:30 am Legislative Office Building 210-211",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-09",
+                "action": "Committee Report: Ought to Pass with Amendment # 2022-0963h (Vote 19-2; Consent Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-15",
+                "action": "Ought to Pass with Amendment 2022-0963h: Motion Adopted Voice Vote 03/15/2022 House Journal  6",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-16",
+                "action": "Amendment # 2022-0963h: Amendment Adopted Voice Vote 03/15/2022 House Journal  6",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-22",
+                "action": "Introduced 03/17/2022 and Referred to Health and Human Services; Senate Journal 6",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-29",
+                "action": "Hearing: 04/06/2022, Room 100, State House, 09:20 am; Senate Calendar  14",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-14",
+                "action": "Committee Report: Ought to Pass with Amendment # 2022-1527s, 04/21/2022; Vote 5-0; Consent Calendar; Senate Calendar  16",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-04-21",
+                "action": "Ought to Pass with Amendment 2022-1527s, Motion Adopted, Voice Vote; OT3rdg; 04/21/2022; Senate Journal 9",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-21",
+                "action": "Committee Amendment # 2022-1527s, Amendment Adopted, Voice Vote; 04/21/2022; Senate Journal 9",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-13",
+                "action": "House Concurs with Senate Amendment (Rep. M. Pearson): Motion Adopted Voice Vote 05/12/2022 House Journal  13",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-06-22",
+                "action": "Enrolled (in recess of) 05/26/2022 House Journal  14",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-06-22",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 05/26/2022); Senate Journal 13",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-07-07",
+                "action": "Signed by Governor Sununu 07/01/2022; Chapter 298; eff. 01/01/2023 House Journal  14",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 21880,
+                "person_hash": "qqihmqha",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Daniel Veilleux",
+                "first_name": "Daniel",
+                "middle_name": "T.",
+                "last_name": "Veilleux",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-22-HIL",
+                "ftm_eid": 45378974,
+                "votesmart_id": 185563,
+                "opensecrets_id": "",
+                "knowwho_pid": 670592,
+                "ballotpedia": "Daniel_Veilleux",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19835,
+                "person_hash": "z8gelbx8",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Peter Petrigno",
+                "first_name": "Peter",
+                "middle_name": "",
+                "last_name": "Petrigno",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-23-HIL",
+                "ftm_eid": 45378888,
+                "votesmart_id": 185567,
+                "opensecrets_id": "",
+                "knowwho_pid": 670596,
+                "ballotpedia": "Peter_Petrigno",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21835,
+                "person_hash": "obohez3u",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Tony Labranche",
+                "first_name": "Tony",
+                "middle_name": "",
+                "last_name": "Labranche",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-22-HIL",
+                "ftm_eid": 50226570,
+                "votesmart_id": 194956,
+                "opensecrets_id": "",
+                "knowwho_pid": 744546,
+                "ballotpedia": "Tony_Labranche",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2462113,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1139/id/2462113",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1319&txtFormat=html",
+                "text_size": 9942,
+                "text_hash": "c1601eb42e3b058b9f3193dbe473bfe8"
+            },
+            {
+                "doc_id": 2549618,
+                "date": "2022-03-15",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1139/id/2549618",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&txtFormat=html&v=HA&id=1319",
+                "text_size": 10259,
+                "text_hash": "33efb646d454690b1ece588a65a0f12a"
+            },
+            {
+                "doc_id": 2573131,
+                "date": "2022-04-21",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1139/id/2573131",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&txtFormat=html&v=SA&id=1319",
+                "text_size": 9720,
+                "text_hash": "849c40982e7abd9db1e098d65f5fa029"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-18",
+                "time": "13:30",
+                "location": "Legislative Office Building 210-211",
+                "description": "Health, Human Services and Elderly Affairs Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-03-07",
+                "time": "09:30",
+                "location": "Legislative Office Building 210-211",
+                "description": "Health, Human Services and Elderly Affairs Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-04-06",
+                "time": "09:20",
+                "location": "Room 100, State House",
+                "description": "Health and Human Services Hearing"
+            }
+        ]
+    }
+}

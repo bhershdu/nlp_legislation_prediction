@@ -1,0 +1,376 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1543312,
+        "change_hash": "5f06118e63eb98b359b09d9dc5f8d8cd",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1581/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2459&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1581",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2022-05-06",
+        "progress": [
+            {
+                "date": "2021-12-21",
+                "event": 1
+            },
+            {
+                "date": "2021-12-21",
+                "event": 9
+            },
+            {
+                "date": "2022-02-02",
+                "event": 10
+            },
+            {
+                "date": "2022-03-01",
+                "event": 2
+            },
+            {
+                "date": "2022-03-01",
+                "event": 9
+            },
+            {
+                "date": "2022-03-23",
+                "event": 10
+            },
+            {
+                "date": "2022-04-25",
+                "event": 3
+            },
+            {
+                "date": "2022-05-06",
+                "event": 8
+            },
+            {
+                "date": "2022-05-06",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1581",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to the use of open source software by state agencies.",
+        "description": "Relative to the use of open source software by state agencies.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-12-21",
+                "committee_id": 1243,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Executive Departments and Administration"
+            },
+            {
+                "date": "2022-03-01",
+                "committee_id": 1270,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Executive Departments and Administration"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-12-21",
+                "action": "Introduced 01/05/2022 and referred to Executive Departments and Administration",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-11",
+                "action": "Public Hearing: 01/11/2022 11:15 a.m. Legislative Office Building302-304",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-18",
+                "action": "Subcommittee Work Session: 01/20/2022 09:00 am Legislative Office Building302-304",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-02",
+                "action": "Committee Report: Ought to Pass with Amendment # 2022-0192h (Vote 18-0; Consent Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-02-02",
+                "action": "Executive Session: 01/20/2022 09:00 am Legislative Office Building302-304",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-16",
+                "action": "Ought to Pass with Amendment 2022-0192h: Motion Adopted Voice Vote 02/16/2022 House Journal  3",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-24",
+                "action": "Amendment # 2022-0192h: Amendment Adopted Voice Vote 02/16/2022",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-01",
+                "action": "Introduced 02/24/2022 and Referred to Executive Departments and Administration; Senate Journal 5",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-16",
+                "action": "Hearing: 03/23/2022, Room 103, State House, 10:15 am; Senate Calendar  12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-23",
+                "action": "Committee Report: Ought to Pass, 03/31/2022; Vote 5-0; Consent Calendar; Senate Calendar  13",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-31",
+                "action": "Ought to Pass: Motion Adopted, Voice Vote; OT3rdg; 03/31/2022; Senate Journal 7",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-25",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 04/21/2022); Senate Journal 10",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-25",
+                "action": "Enrolled (in recess of) 04/21/2022 House Journal  10",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-05-06",
+                "action": "Signed by Governor Sununu 05/03/2022; Chapter 44; eff 07/02/2022",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 21793,
+                "person_hash": "vjbyhufj",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Lex Berezhny",
+                "first_name": "Lex",
+                "middle_name": "",
+                "last_name": "Berezhny",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-09-GRA",
+                "ftm_eid": 50226758,
+                "votesmart_id": 194776,
+                "opensecrets_id": "",
+                "knowwho_pid": 744094,
+                "ballotpedia": "Lex_Berezhny",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 17101,
+                "person_hash": "mgtaphqs",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Keith Ammon",
+                "first_name": "Keith",
+                "middle_name": "",
+                "last_name": "Ammon",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-40-HIL",
+                "ftm_eid": 16391636,
+                "votesmart_id": 154517,
+                "opensecrets_id": "",
+                "knowwho_pid": 502116,
+                "ballotpedia": "Keith_Ammon",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 11747,
+                "person_hash": "1xanj7dq",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Gregory Hill",
+                "first_name": "Gregory",
+                "middle_name": "",
+                "last_name": "Hill",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-06-MER",
+                "ftm_eid": 6695257,
+                "votesmart_id": 126565,
+                "opensecrets_id": "",
+                "knowwho_pid": 296582,
+                "ballotpedia": "Gregory_Hill_(New_Hampshire)",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21814,
+                "person_hash": "lkojttrr",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Eric Gallager",
+                "first_name": "Eric",
+                "middle_name": "",
+                "last_name": "Gallager",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-15-MER",
+                "ftm_eid": 45378733,
+                "votesmart_id": 185382,
+                "opensecrets_id": "",
+                "knowwho_pid": 670730,
+                "ballotpedia": "Eric_Gallager",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2461920,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1581/id/2461920",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1552&txtFormat=html",
+                "text_size": 10458,
+                "text_hash": "458532bbc7afff9da07697374477d73e"
+            },
+            {
+                "doc_id": 2521178,
+                "date": "2022-02-16",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1581/id/2521178",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&txtFormat=html&v=HA&id=1552",
+                "text_size": 7984,
+                "text_hash": "dbc82aafe82507bd6d38726977378d0f"
+            },
+            {
+                "doc_id": 2561200,
+                "date": "2022-02-16",
+                "type": "Enrolled",
+                "type_id": 5,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1581/id/2561200",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&v=SP&id=1552",
+                "text_size": 7991,
+                "text_hash": "aaaf2e28803ff48f4793621b3cf886eb"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-11",
+                "time": "11:15",
+                "location": "Legislative Office Building302-304",
+                "description": "Executive Departments and Administration Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-20",
+                "time": "09:00",
+                "location": "Legislative Office Building302-304",
+                "description": "Executive Departments and Administration Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-20",
+                "time": "09:00",
+                "location": "Legislative Office Building302-304",
+                "description": "Executive Departments and Administration Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-03-23",
+                "time": "10:15",
+                "location": "Room 103, State House",
+                "description": "Executive Departments and Administration Hearing"
+            }
+        ]
+    }
+}

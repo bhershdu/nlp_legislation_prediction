@@ -1,0 +1,369 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1542920,
+        "change_hash": "9e28da861233e1b85cbfe2495cfce6a6",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/SB305/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2885&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=SB305",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2022-06-08",
+        "progress": [
+            {
+                "date": "2021-12-14",
+                "event": 1
+            },
+            {
+                "date": "2021-12-14",
+                "event": 9
+            },
+            {
+                "date": "2022-01-27",
+                "event": 10
+            },
+            {
+                "date": "2022-03-23",
+                "event": 2
+            },
+            {
+                "date": "2022-03-23",
+                "event": 9
+            },
+            {
+                "date": "2022-04-25",
+                "event": 10
+            },
+            {
+                "date": "2022-05-27",
+                "event": 3
+            },
+            {
+                "date": "2022-06-08",
+                "event": 8
+            },
+            {
+                "date": "2022-06-08",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "SB305",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "S",
+        "body_id": 68,
+        "current_body": "S",
+        "current_body_id": 68,
+        "title": "Relative to the operation of personal water craft in marked channels from Hampton Falls to Hampton Harbor.",
+        "description": "Relative to the operation of personal water craft in marked channels from Hampton Falls to Hampton Harbor.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-12-14",
+                "committee_id": 1779,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Transportation"
+            },
+            {
+                "date": "2022-03-23",
+                "committee_id": 1259,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Resources, Recreation and Development"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-12-14",
+                "action": "To Be Introduced 01/05/2022 and Referred to Transportation; Senate Journal 1",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-12-22",
+                "action": "Hearing: 01/11/2022, Room 101, Legislative Office Building, 02:20 pm; Senate Calendar  50",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-27",
+                "action": "Committee Report: Ought to Pass, 02/03/2022; Vote 5-0; Consent Calendar; Senate Calendar  5",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-02-03",
+                "action": "Ought to Pass: Motion Adopted, Voice Vote; OT3rdg; 02/03/2022; Senate Journal 2",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-23",
+                "action": "Introduced 03/17/2022 and referred to Resources, Recreation and Development",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-25",
+                "action": "Public Hearing: 04/06/2022 10:00 am Legislative Office Building 305-307",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-05",
+                "action": "Executive Session: 04/20/2022 10:45 am Legislative Office Building 305-307",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-25",
+                "action": "Committee Report: Ought to Pass (Vote 21-0; Consent Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-05-04",
+                "action": "Ought to Pass: Motion Adopted Voice Vote 05/04/2022 House Journal  11",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-27",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 05/26/2022); Senate Journal 13",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-27",
+                "action": "Enrolled (in recess of) 05/26/2022 House Journal  14",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-06-08",
+                "action": "Signed by the Governor on 06/07/2022; Chapter 0162; Effective 06/07/2022",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 14488,
+                "person_hash": "elsfgcmi",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Thomas Sherman",
+                "first_name": "Thomas",
+                "middle_name": "",
+                "last_name": "Sherman",
+                "suffix": "",
+                "nickname": "Tom",
+                "district": "SD-024",
+                "ftm_eid": 13703813,
+                "votesmart_id": 141784,
+                "opensecrets_id": "",
+                "knowwho_pid": 426683,
+                "ballotpedia": "Tom_Sherman",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21857,
+                "person_hash": "10182fj6",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Rebecca Perkins Kwoka",
+                "first_name": "Rebecca",
+                "middle_name": "",
+                "last_name": "Perkins Kwoka",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-021",
+                "ftm_eid": 50165879,
+                "votesmart_id": 194373,
+                "opensecrets_id": "",
+                "knowwho_pid": 743972,
+                "ballotpedia": "Rebecca_Perkins_Kwoka",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 17929,
+                "person_hash": "m558mfsl",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Michael Edgar",
+                "first_name": "Michael",
+                "middle_name": "",
+                "last_name": "Edgar",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-21-ROC",
+                "ftm_eid": 9724166,
+                "votesmart_id": 141783,
+                "opensecrets_id": "",
+                "knowwho_pid": 426681,
+                "ballotpedia": "Michelle_Edgar",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18445,
+                "person_hash": "u7g5blau",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Kate Murray",
+                "first_name": "Kate",
+                "middle_name": "",
+                "last_name": "Murray",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-24-ROC",
+                "ftm_eid": 9724127,
+                "votesmart_id": 172694,
+                "opensecrets_id": "",
+                "knowwho_pid": 587707,
+                "ballotpedia": "Kate_Murray",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19873,
+                "person_hash": "c4qatad0",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Jaci Grote",
+                "first_name": "Jaci",
+                "middle_name": "",
+                "last_name": "Grote",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-24-ROC",
+                "ftm_eid": 9770288,
+                "votesmart_id": 185612,
+                "opensecrets_id": "",
+                "knowwho_pid": 670886,
+                "ballotpedia": "Jaci_Grote",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2461542,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB305/id/2461542",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1978&txtFormat=html",
+                "text_size": 8391,
+                "text_hash": "7babf4b8d399a315b8eee5bd89082fca"
+            },
+            {
+                "doc_id": 2580339,
+                "date": "2022-05-04",
+                "type": "Enrolled",
+                "type_id": 5,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB305/id/2580339",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&v=HP&id=1978",
+                "text_size": 8404,
+                "text_hash": "d1264a00937cdc299a32f4364a0f2775"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-11",
+                "time": "14:20",
+                "location": "Room 101, Legislative Office Building",
+                "description": "Transportation Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-04-06",
+                "time": "10:00",
+                "location": "Legislative Office Building 305-307",
+                "description": "Resources, Recreation and Development Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-04-20",
+                "time": "10:45",
+                "location": "Legislative Office Building 305-307",
+                "description": "Resources, Recreation and Development Executive Session"
+            }
+        ],
+        "full_text": "personal water craft amend rsa ii to read as follows no person shall operate a personal water craft at more than headway speed within feet of any marsh land or flat in the hampton seabrook estuary within feet of the rye marsh areas to include witch creek seavey creek berry s brook parson s creek awcomin marsh and rye harbor marsh or within the new castle goat island back channel mooring field as defined in rules adopted by the pease development authority pda or that area marked between shapleigh island and goat island to red nun to the wentworth bridge to include the areas around pest leaches and clampit islands without regard to tide height or the landing in hampton falls to hampton such watercraft shall stay in marked channels this paragraph shall not apply to water craft operated by police fire or other emergency services"
+    }
+}

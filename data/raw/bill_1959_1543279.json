@@ -1,0 +1,187 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1543279,
+        "change_hash": "e6797dc525195a4377cfc36949902fe9",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1351/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2631&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1351",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-11-20",
+        "progress": [
+            {
+                "date": "2021-11-20",
+                "event": 1
+            },
+            {
+                "date": "2021-11-20",
+                "event": 9
+            },
+            {
+                "date": "2022-03-03",
+                "event": 11
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1351",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Prohibiting certain employers from requiring a COVID-19 vaccination as a condition of employment.",
+        "description": "Prohibiting certain employers from requiring a COVID-19 vaccination as a condition of employment.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-11-20",
+                "committee_id": 1251,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Labor, Industrial and Rehabilitative Services"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-11-20",
+                "action": "Introduced 01/05/2022 and referred to Labor, Industrial and Rehabilitative Services",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-27",
+                "action": "==CANCELLED== Executive Session: 01/27/2022 09:30 am State HouseReps Hall",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-27",
+                "action": "Public Hearing: 01/27/2022 11:45 a.m. State HouseReps Hall",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-24",
+                "action": "Executive Session: 02/24/2022 11:30 a.m. Legislative Office Building305-307",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-03",
+                "action": "Committee Report: Inexpedient to Legislate (Vote 21-0; Consent Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-11",
+                "action": "Inexpedient to Legislate: Motion Adopted Voice Vote 03/10/2022 House Journal  5",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 18162,
+                "person_hash": "69syqij2",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Norman Silber",
+                "first_name": "Norman",
+                "middle_name": "",
+                "last_name": "Silber",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-02-BEL",
+                "ftm_eid": 17005721,
+                "votesmart_id": 172402,
+                "opensecrets_id": "",
+                "knowwho_pid": 586968,
+                "ballotpedia": "Norman_Silber",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2461890,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1351/id/2461890",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1724&txtFormat=html",
+                "text_size": 8719,
+                "text_hash": "fb5f7317d0e807ea826fc558f7b6ce74"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-27",
+                "time": "11:45",
+                "location": "State HouseReps Hall",
+                "description": "Labor, Industrial and Rehabilitative Services Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-27",
+                "time": "09:30",
+                "location": "State HouseReps Hall",
+                "description": "Labor, Industrial and Rehabilitative Services Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-27",
+                "time": "09:30",
+                "location": "State HouseReps Hall",
+                "description": "(CANCELLED) Labor, Industrial and Rehabilitative Services Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-24",
+                "time": "11:30",
+                "location": "Legislative Office Building305-307",
+                "description": "Labor, Industrial and Rehabilitative Services Executive Session"
+            }
+        ]
+    }
+}

@@ -1,0 +1,168 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1543362,
+        "change_hash": "e78dbd7c44e788520e68405f48949ee8",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1532/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2473&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1532",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-12-09",
+        "progress": [
+            {
+                "date": "2021-12-09",
+                "event": 1
+            },
+            {
+                "date": "2021-12-09",
+                "event": 9
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1532",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Permitting a dam to be constructed on Big Pea Porridge Pond.",
+        "description": "Permitting a dam to be constructed on Big Pea Porridge Pond.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-12-09",
+                "committee_id": 1259,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Resources, Recreation and Development"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-12-09",
+                "action": "Introduced 01/05/2022 and referred to Resources, Recreation and Development",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-12",
+                "action": "Public Hearing: 01/19/2022 01:00 pm Legislative Office Building 305-307",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-23",
+                "action": "Executive Session: 02/23/2022 10:00 a.m. Legislative Office Building305-307",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-01",
+                "action": "Committee Report: Refer for Interim Study (Vote 21-0; Consent Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-11",
+                "action": "Inexpedient to Legislate: Motion Adopted Voice Vote 03/10/2022 House Journal  5",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 5070,
+                "person_hash": "bw3u2dp7",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Mark McConkey",
+                "first_name": "Mark",
+                "middle_name": "E.",
+                "last_name": "McConkey",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-03-CAR",
+                "ftm_eid": 6595291,
+                "votesmart_id": 42599,
+                "opensecrets_id": "",
+                "knowwho_pid": 213001,
+                "ballotpedia": "Mark_McConkey",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2461970,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1532/id/2461970",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1566&txtFormat=html",
+                "text_size": 7502,
+                "text_hash": "8bfe079d98dbf5608802e254aff81323"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-19",
+                "time": "13:00",
+                "location": "Legislative Office Building305-307",
+                "description": "Resources, Recreation and Development Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-19",
+                "time": "13:00",
+                "location": "Legislative Office Building 305-307",
+                "description": "Resources, Recreation and Development Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-23",
+                "time": "10:00",
+                "location": "Legislative Office Building305-307",
+                "description": "Resources, Recreation and Development Executive Session"
+            }
+        ]
+    }
+}

@@ -1,0 +1,191 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1542705,
+        "change_hash": "c7b4f4978cc8a82f3251c406b103d9a6",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1315/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2401&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1315",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-11-20",
+        "progress": [
+            {
+                "date": "2021-11-20",
+                "event": 1
+            },
+            {
+                "date": "2021-11-20",
+                "event": 9
+            },
+            {
+                "date": "2022-02-14",
+                "event": 11
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1315",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to immunity from civil liability for sports officials.",
+        "description": "Relative to immunity from civil liability for sports officials.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-11-20",
+                "committee_id": 1250,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Judiciary"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-11-20",
+                "action": "Introduced 01/05/2022 and referred to Judiciary",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-13",
+                "action": "Public Hearing: 01/19/2022 01:30 pm Legislative Office Building 206-208",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-14",
+                "action": "Executive Session: 01/19/2022 01:30 pm Legislative Office Building 206-208",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-14",
+                "action": "Committee Report: Inexpedient to Legislate (Vote 21-0; Consent Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-11",
+                "action": "Inexpedient to Legislate: Motion Adopted Voice Vote 03/10/2022 House Journal  5",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 21846,
+                "person_hash": "gdp0vkqa",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Maureen Mooney",
+                "first_name": "Maureen",
+                "middle_name": "",
+                "last_name": "Mooney",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-21-HIL",
+                "ftm_eid": 6595386,
+                "votesmart_id": 42661,
+                "opensecrets_id": "",
+                "knowwho_pid": 213057,
+                "ballotpedia": "Maureen_Mooney",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21822,
+                "person_hash": "uhhk90d9",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Bob Healey",
+                "first_name": "Bob",
+                "middle_name": "",
+                "last_name": "Healey",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-21-HIL",
+                "ftm_eid": 50226638,
+                "votesmart_id": 195010,
+                "opensecrets_id": "",
+                "knowwho_pid": 744176,
+                "ballotpedia": "Bob_Healey",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2461329,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1315/id/2461329",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1494&txtFormat=html",
+                "text_size": 9024,
+                "text_hash": "e9b325908eb51b3282ca7c7a295693cd"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-19",
+                "time": "13:30",
+                "location": "Legislative Office Building 206-208",
+                "description": "Judiciary Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-19",
+                "time": "13:30",
+                "location": "Legislative Office Building 206-208",
+                "description": "Judiciary Executive Session"
+            }
+        ],
+        "full_text": "sports officials liability limited any person who acts as a sports official at an athletic event or activity sponsored by a nonprofit or organization or governmental entity shall be immune from civil liability in any action brought on the basis of any act or omission resulting in damage or injury to another person if a the sponsoring authority has a record indicating the official was properly scheduled to officiate the specific game or event b the sports official was acting in good faith and within the scope of official functions and duties during the sports event and c the damage or injury was not caused by willful or gross negligence by the official in this section sports official means an individual who officiates any sporting event who is a volunteer receives compensation or obtains reimbursement for expenses actually incurred for rendering such services a sports official shall possess proper certification from an accredited sports association for the specific sport being officiated or a validation of competence for the rules procedures practices and programs for the specific athletic activity being officiated from a local youth association"
+    }
+}

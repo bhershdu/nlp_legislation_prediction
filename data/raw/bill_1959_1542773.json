@@ -1,0 +1,238 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1542773,
+        "change_hash": "f9ff084a91aa5b4571b8d453f9da6ecc",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1201/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2286&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1201",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-11-18",
+        "progress": [
+            {
+                "date": "2021-11-18",
+                "event": 1
+            },
+            {
+                "date": "2021-11-18",
+                "event": 9
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1201",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to damage by bears.",
+        "description": "Relative to damage by bears.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-11-18",
+                "committee_id": 1248,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Fish and Game and Marine Resources"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-11-18",
+                "action": "Introduced 01/05/2022 and referred to Fish and Game and Marine Resources",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-14",
+                "action": "Public Hearing: 01/14/2022 9:45 a.m. Legislative Office Building305-307",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-31",
+                "action": "Executive Session: 01/25/2022 10:00 am Legislative Office Building 305--307",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-01",
+                "action": "Committee Report: Refer for Interim Study (Vote 20-0; Consent Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-16",
+                "action": "Refer for Interim Study: Motion Adopted Voice Vote 02/16/2022 House Journal  3",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 17493,
+                "person_hash": "upw2sr1e",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Leonard Turcotte",
+                "first_name": "Leonard",
+                "middle_name": "",
+                "last_name": "Turcotte",
+                "suffix": "",
+                "nickname": "Len",
+                "district": "HD-04-STR",
+                "ftm_eid": 13703851,
+                "votesmart_id": 141973,
+                "opensecrets_id": "",
+                "knowwho_pid": 436666,
+                "ballotpedia": "Len_Turcotte",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21824,
+                "person_hash": "04qt4vfv",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Gregg Hough",
+                "first_name": "Gregg",
+                "middle_name": "",
+                "last_name": "Hough",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-03-BEL",
+                "ftm_eid": 50226769,
+                "votesmart_id": 194680,
+                "opensecrets_id": "",
+                "knowwho_pid": 744013,
+                "ballotpedia": "Gregg_Hough",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21788,
+                "person_hash": "rck7hb4b",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Aidan Ankarberg",
+                "first_name": "Aidan",
+                "middle_name": "K.",
+                "last_name": "Ankarberg",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-10-STR",
+                "ftm_eid": 50226920,
+                "votesmart_id": 143473,
+                "opensecrets_id": "",
+                "knowwho_pid": 439246,
+                "ballotpedia": "Aidan_K._Ankarberg",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 17304,
+                "person_hash": "n97eiqku",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Thomas Kaczynski",
+                "first_name": "Thomas",
+                "middle_name": "L.",
+                "last_name": "Kaczynski",
+                "suffix": "Jr.",
+                "nickname": "",
+                "district": "HD-22-STR",
+                "ftm_eid": 6637761,
+                "votesmart_id": 42343,
+                "opensecrets_id": "",
+                "knowwho_pid": 502658,
+                "ballotpedia": "Thomas_Kaczynski_Jr.",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2461396,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1201/id/2461396",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1379&txtFormat=html",
+                "text_size": 21729,
+                "text_hash": "3e91af93b1ef37e2b9eea79b9a1ceb0b"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-14",
+                "time": "09:45",
+                "location": "Legislative Office Building305-307",
+                "description": "Fish and Game and Marine Resources Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-25",
+                "time": "10:00",
+                "location": "Legislative Office Building 305--307",
+                "description": "Fish and Game and Marine Resources Executive Session"
+            }
+        ]
+    }
+}

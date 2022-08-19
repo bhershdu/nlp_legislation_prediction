@@ -1,0 +1,242 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1543220,
+        "change_hash": "bbca8416f0a14727743fe557ed953f37",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1595/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2830&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1595",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-12-21",
+        "progress": [
+            {
+                "date": "2021-12-21",
+                "event": 1
+            },
+            {
+                "date": "2021-12-21",
+                "event": 9
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1595",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to establishing a statewide food truck license.",
+        "description": "Relative to establishing a statewide food truck license.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-12-21",
+                "committee_id": 1238,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Commerce and Consumer Affairs"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-12-21",
+                "action": "Introduced 01/05/2022 and referred to Commerce and Consumer Affairs",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-27",
+                "action": "Public Hearing: 01/27/2022 1:15 p.m. Legislative Office Building302-304",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-15",
+                "action": "Subcommittee Work Session: 02/24/2022 09:00 am Legislative Office Building 302-304",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-23",
+                "action": "==CANCELLED== Subcommittee Work Session: 03/02/2022 09:00 am Legislative Office Building 302-304",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-03",
+                "action": "Executive Session: 03/03/2022 1:15 p.m. Legislative Office Building302-304",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-09",
+                "action": "Committee Report: Refer for Interim Study (Vote 18-0; Consent Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-15",
+                "action": "Refer for Interim Study: Motion Adopted Voice Vote 03/15/2022 House Journal  6",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 19891,
+                "person_hash": "865n4e99",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Matthew Wilhelm",
+                "first_name": "Matthew",
+                "middle_name": "B.",
+                "last_name": "Wilhelm",
+                "suffix": "",
+                "nickname": "Matt",
+                "district": "HD-42-HIL",
+                "ftm_eid": 42048257,
+                "votesmart_id": 185372,
+                "opensecrets_id": "",
+                "knowwho_pid": 670679,
+                "ballotpedia": "Matt_Wilhelm",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19858,
+                "person_hash": "ytpokuhi",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Joshua Query",
+                "first_name": "Joshua",
+                "middle_name": "",
+                "last_name": "Query",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-16-HIL",
+                "ftm_eid": 45378906,
+                "votesmart_id": 185357,
+                "opensecrets_id": "",
+                "knowwho_pid": 670558,
+                "ballotpedia": "Joshua_Query",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21857,
+                "person_hash": "10182fj6",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Rebecca Perkins Kwoka",
+                "first_name": "Rebecca",
+                "middle_name": "",
+                "last_name": "Perkins Kwoka",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-021",
+                "ftm_eid": 50165879,
+                "votesmart_id": 194373,
+                "opensecrets_id": "",
+                "knowwho_pid": 743972,
+                "ballotpedia": "Rebecca_Perkins_Kwoka",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2461834,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1595/id/2461834",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1923&txtFormat=html",
+                "text_size": 29414,
+                "text_hash": "67bae5c0f7e83d2fc2df5c0c33f780cf"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-27",
+                "time": "13:15",
+                "location": "Legislative Office Building302-304",
+                "description": "Commerce and Consumer Affairs Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-24",
+                "time": "09:00",
+                "location": "Legislative Office Building 302-304",
+                "description": "Commerce and Consumer Affairs Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-03-02",
+                "time": "09:00",
+                "location": "Legislative Office Building 302-304",
+                "description": "(CANCELLED) Commerce and Consumer Affairs Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-03-03",
+                "time": "13:15",
+                "location": "Legislative Office Building302-304",
+                "description": "Commerce and Consumer Affairs Executive Session"
+            }
+        ]
+    }
+}

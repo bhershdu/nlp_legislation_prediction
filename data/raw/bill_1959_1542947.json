@@ -1,0 +1,715 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1542947,
+        "change_hash": "661947a5023c4bf8701529305b43b00d",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1454/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2237&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1454",
+        "completed": 0,
+        "status": 5,
+        "status_date": "2022-06-29",
+        "progress": [
+            {
+                "date": "2021-12-01",
+                "event": 1
+            },
+            {
+                "date": "2021-12-01",
+                "event": 9
+            },
+            {
+                "date": "2022-03-07",
+                "event": 10
+            },
+            {
+                "date": "2022-03-07",
+                "event": 11
+            },
+            {
+                "date": "2022-03-22",
+                "event": 2
+            },
+            {
+                "date": "2022-03-22",
+                "event": 9
+            },
+            {
+                "date": "2022-04-14",
+                "event": 11
+            },
+            {
+                "date": "2022-04-26",
+                "event": 11
+            },
+            {
+                "date": "2022-06-15",
+                "event": 3
+            },
+            {
+                "date": "2022-06-29",
+                "event": 5
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1454",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to permits for the siting of new landfills.",
+        "description": "Relative to permits for the siting of new landfills.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-12-01",
+                "committee_id": 1242,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Environment and Agriculture"
+            },
+            {
+                "date": "2022-03-22",
+                "committee_id": 1736,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Energy and Natural Resources"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-12-01",
+                "action": "Introduced 01/05/2022 and referred to Environment and Agriculture",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-18",
+                "action": "Public Hearing: 01/18/2022 1:00 p.m. Legislative Office Building301-303",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-28",
+                "action": "Full Committee Work Session: 02/01/2022 10:00 am Legislative Office Building 301-303",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-19",
+                "action": "Subcommittee Work Session: 02/22/2022 10:30 am Legislative Office Building305-307",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-22",
+                "action": "Subcommittee Work Session: 03/01/2022 10:30 am Legislative Office Building305-307",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-22",
+                "action": "Full Committee Work Session: 03/01/2022 11:00 am Legislative Office Building305-307",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-07",
+                "action": "Majority Committee Report: Ought to Pass with Amendment # 2022-0894h (Vote 10-9; Regular Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-07",
+                "action": "Minority Committee Report: Inexpedient to Legislate",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-20",
+                "action": "Amendment # 2022-0894h: Amendment Adopted Voice Vote 03/16/2022 House Journal  7",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-20",
+                "action": "Ought to Pass with Amendment 2022-0894h: Motion Adopted Voice Vote 03/16/2022 House Journal  7",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-22",
+                "action": "Introduced 03/17/2022 and Referred to Energy and Natural Resources; Senate Journal 6",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-31",
+                "action": "Hearing: 04/05/2022, Room 103, State House, 09:00 am; Senate Calendar  14",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-14",
+                "action": "Committee Report: Inexpedient to Legislate, 04/21/2022; Senate Calendar  16",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-04-21",
+                "action": "Special Order to 05/05/2022, Without Objection, Motion Adopted; 04/21/2022 Senate Journal 9",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-26",
+                "action": "Committee Report: Inexpedient to Legislate, 05/05/2022; Senate Calendar  18",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-05-05",
+                "action": "Special Order to the beginning of Regular Calendar, Without Objection, Motion Adopted; 05/05/2022; Senate Journal 11",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-05",
+                "action": "Inexpedient to Legislate, Motion Failed, Voice Vote; 05/05/2022; Senate Journal 11",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-05",
+                "action": "Sen. Bradley Moved Ought to Pass; 05/05/2022; Senate Journal 11",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-05",
+                "action": "Sen. Hennessey Floor Amendment # 2022-1938s, Regular Calendar 14Y-10N, Amendment Adopted; 05/05/2022; Senate Journal 11",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-05",
+                "action": "Sen. Avard Moved Laid on Table, Regular Calendar 3Y-21N, Motion Failed; 05/05/2022; Senate Journal 11",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-05",
+                "action": "Ought to Pass with Amendment 2022-1938s, Regular Calendar 16Y-8N, Motion Adopted; OT3rdg; 05/05/2022; Senate Journal 11",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-13",
+                "action": "House Concurs with Senate Amendment (Rep. Pearl): Motion Adopted Voice Vote 05/12/2022 House Journal  13",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-06-10",
+                "action": "Enrolled Bill Amendment # 2022-2109e Adopted, Voice Vote, (In recess of 05/26/2022); Senate Journal 13",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-06-14",
+                "action": "Enrolled Bill Amendment # 2022-2109e: Amendment Adopted Voice Vote (in recess of) 05/26/2022 House Journal  14",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-06-15",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 05/26/2022); Senate Journal 13",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-06-15",
+                "action": "Enrolled (in recess of) 05/26/2022 House Journal  14",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-06-29",
+                "action": "Vetoed by Governor Sununu 06/24/2022 House Journal  14",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 18804,
+                "person_hash": "lpfa9bf8",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Edith Tucker",
+                "first_name": "Edith",
+                "middle_name": "",
+                "last_name": "Tucker",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-05-COO",
+                "ftm_eid": 6694834,
+                "votesmart_id": 172495,
+                "opensecrets_id": "",
+                "knowwho_pid": 587090,
+                "ballotpedia": "Edith_Tucker",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21875,
+                "person_hash": "ana6wcww",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Dennis Thompson",
+                "first_name": "Dennis",
+                "middle_name": "J.",
+                "last_name": "Thompson",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-01-COO",
+                "ftm_eid": 50226860,
+                "votesmart_id": 194757,
+                "opensecrets_id": "",
+                "knowwho_pid": 744082,
+                "ballotpedia": "Dennis_Thompson",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 15580,
+                "person_hash": "wrup7d7d",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Linda Massimilla",
+                "first_name": "Linda",
+                "middle_name": "",
+                "last_name": "Massimilla",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-01-GRA",
+                "ftm_eid": 9753448,
+                "votesmart_id": 143257,
+                "opensecrets_id": "",
+                "knowwho_pid": 428009,
+                "ballotpedia": "Linda_Massimilla",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19767,
+                "person_hash": "a19uke2q",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Timothy Egan",
+                "first_name": "Timothy",
+                "middle_name": "T.",
+                "last_name": "Egan",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-02-GRA",
+                "ftm_eid": 16515483,
+                "votesmart_id": 185842,
+                "opensecrets_id": "",
+                "knowwho_pid": 680827,
+                "ballotpedia": "Timothy_Egan",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4828,
+                "person_hash": "ho0jkmo1",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "William Hatch",
+                "first_name": "William",
+                "middle_name": "A.",
+                "last_name": "Hatch",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-06-COO",
+                "ftm_eid": 6478544,
+                "votesmart_id": 67221,
+                "opensecrets_id": "",
+                "knowwho_pid": 249918,
+                "ballotpedia": "William_Hatch",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18166,
+                "person_hash": "k25p0mqi",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Troy Merner",
+                "first_name": "Troy",
+                "middle_name": "E.",
+                "last_name": "Merner",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-07-COO",
+                "ftm_eid": 6494514,
+                "votesmart_id": 110056,
+                "opensecrets_id": "",
+                "knowwho_pid": 296122,
+                "ballotpedia": "Troy_Merner",
+                "sponsor_type_id": 2,
+                "sponsor_order": 6,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19165,
+                "person_hash": "76icrosj",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Larry Laflamme",
+                "first_name": "Larry",
+                "middle_name": "L.",
+                "last_name": "Laflamme",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-03-COO",
+                "ftm_eid": 6695342,
+                "votesmart_id": 174496,
+                "opensecrets_id": "",
+                "knowwho_pid": 587856,
+                "ballotpedia": "Larry_Laflamme",
+                "sponsor_type_id": 2,
+                "sponsor_order": 7,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 14484,
+                "person_hash": "qd1dpodj",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Mel Myler",
+                "first_name": "Mel",
+                "middle_name": "",
+                "last_name": "Myler",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-10-MER",
+                "ftm_eid": 13703645,
+                "votesmart_id": 143338,
+                "opensecrets_id": "",
+                "knowwho_pid": 428108,
+                "ballotpedia": "Mel_Myler",
+                "sponsor_type_id": 2,
+                "sponsor_order": 8,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21807,
+                "person_hash": "tlbyuyoy",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Brodie Deshaies",
+                "first_name": "Brodie",
+                "middle_name": "",
+                "last_name": "Deshaies",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-06-CAR",
+                "ftm_eid": 50226968,
+                "votesmart_id": 194708,
+                "opensecrets_id": "",
+                "knowwho_pid": 744060,
+                "ballotpedia": "Brodie_Deshaies",
+                "sponsor_type_id": 2,
+                "sponsor_order": 9,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 17481,
+                "person_hash": "ghibvwim",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Erin Hennessey",
+                "first_name": "Erin",
+                "middle_name": "Tapper",
+                "last_name": "Hennessey",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-001",
+                "ftm_eid": 25005445,
+                "votesmart_id": 154433,
+                "opensecrets_id": "",
+                "knowwho_pid": 501701,
+                "ballotpedia": "Erin_Hennessey",
+                "sponsor_type_id": 2,
+                "sponsor_order": 10,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 14488,
+                "person_hash": "elsfgcmi",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Thomas Sherman",
+                "first_name": "Thomas",
+                "middle_name": "",
+                "last_name": "Sherman",
+                "suffix": "",
+                "nickname": "Tom",
+                "district": "SD-024",
+                "ftm_eid": 13703813,
+                "votesmart_id": 141784,
+                "opensecrets_id": "",
+                "knowwho_pid": 426683,
+                "ballotpedia": "Tom_Sherman",
+                "sponsor_type_id": 2,
+                "sponsor_order": 11,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2461569,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1454/id/2461569",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1330&txtFormat=html",
+                "text_size": 24976,
+                "text_hash": "57dfe1516126efcc8859e7b8e402937c"
+            },
+            {
+                "doc_id": 2553278,
+                "date": "2022-03-16",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1454/id/2553278",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&txtFormat=html&v=HA&id=1330",
+                "text_size": 25686,
+                "text_hash": "acc1aa9e71f45f348e1edab967ac70e3"
+            },
+            {
+                "doc_id": 2580245,
+                "date": "2022-05-05",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1454/id/2580245",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&txtFormat=html&v=SA&id=1330",
+                "text_size": 19942,
+                "text_hash": "e8e43d2e9f237a5ce118ac9db537f12c"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1200831,
+                "date": "2022-05-05",
+                "desc": "Floor Amendment",
+                "yea": 14,
+                "nay": 10,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/HB1454/id/1200831",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=116&sy=2022&lb=S&eb=HB1454&sortoption=&txtsessionyear=2022&txtbillnumber=HB1454&ddlsponsors=&lsr=2237"
+            },
+            {
+                "roll_call_id": 1200832,
+                "date": "2022-05-05",
+                "desc": "Laid on Table",
+                "yea": 3,
+                "nay": 21,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 0,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/HB1454/id/1200832",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=117&sy=2022&lb=S&eb=HB1454&sortoption=&txtsessionyear=2022&txtbillnumber=HB1454&ddlsponsors=&lsr=2237"
+            },
+            {
+                "roll_call_id": 1200833,
+                "date": "2022-05-05",
+                "desc": "Ought to Pass w/Amendment",
+                "yea": 16,
+                "nay": 8,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/HB1454/id/1200833",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=118&sy=2022&lb=S&eb=HB1454&sortoption=&txtsessionyear=2022&txtbillnumber=HB1454&ddlsponsors=&lsr=2237"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-18",
+                "time": "13:00",
+                "location": "Legislative Office Building301-303",
+                "description": "Environment and Agriculture Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-01",
+                "time": "10:00",
+                "location": "Legislative Office Building 301-303",
+                "description": "Environment and Agriculture Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-22",
+                "time": "10:30",
+                "location": "Legislative Office Building305-307",
+                "description": "Environment and Agriculture Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-03-01",
+                "time": "11:00",
+                "location": "Legislative Office Building305-307",
+                "description": "Environment and Agriculture Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-03-01",
+                "time": "10:30",
+                "location": "Legislative Office Building305-307",
+                "description": "Environment and Agriculture Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-04-05",
+                "time": "09:00",
+                "location": "Room 103, State House",
+                "description": "Energy and Natural Resources Hearing"
+            }
+        ]
+    }
+}

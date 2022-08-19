@@ -1,0 +1,284 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1544127,
+        "change_hash": "64f2fd845781eada7a53574e28f4b600",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1683/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2778&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1683",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-12-30",
+        "progress": [
+            {
+                "date": "2021-12-30",
+                "event": 1
+            },
+            {
+                "date": "2021-12-30",
+                "event": 9
+            },
+            {
+                "date": "2022-03-07",
+                "event": 11
+            },
+            {
+                "date": "2022-03-07",
+                "event": 10
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1683",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Repealing the education freedom account program.",
+        "description": "Repealing the education freedom account program.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-12-30",
+                "committee_id": 1240,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Education"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-12-30",
+                "action": "Introduced 01/05/2022 and referred to Education",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-19",
+                "action": "==CANCELLED== Public Hearing: 02/04/2022 02:30 pm Legislative Office Building 205-207",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-03",
+                "action": "Public Hearing: 02/15/2022 02:30 pm Legislative Office Building 205-207",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-07",
+                "action": "Executive Session: 02/15/2022 02:30 pm Legislative Office Building 205-207",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-07",
+                "action": "Majority Committee Report: Inexpedient to Legislate (Vote 10-9; Regular Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-07",
+                "action": "Minority Committee Report: Ought to Pass",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-21",
+                "action": "Inexpedient to Legislate: Motion Adopted Regular Calendar 189-166 03/16/2022 House Journal  7",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 16620,
+                "person_hash": "9i4aeg6i",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "David Luneau",
+                "first_name": "David",
+                "middle_name": "",
+                "last_name": "Luneau",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-10-MER",
+                "ftm_eid": 26767892,
+                "votesmart_id": 155796,
+                "opensecrets_id": "",
+                "knowwho_pid": 512992,
+                "ballotpedia": "David_Luneau",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 14484,
+                "person_hash": "qd1dpodj",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Mel Myler",
+                "first_name": "Mel",
+                "middle_name": "",
+                "last_name": "Myler",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-10-MER",
+                "ftm_eid": 13703645,
+                "votesmart_id": 143338,
+                "opensecrets_id": "",
+                "knowwho_pid": 428108,
+                "ballotpedia": "Mel_Myler",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4750,
+                "person_hash": "vpo1f77e",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Timothy Horrigan",
+                "first_name": "Timothy",
+                "middle_name": "",
+                "last_name": "Horrigan",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-07-STR",
+                "ftm_eid": 6494379,
+                "votesmart_id": 110051,
+                "opensecrets_id": "",
+                "knowwho_pid": 269497,
+                "ballotpedia": "Timothy_Horrigan",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19775,
+                "person_hash": "ud2xmpxe",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Connie Lane",
+                "first_name": "Connie",
+                "middle_name": "",
+                "last_name": "Lane",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-12-MER",
+                "ftm_eid": 45378789,
+                "votesmart_id": 185623,
+                "opensecrets_id": "",
+                "knowwho_pid": 670701,
+                "ballotpedia": "Connie_Lane",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2462879,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1683/id/2462879",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1871&txtFormat=html",
+                "text_size": 22880,
+                "text_hash": "868aebf2af9f9408460f37c3e056546c"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1171747,
+                "date": "2022-03-16",
+                "desc": "ITL",
+                "yea": 189,
+                "nay": 166,
+                "nv": 14,
+                "absent": 21,
+                "total": 390,
+                "passed": 1,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/HB1683/id/1171747",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=99&sy=2022&lb=H&eb=HB1683&sortoption=&txtsessionyear=2022&txtbillnumber=HB1683&ddlsponsors=&lsr=2778"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-04",
+                "time": "14:30",
+                "location": "Legislative Office Building 205-207",
+                "description": "(CANCELLED) Education Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-15",
+                "time": "14:30",
+                "location": "Legislative Office Building 205-207",
+                "description": "Education Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-15",
+                "time": "14:30",
+                "location": "Legislative Office Building 205-207",
+                "description": "Education Executive Session"
+            }
+        ]
+    }
+}

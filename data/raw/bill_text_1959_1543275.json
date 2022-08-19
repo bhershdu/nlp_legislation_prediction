@@ -1,0 +1,276 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1543275,
+        "change_hash": "289f757dd6d10aa58dc93cb0e150bbb5",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/SB392/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=3036&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=SB392",
+        "completed": 0,
+        "status": 2,
+        "status_date": "2022-03-23",
+        "progress": [
+            {
+                "date": "2021-12-23",
+                "event": 1
+            },
+            {
+                "date": "2021-12-23",
+                "event": 9
+            },
+            {
+                "date": "2022-02-22",
+                "event": 10
+            },
+            {
+                "date": "2022-03-23",
+                "event": 2
+            },
+            {
+                "date": "2022-03-23",
+                "event": 9
+            },
+            {
+                "date": "2022-04-25",
+                "event": 11
+            },
+            {
+                "date": "2022-04-25",
+                "event": 10
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "SB392",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "S",
+        "body_id": 68,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Establishing a commission to study insanity and restoration of competency.",
+        "description": "Establishing a commission to study insanity and restoration of competency.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-12-23",
+                "committee_id": 1273,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Judiciary"
+            },
+            {
+                "date": "2022-03-23",
+                "committee_id": 1250,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Judiciary"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-12-23",
+                "action": "To Be Introduced 01/05/2022 and Referred to Judiciary; Senate Journal 1",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-14",
+                "action": "Hearing: 01/26/2022, Room 100, State House, 01:45 pm; Senate Calendar  4",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-22",
+                "action": "Committee Report: Ought to Pass with Amendment # 2022-0796s, 02/24/2022; Senate Calendar  8A",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-02-24",
+                "action": "Committee Amendment # 2022-0796s, Amendment Adopted, Voice Vote; 02/24/2022; Senate Journal 4",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-24",
+                "action": "Ought to Pass with Amendment 2022-0796s, Motion Adopted, Voice Vote; OT3rdg; 02/24/2022; Senate Journal 4",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-23",
+                "action": "Introduced 03/17/2022 and referred to Judiciary",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-30",
+                "action": "Public Hearing: 04/06/2022 01:00 pm Legislative Office Building 206-208",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-01",
+                "action": "Executive Session: 04/14/2022 09:00 am Legislative Office Building 206-208",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-25",
+                "action": "Majority Committee Report: Inexpedient to Legislate (Vote 14-7; Regular Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-04-25",
+                "action": "Minority Committee Report: Ought to Pass",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-05-05",
+                "action": "Inexpedient to Legislate: Motion Adopted Voice Vote 05/05/2022 House Journal  12",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 14488,
+                "person_hash": "elsfgcmi",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Thomas Sherman",
+                "first_name": "Thomas",
+                "middle_name": "",
+                "last_name": "Sherman",
+                "suffix": "",
+                "nickname": "Tom",
+                "district": "SD-024",
+                "ftm_eid": 13703813,
+                "votesmart_id": 141784,
+                "opensecrets_id": "",
+                "knowwho_pid": 426683,
+                "ballotpedia": "Tom_Sherman",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21861,
+                "person_hash": "pdunw5it",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Suzanne Prentiss",
+                "first_name": "Suzanne",
+                "middle_name": "M.",
+                "last_name": "Prentiss",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-005",
+                "ftm_eid": 50226736,
+                "votesmart_id": 194271,
+                "opensecrets_id": "",
+                "knowwho_pid": 743968,
+                "ballotpedia": "Suzanne_Prentiss",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2461886,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB392/id/2461886",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=2129&txtFormat=html",
+                "text_size": 7758,
+                "text_hash": "cf82474a980d798696db123c287cfa22"
+            },
+            {
+                "doc_id": 2528346,
+                "date": "2022-02-24",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB392/id/2528346",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&txtFormat=html&v=SA&id=2129",
+                "text_size": 21478,
+                "text_hash": "a1ea32c6addd38abb86ec737765aa9f2"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-26",
+                "time": "13:45",
+                "location": "Room 100, State House",
+                "description": "Judiciary Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-04-06",
+                "time": "13:00",
+                "location": "Legislative Office Building 206-208",
+                "description": "Judiciary Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-04-14",
+                "time": "09:00",
+                "location": "Legislative Office Building 206-208",
+                "description": "Judiciary Executive Session"
+            }
+        ],
+        "full_text": "statement of findings and purpose the general court finds that individuals with severe mental illness are at increased risk of interacting with the probate court on civil commitments as well as with the criminal justice system in important areas insanity trial competency and competency restoration current new hampshire statutes for insanity and competency have not evolved with changing trends in the frequency of these types of orders or the improvements in mental health treatment as is evidenced by the number of individuals ordered for competency evaluations the need for these evaluations has increased substantially over the last years with some state jurisdictions reporting to percent increases accordingly new hampshire experienced a percent increase in the number of competency orders since in there was an average of court orders for trial competency evaluations each month with increases of the numbers of competency evaluations there are more individuals court ordered for competency restoration an individual ordered into competency restoration is expected to improve and return to court to face their charges upon restoration of his or her competency analysis of published studies from to showed that nationwide percent of individuals ordered to inpatient competency restoration treatment were able to return to court in new hampshire there is no formal existing system to provide treatment for individuals found incompetent in stark contrast to these national numbers fewer than half of the individuals ordered into a competency restoration period are able to return to court and complete their criminal case specifically in only percent of individuals were found to have his or her competency restored the current statutory definition of insanity in new hampshire originating in is outdated and not in keeping with today s standards of the dignity afforded to people with mental illness the state jurisdictions in which the insanity defense is available commit acquitted individuals to a state hospital and or forensic psychiatric hospital for mental health treatment under the care and supervision of the department of health or human services or similar entity numerous state jurisdictions have sought to reform their respective competency restoration system the council of state governments and the national center for state courts have published useful guidance for improvements new hampshire is currently planning to build a new forensic hospital creation of a study commission will allow informed stakeholders to review the existing statutes examine the current competency restoration and sanity needs of new hampshire and utilize national resources to develop needed improvements new subdivision new hampshire hospital and insane persons commission to study insanity and restoration of competency established amend rsa by inserting after section the following new subdivision commission to study insanity and restoration of competency commission to study insanity and restoration of competency established there is hereby established a commission to study insanity and restoration of competency the members of the commission shall be as follows a three members of the house of representatives appointed by the speaker of the house of representatives one of whom shall be a member of the criminal justice and public safety committee one of whom shall be a member of the health human services and elderly affairs committee and one of whom shall be a member of the judiciary committee at least one of the house members shall be a member of the minority party b one member of the senate appointed by the president of the senate c the commissioner of the department of health and human services or designee d the commissioner of the department of corrections or designee e the chief executive officer of the new hampshire hospital or designee f the chief medical officer of the new hampshire hospital or designee g the director of the division for behavioral health department of health and human services or designee h two representatives from the department of justice one from the criminal bureau and one from the civil bureau appointed by the attorney general i a representative from the new hampshire association of chiefs of police appointed by the association j a defense attorney appointed by the new hampshire public defender k a private defense attorney appointed by the new hampshire bar association l a county attorney appointed by the new hampshire association of counties m a superintendent of a county correctional facility appointed by the new hampshire association of counties n a representative from a community mental health centers appointed by the new hampshire community behavioral health association o a member of the judiciary appointed by the judicial branch p a representative from national alliance on mental illness of new hampshire appointed by the alliance q a representative from the disability rights center appointed by the center r a representative from the new hampshire psychiatric society appointed by the society legislative members of the commission shall receive mileage at the legislative rate when attending to the duties of the commission the commission shall study a the statutory definition of insane or insane person and shall revise the definitions based on current practices and standards b organizational and statutory alignment of individuals to align with the development of the forensic hospital c best practice for inpatient and outpatient individuals d quality improvement elements for individuals e methods to streamline and improve the system of care for individuals with severe mental illness who have been deemed incompetent to stand trial f restoration of competency and to develop a plan for a comprehensive restoration program for those individuals deemed not competent but restorable the plan would include review of organizational alignment of the office of forensic examiners best practices for inpatient and outpatient competency restoration improvement of current judicial review process identify a central repository and management entity for the competency restoration process quality improvement elements for competency restoration and review of incorporating juvenile competency commission members shall be appointed within days after the effective date of this section the members of the study commission shall elect a chairperson from among the members the first meeting of the commission shall be called by the senate member the first meeting of the commission shall be held within days of the effective date of this section the commission shall hold a minimum of meetings over the course of its study a majority of the members of the commission shall constitute a quorum the commission shall submit an interim report of its findings and any recommendations for proposed legislation to the president of the senate the speaker of the house of representatives the senate clerk the house clerk the governor and the state library on or before november the commission shall submit a final report of its findings and any recommendations for proposed legislation to the speaker of the house of representatives the president of the senate the house clerk the senate clerk the governor and the state library on or before november repeal rsa and the subdivision heading preceding rsa relative to the commission to study the statutory definition of insane or insane person and restoration of competency are repealed the remainder of this act shall take effect upon its passage"
+    }
+}

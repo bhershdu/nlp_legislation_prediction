@@ -1,0 +1,291 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1543006,
+        "change_hash": "b4c009e96229d78d23d7c24381192e86",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/CACR27/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2322&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=CACR27",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-11-18",
+        "progress": [
+            {
+                "date": "2021-11-18",
+                "event": 1
+            },
+            {
+                "date": "2021-11-18",
+                "event": 9
+            },
+            {
+                "date": "2022-03-04",
+                "event": 11
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "CACR27",
+        "bill_type": "CA",
+        "bill_type_id": "7",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Elected and appointed officials. Providing that all state court judges shall be subject to recall and removal by petition and vote of registered voters pursuant to provisions established by the legislature.",
+        "description": "Elected and appointed officials. Providing that all state court judges shall be subject to recall and removal by petition and vote of registered voters pursuant to provisions established by the legislature.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-11-18",
+                "committee_id": 1255,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Legislative Administration"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-11-18",
+                "action": "Introduced 01/05/2022 and referred to Legislative Administration",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-12",
+                "action": "Public Hearing: 01/12/2022 2:00 p.m. Legislative Office Building301-303",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-04",
+                "action": "Executive Session: 01/12/2022 02:00 pm Legislative Office Building301-303",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-04",
+                "action": "Committee Report: Inexpedient to Legislate (Vote 15-0; Consent Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-21",
+                "action": "Removed from Consent (Rep. Torosian) 03/15/2022 House Journal  6",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-31",
+                "action": "Inexpedient to Legislate: Motion Adopted Regular Calendar 254-85 03/31/2022 House Journal  9",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 18162,
+                "person_hash": "69syqij2",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Norman Silber",
+                "first_name": "Norman",
+                "middle_name": "",
+                "last_name": "Silber",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-02-BEL",
+                "ftm_eid": 17005721,
+                "votesmart_id": 172402,
+                "opensecrets_id": "",
+                "knowwho_pid": 586968,
+                "ballotpedia": "Norman_Silber",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 15247,
+                "person_hash": "z1he67k0",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Michael Sylvia",
+                "first_name": "Michael",
+                "middle_name": "",
+                "last_name": "Sylvia",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-06-BEL",
+                "ftm_eid": 16072474,
+                "votesmart_id": 143477,
+                "opensecrets_id": "",
+                "knowwho_pid": 436674,
+                "ballotpedia": "Michael_Sylvia",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21812,
+                "person_hash": "waizsq89",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "William Foster",
+                "first_name": "William",
+                "middle_name": "Sanborn",
+                "last_name": "Foster",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-05-HIL",
+                "ftm_eid": 25005470,
+                "votesmart_id": 154462,
+                "opensecrets_id": "",
+                "knowwho_pid": 501708,
+                "ballotpedia": "William_Foster_(New_Hampshire)",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19158,
+                "person_hash": "w1hs0gt8",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Betty Gay",
+                "first_name": "Betty",
+                "middle_name": "I.",
+                "last_name": "Gay",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-08-ROC",
+                "ftm_eid": 41757586,
+                "votesmart_id": 172527,
+                "opensecrets_id": "",
+                "knowwho_pid": 587625,
+                "ballotpedia": "Betty_Gay",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21794,
+                "person_hash": "k4vbi4j7",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "JD Bernardy",
+                "first_name": "JD",
+                "middle_name": "",
+                "last_name": "Bernardy",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-16-ROC",
+                "ftm_eid": 16014256,
+                "votesmart_id": 195036,
+                "opensecrets_id": "",
+                "knowwho_pid": 744359,
+                "ballotpedia": "J_D_Bernardy",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2461626,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/CACR27/id/2461626",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1415&txtFormat=html",
+                "text_size": 14051,
+                "text_hash": "33c1b58f4e3d9bfc5f8418e0ad6928f5"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1181554,
+                "date": "2022-03-31",
+                "desc": "ITL",
+                "yea": 254,
+                "nay": 85,
+                "nv": 23,
+                "absent": 28,
+                "total": 390,
+                "passed": 1,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/CACR27/id/1181554",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=176&sy=2022&lb=H&eb=HCA0027&sortoption=&txtsessionyear=2022&txtbillnumber=CACR27&ddlsponsors=&lsr=2322"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-12",
+                "time": "14:00",
+                "location": "Legislative Office Building301-303",
+                "description": "Legislative Administration Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-12",
+                "time": "14:00",
+                "location": "Legislative Office Building301-303",
+                "description": "Legislative Administration Executive Session"
+            }
+        ]
+    }
+}

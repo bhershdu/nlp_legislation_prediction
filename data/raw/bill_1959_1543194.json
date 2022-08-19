@@ -1,0 +1,317 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1543194,
+        "change_hash": "6db90c4f5790794679ed3d960b18e6b4",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1076/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2139&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1076",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-11-02",
+        "progress": [
+            {
+                "date": "2021-11-02",
+                "event": 1
+            },
+            {
+                "date": "2021-11-02",
+                "event": 9
+            },
+            {
+                "date": "2022-03-03",
+                "event": 10
+            },
+            {
+                "date": "2022-03-03",
+                "event": 11
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1076",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to illegal productivity quotas.",
+        "description": "Relative to illegal productivity quotas.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-11-02",
+                "committee_id": 1251,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Labor, Industrial and Rehabilitative Services"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-11-02",
+                "action": "To Be Introduced 01/05/2022 and referred to Labor, Industrial and Rehabilitative Services",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-13",
+                "action": "Public Hearing: 01/13/2022 3:00 p.m. Legislative Office Building305-307",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-24",
+                "action": "Executive Session: 02/24/2022 11:30 a.m. Legislative Office Building305-307",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-03",
+                "action": "Majority Committee Report: Ought to Pass with Amendment # 2022-0630h (Vote 11-9; Regular Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-03",
+                "action": "Minority Committee Report: Inexpedient to Legislate",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-17",
+                "action": "Remove from Table (Rep. Adjutant): Motion Failed DV 165-171 03/17/2022 House Journal  8",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-11",
+                "action": "Lay HB1076 on Table (): Motion Adopted Regular Calendar 169-152 03/17/2022 House Journal  8",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 19782,
+                "person_hash": "jwxorkbu",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Joshua Adjutant",
+                "first_name": "Joshua",
+                "middle_name": "",
+                "last_name": "Adjutant",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-17-GRA",
+                "ftm_eid": 41757305,
+                "votesmart_id": 172505,
+                "opensecrets_id": "",
+                "knowwho_pid": 587135,
+                "ballotpedia": "Joshua_Adjutant",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21856,
+                "person_hash": "1iswy9jv",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Maria Perez",
+                "first_name": "Maria",
+                "middle_name": "Elizabeth",
+                "last_name": "Perez",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-23-HIL",
+                "ftm_eid": 50226642,
+                "votesmart_id": 194959,
+                "opensecrets_id": "",
+                "knowwho_pid": 744548,
+                "ballotpedia": "Maria_Perez_(New_Hampshire)",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19431,
+                "person_hash": "asgzf446",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Kristina Schultz",
+                "first_name": "Kristina",
+                "middle_name": "",
+                "last_name": "Schultz",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-18-MER",
+                "ftm_eid": 9696467,
+                "votesmart_id": 176781,
+                "opensecrets_id": "",
+                "knowwho_pid": 632942,
+                "ballotpedia": "Kris_Schultz",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21814,
+                "person_hash": "lkojttrr",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Eric Gallager",
+                "first_name": "Eric",
+                "middle_name": "",
+                "last_name": "Gallager",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-15-MER",
+                "ftm_eid": 45378733,
+                "votesmart_id": 185382,
+                "opensecrets_id": "",
+                "knowwho_pid": 670730,
+                "ballotpedia": "Eric_Gallager",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21801,
+                "person_hash": "t6khqt0h",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Tony Caplan",
+                "first_name": "Tony",
+                "middle_name": "",
+                "last_name": "Caplan",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-06-MER",
+                "ftm_eid": 50226759,
+                "votesmart_id": 194923,
+                "opensecrets_id": "",
+                "knowwho_pid": 744582,
+                "ballotpedia": "Tony_Caplan",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2461809,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1076/id/2461809",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1232&txtFormat=html",
+                "text_size": 22027,
+                "text_hash": "cf47de6cd4f6cf74e963d98f02ab918e"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1171708,
+                "date": "2022-03-17",
+                "desc": "Table",
+                "yea": 169,
+                "nay": 152,
+                "nv": 39,
+                "absent": 30,
+                "total": 390,
+                "passed": 1,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/HB1076/id/1171708",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=138&sy=2022&lb=H&eb=HB1076&sortoption=&txtsessionyear=2022&txtbillnumber=HB1076&ddlsponsors=&lsr=2139"
+            },
+            {
+                "roll_call_id": 1172775,
+                "date": "2022-03-17",
+                "desc": "Remove from Table",
+                "yea": 165,
+                "nay": 171,
+                "nv": 24,
+                "absent": 30,
+                "total": 390,
+                "passed": 0,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/HB1076/id/1172775",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=149&sy=2022&lb=H&eb=HB1076&sortoption=&txtsessionyear=2022&txtbillnumber=HB1076&ddlsponsors=&lsr=2139"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-13",
+                "time": "15:00",
+                "location": "Legislative Office Building305-307",
+                "description": "Labor, Industrial and Rehabilitative Services Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-24",
+                "time": "11:30",
+                "location": "Legislative Office Building305-307",
+                "description": "Labor, Industrial and Rehabilitative Services Executive Session"
+            }
+        ]
+    }
+}

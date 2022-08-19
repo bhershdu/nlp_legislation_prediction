@@ -1,0 +1,439 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1543192,
+        "change_hash": "857530cd76abf829ca57df9cd8e568eb",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1608/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2362&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1608",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2022-05-24",
+        "progress": [
+            {
+                "date": "2021-12-22",
+                "event": 1
+            },
+            {
+                "date": "2021-12-22",
+                "event": 9
+            },
+            {
+                "date": "2022-02-10",
+                "event": 10
+            },
+            {
+                "date": "2022-02-17",
+                "event": 9
+            },
+            {
+                "date": "2022-03-24",
+                "event": 10
+            },
+            {
+                "date": "2022-04-05",
+                "event": 2
+            },
+            {
+                "date": "2022-04-05",
+                "event": 9
+            },
+            {
+                "date": "2022-04-14",
+                "event": 10
+            },
+            {
+                "date": "2022-05-13",
+                "event": 3
+            },
+            {
+                "date": "2022-05-24",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1608",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to withdrawal from the state immunization registry.",
+        "description": "Relative to withdrawal from the state immunization registry.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-12-22",
+                "committee_id": 1249,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Health, Human Services & Elderly Affairs"
+            },
+            {
+                "date": "2022-02-17",
+                "committee_id": 1244,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Finance"
+            },
+            {
+                "date": "2022-04-05",
+                "committee_id": 1272,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Health and Human Services"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-12-22",
+                "action": "Introduced 01/05/2022 and referred to Health, Human Services and Elderly Affairs",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-12",
+                "action": "Public Hearing: 01/24/2022 11:00 am Legislative Office Building 210-211",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-03",
+                "action": "Executive Session: 02/08/2022 09:30 am Legislative Office Building 210-211",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-10",
+                "action": "Committee Report: Ought to Pass with Amendment # 2022-0587h (NT) (Vote 19-0; Consent Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-02-16",
+                "action": "Ought to Pass with Amendment 2022-0587h: Motion Adopted Voice Vote 02/16/2022 House Journal  3",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-17",
+                "action": "Referred to Finance 02/16/2022 House Journal  3",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-02-24",
+                "action": "Amendment # 2022-0587h: Amendment Adopted Voice Vote 02/16/2022 House Journal  3",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-09",
+                "action": "Executive Session: 03/23/2022 10:00 am Legislative Office Building 210-211",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-11",
+                "action": "Division Work Session: 03/14/2022 10:00 am Legislative Office Building 210-211",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-18",
+                "action": "==CONTINUED== Division III Work Session: 03/21/2022 10:00 am Legislative Office Building 201-203",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-24",
+                "action": "Committee Report: Ought to Pass (Vote 19-2; Consent Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-31",
+                "action": "Ought to Pass: Motion Adopted Voice Vote 03/31/2022 House Journal  9",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-05",
+                "action": "Introduced 03/31/2022 and Referred to Health and Human Services; Senate Journal 8",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-04-07",
+                "action": "Hearing: 04/14/2022, Room Reps Hall, State House, 10:50 am; Senate Calendar  15",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-14",
+                "action": "Committee Report: Ought to Pass, 04/21/2022; Vote 5-0; Consent Calendar; Senate Calendar  16",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-04-21",
+                "action": "Ought to Pass: Motion Adopted, Voice Vote; OT3rdg; 04/21/2022; Senate Journal 9",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-13",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 05/12/2022); Senate Journal 13",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-13",
+                "action": "Enrolled (in recess of) 05/12/2022",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-05-24",
+                "action": "Signed by Governor Sununu 05/20/2022; Chapter ; Eff. 05/20/2022",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 18144,
+                "person_hash": "fvwnmezh",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Andrew Prout",
+                "first_name": "Andrew",
+                "middle_name": "",
+                "last_name": "Prout",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-37-HIL",
+                "ftm_eid": 26392533,
+                "votesmart_id": 172342,
+                "opensecrets_id": "",
+                "knowwho_pid": 587485,
+                "ballotpedia": "Andrew_Prout",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21796,
+                "person_hash": "20zp9bez",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Melissa Blasek",
+                "first_name": "Melissa",
+                "middle_name": "",
+                "last_name": "Blasek",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-21-HIL",
+                "ftm_eid": 50226637,
+                "votesmart_id": 195009,
+                "opensecrets_id": "",
+                "knowwho_pid": 744174,
+                "ballotpedia": "Melissa_Blasek",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19824,
+                "person_hash": "8ya6utb2",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Tony Lekas",
+                "first_name": "Tony",
+                "middle_name": "",
+                "last_name": "Lekas",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-37-HIL",
+                "ftm_eid": 9794125,
+                "votesmart_id": 54877,
+                "opensecrets_id": "",
+                "knowwho_pid": 670662,
+                "ballotpedia": "Tony_Lekas",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21836,
+                "person_hash": "4mn3gpss",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Tom Lanzara",
+                "first_name": "Tom",
+                "middle_name": "",
+                "last_name": "Lanzara",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-28-HIL",
+                "ftm_eid": 45378792,
+                "votesmart_id": 141892,
+                "opensecrets_id": "",
+                "knowwho_pid": 426109,
+                "ballotpedia": "Tom_Lanzara",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2461807,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1608/id/2461807",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1455&txtFormat=html",
+                "text_size": 22994,
+                "text_hash": "e43db5c8b397b9ccd7757a005074cf7e"
+            },
+            {
+                "doc_id": 2521929,
+                "date": "2022-02-16",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1608/id/2521929",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&txtFormat=html&v=HA&id=1455",
+                "text_size": 22483,
+                "text_hash": "f6dcd3616b2b70b91da02ce795bb33d5"
+            },
+            {
+                "doc_id": 2573461,
+                "date": "2022-02-16",
+                "type": "Enrolled",
+                "type_id": 5,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1608/id/2573461",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&v=SP&id=1455",
+                "text_size": 14461,
+                "text_hash": "aa53656f129de738d3cd9ca01e24927c"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-24",
+                "time": "11:00",
+                "location": "Legislative Office Building 210-211",
+                "description": "Health, Human Services and Elderly Affairs Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-08",
+                "time": "09:30",
+                "location": "Legislative Office Building 210-211",
+                "description": "Health, Human Services and Elderly Affairs Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-03-14",
+                "time": "10:00",
+                "location": "Legislative Office Building 210-211",
+                "description": "Finance Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-03-21",
+                "time": "10:00",
+                "location": "Legislative Office Building 201-203",
+                "description": "Finance Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-03-23",
+                "time": "10:00",
+                "location": "Legislative Office Building 210-211",
+                "description": "Finance Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-04-14",
+                "time": "10:50",
+                "location": "Room Reps Hall, State House",
+                "description": "Health and Human Services Hearing"
+            }
+        ],
+        "full_text": "legislative findings new hampshire voters passed the right of privacy article of the new hampshire constitution in november with an percent approval rating with that vote state government culture and behavior needed to be shaped by the words an individual s right to live free from governmental intrusion in private or personal information is natural essential and inherent medical records are some of the most private and personal information and must only be accessed by consent or extraordinary justification even when such extraordinary justification is declared to exist the intrusion absent consent must be limited to only the absolute minimum necessary to achieve the stated purpose when the justification expires the burden falls on the state to restore to the maximum extent possible the circumstances that previously existed to minimize the injury to this natural essential and inherent right the general court finds that the state should not continue to keep the private medical information of individuals that were not afforded the opportunity to choose if they wished it to be collected department of health and human services state immunization registry notice of opportunity to withdraw within days of the effective date of this section the department of health and human services shall execute a public information campaign to inform individuals that data was collected during the state of emergency without the statutorily required opportunity to and of the ability for individuals to withdraw from the state immunization registry if they do not wish their private health information to be retained by the state this public information outreach shall at a minimum consist of a press release postings on the department s social media accounts and a notice or banner prominently displayed on all websites operated by the department for use by the general public for not less than days the campaign shall inform the public that the state of new hampshire obtained information about your vaccination status without offering you a chance to of the state immunization registry our new hampshire constitution honors your right to privacy including your medical information and you have the right to withdraw your information from the immunization registry if you withdraw from the registry the state will not retain a record of your vaccination and include a hyperlink to the current form to withdraw from the immunization registry lba amended hb fiscal note as amended by the house amendment h methodology the department of health and human services states that as amended this bill will have no fiscal impact agencies contacted department of health and human services"
+    }
+}

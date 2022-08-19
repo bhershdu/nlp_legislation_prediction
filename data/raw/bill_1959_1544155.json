@@ -1,0 +1,171 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1544155,
+        "change_hash": "23b28ccae2d5007fcc871974bed46a9b",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1651/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2127&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1651",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-12-30",
+        "progress": [
+            {
+                "date": "2021-12-30",
+                "event": 1
+            },
+            {
+                "date": "2021-12-30",
+                "event": 9
+            },
+            {
+                "date": "2022-02-22",
+                "event": 11
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1651",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Adding sexual reassignment to the definition of child abuse.",
+        "description": "Adding sexual reassignment to the definition of child abuse.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-12-30",
+                "committee_id": 1237,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Children and Family Law"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-12-30",
+                "action": "Introduced 01/05/2022 and referred to Children and Family Law",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-02-22",
+                "action": "Public Hearing: 02/15/2022 01:15 am Legislative Office Building 206-208",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-22",
+                "action": "Executive Session: 02/15/2022 01:15 am Legislative Office Building 206-208",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-22",
+                "action": "Committee Report: Inexpedient to Legislate (Vote 8-0; Consent Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-11",
+                "action": "Lay HB1651 on Table (Rep. DeSimone): Motion Adopted Voice Vote 03/10/2022 House Journal  5",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-21",
+                "action": "Removed from Consent (Rep. Testerman) 03/10/2022 House Journal  5",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 18802,
+                "person_hash": "mzg77iv9",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Dave Testerman",
+                "first_name": "Dave",
+                "middle_name": "",
+                "last_name": "Testerman",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-02-MER",
+                "ftm_eid": 41757550,
+                "votesmart_id": 172475,
+                "opensecrets_id": "",
+                "knowwho_pid": 587505,
+                "ballotpedia": "Dave_Testerman",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2462907,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1651/id/2462907",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1220&txtFormat=html",
+                "text_size": 29027,
+                "text_hash": "15feb99a66b5cf2c7a05ce354338aa75"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-15",
+                "time": "01:15",
+                "location": "Legislative Office Building 206-208",
+                "description": "Children and Family Law Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-15",
+                "time": "01:15",
+                "location": "Legislative Office Building 206-208",
+                "description": "Children and Family Law Executive Session"
+            }
+        ]
+    }
+}

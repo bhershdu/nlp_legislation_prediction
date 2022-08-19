@@ -1,0 +1,436 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1546096,
+        "change_hash": "719c1bf1ae1ef1f6e74fa2969f6b5c71",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB50/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=631&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB50",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2022-03-25",
+        "progress": [
+            {
+                "date": "2021-01-13",
+                "event": 1
+            },
+            {
+                "date": "2021-01-13",
+                "event": 9
+            },
+            {
+                "date": "2021-11-22",
+                "event": 10
+            },
+            {
+                "date": "2021-12-02",
+                "event": 10
+            },
+            {
+                "date": "2022-01-18",
+                "event": 2
+            },
+            {
+                "date": "2022-01-18",
+                "event": 9
+            },
+            {
+                "date": "2022-02-10",
+                "event": 10
+            },
+            {
+                "date": "2022-03-18",
+                "event": 3
+            },
+            {
+                "date": "2022-03-25",
+                "event": 8
+            },
+            {
+                "date": "2022-03-25",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB50",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Apportioning state representative districts.",
+        "description": "Apportioning state representative districts.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-13",
+                "committee_id": 1794,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Special Committee on Redistricting"
+            },
+            {
+                "date": "2022-01-18",
+                "committee_id": 3825,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Election Law and Municipal Affairs"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-13",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Special Committee on Redistricting House Journal  2 P. 55",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-09",
+                "action": "Public Hearing: 03/09/2021 10:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/94125334680 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-23",
+                "action": "Retained in Committee",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-11-09",
+                "action": "Executive Session: 11/16/2021 10:00 am Legislative Office Building 210-211",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-11-22",
+                "action": "Majority Committee Report: Ought to Pass with Amendment # 2021-2274 11/16/2021 (Vote 8-7; Regular Calendar) House Calendar 48 P. 42",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-12-02",
+                "action": "Minority Committee Report: Ought to Pass with Amendment # 2021-2277",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-10",
+                "action": "Lay on Table (Rep. Alliegro): Motion Failed Regular Calendar 179-179 01/05/2022 House Journal  1",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-10",
+                "action": "Ought to Pass with Amendment 2021-2274h: Motion Adopted Regular Calendar 186-168 01/05/2022 House Journal  1",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-10",
+                "action": "Reconsider (Rep. Rice): Motion Failed Regular Calendar 167-188 01/05/2022 House Journal  1",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-10",
+                "action": "Special Order Next order of business (Rep. B. Griffin): Motion Adopted Voice Vote 01/05/2022 House Journal  1",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-10",
+                "action": "Amendment # 2021-2274h: Amendment Adopted Regular Calendar 186-170 01/05/2022 House Journal  1",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-10",
+                "action": "Amendment # 2021-2277h: Amendment Failed Regular Calendar 165-192 01/05/2022 House Journal  1",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-11",
+                "action": "Reconsider Special order (Rep. Cali-Pitts): Motion Failed Regular Calendar 35-316 01/05/2022 House Journal  1",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-18",
+                "action": "Introduced 01/05/2022 and Referred to Election Law and Municipal Affairs; Senate Journal 2",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-27",
+                "action": "Hearing: 01/31/2022, Room Representatives Hall, State House, 01:45 pm; Senate Calendar  5",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-27",
+                "action": "Amendment #2022-0339s to HB 50 will be proposed and can be accessed via the General Court Website http://www.gencourt.state.nh.us/Senate/committees/Redistricting/billsandsubmissions.aspx Senate Calendar  5",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-10",
+                "action": "Committee Report: Ought to Pass with Amendment # 2022-0560s, 02/16/2022; Senate Calendar  7",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-02-16",
+                "action": "Committee Amendment # 2022-0560s, Amendment Adopted, Voice Vote; 02/16/2022; Senate Journal 3",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-16",
+                "action": "Sen. Gray Floor Amendment # 2022-0719s, Amendment Adopted, Voice Vote; 02/16/2022; Senate Journal 3",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-16",
+                "action": "Ought to Pass with Amendments 2022-0560s, and 2022-0719s, Regular Calendar 14Y-10N, Motion Adopted; OT3rdg; 02/16/2022; Senate Journal 3",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-12",
+                "action": "House Concurs with Senate Amendment (Rep. B. Griffin): Motion Adopted Regular Calendar 172-163 03/10/2022 House Journal  5",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-18",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 03/17/2022); Senate Journal 6",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-18",
+                "action": "Enrolled (in recess of) 03/17/2022 House Journal  8",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-25",
+                "action": "Signed by Governor Sununu 03/23/2022; Chapter 9; Eff. 03/23/2022",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 17024,
+                "person_hash": "fstof3o4",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Barbara Griffin",
+                "first_name": "Barbara",
+                "middle_name": "",
+                "last_name": "Griffin",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-06-HIL",
+                "ftm_eid": 6433920,
+                "votesmart_id": 21526,
+                "opensecrets_id": "",
+                "knowwho_pid": 501712,
+                "ballotpedia": "Barbara_Griffin_(New_Hampshire)",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [
+            {
+                "type_id": 9,
+                "type": "Carry Over",
+                "sast_bill_number": "HB50",
+                "sast_bill_id": 1405691
+            }
+        ],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2481314,
+                "date": "2022-01-05",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB50/id/2481314",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&txtFormat=html&v=HA&id=610",
+                "text_size": 72409,
+                "text_hash": "415567e7337a4ca97a90d938bc8921ca"
+            },
+            {
+                "doc_id": 2521545,
+                "date": "2022-02-16",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB50/id/2521545",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&txtFormat=html&v=SA&id=610",
+                "text_size": 82088,
+                "text_hash": "b667710ad972bc8951c7794c2971ffc2"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1122188,
+                "date": "2022-01-05",
+                "desc": "Adopt Amendment",
+                "yea": 186,
+                "nay": 170,
+                "nv": 14,
+                "absent": 23,
+                "total": 393,
+                "passed": 1,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/HB50/id/1122188",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=6&sy=2022&lb=H&eb=HB0050&sortoption=&txtsessionyear=2022&txtbillnumber=HB50&ddlsponsors=&lsr=631"
+            },
+            {
+                "roll_call_id": 1122189,
+                "date": "2022-01-05",
+                "desc": "Adopt Amendment",
+                "yea": 165,
+                "nay": 192,
+                "nv": 13,
+                "absent": 23,
+                "total": 393,
+                "passed": 0,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/HB50/id/1122189",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=7&sy=2022&lb=H&eb=HB0050&sortoption=&txtsessionyear=2022&txtbillnumber=HB50&ddlsponsors=&lsr=631"
+            },
+            {
+                "roll_call_id": 1122190,
+                "date": "2022-01-05",
+                "desc": "OTPA",
+                "yea": 186,
+                "nay": 168,
+                "nv": 15,
+                "absent": 24,
+                "total": 393,
+                "passed": 1,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/HB50/id/1122190",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=8&sy=2022&lb=H&eb=HB0050&sortoption=&txtsessionyear=2022&txtbillnumber=HB50&ddlsponsors=&lsr=631"
+            },
+            {
+                "roll_call_id": 1148333,
+                "date": "2022-02-16",
+                "desc": "Ought to Pass w/Amendment",
+                "yea": 14,
+                "nay": 10,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/HB50/id/1148333",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=39&sy=2022&lb=S&eb=HB0050&sortoption=&txtsessionyear=2022&txtbillnumber=HB50&ddlsponsors=&lsr=631"
+            },
+            {
+                "roll_call_id": 1167367,
+                "date": "2022-03-10",
+                "desc": "Concur",
+                "yea": 172,
+                "nay": 163,
+                "nv": 55,
+                "absent": 0,
+                "total": 390,
+                "passed": 1,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/HB50/id/1167367",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=67&sy=2022&lb=H&eb=HB0050&sortoption=&txtsessionyear=2022&txtbillnumber=HB50&ddlsponsors=&lsr=631"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-09",
+                "time": "10:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Special Committee on Redistricting Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-11-16",
+                "time": "10:00",
+                "location": "Legislative Office Building 210-211",
+                "description": "Special Committee on Redistricting Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-31",
+                "time": "13:45",
+                "location": "Room Representatives Hall, State House",
+                "description": "Election Law and Municipal Affairs Hearing"
+            }
+        ],
+        "full_text": "state representative districts rsa is repealed and reenacted to read as follows state representative districts the state is divided into districts for the choosing of state representatives each of which may elect the number of representatives set forth opposite the district as follows belknap county district no center harbor new hampton district no meredith district no sanbornton tilton district no belmont district no laconia ward laconia ward laconia ward laconia ward laconia ward district no gilford gilmanton laconia ward district no alton barnstead district no belmont sanbornton tilton carroll county district no conway district no albany bartlett chatham hale s location hart s location jackson sandwich district no madison moultonborough tamworth district no brookfield eaton effingham freedom wakefield district no ossipee district no tuftonboro wolfeboro district no ossipee tuftonboro wolfeboro district no brookfield eaton effingham freedom madison moultonborough tamworth wakefield cheshire county district no keene ward district no keene ward district no keene ward district no keene ward district no surry walpole district no chesterfield hinsdale westmoreland district no keene ward district no harrisville marlborough nelson roxbury sullivan district no alstead gilsum marlow stoddard district no richmond swanzey district no winchester district no fitzwilliam troy district no dublin jaffrey district no rindge district no chesterfield hinsdale keene ward keene ward keene ward keene ward surry walpole westmoreland district no alstead gilsum harrisville keene ward marlborough marlow nelson roxbury stoddard sullivan district no fitzwilliam richmond swanzey troy winchester district no dublin jaffrey rindge coos county district no dalton lancaster northumberland stratford district no atkinson gilmanton academy grant cambridge clarksville dix s grant dixville dummer errol milan millsfield odell pittsburg second college grant stark wentworth s location district no colebrook columbia erving s location stewartstown district no carroll jefferson kilkenny whitefield district no berlin district no bean s grant bean s purchase chandler s purchase crawford s purchase cutt s grant gorham green s grant hadley s purchase low and burbank s grant martin s location pinkham s grant randolph sargent s purchase shelburne success thompson and meserve s purchase district no berlin carroll jefferson kilkenny whitefield grafton county district no bath lisbon littleton lyman monroe sugar hill district no bethlehem franconia district no easton lincoln livermore woodstock district no ellsworth thornton waterville valley district no benton haverhill landaff piermont warren district no orford rumney wentworth district no campton district no ashland holderness plymouth district no canaan dorchester orange district no bridgewater bristol district no alexandria grafton groton hebron district no hanover lyme district no lebanon ward district no lebanon ward district no lebanon ward district no enfield district no lebanon ward lebanon ward lebanon ward district no alexandria bridgewater bristol canaan dorchester enfield grafton groton hebron orange hillsborough county district no pelham district no bedford district no nashua ward district no nashua ward district no nashua ward district no nashua ward district no nashua ward district no nashua ward district no nashua ward district no nashua ward district no nashua ward district no merrimack district no hudson district no litchfield district no manchester ward district no manchester ward district no manchester ward district no manchester ward district no manchester ward district no manchester ward district no manchester ward district no manchester ward district no manchester ward district no manchester ward district no manchester ward district no manchester ward district no deering francestown district no weare district no goffstown district no antrim bennington hillsborough windsor district no greenfield hancock district no new ipswich temple wilton district no peterborough sharon district no amherst district no hollis district no brookline greenville mason district no amherst milford district no hudson litchfield district no manchester ward manchester ward manchester ward district no manchester ward manchester ward manchester ward manchester ward manchester ward district no manchester ward manchester ward manchester ward manchester ward district no lyndeborough mont vernon new boston district no milford district no goffstown weare district no brookline greenville hollis mason merrimack county district no boscawen district no northfield district no franklin ward franklin ward franklin ward district no canterbury loudon district no andover danbury hill salisbury webster district no sutton wilmot district no new london newbury district no bradford henniker warner district no bow hopkinton district no dunbarton hooksett district no allenstown district no pembroke district no chichester pittsfield district no epsom district no concord ward district no concord ward district no concord ward district no concord ward district no concord ward district no concord ward district no concord ward district no concord ward district no concord ward district no concord ward district no franklin ward franklin ward franklin ward northfield district no andover boscawen canterbury danbury hill loudon salisbury webster district no allenstown dunbarton epsom hooksett district no concord ward concord ward concord ward district no concord ward concord ward concord ward district no concord ward concord ward concord ward concord ward rockingham county district no northwood nottingham district no auburn candia deerfield district no chester district no raymond district no epping district no brentwood district no fremont district no danville district no sandown district no newfields newmarket district no exeter district no stratham district no derry district no e kingston kingston district no hampstead district no londonderry district no windham district no atkinson district no hampton falls kensington district no newton plaistow s hampton district no newington portsmouth ward district no new castle portsmouth ward district no n hampton district no greenland rye district no salem district no portsmouth ward district no portsmouth ward district no portsmouth ward district no hampton district no seabrook district no auburn candia chester deerfield district no brentwood danville fremont district no exeter newfields newmarket stratham district no e kingston hampstead kingston district no londonderry windham district no hampton falls kensington newton plaistow s hampton district no new castle newington portsmouth ward portsmouth ward district no greenland n hampton rye district no portsmouth ward portsmouth ward portsmouth ward district no hampton seabrook strafford county district no farmington district no milton rochester ward district no middleton new durham district no barrington strafford district no rochester ward district no rochester ward district no rochester ward district no rochester ward district no rochester ward district no durham district no dover ward lee madbury district no rollinsford somersworth ward somersworth ward somersworth ward somersworth ward somersworth ward district no dover ward district no dover ward district no dover ward district no dover ward district no dover ward district no barrington middleton new durham strafford district no rochester ward rochester ward rochester ward rochester ward rochester ward district no dover ward durham lee madbury district no dover ward dover ward dover ward dover ward dover ward sullivan county district no grantham district no cornish plainfield district no charlestown newport unity district no acworth goshen langdon lempster washington district no springfield sunapee district no claremont ward claremont ward claremont ward croydon district no charlestown cornish newport plainfield unity district no acworth claremont ward claremont ward claremont ward croydon goshen langdon lempster springfield sunapee washington application the changes in state representative districts established by this act shall not affect constituencies or terms of office of representatives presently in office the state representative districts established by this act shall be in effect for the purpose of electing representatives at the state general election if there shall be a vacancy in a state representatives district for any reason prior to the state general election the vacancy shall be filled by and from the same state representative district that existed for the state general election no provision of this act shall affect in any manner any of the proceedings of the membership of the house of representatives of the general court that assembled for a biennial session in january ward boundaries legislative districts ward boundaries adopted as of january shall be the ward boundaries used to determine state legislative districts beginning with the november state general election city of portsmouth wards as amended by and is repealed and reenacted to read as follows ward shall contain all that part of the city included within the following boundaries beginning at a point in the piscataqua river on the boundary of the city of portsmouth the state of maine and the town of newington thence southeasterly along the boundary of the city of portsmouth and the state of maine to the point where u s route crosses the boundary of the city of portsmouth and the state of maine thence southwesterly along u s route to a point where u s route passes over daniel street thence southwesterly along daniel street to the intersection of daniel street and congress street thence southwesterly along congress street to the intersection of congress street and maplewood avenue thence northwesterly along maplewood avenue to the middle of a bridge crossing the north mill pond thence southwesterly along a line following the midpoint of the north mill pond until it intersects bartlett street at a point feet north of the intersection of bartlett street and cate street thence northwesterly along bartlett street to the intersection of bartlett street and woodbury avenue thence northwesterly feet along woodbury avenue to the intersection of woodbury avenue and gosling road thence northeasterly along gosling road to its terminus thence northeasterly along the boundary of the town of newington and the city of portsmouth to the point of beginning ward shall contain all that part of the city included within the following boundaries beginning at the middle of the maplewood avenue bridge at the northeast end of north mill pond thence southeasterly along maplewood avenue to the intersection of maplewood avenue and middle street thence southerly along middle street to the intersection of middle street and court street thence northeasterly along court street to the intersection of court street and rogers street thence southerly along rogers street to the intersection of rogers street and parrott avenue thence southerly along parrott avenue to the intersection of parrott avenue and richards avenue thence northerly along richards avenue a distance of feet thence southwesterly along a line until said line reaches the intersection of merrimac street and miller avenue thence southeasterly along miller avenue thence west along lincoln avenue thence south along broad street until it reaches the intersection of broad street and south street thence westerly along south street until it reaches the intersection of south street and middle road thence southwesterly along middle road until the intersection of middle road and u s route bypass thence northwesterly along u s route bypass to a point where it is crossed by a railroad track thence northeasterly along said railroad track until a point where it crosses bartlett street thence northwesterly along bartlett street until a point feet north of the intersection of bartlett street and cate street thence northeasterly along a line following the middle of the north mill pond to the point of beginning ward shall contain all that part of the city included within the following boundaries beginning at a point at the intersection of the boundary of the city of portsmouth the town of newington and the town of greenland thence northerly along the boundary of the city of portsmouth and the town of newington a distance of feet thence continuing northeasterly along the boundary of the city of portsmouth and the town of newington to the intersection of the boundary of the city of portsmouth and the town of newington and woodbury avenue thence southeasterly along woodbury avenue a distance of feet to the intersection of woodbury avenue and bartlett street thence southerly along bartlett street to a point where a railroad crosses bartlett street thence southwesterly along said railroad line to a point where it crosses u s route bypass thence southeasterly along u s route bypass to a point where it intersects greenleaf avenue thence southwesterly along greenleaf avenue to the intersection of greenleaf avenue and peverly hill road thence southeasterly along peverly hill road to the intersection of peverly hill road and lafayette road thence southwesterly along lafayette road to a point at the boundary of the city of portsmouth and the town of rye thence northwesterly along the boundary of the city of portsmouth and the town of rye to the intersection of the boundaries of the city of portsmouth the town of rye and the town of greenland thence northerly along the boundary of the city of portsmouth and the town of greenland to the point of beginning ward shall contain all that part of the city included within the following boundaries beginning at a point at the intersection of south street and summit avenue thence southerly along summit avenue to the point where andrew jarvis drive crosses summit avenue thence westerly along andrew jarvis drive to the intersection of andrew jarvis drive and lafayette road thence southerly along lafayette road to a bridge over the sagamore creek thence easterly along a line following the center of the sagamore creek to a point at the boundary of the city of portsmouth the town of rye and the town of new castle thence southwesterly along the boundary of the city of portsmouth and the town of rye to a point where the boundary between the city of portsmouth and the town of rye turns northwesterly thence northwesterly along the boundary of the city of portsmouth and the town of rye to the intersection of the boundary of the city of portsmouth and the town of rye with lafayette road thence northeasterly along lafayette road to the intersection of lafayette road and peverly hill road thence northwesterly along peverly hill road to the intersection of peverly hill road and greenleaf avenue thence northeasterly along greenleaf avenue to the intersection of greenleaf avenue and u s route bypass thence northwesterly along u s route bypass to the intersection of u s route bypass and middle road thence easterly along middle road to the intersection of middle road and south street thence easterly along south street to the point of beginning ward shall contain all that part of the city included within the following boundaries beginning at a point where u s route intersects the boundary between the city of portsmouth and the state of maine thence southeasterly along the boundary between the city of portsmouth and the state of maine to the boundary of the city of portsmouth the state of maine and the town of new castle thence southerly along the boundary of the city of portsmouth and the town of new castle to the boundary of the city of portsmouth the town of new castle and the town of rye thence southwesterly along the boundary of the city of portsmouth and the town of rye to the midpoint of the sagamore creek thence westerly along a line following the center of the sagamore creek to the lafayette road bridge over the sagamore creek thence northerly along lafayette road to the intersection of lafayette road and andrew jarvis drive thence northeasterly along andrew jarvis drive to the intersection of andrew jarvis drive and summit avenue thence northerly along summit avenue to the intersection of summit avenue and south street thence easterly along south street to the intersection of south street and broad street thence northwesterly along broad street to the intersection of broad street and lincoln avenue thence northeasterly along lincoln avenue to the intersection of miller avenue thence northwesterly along miller avenue to the intersection of merrimac street thence northeasterly to a point on richards avenue feet northerly from the intersection of richards avenue and parrott avenue thence southeasterly along richards avenue to the intersection of richards avenue and parrott avenue thence northeasterly along parrott avenue to the intersection of parrott avenue and rogers street thence northwesterly along rogers street to the intersection of rogers street and court street thence westerly along court street to the intersection of court street and middle street thence northerly along middle street to the intersection of middle street and congress street thence northeasterly along congress street to the intersection of congress street and daniel street thence northeasterly along daniel street to the point where it is crossed by u s route thence northerly along u s route to the point of beginning"
+    }
+}

@@ -1,0 +1,217 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1543407,
+        "change_hash": "31cd801815f4daca9807108cd8a72b04",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1084/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2307&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1084",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-11-02",
+        "progress": [
+            {
+                "date": "2021-11-02",
+                "event": 1
+            },
+            {
+                "date": "2021-11-02",
+                "event": 9
+            },
+            {
+                "date": "2022-03-04",
+                "event": 11
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1084",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to disclosure of the sources of legislative bill proposals.",
+        "description": "Relative to disclosure of the sources of legislative bill proposals.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-11-02",
+                "committee_id": 1255,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Legislative Administration"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-11-02",
+                "action": "To Be Introduced 01/05/2022 and referred to Legislative Administration",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-19",
+                "action": "Public Hearing: 01/19/2022 10:45 a.m. Legislative Office Building301-303",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-04",
+                "action": "Executive Session: 01/19/2022 10:45 am Legislative Office Building301-303",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-04",
+                "action": "Committee Report: Inexpedient to Legislate (Vote 9-6; Regular Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-17",
+                "action": "Inexpedient to Legislate: Motion Adopted Voice Vote 03/17/2022 House Journal  8",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 18127,
+                "person_hash": "kl3fp6h1",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Ellen Read",
+                "first_name": "Ellen",
+                "middle_name": "",
+                "last_name": "Read",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-16-ROC",
+                "ftm_eid": 6494587,
+                "votesmart_id": 172683,
+                "opensecrets_id": "",
+                "knowwho_pid": 587693,
+                "ballotpedia": "Ellen_Read",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 14867,
+                "person_hash": "qwjoaz9j",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Janice Schmidt",
+                "first_name": "Janice",
+                "middle_name": "",
+                "last_name": "Schmidt",
+                "suffix": "",
+                "nickname": "Jan",
+                "district": "HD-28-HIL",
+                "ftm_eid": 12160184,
+                "votesmart_id": 173126,
+                "opensecrets_id": "",
+                "knowwho_pid": 426617,
+                "ballotpedia": "Jan_Schmidt",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 17494,
+                "person_hash": "dj0cr8wi",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Ivy Vann",
+                "first_name": "Ivy",
+                "middle_name": "",
+                "last_name": "Vann",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-24-HIL",
+                "ftm_eid": 25005757,
+                "votesmart_id": 154293,
+                "opensecrets_id": "",
+                "knowwho_pid": 502148,
+                "ballotpedia": "Ivy_Vann",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2462014,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1084/id/2462014",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1400&txtFormat=html",
+                "text_size": 9681,
+                "text_hash": "78ba8d14aa63194f0fb9b80c49b07351"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-19",
+                "time": "10:45",
+                "location": "Legislative Office Building301-303",
+                "description": "Legislative Administration Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-19",
+                "time": "10:45",
+                "location": "Legislative Office Building301-303",
+                "description": "Legislative Administration Executive Session"
+            }
+        ],
+        "full_text": "identification of source of model act when a partnership firm nonprofit entity or corporation formally adopts and distributes model acts to elected officials from more than one state and that model act is used by a member of the house of representatives or the senate to propose equivalent or substantially similar legislation for introduction in the general court the office of legislative services shall indicate the responsible partnership firm nonprofit entity or corporation in the bill analysis provided such information is supplied by the bill s prime sponsor members of the general court shall disclose sufficient information to the office of legislative services for the identification required by this section following introduction of the bill if the source of the model act was not made available under paragraph i a third party may request that disclosure of the source of a model act be added to the bill analysis as necessary for subsequent passage of the bill by submitting a written request with documentation of the model act to the chairperson of the committee assigned the bill the chairperson shall issue a ruling within business days of the written request decisions of the committee chairperson may be appealed to the rules committee of the house or senate in this section a model legislation means a legislative proposal or a uniform or suggested act written promoted or distributed by a partnership firm nonprofit entity or corporation to an elected official and to other public officials of at least one more state b formally adopted means that the partnership firm nonprofit entity or corporation votes to endorse support or distribute the model act for legislative adoption"
+    }
+}

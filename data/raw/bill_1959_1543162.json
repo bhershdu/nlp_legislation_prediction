@@ -1,0 +1,545 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1543162,
+        "change_hash": "141d44eed8ff731cafdce135348dddb8",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1203/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2024&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1203",
+        "completed": 0,
+        "status": 2,
+        "status_date": "2022-03-22",
+        "progress": [
+            {
+                "date": "2021-11-18",
+                "event": 1
+            },
+            {
+                "date": "2021-11-18",
+                "event": 9
+            },
+            {
+                "date": "2022-03-09",
+                "event": 10
+            },
+            {
+                "date": "2022-03-09",
+                "event": 11
+            },
+            {
+                "date": "2022-03-22",
+                "event": 2
+            },
+            {
+                "date": "2022-03-22",
+                "event": 9
+            },
+            {
+                "date": "2022-04-20",
+                "event": 10
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1203",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to voter registration and verification of voter identity.",
+        "description": "Relative to voter registration and verification of voter identity.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-11-18",
+                "committee_id": 1241,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Election Law"
+            },
+            {
+                "date": "2022-03-22",
+                "committee_id": 3825,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Election Law and Municipal Affairs"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-11-18",
+                "action": "Introduced 01/05/2022 and referred to Election Law",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-02-10",
+                "action": "Public Hearing: 02/10/2022 11:30 a.m. Legislative Office Building306-308",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-09",
+                "action": "Executive Session: 03/09/2022 10:00 a.m. Legislative Office Building306-308",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-09",
+                "action": "Majority Committee Report: Ought to Pass with Amendment # 2022-0962h (NT) (Vote 11-9; Regular Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-09",
+                "action": "Minority Committee Report: Inexpedient to Legislate",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-17",
+                "action": "Amendment # 2022-0962h: Amendment Adopted Voice Vote 03/16/2022 House Journal  7",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-17",
+                "action": "Ought to Pass with Amendment 2022-0962h: Motion Adopted DV 185-163 03/16/2022 House Journal  7",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-22",
+                "action": "Introduced 03/17/2022 and Referred to Election Law and Municipal Affairs; Senate Journal 6",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-31",
+                "action": "Hearing: 04/04/2022, Room 100, State House, 01:30 pm; Senate Calendar  14",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-20",
+                "action": "Committee Report: Ought to Pass with Amendment # 2022-1660s, 04/28/2022; Senate Calendar  17",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-04-28",
+                "action": "Sen. Soucy Moved to divide the Question on Committee Amendment #2022-1660s: Sections 1 and 7 and then the remainder of the amendment with the effective date; 04/28/2022; Senate Journal 10",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-28",
+                "action": "The Chair ruled the Question Divisible; 04/28/2022; Senate Journal 10",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-28",
+                "action": "Committee Amendment #2022-1660s: Sections 1 and 7, Regular Calendar 14Y-10N, Amendment Adopted; 04/28/2022; Senate Journal 10",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-28",
+                "action": "Committee Amendment #2022-1660s: Remainder of Amendment with the effective date, Amendment Adopted, Voice Vote; 04/28/2022; Senate Journal 10",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-28",
+                "action": "Sen. Soucy Moved to divide the Question on the motion of Ought to Pass with Amendment: Sections 1 and 7 and then the remainder of the bill as amended with the effective date; 04/28/2022; Senate Journal 10",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-28",
+                "action": "The Chair ruled the Question Divisible; 04/28/2022; Senate Journal 10",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-28",
+                "action": "Ought to Pass with Amendment 2022-1660s: Sections 1 and 7, Regular Calendar 14Y-10N, Motion Adopted; 04/28/2022; Senate Journal 10",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-28",
+                "action": "Ought to Pass with Amendment 2022-1660s: Remainder of the bill with the effective date, Motion Adopted, Voice Vote; OT3rdg; 04/28/2022; Senate Journal 10",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-13",
+                "action": "House Non-Concurs with Senate Amendment (Rep. B. Griffin): Motion Adopted Voice Vote 05/12/2022 House Journal  13",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 4750,
+                "person_hash": "vpo1f77e",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Timothy Horrigan",
+                "first_name": "Timothy",
+                "middle_name": "",
+                "last_name": "Horrigan",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-07-STR",
+                "ftm_eid": 6494379,
+                "votesmart_id": 110051,
+                "opensecrets_id": "",
+                "knowwho_pid": 269497,
+                "ballotpedia": "Timothy_Horrigan",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 15308,
+                "person_hash": "aspj993m",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Paul Berch",
+                "first_name": "Paul",
+                "middle_name": "",
+                "last_name": "Berch",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-01-CHE",
+                "ftm_eid": 6510405,
+                "votesmart_id": 122291,
+                "opensecrets_id": "",
+                "knowwho_pid": 296113,
+                "ballotpedia": "Paul_Berch",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19804,
+                "person_hash": "myrvs7s3",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Bruce Cohen",
+                "first_name": "Bruce",
+                "middle_name": "",
+                "last_name": "Cohen",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-28-HIL",
+                "ftm_eid": 45378666,
+                "votesmart_id": 185579,
+                "opensecrets_id": "",
+                "knowwho_pid": 670617,
+                "ballotpedia": "Bruce_Cohen_(New_Hampshire)",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18140,
+                "person_hash": "6h6iwnwo",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Sherry Frost",
+                "first_name": "Sherry",
+                "middle_name": "",
+                "last_name": "Frost",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-16-STR",
+                "ftm_eid": 9903733,
+                "votesmart_id": 174510,
+                "opensecrets_id": "",
+                "knowwho_pid": 587889,
+                "ballotpedia": "Sherry_Frost",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19802,
+                "person_hash": "e3ap3y16",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Cam Kenney",
+                "first_name": "Cam",
+                "middle_name": "",
+                "last_name": "Kenney",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-06-STR",
+                "ftm_eid": 45378778,
+                "votesmart_id": 185396,
+                "opensecrets_id": "",
+                "knowwho_pid": 670912,
+                "ballotpedia": "Cam_Kenney",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18127,
+                "person_hash": "kl3fp6h1",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Ellen Read",
+                "first_name": "Ellen",
+                "middle_name": "",
+                "last_name": "Read",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-16-ROC",
+                "ftm_eid": 6494587,
+                "votesmart_id": 172683,
+                "opensecrets_id": "",
+                "knowwho_pid": 587693,
+                "ballotpedia": "Ellen_Read",
+                "sponsor_type_id": 2,
+                "sponsor_order": 6,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4836,
+                "person_hash": "73gfhft0",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Judith Spang",
+                "first_name": "Judith",
+                "middle_name": "",
+                "last_name": "Spang",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-07-STR",
+                "ftm_eid": 6395329,
+                "votesmart_id": 21343,
+                "opensecrets_id": "",
+                "knowwho_pid": 197020,
+                "ballotpedia": "Judith_Spang",
+                "sponsor_type_id": 2,
+                "sponsor_order": 7,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 12822,
+                "person_hash": "y0vo14g4",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Janet Wall",
+                "first_name": "Janet",
+                "middle_name": "G.",
+                "last_name": "Wall",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-07-STR",
+                "ftm_eid": 13004285,
+                "votesmart_id": 8596,
+                "opensecrets_id": "",
+                "knowwho_pid": 197034,
+                "ballotpedia": "Janet_Wall",
+                "sponsor_type_id": 2,
+                "sponsor_order": 8,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2461777,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1203/id/2461777",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1117&txtFormat=html",
+                "text_size": 130894,
+                "text_hash": "499faad449b27d2c8bae4625bb66a4a2"
+            },
+            {
+                "doc_id": 2550826,
+                "date": "2022-03-16",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1203/id/2550826",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&txtFormat=html&v=HA&id=1117",
+                "text_size": 79224,
+                "text_hash": "7850a84968dd83523a5051f269423ffa"
+            },
+            {
+                "doc_id": 2576725,
+                "date": "2022-04-28",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1203/id/2576725",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&txtFormat=html&v=SA&id=1117",
+                "text_size": 89267,
+                "text_hash": "a7235175966f61580182e8197c3735bd"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1197974,
+                "date": "2022-04-28",
+                "desc": "Committee Amendment Sections",
+                "yea": 14,
+                "nay": 10,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/HB1203/id/1197974",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=102&sy=2022&lb=S&eb=HB1203&sortoption=&txtsessionyear=2022&txtbillnumber=HB1203&ddlsponsors=&lsr=2024"
+            },
+            {
+                "roll_call_id": 1197975,
+                "date": "2022-04-28",
+                "desc": "Floor Amendment",
+                "yea": 10,
+                "nay": 14,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 0,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/HB1203/id/1197975",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=103&sy=2022&lb=S&eb=HB1203&sortoption=&txtsessionyear=2022&txtbillnumber=HB1203&ddlsponsors=&lsr=2024"
+            },
+            {
+                "roll_call_id": 1197976,
+                "date": "2022-04-28",
+                "desc": "Divide the Question",
+                "yea": 14,
+                "nay": 10,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/HB1203/id/1197976",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=104&sy=2022&lb=S&eb=HB1203&sortoption=&txtsessionyear=2022&txtbillnumber=HB1203&ddlsponsors=&lsr=2024"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-10",
+                "time": "11:30",
+                "location": "Legislative Office Building306-308",
+                "description": "Election Law Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-03-09",
+                "time": "10:00",
+                "location": "Legislative Office Building306-308",
+                "description": "Election Law Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-04-04",
+                "time": "13:30",
+                "location": "Room 100, State House",
+                "description": "Election Law and Municipal Affairs Hearing"
+            }
+        ]
+    }
+}

@@ -1,0 +1,321 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1546365,
+        "change_hash": "2103bf1b12062fe25b7da724dc9c4a7f",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB247/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=164&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB247",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-09",
+        "progress": [
+            {
+                "date": "2021-01-09",
+                "event": 1
+            },
+            {
+                "date": "2021-01-09",
+                "event": 9
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB247",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to treatment alternatives to opioids.",
+        "description": "Relative to treatment alternatives to opioids.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-09",
+                "committee_id": 1249,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Health, Human Services & Elderly Affairs"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-09",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Health, Human Services and Elderly Affairs House Journal  2 P. 40",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-20",
+                "action": "Public Hearing: 01/26/2021 11:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/94852322897 / Executive session on pending legislation may be held throughout the day (time permitting) from the time thecommittee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-09",
+                "action": "Retained in Committee",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-09-21",
+                "action": "Subcommittee Work Session: 10/06/2021 10:00 am Legislative Office Building 205-207",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-10-13",
+                "action": "Executive Session: 10/26/2021 09:30 am Legislative Office Building 205-207",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-11-03",
+                "action": "Committee Report: Refer for Interim Study HB247 10/26/2021 (Vote 21-0; Consent Calendar) House Calendar 48 P. 12",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-11",
+                "action": "Refer for Interim Study: Motion Adopted Voice Vote 01/05/2022 House Journal  1",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-24",
+                "action": "Interim Study Work Session: 06/06/2022 09:30 am Legislative Office Building 201-203",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 11759,
+                "person_hash": "tl0oo0ja",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "David Lundgren",
+                "first_name": "David",
+                "middle_name": "C.",
+                "last_name": "Lundgren",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-05-ROC",
+                "ftm_eid": 6695346,
+                "votesmart_id": 126587,
+                "opensecrets_id": "",
+                "knowwho_pid": 296608,
+                "ballotpedia": "David_Lundgren_(New_Hampshire)",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19793,
+                "person_hash": "7zsy50zf",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Tom Dolan",
+                "first_name": "Tom",
+                "middle_name": "",
+                "last_name": "Dolan",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-05-ROC",
+                "ftm_eid": 45378691,
+                "votesmart_id": 185508,
+                "opensecrets_id": "",
+                "knowwho_pid": 670616,
+                "ballotpedia": "Tom_Dolan",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 15544,
+                "person_hash": "c25fk7m0",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Karel Crawford",
+                "first_name": "Karel",
+                "middle_name": "A.",
+                "last_name": "Crawford",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-04-CAR",
+                "ftm_eid": 13703549,
+                "votesmart_id": 141860,
+                "opensecrets_id": "",
+                "knowwho_pid": 426019,
+                "ballotpedia": "Karel_Crawford",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 15580,
+                "person_hash": "wrup7d7d",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Linda Massimilla",
+                "first_name": "Linda",
+                "middle_name": "",
+                "last_name": "Massimilla",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-01-GRA",
+                "ftm_eid": 9753448,
+                "votesmart_id": 143257,
+                "opensecrets_id": "",
+                "knowwho_pid": 428009,
+                "ballotpedia": "Linda_Massimilla",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18812,
+                "person_hash": "cs71sm23",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Richard Lascelles",
+                "first_name": "Richard",
+                "middle_name": "W.",
+                "last_name": "Lascelles",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-20-HIL",
+                "ftm_eid": 41757512,
+                "votesmart_id": 172445,
+                "opensecrets_id": "",
+                "knowwho_pid": 587380,
+                "ballotpedia": "Richard_Lascelles",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19797,
+                "person_hash": "mkwm5wf1",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "David Love",
+                "first_name": "David",
+                "middle_name": "C.",
+                "last_name": "Love",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-06-ROC",
+                "ftm_eid": 41757581,
+                "votesmart_id": 173059,
+                "opensecrets_id": "",
+                "knowwho_pid": 587609,
+                "ballotpedia": "David_Love",
+                "sponsor_type_id": 2,
+                "sponsor_order": 6,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [
+            {
+                "type_id": 9,
+                "type": "Carry Over",
+                "sast_bill_number": "HB247",
+                "sast_bill_id": 1395432
+            }
+        ],
+        "subjects": [],
+        "texts": [],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-01-26",
+                "time": "11:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Health, Human Services and Elderly Affairs Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-10-06",
+                "time": "10:00",
+                "location": "Legislative Office Building 205-207",
+                "description": "Health, Human Services and Elderly Affairs Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-10-26",
+                "time": "09:30",
+                "location": "Legislative Office Building 205-207",
+                "description": "Health, Human Services and Elderly Affairs Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-06-06",
+                "time": "09:30",
+                "location": "Legislative Office Building 201-203",
+                "description": "Health, Human Services and Elderly Affairs Work Session"
+            }
+        ]
+    }
+}

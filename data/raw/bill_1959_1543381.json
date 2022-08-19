@@ -1,0 +1,479 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1543381,
+        "change_hash": "3f2c5c8cb2c484195cc64905dabf9e42",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1594/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2310&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1594",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2022-06-23",
+        "progress": [
+            {
+                "date": "2021-12-21",
+                "event": 1
+            },
+            {
+                "date": "2021-12-21",
+                "event": 9
+            },
+            {
+                "date": "2022-03-07",
+                "event": 10
+            },
+            {
+                "date": "2022-03-22",
+                "event": 2
+            },
+            {
+                "date": "2022-03-22",
+                "event": 9
+            },
+            {
+                "date": "2022-04-07",
+                "event": 10
+            },
+            {
+                "date": "2022-06-09",
+                "event": 3
+            },
+            {
+                "date": "2022-06-23",
+                "event": 8
+            },
+            {
+                "date": "2022-06-23",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1594",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to assistance to certain students with disabilities in registering to vote.",
+        "description": "Relative to assistance to certain students with disabilities in registering to vote.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-12-21",
+                "committee_id": 1240,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Education"
+            },
+            {
+                "date": "2022-03-22",
+                "committee_id": 1267,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Education"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-12-21",
+                "action": "Introduced 01/05/2022 and referred to Education",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-19",
+                "action": "Public Hearing: 02/02/2022 09:00 am Legislative Office Building 205-207",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-07",
+                "action": "Executive Session: 02/02/2022 09:00 am Legislative Office Building 205-207",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-07",
+                "action": "Committee Report: Ought to Pass with Amendment # 2022-0814h (Vote 19-0; Consent Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-15",
+                "action": "Ought to Pass with Amendment 2022-0814h: Motion Adopted Voice Vote 03/15/2022 House Journal  6",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-16",
+                "action": "Amendment # 2022-0814h: Amendment Adopted Voice Vote 03/15/2022 House Journal  6",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-22",
+                "action": "Introduced 03/17/2022 and Referred to Education; Senate Journal 6",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-30",
+                "action": "Hearing: 04/06/2022, Room 101, Legislative Office Building, 01:20 pm; Senate Calendar  14",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-07",
+                "action": "Committee Report: Ought to Pass with Amendment # 2022-1366s, 04/14/2022; Vote 5-0; Consent Calendar; Senate Calendar  15",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-04-14",
+                "action": "Committee Amendment # 2022-1366s, Amendment Adopted, Voice Vote; 04/14/2022; Senate Journal 8",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-14",
+                "action": "Ought to Pass with Amendment 2022-1366s, Motion Adopted, Voice Vote; OT3rdg; 04/14/2022; Senate Journal 8",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-13",
+                "action": "House Concurs with Senate Amendment (Rep. Ladd): Motion Adopted Voice Vote 05/12/2022 House Journal  13",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-06-09",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 05/26/2022); Senate Journal 13",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-06-09",
+                "action": "Enrolled (in recess of) 05/26/2022",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-06-23",
+                "action": "Signed by Governor Sununu 06/17/2022; Chapter 209; eff. 08/16/2022 House Journal  14",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 21853,
+                "person_hash": "tjdjwyqe",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Mark Paige",
+                "first_name": "Mark",
+                "middle_name": "A.",
+                "last_name": "Paige",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-18-ROC",
+                "ftm_eid": 50226914,
+                "votesmart_id": 194880,
+                "opensecrets_id": "",
+                "knowwho_pid": 744645,
+                "ballotpedia": "Mark_Paige",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18149,
+                "person_hash": "itr43jxq",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Dan Wolf",
+                "first_name": "Dan",
+                "middle_name": "",
+                "last_name": "Wolf",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-07-HIL",
+                "ftm_eid": 9697983,
+                "votesmart_id": 172477,
+                "opensecrets_id": "",
+                "knowwho_pid": 587510,
+                "ballotpedia": "Dan_Wolf_(New_Hampshire)",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 14484,
+                "person_hash": "qd1dpodj",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Mel Myler",
+                "first_name": "Mel",
+                "middle_name": "",
+                "last_name": "Myler",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-10-MER",
+                "ftm_eid": 13703645,
+                "votesmart_id": 143338,
+                "opensecrets_id": "",
+                "knowwho_pid": 428108,
+                "ballotpedia": "Mel_Myler",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 12886,
+                "person_hash": "2bsgot9r",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Marjorie Porter",
+                "first_name": "Marjorie",
+                "middle_name": "",
+                "last_name": "Porter",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-01-HIL",
+                "ftm_eid": 6510482,
+                "votesmart_id": 14523,
+                "opensecrets_id": "",
+                "knowwho_pid": 296493,
+                "ballotpedia": "Marjorie_Porter",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19843,
+                "person_hash": "xz34mimu",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Sue Mullen",
+                "first_name": "Sue",
+                "middle_name": "",
+                "last_name": "Mullen",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-07-HIL",
+                "ftm_eid": 45378856,
+                "votesmart_id": 185326,
+                "opensecrets_id": "",
+                "knowwho_pid": 670399,
+                "ballotpedia": "Sue_Mullen",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18158,
+                "person_hash": "nplanada",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Mark Pearson",
+                "first_name": "Mark",
+                "middle_name": "A.",
+                "last_name": "Pearson",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-34-ROC",
+                "ftm_eid": 13004253,
+                "votesmart_id": 69095,
+                "opensecrets_id": "",
+                "knowwho_pid": 250178,
+                "ballotpedia": "Mark_A._Pearson",
+                "sponsor_type_id": 2,
+                "sponsor_order": 6,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21807,
+                "person_hash": "tlbyuyoy",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Brodie Deshaies",
+                "first_name": "Brodie",
+                "middle_name": "",
+                "last_name": "Deshaies",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-06-CAR",
+                "ftm_eid": 50226968,
+                "votesmart_id": 194708,
+                "opensecrets_id": "",
+                "knowwho_pid": 744060,
+                "ballotpedia": "Brodie_Deshaies",
+                "sponsor_type_id": 2,
+                "sponsor_order": 7,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19871,
+                "person_hash": "s68lmcsc",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Jim Maggiore",
+                "first_name": "Jim",
+                "middle_name": "",
+                "last_name": "Maggiore",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-22-ROC",
+                "ftm_eid": 41772679,
+                "votesmart_id": 172400,
+                "opensecrets_id": "",
+                "knowwho_pid": 586928,
+                "ballotpedia": "Jim_Maggiore_(New_Hampshire_House)",
+                "sponsor_type_id": 2,
+                "sponsor_order": 8,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2461989,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1594/id/2461989",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1403&txtFormat=html",
+                "text_size": 8702,
+                "text_hash": "f993228ac9bbbfaad04ed899bce5cb11"
+            },
+            {
+                "doc_id": 2550311,
+                "date": "2022-03-15",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1594/id/2550311",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&txtFormat=html&v=HA&id=1403",
+                "text_size": 8086,
+                "text_hash": "a6e0ed5b86362cd51ad04acae903e4f3"
+            },
+            {
+                "doc_id": 2570291,
+                "date": "2022-04-14",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1594/id/2570291",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&txtFormat=html&v=SA&id=1403",
+                "text_size": 8334,
+                "text_hash": "d8464be34d5bfc304e62ea6985787d73"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-02",
+                "time": "09:00",
+                "location": "Legislative Office Building 205-207",
+                "description": "Education Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-02",
+                "time": "09:00",
+                "location": "Legislative Office Building 205-207",
+                "description": "Education Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-04-06",
+                "time": "13:20",
+                "location": "Room 101, Legislative Office Building",
+                "description": "Education Hearing"
+            }
+        ]
+    }
+}

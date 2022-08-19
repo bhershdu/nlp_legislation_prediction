@@ -1,0 +1,254 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1544170,
+        "change_hash": "bce3764a944173f00100996f4c0a6d9c",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1669/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2407&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1669",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-12-30",
+        "progress": [
+            {
+                "date": "2021-12-30",
+                "event": 1
+            },
+            {
+                "date": "2021-12-30",
+                "event": 9
+            },
+            {
+                "date": "2022-03-09",
+                "event": 11
+            },
+            {
+                "date": "2022-03-09",
+                "event": 10
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1669",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Requiring the department of education to administer the education freedom account program.",
+        "description": "Requiring the department of education to administer the education freedom account program.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-12-30",
+                "committee_id": 1240,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Education"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-12-30",
+                "action": "Introduced 01/05/2022 and referred to Education",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-19",
+                "action": "Public Hearing: 02/02/2022 02:30 pm Legislative Office Building 205-207",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-09",
+                "action": "Majority Committee Report: Inexpedient to Legislate (Vote 10-9; Regular Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-09",
+                "action": "Minority Committee Report: Ought to Pass",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-20",
+                "action": "Lay HB1669 on Table (Rep. Ladd): Motion Adopted Regular Calendar 185-158 03/16/2022 House Journal  7",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 19161,
+                "person_hash": "t6eaph47",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Bonnie Ham",
+                "first_name": "Bonnie",
+                "middle_name": "",
+                "last_name": "Ham",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-05-GRA",
+                "ftm_eid": 6594611,
+                "votesmart_id": 5063,
+                "opensecrets_id": "",
+                "knowwho_pid": 196943,
+                "ballotpedia": "Bonnie_Ham",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21807,
+                "person_hash": "tlbyuyoy",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Brodie Deshaies",
+                "first_name": "Brodie",
+                "middle_name": "",
+                "last_name": "Deshaies",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-06-CAR",
+                "ftm_eid": 50226968,
+                "votesmart_id": 194708,
+                "opensecrets_id": "",
+                "knowwho_pid": 744060,
+                "ballotpedia": "Brodie_Deshaies",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 14484,
+                "person_hash": "qd1dpodj",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Mel Myler",
+                "first_name": "Mel",
+                "middle_name": "",
+                "last_name": "Myler",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-10-MER",
+                "ftm_eid": 13703645,
+                "votesmart_id": 143338,
+                "opensecrets_id": "",
+                "knowwho_pid": 428108,
+                "ballotpedia": "Mel_Myler",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18149,
+                "person_hash": "itr43jxq",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Dan Wolf",
+                "first_name": "Dan",
+                "middle_name": "",
+                "last_name": "Wolf",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-07-HIL",
+                "ftm_eid": 9697983,
+                "votesmart_id": 172477,
+                "opensecrets_id": "",
+                "knowwho_pid": 587510,
+                "ballotpedia": "Dan_Wolf_(New_Hampshire)",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2462922,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1669/id/2462922",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1500&txtFormat=html",
+                "text_size": 54635,
+                "text_hash": "a7900b6083f1228149ea88b8dcd8d5a6"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1172015,
+                "date": "2022-03-16",
+                "desc": "Table",
+                "yea": 185,
+                "nay": 158,
+                "nv": 26,
+                "absent": 21,
+                "total": 390,
+                "passed": 1,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/HB1669/id/1172015",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=97&sy=2022&lb=H&eb=HB1669&sortoption=&txtsessionyear=2022&txtbillnumber=HB1669&ddlsponsors=&lsr=2407"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-02",
+                "time": "14:30",
+                "location": "Legislative Office Building 205-207",
+                "description": "Education Public Hearing"
+            }
+        ]
+    }
+}

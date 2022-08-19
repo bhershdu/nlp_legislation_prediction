@@ -1,0 +1,216 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1543437,
+        "change_hash": "d293067f55cdb753d1d63f21f349cc4a",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1105/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2563&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1105",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-11-23",
+        "progress": [
+            {
+                "date": "2021-11-23",
+                "event": 1
+            },
+            {
+                "date": "2021-11-23",
+                "event": 9
+            },
+            {
+                "date": "2022-03-09",
+                "event": 11
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1105",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to earned time credits.",
+        "description": "Relative to earned time credits.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-11-23",
+                "committee_id": 1239,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Criminal Justice and Public Safety"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-11-23",
+                "action": "Introduced 01/05/2022 and referred to Criminal Justice and Public Safety",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-27",
+                "action": "==CANCELLED== Public Hearing: 02/04/2022 02:15 pm Legislative Office Building 202-204",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-03",
+                "action": "Public Hearing: 02/09/2022 02:15 pm Legislative Office Building 202-204",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-28",
+                "action": "Executive Session: 03/02/2022 10:00 am Legislative Office Building 202-204",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-09",
+                "action": "Majority Committee Report: Refer for Interim Study (Vote 13-7; Regular Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-09",
+                "action": "Minority Committee Report: Inexpedient to Legislate",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-15",
+                "action": "Refer for Interim Study: Motion Adopted Voice Vote 03/15/2022 House Journal  6",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-02",
+                "action": "Full Committee Work Session: 06/02/2022 10:00 am Legislative Office Building 202-204",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-06-08",
+                "action": "Executive Session: 06/02/2022 09:30 am Legislative Office Building 205-207",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 19846,
+                "person_hash": "o5k0dfka",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Daryl Abbas",
+                "first_name": "Daryl",
+                "middle_name": "A.",
+                "last_name": "Abbas",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-08-ROC",
+                "ftm_eid": 45378616,
+                "votesmart_id": 185319,
+                "opensecrets_id": "",
+                "knowwho_pid": 670640,
+                "ballotpedia": "Daryl_Abbas",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2462043,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1105/id/2462043",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1656&txtFormat=html",
+                "text_size": 7677,
+                "text_hash": "002a2cacbba314815b70d29e6b764560"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-04",
+                "time": "14:15",
+                "location": "Legislative Office Building 202-204",
+                "description": "(CANCELLED) Criminal Justice and Public Safety Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-09",
+                "time": "14:15",
+                "location": "Legislative Office Building 202-204",
+                "description": "Criminal Justice and Public Safety Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-03-02",
+                "time": "10:00",
+                "location": "Legislative Office Building 202-204",
+                "description": "Criminal Justice and Public Safety Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-06-02",
+                "time": "10:00",
+                "location": "Legislative Office Building 202-204",
+                "description": "Criminal Justice and Public Safety Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-06-02",
+                "time": "09:30",
+                "location": "Legislative Office Building 205-207",
+                "description": "Criminal Justice and Public Safety Executive Session"
+            }
+        ]
+    }
+}

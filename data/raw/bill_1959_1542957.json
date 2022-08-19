@@ -1,0 +1,190 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1542957,
+        "change_hash": "c200ca31c5679e6d4f0ba0044ea7be4a",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1004/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2283&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1004",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-10-29",
+        "progress": [
+            {
+                "date": "2021-10-29",
+                "event": 1
+            },
+            {
+                "date": "2021-10-29",
+                "event": 9
+            },
+            {
+                "date": "2022-03-09",
+                "event": 11
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1004",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to penalties for failure to provide information after an animal injury.",
+        "description": "Relative to penalties for failure to provide information after an animal injury.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-10-29",
+                "committee_id": 1239,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Criminal Justice and Public Safety"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-10-29",
+                "action": "Introduced 01/05/2022 and referred to Criminal Justice and Public Safety",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-19",
+                "action": "Public Hearing: 01/28/2022 02:00 pm Legislative Office Building 202-204",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-28",
+                "action": "Executive Session: 03/02/2022 10:00 am Legislative Office Building 202-204",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-09",
+                "action": "Committee Report: Inexpedient to Legislate (Vote 15-6; Regular Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-17",
+                "action": "Inexpedient to Legislate: Motion Adopted Voice Vote 03/15/2022 House Journal  6",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 5065,
+                "person_hash": "f8uswohf",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Gary Hopper",
+                "first_name": "Gary",
+                "middle_name": "S.",
+                "last_name": "Hopper",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-07-HIL",
+                "ftm_eid": 6594780,
+                "votesmart_id": 42771,
+                "opensecrets_id": "",
+                "knowwho_pid": 208534,
+                "ballotpedia": "Gary_Hopper",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19783,
+                "person_hash": "h4n9ebzo",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Keith Erf",
+                "first_name": "Keith",
+                "middle_name": "",
+                "last_name": "Erf",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-02-HIL",
+                "ftm_eid": 45378707,
+                "votesmart_id": 185241,
+                "opensecrets_id": "",
+                "knowwho_pid": 670376,
+                "ballotpedia": "Keith_Erf",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2461579,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1004/id/2461579",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1376&txtFormat=html",
+                "text_size": 26842,
+                "text_hash": "dd8a397d32eb49ee759b00ebb0c146a0"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-28",
+                "time": "14:00",
+                "location": "Legislative Office Building 202-204",
+                "description": "Criminal Justice and Public Safety Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-03-02",
+                "time": "10:00",
+                "location": "Legislative Office Building 202-204",
+                "description": "Criminal Justice and Public Safety Executive Session"
+            }
+        ]
+    }
+}

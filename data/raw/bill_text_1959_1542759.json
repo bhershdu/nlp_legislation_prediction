@@ -1,0 +1,462 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1542759,
+        "change_hash": "30ff880977232d795e9427fd5cbc824b",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1165/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2233&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1165",
+        "completed": 0,
+        "status": 2,
+        "status_date": "2022-03-22",
+        "progress": [
+            {
+                "date": "2021-11-17",
+                "event": 1
+            },
+            {
+                "date": "2021-11-17",
+                "event": 9
+            },
+            {
+                "date": "2022-03-10",
+                "event": 10
+            },
+            {
+                "date": "2022-03-22",
+                "event": 2
+            },
+            {
+                "date": "2022-03-22",
+                "event": 9
+            },
+            {
+                "date": "2022-04-26",
+                "event": 9
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1165",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "S",
+        "current_body_id": 68,
+        "title": "Repealing the Granite State paid family leave plan.",
+        "description": "Repealing the Granite State paid family leave plan.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-11-17",
+                "committee_id": 1251,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Labor, Industrial and Rehabilitative Services"
+            },
+            {
+                "date": "2022-03-22",
+                "committee_id": 1780,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Commerce"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-11-17",
+                "action": "Introduced 01/05/2022 and referred to Labor, Industrial and Rehabilitative Services",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-02-03",
+                "action": "Public Hearing: 02/03/2022 10:45 a.m. Legislative Office Building305-307",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-28",
+                "action": "Executive Session: 03/09/2022 10:00 am Legislative Office Building 305-307",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-09",
+                "action": "Executive Session: 03/09/2022 10:00 a.m. Legislative Office Building305-307",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-10",
+                "action": "Majority Committee Report: Ought to Pass (Vote 11-10; Regular Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-10",
+                "action": "Minority Committee Report: Refer for Interim Study",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-17",
+                "action": "Lay HB1165 on Table (Rep. Sullivan): Motion Failed Regular Calendar 160-172 03/17/2022 House Journal  8",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-17",
+                "action": "Ought to Pass: Motion Adopted Regular Calendar 172-164 03/17/2022 House Journal  8",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-22",
+                "action": "Introduced 03/17/2022 and Referred to Commerce; Senate Journal 6",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-04-05",
+                "action": "Hearing: 04/12/2022, Room 100, State House, 09:00 am; Senate Calendar  15",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-26",
+                "action": "Committee Report: Referred to Interim Study, 05/05/2022; Senate Calendar  18",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-05-05",
+                "action": "Refer to Interim Study, Motion Adopted, Voice Vote; 05/05/2022; Senate Journal 11",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 18144,
+                "person_hash": "fvwnmezh",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Andrew Prout",
+                "first_name": "Andrew",
+                "middle_name": "",
+                "last_name": "Prout",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-37-HIL",
+                "ftm_eid": 26392533,
+                "votesmart_id": 172342,
+                "opensecrets_id": "",
+                "knowwho_pid": 587485,
+                "ballotpedia": "Andrew_Prout",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18162,
+                "person_hash": "69syqij2",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Norman Silber",
+                "first_name": "Norman",
+                "middle_name": "",
+                "last_name": "Silber",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-02-BEL",
+                "ftm_eid": 17005721,
+                "votesmart_id": 172402,
+                "opensecrets_id": "",
+                "knowwho_pid": 586968,
+                "ballotpedia": "Norman_Silber",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 17493,
+                "person_hash": "upw2sr1e",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Leonard Turcotte",
+                "first_name": "Leonard",
+                "middle_name": "",
+                "last_name": "Turcotte",
+                "suffix": "",
+                "nickname": "Len",
+                "district": "HD-04-STR",
+                "ftm_eid": 13703851,
+                "votesmart_id": 141973,
+                "opensecrets_id": "",
+                "knowwho_pid": 436666,
+                "ballotpedia": "Len_Turcotte",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18157,
+                "person_hash": "ye7258gp",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Kevin Verville",
+                "first_name": "Kevin",
+                "middle_name": "",
+                "last_name": "Verville",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-02-ROC",
+                "ftm_eid": 41757571,
+                "votesmart_id": 172491,
+                "opensecrets_id": "",
+                "knowwho_pid": 587570,
+                "ballotpedia": "Kevin_Verville",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21793,
+                "person_hash": "vjbyhufj",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Lex Berezhny",
+                "first_name": "Lex",
+                "middle_name": "",
+                "last_name": "Berezhny",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-09-GRA",
+                "ftm_eid": 50226758,
+                "votesmart_id": 194776,
+                "opensecrets_id": "",
+                "knowwho_pid": 744094,
+                "ballotpedia": "Lex_Berezhny",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21826,
+                "person_hash": "9u6g4tu4",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Dawn Johnson",
+                "first_name": "Dawn",
+                "middle_name": "M.",
+                "last_name": "Johnson",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-03-BEL",
+                "ftm_eid": 50226770,
+                "votesmart_id": 194681,
+                "opensecrets_id": "",
+                "knowwho_pid": 744014,
+                "ballotpedia": "Dawn_Johnson_(New_Hampshire)",
+                "sponsor_type_id": 2,
+                "sponsor_order": 6,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 10931,
+                "person_hash": "qw6kqc7b",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Mark Warden",
+                "first_name": "Mark",
+                "middle_name": "",
+                "last_name": "Warden",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-39-HIL",
+                "ftm_eid": 9715337,
+                "votesmart_id": 122391,
+                "opensecrets_id": "",
+                "knowwho_pid": 296507,
+                "ballotpedia": "Mark_Warden",
+                "sponsor_type_id": 2,
+                "sponsor_order": 7,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21838,
+                "person_hash": "en9fh5dn",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Erica Layon",
+                "first_name": "Erica",
+                "middle_name": "",
+                "last_name": "Layon",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-06-ROC",
+                "ftm_eid": 50226598,
+                "votesmart_id": 195044,
+                "opensecrets_id": "",
+                "knowwho_pid": 744333,
+                "ballotpedia": "Erica_Layon",
+                "sponsor_type_id": 2,
+                "sponsor_order": 8,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2461382,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1165/id/2461382",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1326&txtFormat=html",
+                "text_size": 10681,
+                "text_hash": "806c4cc9ad4fd7121922ddfefeaf2f19"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1172126,
+                "date": "2022-03-17",
+                "desc": "Table",
+                "yea": 160,
+                "nay": 172,
+                "nv": 28,
+                "absent": 30,
+                "total": 390,
+                "passed": 0,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/HB1165/id/1172126",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=139&sy=2022&lb=H&eb=HB1165&sortoption=&txtsessionyear=2022&txtbillnumber=HB1165&ddlsponsors=&lsr=2233"
+            },
+            {
+                "roll_call_id": 1172127,
+                "date": "2022-03-17",
+                "desc": "OTP",
+                "yea": 172,
+                "nay": 164,
+                "nv": 24,
+                "absent": 30,
+                "total": 390,
+                "passed": 1,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/HB1165/id/1172127",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=140&sy=2022&lb=H&eb=HB1165&sortoption=&txtsessionyear=2022&txtbillnumber=HB1165&ddlsponsors=&lsr=2233"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-03",
+                "time": "10:45",
+                "location": "Legislative Office Building305-307",
+                "description": "Labor, Industrial and Rehabilitative Services Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-03-09",
+                "time": "10:00",
+                "location": "Legislative Office Building 305-307",
+                "description": "Labor, Industrial and Rehabilitative Services Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-03-09",
+                "time": "10:00",
+                "location": "Legislative Office Building305-307",
+                "description": "Labor, Industrial and Rehabilitative Services Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-04-12",
+                "time": "09:00",
+                "location": "Room 100, State House",
+                "description": "Commerce Hearing"
+            }
+        ],
+        "full_text": "insurance allocation of state premium tax amend rsa iii to read as follows a except as provided in subparagraphs subparagraph b and c the taxes imposed in paragraphs i and ii of this section shall be promptly forwarded by the commissioner to the state treasurer for deposit to the general fund b taxes imposed attributable to premiums written for medical and other medical related services for the newly eligible medicaid population as provided for under rsa shall be deposited into the new hampshire granite advantage health care trust fund established in rsa the commissioner shall notify the state treasurer of sums for deposit into the new hampshire granite advantage health care trust fund no later than days after receipt of said taxes the moneys in the trust fund may be used for the administration of the new hampshire granite advantage health care program established in rsa c taxes imposed on premiums written by duly authorized insurance companies for family and medical leave insurance written in connection with the administration of rsa through rsa or rsa shall be deposited into the fmli premium stabilization trust fund established in rsa the commissioner shall notify the state treasurer of sums for deposit into the fmli premium stabilization trust fund no later than days after receipt of said taxes repeal the following are repealed rsa relative to the granite state paid family leave plan rsa relative to the granite state paid family leave plan tax credit rsa relative to purchasing pool for family and medical leave insurance rsa relative to discrimination against employees utilizing certain family and medical leave insurance rsa i b relative to the fmli premium fund and premium stabilization trust fund"
+    }
+}

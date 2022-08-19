@@ -1,0 +1,261 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1542980,
+        "change_hash": "04dcb99f06a4b180f414757f89ea4ca4",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1087/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2351&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1087",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-11-02",
+        "progress": [
+            {
+                "date": "2021-11-02",
+                "event": 1
+            },
+            {
+                "date": "2021-11-02",
+                "event": 9
+            },
+            {
+                "date": "2022-03-03",
+                "event": 11
+            },
+            {
+                "date": "2022-03-03",
+                "event": 10
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1087",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to zoning for single family housing lots.",
+        "description": "Relative to zoning for single family housing lots.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-11-02",
+                "committee_id": 1257,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Municipal and County Government"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-11-02",
+                "action": "To Be Introduced 01/05/2022 and referred to Municipal and County Government",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-02-09",
+                "action": "Public Hearing: 02/09/2022 9:30 a.m. Legislative Office Building301-303",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-22",
+                "action": "Executive Session: 02/22/2022 9:00 a.m. Legislative Office Building301-303",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-03",
+                "action": "Majority Committee Report: Inexpedient to Legislate (Vote 11-8; Regular Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-03",
+                "action": "Minority Committee Report: Ought to Pass",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-20",
+                "action": "Lay HB1087 on Table (Rep. Dolan): Motion Adopted Voice Vote 03/17/2022 House Journal  8",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-20",
+                "action": "Remove from Table (Rep. Verville): Motion Failed DV 166-169 03/17/2022 House Journal  8",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 19878,
+                "person_hash": "n0xfc702",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Josh Yokela",
+                "first_name": "Josh",
+                "middle_name": "",
+                "last_name": "Yokela",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-33-ROC",
+                "ftm_eid": 45378989,
+                "votesmart_id": 185522,
+                "opensecrets_id": "",
+                "knowwho_pid": 670769,
+                "ballotpedia": "Josh_Yokela",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19778,
+                "person_hash": "i25q4xga",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Laurel Stavis",
+                "first_name": "Laurel",
+                "middle_name": "",
+                "last_name": "Stavis",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-13-GRA",
+                "ftm_eid": 45378950,
+                "votesmart_id": 185538,
+                "opensecrets_id": "",
+                "knowwho_pid": 670362,
+                "ballotpedia": "Laurel_Stavis",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 17051,
+                "person_hash": "6m7d1lcm",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Lee Oxenham",
+                "first_name": "Lee",
+                "middle_name": "Walker",
+                "last_name": "Oxenham",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-01-SUL",
+                "ftm_eid": 20833980,
+                "votesmart_id": 154370,
+                "opensecrets_id": "",
+                "knowwho_pid": 502170,
+                "ballotpedia": "Lee_Walker_Oxenham",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19743,
+                "person_hash": "ryfcko8x",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Rebecca McWilliams",
+                "first_name": "Rebecca",
+                "middle_name": "",
+                "last_name": "McWilliams",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-27-MER",
+                "ftm_eid": 45378835,
+                "votesmart_id": 185383,
+                "opensecrets_id": "",
+                "knowwho_pid": 670731,
+                "ballotpedia": "Rebecca_McWilliams",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2461602,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1087/id/2461602",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1444&txtFormat=html",
+                "text_size": 8481,
+                "text_hash": "ce9e4c7aeb9e925fb59cca8a8ee7dfc7"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-09",
+                "time": "09:30",
+                "location": "Legislative Office Building301-303",
+                "description": "Municipal and County Government Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-22",
+                "time": "09:00",
+                "location": "Legislative Office Building301-303",
+                "description": "Municipal and County Government Executive Session"
+            }
+        ],
+        "full_text": "local land use planning and regulatory powers lot sizes amend rsa i b to read as follows b lot sizes the percentage of a lot that may be occupied and the size of yards courts and other open spaces provided that no ordinance shall require more than a square foot lot size for single family housing lots where such lots are serviced by a municipal or community water and sewer infrastructure and the lot or lots do not exceed the existing municipal or community water and sewer infrastructure capacity and that nothing in this subparagraph shall be construed to limit the use of rsa i k to designate areas in the community with smaller lot size requirements for housing"
+    }
+}

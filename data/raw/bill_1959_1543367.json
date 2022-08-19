@@ -1,0 +1,216 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1543367,
+        "change_hash": "740828a25e506d803f1d462bc5f62121",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/CACR22/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2689&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=CACR22",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-11-18",
+        "progress": [
+            {
+                "date": "2021-11-18",
+                "event": 1
+            },
+            {
+                "date": "2021-11-18",
+                "event": 9
+            },
+            {
+                "date": "2022-03-02",
+                "event": 11
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "CACR22",
+        "bill_type": "CA",
+        "bill_type_id": "7",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relating to elections. Providing that all elections in New Hampshire shall be by ranked-choice voting.",
+        "description": "Relating to elections. Providing that all elections in New Hampshire shall be by ranked-choice voting.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-11-18",
+                "committee_id": 1241,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Election Law"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-11-18",
+                "action": "Introduced 01/05/2022 and referred to Election Law",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-08",
+                "action": "Public Hearing: 01/13/2022 11:00 am Legislative Office Building 306-308",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-23",
+                "action": "Executive Session: 02/23/2022 11:00 a.m. Legislative Office Building306-308",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-02",
+                "action": "Committee Report: Inexpedient to Legislate (Vote 20-0; Consent Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-11",
+                "action": "Inexpedient to Legislate: Motion Adopted Voice Vote 03/10/2022 House Journal  5",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 21835,
+                "person_hash": "obohez3u",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Tony Labranche",
+                "first_name": "Tony",
+                "middle_name": "",
+                "last_name": "Labranche",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-22-HIL",
+                "ftm_eid": 50226570,
+                "votesmart_id": 194956,
+                "opensecrets_id": "",
+                "knowwho_pid": 744546,
+                "ballotpedia": "Tony_Labranche",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21825,
+                "person_hash": "cka6sid5",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Stephanie Hyland",
+                "first_name": "Stephanie",
+                "middle_name": "",
+                "last_name": "Hyland",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-38-HIL",
+                "ftm_eid": 50226603,
+                "votesmart_id": 194936,
+                "opensecrets_id": "",
+                "knowwho_pid": 744575,
+                "ballotpedia": "Stephanie_Hyland",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21837,
+                "person_hash": "d4m83bpi",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Stacie-Marie Laughton",
+                "first_name": "Stacie-Marie",
+                "middle_name": "",
+                "last_name": "Laughton",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-31-HIL",
+                "ftm_eid": 50226645,
+                "votesmart_id": 141745,
+                "opensecrets_id": "",
+                "knowwho_pid": 426621,
+                "ballotpedia": "Stacie-Marie_Laughton",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2461975,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/CACR22/id/2461975",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1782&txtFormat=html",
+                "text_size": 14931,
+                "text_hash": "ae5d6723df389d1b6a5ce4e6e89daaa5"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-13",
+                "time": "11:00",
+                "location": "Legislative Office Building 306-308",
+                "description": "Election Law Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-23",
+                "time": "11:00",
+                "location": "Legislative Office Building306-308",
+                "description": "Election Law Executive Session"
+            }
+        ]
+    }
+}

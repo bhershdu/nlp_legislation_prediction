@@ -1,0 +1,213 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1543401,
+        "change_hash": "7a7f5696767348bab281a8fcf18bf42b",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1273/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2270&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1273",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-11-19",
+        "progress": [
+            {
+                "date": "2021-11-19",
+                "event": 1
+            },
+            {
+                "date": "2021-11-19",
+                "event": 9
+            },
+            {
+                "date": "2022-02-02",
+                "event": 11
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1273",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to the use of free and open source software.",
+        "description": "Relative to the use of free and open source software.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-11-19",
+                "committee_id": 1243,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Executive Departments and Administration"
+            },
+            {
+                "date": "2022-02-17",
+                "committee_id": 1239,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Criminal Justice and Public Safety"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-11-19",
+                "action": "Introduced 01/05/2022 and referred to Executive Departments and Administration",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-11",
+                "action": "Public Hearing: 01/11/2022 10:30 a.m. Legislative Office Building302-304",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-18",
+                "action": "Subcommittee Work Session: 01/20/2022 09:00 am Legislative Office Building302-304",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-02",
+                "action": "Executive Session: 01/20/2022 09:00 am Legislative Office Building302-304",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-02",
+                "action": "Committee Report: Inexpedient to Legislate (Vote 16-0; Consent Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-02-16",
+                "action": "Inexpedient to Legislate: Motion Adopted Voice Vote 02/16/2022 House Journal  3",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 21814,
+                "person_hash": "lkojttrr",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Eric Gallager",
+                "first_name": "Eric",
+                "middle_name": "",
+                "last_name": "Gallager",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-15-MER",
+                "ftm_eid": 45378733,
+                "votesmart_id": 185382,
+                "opensecrets_id": "",
+                "knowwho_pid": 670730,
+                "ballotpedia": "Eric_Gallager",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18167,
+                "person_hash": "gbz9mi50",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "William Marsh",
+                "first_name": "William",
+                "middle_name": "M.",
+                "last_name": "Marsh",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-17-ROC",
+                "ftm_eid": 6483516,
+                "votesmart_id": 65293,
+                "opensecrets_id": "",
+                "knowwho_pid": 587047,
+                "ballotpedia": "William_Marsh",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2462008,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1273/id/2462008",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1363&txtFormat=html",
+                "text_size": 22283,
+                "text_hash": "c89d807bd7e61f153586f607f01cef4d"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-11",
+                "time": "10:30",
+                "location": "Legislative Office Building302-304",
+                "description": "Executive Departments and Administration Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-20",
+                "time": "09:00",
+                "location": "Legislative Office Building302-304",
+                "description": "Executive Departments and Administration Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-20",
+                "time": "09:00",
+                "location": "Legislative Office Building302-304",
+                "description": "Executive Departments and Administration Executive Session"
+            }
+        ],
+        "full_text": "title the act shall be known and may be cited as the securing our freedom to write and read everything software act new chapter free and open source software amend rsa by inserting after chapter the following new chapter chapter free and open source software definitions in this chapter free software means software that gives users the freedom to run the program to study and change the program in source code form to redistribute exact copies and to distribute modified versions copyleft means the practice of using copyright law to ensure that any free intellectual property in particular free software remains free even after redistribution modification and use a copyleft software license is a license designed specifically to facilitate the use of copyright in this way a copyleft free software project is a collaborative project with the aim of developing software with such a license noncompete clause shall refer to a clause of a contract in which an employer requires an employee to agree not to provide assistance to the employer s competitors such clauses may also be referred to as restrictive covenants agreement shall refer to any contract or clause of a contract that restricts access to the sharing of certain information between the signing parties proprietary software shall be understood to mean the opposite of free software as defined in paragraph noncompete clauses notwithstanding rsa any noncompete clause by which an employer prevents an employee from contributing to a free software project they might wish to contribute to shall be void and unenforceable in the state of new hampshire agreement no employer in the state of new hampshire shall use agreements to prevent employees from sharing the source code of free and open source software that they would otherwise normally be able to share due to the software s license any such agreement shall be void and unenforceable mandatory use of proprietary software prohibited no person in the state of new hampshire shall be required to use proprietary software for any interaction with the government including but not limited to the filing or payment of taxes remote appearance for court proceedings the taking of standardized tests or the completion of coursework by school students applying for or receiving unemployment benefits or other similar benefits unless the government agency has determined that the proprietary software is the only means available for the required interaction in such cases the agency shall post a notice of its determination and the use of proprietary software on the agency s website proprietary software on state websites no person in the state of new hampshire shall be required to allow the execution of proprietary javascript in their browser when visiting websites administered by the state of new hampshire the department of information technology shall verify that this is the case for each executive branch agency via the use of browser extensions of their choice that are designed to detect and block the execution of proprietary javascript in their browsers and by confirming that no proprietary java script blocks the functioning of any online archiving services that are attempting to archive state websites data portability the state of new hampshire recognizes a fundamental right to data portability held by computer users the department of information technology shall enact a policy to ensure that to the extent feasible the right to data portability is protected and shall work with other agencies to adopt and implement similar policies role of law enforcement no member of law enforcement in the state of new hampshire or any of its political subdivisions shall assist federal law enforcement in any investigation or prosecution of copyright claims or other claims of intellectual property crimes brought by makers of proprietary software against makers of competing free and open software projects commission to study the use of free software by state agencies there is established a commission to study the potential cost and feasibility of replacing all proprietary software used by state agencies with free software the commission shall consider all relevant compliance and security concerns associated with making such a transition and develop a timeline for implementation the commission shall be comprised of the following members a three members of the house of representatives appointed by the speaker of the house of representatives b one member of the senate appointed by the president of the senate c the commissioner of the department of information technology or designee d the commissioner of the department of administrative services or designee legislative members of the commission shall receive mileage at the legislative rate when attending to the duties of the committee the commission shall a explore the scope and application of free software including copyleft licenses in the public and private sector b examine legal protection for copyleft licensees including limits on noncompete clauses and presumptions in favor of copyleft licensees c study the state s ability to develop and release open source software and consider ways to reduce the mandatory use of proprietary software d develop a program and funding mechanism to provide legal assistance to developers of free software e review and develop recommendations for the expansion of the statewide information policy on open government data standards in rsa the members of the commission shall elect a chairperson from among the members the first meeting of the commission shall be called by the house member the first meeting of the commission shall be held within days of the effective date of this section four members of the commission shall constitute a quorum the commission shall submit an annual report its findings and any recommendations for proposed legislation to the speaker of the house of representatives the president of the senate the house clerk the senate clerk the governor and the state library beginning on or before november the report shall include estimated appropriation amounts necessary for all state agencies to complete the transition from proprietary software to free software new paragraph department of information technology purchasing policy consideration of free and open source software required amend rsa by inserting after paragraph i the following new paragraph no agency shall purchase proprietary software unless the agency in consultation with the department determines that no viable free and open source software is available no agency shall purchase machinery computing hardware or robots that require proprietary software unless the agency in consultation with the department determines that no viable alternative is available discovery right to examine proprietary source code a defendant shall have the right to review the source code of any proprietary software used to generate evidence used against him or her in a criminal proceeding in order to assess the reliability of such evidence the remainder of this act shall take effect days after its passage"
+    }
+}

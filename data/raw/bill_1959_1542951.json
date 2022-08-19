@@ -1,0 +1,223 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1542951,
+        "change_hash": "c45e0c1d27febd58cabdbab5f696d1fd",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1486/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2309&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1486",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-12-03",
+        "progress": [
+            {
+                "date": "2021-12-03",
+                "event": 1
+            },
+            {
+                "date": "2021-12-03",
+                "event": 9
+            },
+            {
+                "date": "2022-02-07",
+                "event": 11
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1486",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to an income-based public assistance stipend for legislators.",
+        "description": "Relative to an income-based public assistance stipend for legislators.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-12-03",
+                "committee_id": 1255,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Legislative Administration"
+            },
+            {
+                "date": "2022-02-17",
+                "committee_id": 1244,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Finance"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-12-03",
+                "action": "Introduced 01/05/2022 and referred to Legislative Administration",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-19",
+                "action": "Public Hearing: 01/19/2022 2:30 p.m. Legislative Office Building301-303",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-07",
+                "action": "Committee Report: Inexpedient to Legislate (Vote 16-1; Consent Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-02-07",
+                "action": "Executive Session: 01/19/2022 02:30 pm Legislative Office Building301-303",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-16",
+                "action": "Inexpedient to Legislate: Motion Adopted Voice Vote 02/16/2022 House Journal  3",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 18127,
+                "person_hash": "kl3fp6h1",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Ellen Read",
+                "first_name": "Ellen",
+                "middle_name": "",
+                "last_name": "Read",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-16-ROC",
+                "ftm_eid": 6494587,
+                "votesmart_id": 172683,
+                "opensecrets_id": "",
+                "knowwho_pid": 587693,
+                "ballotpedia": "Ellen_Read",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19799,
+                "person_hash": "6ebk3c85",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Cassandra Levesque",
+                "first_name": "Cassandra",
+                "middle_name": "",
+                "last_name": "Levesque",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-04-STR",
+                "ftm_eid": 45378803,
+                "votesmart_id": 185625,
+                "opensecrets_id": "",
+                "knowwho_pid": 670910,
+                "ballotpedia": "Cassandra_Levesque",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18140,
+                "person_hash": "6h6iwnwo",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Sherry Frost",
+                "first_name": "Sherry",
+                "middle_name": "",
+                "last_name": "Frost",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-16-STR",
+                "ftm_eid": 9903733,
+                "votesmart_id": 174510,
+                "opensecrets_id": "",
+                "knowwho_pid": 587889,
+                "ballotpedia": "Sherry_Frost",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2461573,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1486/id/2461573",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1402&txtFormat=html",
+                "text_size": 20330,
+                "text_hash": "8f66871d7f8ad33654a6868c9b4cec43"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-19",
+                "time": "14:30",
+                "location": "Legislative Office Building301-303",
+                "description": "Legislative Administration Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-19",
+                "time": "14:30",
+                "location": "Legislative Office Building301-303",
+                "description": "Legislative Administration Executive Session"
+            }
+        ]
+    }
+}

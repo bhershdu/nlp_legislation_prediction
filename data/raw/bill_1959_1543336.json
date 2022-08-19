@@ -1,0 +1,164 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1543336,
+        "change_hash": "4c9b879bb60066956f6c3c7da2f026c3",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1611/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2349&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1611",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-12-22",
+        "progress": [
+            {
+                "date": "2021-12-22",
+                "event": 1
+            },
+            {
+                "date": "2021-12-22",
+                "event": 9
+            },
+            {
+                "date": "2022-03-07",
+                "event": 11
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1611",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to rules of the site evaluation committee.",
+        "description": "Relative to rules of the site evaluation committee.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-12-22",
+                "committee_id": 1261,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Science, Technology and Energy"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-12-22",
+                "action": "Introduced 01/05/2022 and referred to Science, Technology and Energy",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-13",
+                "action": "Public Hearing: 01/18/2022 02:30 pm Legislative Office Building 306-308",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-01",
+                "action": "Executive Session: 03/01/2022 10:00 a.m. Legislative Office Building306-308",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-07",
+                "action": "Committee Report: Inexpedient to Legislate (Vote 21-1; Regular Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-17",
+                "action": "Inexpedient to Legislate: Motion Adopted Voice Vote 03/17/2022 House Journal  8",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 18160,
+                "person_hash": "hp88brg1",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Michael Harrington",
+                "first_name": "Michael",
+                "middle_name": "D.",
+                "last_name": "Harrington",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-03-STR",
+                "ftm_eid": 6594659,
+                "votesmart_id": 14569,
+                "opensecrets_id": "",
+                "knowwho_pid": 208531,
+                "ballotpedia": "Michael_Harrington_(New_Hampshire)",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2461944,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1611/id/2461944",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1442&txtFormat=html",
+                "text_size": 9114,
+                "text_hash": "b1791d7972e9e58312a909e58e697112"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-18",
+                "time": "14:30",
+                "location": "Legislative Office Building 306-308",
+                "description": "Science, Technology and Energy Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-03-01",
+                "time": "10:00",
+                "location": "Legislative Office Building306-308",
+                "description": "Science, Technology and Energy Executive Session"
+            }
+        ]
+    }
+}

@@ -1,0 +1,399 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1543488,
+        "change_hash": "e03357fc1079cdfb33160d6eac721587",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1194/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2348&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1194",
+        "completed": 0,
+        "status": 2,
+        "status_date": "2022-03-22",
+        "progress": [
+            {
+                "date": "2021-11-17",
+                "event": 1
+            },
+            {
+                "date": "2021-11-17",
+                "event": 9
+            },
+            {
+                "date": "2022-03-09",
+                "event": 10
+            },
+            {
+                "date": "2022-03-09",
+                "event": 11
+            },
+            {
+                "date": "2022-03-22",
+                "event": 2
+            },
+            {
+                "date": "2022-03-22",
+                "event": 9
+            },
+            {
+                "date": "2022-04-28",
+                "event": 11
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1194",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "S",
+        "current_body_id": 68,
+        "title": "Relative to the procedure for overriding a local tax cap.",
+        "description": "Relative to the procedure for overriding a local tax cap.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-11-17",
+                "committee_id": 1257,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Municipal and County Government"
+            },
+            {
+                "date": "2022-03-22",
+                "committee_id": 3825,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Election Law and Municipal Affairs"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-11-17",
+                "action": "Introduced 01/05/2022 and referred to Municipal and County Government",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-02-07",
+                "action": "Public Hearing: 02/07/2022 9:30 a.m. Legislative Office Building301-303",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-23",
+                "action": "Executive Session: 02/23/2022 9:00 a.m. Legislative Office Building301-303",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-09",
+                "action": "Majority Committee Report: Ought to Pass (Vote 10-9; Regular Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-09",
+                "action": "Minority Committee Report: Inexpedient to Legislate",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-17",
+                "action": "Lay HB1194 on Table (Rep. Maggiore): Motion Failed Regular Calendar 148-181 03/17/2022 House Journal  8",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-17",
+                "action": "Ought to Pass: Motion Adopted Regular Calendar 183-146 03/17/2022 House Journal  8",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-22",
+                "action": "Introduced 03/17/2022 and Referred to Election Law and Municipal Affairs; Senate Journal 6",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-04-06",
+                "action": "Hearing: 04/11/2022, Room 100, State House, 01:20 pm; Senate Calendar  15",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-28",
+                "action": "Committee Report: Inexpedient to Legislate; Vote 5-0; Consent Calendar; 05/05/2022; Senate Calendar  18",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-05-05",
+                "action": "Inexpedient to Legislate, Motion Adopted, Voice Vote === BILL KILLED ===; 05/05/2022; Senate Journal 11",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 21855,
+                "person_hash": "ka1p2mm2",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Diane Pauer",
+                "first_name": "Diane",
+                "middle_name": "",
+                "last_name": "Pauer",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-26-HIL",
+                "ftm_eid": 50226578,
+                "votesmart_id": 195060,
+                "opensecrets_id": "",
+                "knowwho_pid": 744188,
+                "ballotpedia": "Diane_Pauer",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21793,
+                "person_hash": "vjbyhufj",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Lex Berezhny",
+                "first_name": "Lex",
+                "middle_name": "",
+                "last_name": "Berezhny",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-09-GRA",
+                "ftm_eid": 50226758,
+                "votesmart_id": 194776,
+                "opensecrets_id": "",
+                "knowwho_pid": 744094,
+                "ballotpedia": "Lex_Berezhny",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21791,
+                "person_hash": "utnxsxt0",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Tim Baxter",
+                "first_name": "Tim",
+                "middle_name": "",
+                "last_name": "Baxter",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-20-ROC",
+                "ftm_eid": 50226956,
+                "votesmart_id": 195031,
+                "opensecrets_id": "",
+                "knowwho_pid": 744368,
+                "ballotpedia": "Tim_Baxter",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18162,
+                "person_hash": "69syqij2",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Norman Silber",
+                "first_name": "Norman",
+                "middle_name": "",
+                "last_name": "Silber",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-02-BEL",
+                "ftm_eid": 17005721,
+                "votesmart_id": 172402,
+                "opensecrets_id": "",
+                "knowwho_pid": 586968,
+                "ballotpedia": "Norman_Silber",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19788,
+                "person_hash": "u64uxl45",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Michael Yakubovich",
+                "first_name": "Michael",
+                "middle_name": "",
+                "last_name": "Yakubovich",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-24-MER",
+                "ftm_eid": 45378987,
+                "votesmart_id": 185288,
+                "opensecrets_id": "",
+                "knowwho_pid": 670727,
+                "ballotpedia": "Michael_Yakubovich",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 11579,
+                "person_hash": "xg5ddnit",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Kevin Avard",
+                "first_name": "Kevin",
+                "middle_name": "A.",
+                "last_name": "Avard",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-012",
+                "ftm_eid": 9727190,
+                "votesmart_id": 13431,
+                "opensecrets_id": "",
+                "knowwho_pid": 296158,
+                "ballotpedia": "Kevin_Avard",
+                "sponsor_type_id": 2,
+                "sponsor_order": 6,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2462093,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1194/id/2462093",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1441&txtFormat=html",
+                "text_size": 10032,
+                "text_hash": "ec41c658a89aeb95fa7174cef2e9f224"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1172837,
+                "date": "2022-03-17",
+                "desc": "Table",
+                "yea": 148,
+                "nay": 181,
+                "nv": 31,
+                "absent": 30,
+                "total": 390,
+                "passed": 0,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/HB1194/id/1172837",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=152&sy=2022&lb=H&eb=HB1194&sortoption=&txtsessionyear=2022&txtbillnumber=HB1194&ddlsponsors=&lsr=2348"
+            },
+            {
+                "roll_call_id": 1172838,
+                "date": "2022-03-17",
+                "desc": "OTP",
+                "yea": 183,
+                "nay": 146,
+                "nv": 31,
+                "absent": 30,
+                "total": 390,
+                "passed": 1,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/HB1194/id/1172838",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=153&sy=2022&lb=H&eb=HB1194&sortoption=&txtsessionyear=2022&txtbillnumber=HB1194&ddlsponsors=&lsr=2348"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-07",
+                "time": "09:30",
+                "location": "Legislative Office Building301-303",
+                "description": "Municipal and County Government Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-23",
+                "time": "09:00",
+                "location": "Legislative Office Building301-303",
+                "description": "Municipal and County Government Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-04-11",
+                "time": "13:20",
+                "location": "Room 100, State House",
+                "description": "Election Law and Municipal Affairs Hearing"
+            }
+        ],
+        "full_text": "municipal budget law method to override local tax cap rsa iii is repealed and reenacted to read as follows the legislative body may override the cap by the usual procedures applicable to annual meetings of the legislative body provided that when a proposed appropriation will cause the amount of local taxes raised by the town or district to exceed the tax cap under paragraphs i and or the total amount already raised and appropriated has caused the amount of local taxes raised by the town or district to exceed the tax cap under paragraphs i and voting on the appropriation question shall be by ballot but the question shall not be placed on the official ballot used to elect officers except in the case of a legislative body that uses an official ballot form of meeting under rsa or under a charter adopted pursuant to rsa if a majority or the super majority as determined under a charter pursuant to rsa of those voting on the question vote yes the appropriation is approved only votes in the affirmative or negative shall be included in the calculation of the majority or the super majority as determined under a charter pursuant to rsa a for warrant articles proposing bonds notes or other expenditures only the first year estimated costs shall be used in counting appropriations for the tax cap under paragraphs i and b when using the official ballot form of meeting under rsa if the warrant article for the operating budget results in appropriations exceeding the tax cap under paragraphs i and and receives less than majority yes vote the adopted operating budget shall be reduced by appropriations already raised to remain compliant with the tax cap under paragraphs i and c school districts that have adopted the school administrative unit sau alternative budget procedure under rsa shall place the warrant article for the sau budget at the beginning of school district warrant immediately after any warrant articles proposing bonds or notes for school districts using a traditional meeting and when the outcome of the sau budget vote is pending on balloting from the other school districts in the sau the higher of the school district s assigned portion of the proposed sau budget or the school district s assigned portion of the adjusted sau budget shall be assumed as raised and appropriated for the purpose of determining when the override provisions under paragraph iii apply"
+    }
+}

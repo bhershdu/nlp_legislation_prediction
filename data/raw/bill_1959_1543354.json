@@ -1,0 +1,257 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1543354,
+        "change_hash": "79ecb771074304f8c49b12c4523943e1",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1605/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2063&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1605",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-12-22",
+        "progress": [
+            {
+                "date": "2021-12-22",
+                "event": 1
+            },
+            {
+                "date": "2021-12-22",
+                "event": 9
+            },
+            {
+                "date": "2022-03-07",
+                "event": 11
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1605",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Requiring SAUs to maintain a report on the 5-year projection of future enrollments.",
+        "description": "Requiring SAUs to maintain a report on the 5-year projection of future enrollments.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-12-22",
+                "committee_id": 1240,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Education"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-12-22",
+                "action": "Introduced 01/05/2022 and referred to Education",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-19",
+                "action": "Public Hearing: 02/03/2022 10:30 am Legislative Office Building 205-207",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-03",
+                "action": "Public Hearing: 02/03/2022 10:30 a.m. Legislative Office Building205-207",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-07",
+                "action": "Executive Session: 02/03/2022 10:30 am Legislative Office Building205-207",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-07",
+                "action": "Committee Report: Inexpedient to Legislate (Vote 18-1; Consent Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-15",
+                "action": "Inexpedient to Legislate: Motion Adopted Voice Vote 03/15/2022 House Journal  6",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 19159,
+                "person_hash": "vnsploib",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Gerald Griffin",
+                "first_name": "Gerald",
+                "middle_name": "",
+                "last_name": "Griffin",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-06-HIL",
+                "ftm_eid": 6433920,
+                "votesmart_id": 173013,
+                "opensecrets_id": "",
+                "knowwho_pid": 587823,
+                "ballotpedia": "Gerald_Griffin",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 10919,
+                "person_hash": "1v1bugsr",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Joseph Pitre",
+                "first_name": "Joseph",
+                "middle_name": "A.",
+                "last_name": "Pitre",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-03-STR",
+                "ftm_eid": 6695545,
+                "votesmart_id": 122332,
+                "opensecrets_id": "",
+                "knowwho_pid": 296674,
+                "ballotpedia": "Joseph_Pitre_(New_Hampshire)",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 14479,
+                "person_hash": "fr4aaicg",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Tracy Emerick",
+                "first_name": "J. Tracy",
+                "middle_name": "",
+                "last_name": "Emerick",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-21-ROC",
+                "ftm_eid": 13703810,
+                "votesmart_id": 141939,
+                "opensecrets_id": "",
+                "knowwho_pid": 426246,
+                "ballotpedia": "Tracy_Emerick",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4899,
+                "person_hash": "e7p8ccs9",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Robert Theberge",
+                "first_name": "Robert",
+                "middle_name": "L.",
+                "last_name": "Theberge",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-03-COO",
+                "ftm_eid": 6395379,
+                "votesmart_id": 42775,
+                "opensecrets_id": "",
+                "knowwho_pid": 213926,
+                "ballotpedia": "Robert_Theberge",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2461962,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1605/id/2461962",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1156&txtFormat=html",
+                "text_size": 16623,
+                "text_hash": "acae8392d2098968b2d9318d8a7adb5d"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-03",
+                "time": "10:30",
+                "location": "Legislative Office Building 205-207",
+                "description": "Education Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-03",
+                "time": "10:30",
+                "location": "Legislative Office Building205-207",
+                "description": "Education Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-03",
+                "time": "10:30",
+                "location": "Legislative Office Building205-207",
+                "description": "Education Executive Session"
+            }
+        ]
+    }
+}

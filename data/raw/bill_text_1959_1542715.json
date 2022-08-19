@@ -1,0 +1,269 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1542715,
+        "change_hash": "8a57bf1d4eba3a2a55da36cb66d6990a",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1260/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2141&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1260",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-11-19",
+        "progress": [
+            {
+                "date": "2021-11-19",
+                "event": 1
+            },
+            {
+                "date": "2021-11-19",
+                "event": 9
+            },
+            {
+                "date": "2022-02-14",
+                "event": 11
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1260",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Making immunization status a protected class.",
+        "description": "Making immunization status a protected class.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-11-19",
+                "committee_id": 1250,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Judiciary"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-11-19",
+                "action": "Introduced 01/05/2022 and referred to Judiciary",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-19",
+                "action": "Public Hearing: 01/26/2022 09:00 am Legislative Office Building 206-208",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-27",
+                "action": "Executive Session: 02/03/2022 09:00 am Legislative Office Building 206-208",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-14",
+                "action": "Committee Report: Inexpedient to Legislate (Vote 17-4; Regular Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-12",
+                "action": "Inexpedient to Legislate: Motion Adopted Voice Vote 03/10/2022",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 21821,
+                "person_hash": "uvc8su8v",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Juliet Harvey-Bolia",
+                "first_name": "Juliet",
+                "middle_name": "",
+                "last_name": "Harvey-Bolia",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-04-BEL",
+                "ftm_eid": 50226793,
+                "votesmart_id": 194686,
+                "opensecrets_id": "",
+                "knowwho_pid": 744017,
+                "ballotpedia": "Juliet_Harvey-Bolia",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21796,
+                "person_hash": "20zp9bez",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Melissa Blasek",
+                "first_name": "Melissa",
+                "middle_name": "",
+                "last_name": "Blasek",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-21-HIL",
+                "ftm_eid": 50226637,
+                "votesmart_id": 195009,
+                "opensecrets_id": "",
+                "knowwho_pid": 744174,
+                "ballotpedia": "Melissa_Blasek",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21826,
+                "person_hash": "9u6g4tu4",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Dawn Johnson",
+                "first_name": "Dawn",
+                "middle_name": "M.",
+                "last_name": "Johnson",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-03-BEL",
+                "ftm_eid": 50226770,
+                "votesmart_id": 194681,
+                "opensecrets_id": "",
+                "knowwho_pid": 744014,
+                "ballotpedia": "Dawn_Johnson_(New_Hampshire)",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18162,
+                "person_hash": "69syqij2",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Norman Silber",
+                "first_name": "Norman",
+                "middle_name": "",
+                "last_name": "Silber",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-02-BEL",
+                "ftm_eid": 17005721,
+                "votesmart_id": 172402,
+                "opensecrets_id": "",
+                "knowwho_pid": 586968,
+                "ballotpedia": "Norman_Silber",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21855,
+                "person_hash": "ka1p2mm2",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Diane Pauer",
+                "first_name": "Diane",
+                "middle_name": "",
+                "last_name": "Pauer",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-26-HIL",
+                "ftm_eid": 50226578,
+                "votesmart_id": 195060,
+                "opensecrets_id": "",
+                "knowwho_pid": 744188,
+                "ballotpedia": "Diane_Pauer",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2461339,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1260/id/2461339",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1234&txtFormat=html",
+                "text_size": 18874,
+                "text_hash": "2ee986ef4cfcd30fcd0d4371bf00315e"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-26",
+                "time": "09:00",
+                "location": "Legislative Office Building 206-208",
+                "description": "Judiciary Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-03",
+                "time": "09:00",
+                "location": "Legislative Office Building 206-208",
+                "description": "Judiciary Executive Session"
+            }
+        ],
+        "full_text": "title and purposes of chapter immunization status added amend rsa to read as follows title and purposes of chapter this chapter shall be known as the law against discrimination it shall be deemed an exercise of the police power of the state for the protection of the public welfare health and peace of the people of this state and in fulfillment of the provisions of the constitution of this state concerning civil rights the general court hereby finds and declares that practices of discrimination against any of its inhabitants because of age sex gender identity race creed color marital status familial status physical or mental disability immunization status or national origin are a matter of state concern that such discrimination not only threatens the rights and proper privileges of its inhabitants but menaces the institutions and foundation of a free democratic state and threatens the peace order health safety and general welfare of the state and its inhabitants a state agency is hereby created with power to eliminate and prevent discrimination in employment in places of public accommodation and in housing accommodations because of age sex gender identity race creed color marital status familial status physical or mental disability immunization status or national origin as herein provided and the commission established hereunder is hereby given general jurisdiction and power for such purposes in addition the agencies and councils so created shall exercise their authority to assure that no person be discriminated against on account of sexual orientation new paragraph religious belief amend rsa by inserting after paragraph ix the following new paragraph immunization status means immunization history as it relates to employment immunization requirements in this paragraph immunization means the process whereby a person is made resistant to an infectious disease typically by the administration of a vaccine opportunity for employment without discrimination immunization status amend rsa to read as follows opportunity for employment without discrimination a civil right the opportunity to obtain employment without discrimination because of age sex gender identity race creed color marital status physical or mental disability immunization status or national origin is hereby recognized and declared to be a civil right in addition no person shall be denied the benefits of the rights afforded by this section on account of that person s sexual orientation unlawful discriminatory practices amend rsa to read as follows for an employer because of the age sex gender identity race color marital status physical or mental disability immunization status religious creed or national origin of any individual to refuse to hire or employ or to bar or to discharge from employment such individual or to discriminate against such individual in compensation or in terms conditions or privileges of employment unless based upon a bona fide occupational qualification in addition no person shall be denied the benefit of the rights afforded by this paragraph on account of that person s sexual orientation for a labor organization because of the age sex gender identity race color marital status physical or mental disability immunization status creed or national origin of any individual to exclude from full membership rights or to expel from its membership such individual or to discriminate in any way against any of its members or against any employer or any individual employed by an employer unless based upon a bona fide occupational qualification in addition no person shall be denied the benefit of the rights afforded by this paragraph on account of that person s sexual orientation for any employer or employment agency to print or circulate or to cause to be printed or circulated any statement advertisement or publication or to use any form of application for employment or to make any inquiry or record in connection with employment which expresses directly or indirectly any limitation specification or discrimination as to age sex gender identity race color marital status physical or mental disability immunization status religious creed or national origin or any intent to make any such limitation specification or discrimination in any way on the ground of age sex gender identity race color marital status physical or mental disability immunization status religious creed or national origin unless based upon a bona fide occupational qualification provided however that nothing in this chapter shall limit an employer after the offer of hire of an individual from inquiring into and keeping records of any existing or physical or mental conditions in addition no person shall be denied the benefit of the rights afforded by this paragraph on account of that person s sexual orientation equal housing opportunity without discrimination immunization status amend rsa to read as follows equal housing opportunity without discrimination a civil right the opportunity to obtain housing without discrimination because of age sex gender identity race creed color marital status familial status physical or mental disability immunization status or national origin is hereby recognized and declared a civil right in addition no person shall be denied the benefit of the rights afforded by this section on account of that person s sexual orientation unlawful discriminatory practices immunization status amend the introductory paragraph of rsa to read as follows it shall be an unlawful discriminatory practice because of age sex gender identity race religion color marital status familial status physical or mental disability immunization status or national origin to equal access to public accommodations immunization status amend rsa to read as follows equal access to public accommodations a civil right the opportunity for every individual to have equal access to places of public accommodation without discrimination because of age sex gender identity race creed color marital status physical or mental disability immunization status or national origin is hereby recognized and declared to be a civil right in addition no person shall be denied the benefit of the rights afforded by this section on account of that person s sexual orientation unlawful discriminatory practices in public accommodations immunization status amend rsa to read as follows unlawful discriminatory practices in public accommodations it shall be an unlawful discriminatory practice for any person being the owner lessee proprietor manager superintendent agent or employee of any place of public accommodation because of the age sex gender identity race creed immunization status color marital status physical or mental disability or national origin of any person directly or indirectly to refuse withhold from or deny to such person any of the accommodations advantages facilities or privileges thereof or directly or indirectly to publish circulate issue display post or mail any written or printed communication notice or advertisement to the effect that any of the accommodations advantages facilities and privileges of any such place shall be refused withheld from or denied to any person on account of age sex gender identity race creed immunization status color marital status physical or mental disability or national origin or that the patronage or custom thereat of any person belonging to or purporting to be of any particular age sex gender identity race creed immunization status color marital status physical or mental disability or national origin is unwelcome objectionable or acceptable desired or solicited in addition no person shall be denied the benefit of the rights afforded by this section on account of that person s sexual orientation"
+    }
+}

@@ -1,0 +1,273 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1543375,
+        "change_hash": "ea4e6401cfef798f8739d1eb514b2dc2",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1227/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2382&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1227",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-11-18",
+        "progress": [
+            {
+                "date": "2021-11-18",
+                "event": 1
+            },
+            {
+                "date": "2021-11-18",
+                "event": 9
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1227",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to the definition of prime wetland.",
+        "description": "Relative to the definition of prime wetland.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-11-18",
+                "committee_id": 1259,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Resources, Recreation and Development"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-11-18",
+                "action": "Introduced 01/05/2022 and referred to Resources, Recreation and Development",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-12",
+                "action": "Public Hearing: 01/12/2022 4:00 p.m. Legislative Office Building305-307",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-26",
+                "action": "Public Hearing: 01/26/2022 1:00 p.m. Legislative Office Building305-307",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-09",
+                "action": "Executive Session: 02/09/2022 10:00 a.m. Legislative Office Building305-307",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-20",
+                "action": "Lay HB1227 on Table (Rep. Renzullo): Motion Adopted Voice Vote 03/17/2022 House Journal  8",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 19110,
+                "person_hash": "8d67mr4c",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Chuck Grassie",
+                "first_name": "Chuck",
+                "middle_name": "",
+                "last_name": "Grassie",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-11-STR",
+                "ftm_eid": 6394424,
+                "votesmart_id": 111940,
+                "opensecrets_id": "",
+                "knowwho_pid": 603174,
+                "ballotpedia": "Chuck_Grassie",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 15601,
+                "person_hash": "0p3lapll",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Suzanne Vail",
+                "first_name": "Suzanne",
+                "middle_name": "Mercier",
+                "last_name": "Vail",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-29-HIL",
+                "ftm_eid": 13703743,
+                "votesmart_id": 141743,
+                "opensecrets_id": "",
+                "knowwho_pid": 426619,
+                "ballotpedia": "Suzanne_Vail",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4836,
+                "person_hash": "73gfhft0",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Judith Spang",
+                "first_name": "Judith",
+                "middle_name": "",
+                "last_name": "Spang",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-07-STR",
+                "ftm_eid": 6395329,
+                "votesmart_id": 21343,
+                "opensecrets_id": "",
+                "knowwho_pid": 197020,
+                "ballotpedia": "Judith_Spang",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19876,
+                "person_hash": "kxf3zylz",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "David Meuse",
+                "first_name": "David",
+                "middle_name": "",
+                "last_name": "Meuse",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-29-ROC",
+                "ftm_eid": 28765616,
+                "votesmart_id": 185615,
+                "opensecrets_id": "",
+                "knowwho_pid": 670889,
+                "ballotpedia": "David_Meuse",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4958,
+                "person_hash": "2po1aje7",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "David Watters",
+                "first_name": "David",
+                "middle_name": "H.",
+                "last_name": "Watters",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-004",
+                "ftm_eid": 6494743,
+                "votesmart_id": 110047,
+                "opensecrets_id": "",
+                "knowwho_pid": 269494,
+                "ballotpedia": "David_Watters",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2461983,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1227/id/2461983",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1475&txtFormat=html",
+                "text_size": 10622,
+                "text_hash": "a0c8782986d03536496b390742d53c8e"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-12",
+                "time": "16:00",
+                "location": "Legislative Office Building305-307",
+                "description": "Resources, Recreation and Development Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-26",
+                "time": "13:00",
+                "location": "Legislative Office Building305-307",
+                "description": "Resources, Recreation and Development Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-09",
+                "time": "10:00",
+                "location": "Legislative Office Building305-307",
+                "description": "Resources, Recreation and Development Executive Session"
+            }
+        ],
+        "full_text": "prime wetlands definition amend rsa and to read as follows for the purposes of this chapter prime wetlands shall mean any contiguous areas falling within the jurisdictional definitions of rsa x and rsa that because of their size unspoiled character fragile condition or other relevant factors make them of substantial significance a prime wetland shall be at least acres in size excluding those areas described in paragraph shall not consist of a water body only shall have at least primary wetland functions within the acre or greater area one of which shall be wildlife habitat a prime wetland and shall have a width of at least feet at its narrowest point across and perpendicular to its longitudinal axis a prime wetland may include additional connected narrower wetland areas less than feet at their narrowest point across and perpendicular to their longitudinal axis if the municipality can demonstrate that any such narrower portion provides a significant contribution to the primary wetland functions of the prime wetland to qualify as a significant contribution a narrower portion shall contain or more primary wetland functions as defined in rsa xi and shall not include any structures under rsa iv b the municipality shall consider any potential adverse effects on the landowner from including any narrower portion the boundary of a prime wetland shall coincide where present with the upland edge of any wetland as defined in rsa x that is part of the prime wetland verification of proposed prime wetland boundaries shall be performed where landowner permission is provided for the purposes of this paragraph existing state highway including associated permanent easements shall not include prime wetlands or their adjacent buffers the commissioner shall adopt rules under rsa relative to the form criteria and methods that shall be used to designate map and document prime wetlands determine boundaries in the field and amend maps and designations once filed and accepted by the department under paragraph"
+    }
+}

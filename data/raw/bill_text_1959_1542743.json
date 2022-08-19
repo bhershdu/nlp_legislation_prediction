@@ -1,0 +1,213 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1542743,
+        "change_hash": "a9d4af2f899b0726357c5a8332e735e8",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1111/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2561&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1111",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-11-16",
+        "progress": [
+            {
+                "date": "2021-11-16",
+                "event": 1
+            },
+            {
+                "date": "2021-11-16",
+                "event": 9
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1111",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Establishing a commission to study extended producer responsibility.",
+        "description": "Establishing a commission to study extended producer responsibility.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-11-16",
+                "committee_id": 1242,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Environment and Agriculture"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-11-16",
+                "action": "Introduced 01/05/2022 and referred to Environment and Agriculture",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-18",
+                "action": "Public Hearing: 01/18/2022 9:00 a.m. Legislative Office Building301-303",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-08",
+                "action": "Executive Session: 01/18/2022 09:00 am Legislative Office Building301-303",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-08",
+                "action": "Committee Report: Refer for Interim Study (Vote 17-0; Consent Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-16",
+                "action": "Refer for Interim Study: Motion Adopted Voice Vote 02/16/2022 House Journal  3",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 21854,
+                "person_hash": "uqp4bnbm",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Lucius Parshall",
+                "first_name": "Lucius",
+                "middle_name": "",
+                "last_name": "Parshall",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-10-CHE",
+                "ftm_eid": 48073405,
+                "votesmart_id": 194850,
+                "opensecrets_id": "",
+                "knowwho_pid": 744483,
+                "ballotpedia": "Lucius_Parshall",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 17051,
+                "person_hash": "6m7d1lcm",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Lee Oxenham",
+                "first_name": "Lee",
+                "middle_name": "Walker",
+                "last_name": "Oxenham",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-01-SUL",
+                "ftm_eid": 20833980,
+                "votesmart_id": 154370,
+                "opensecrets_id": "",
+                "knowwho_pid": 502170,
+                "ballotpedia": "Lee_Walker_Oxenham",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 5010,
+                "person_hash": "zlw1guie",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Suzanne Smith",
+                "first_name": "Suzanne",
+                "middle_name": "",
+                "last_name": "Smith",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-08-GRA",
+                "ftm_eid": 6494669,
+                "votesmart_id": 110098,
+                "opensecrets_id": "",
+                "knowwho_pid": 237442,
+                "ballotpedia": "Suzanne_Smith_(New_Hampshire)",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2461366,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1111/id/2461366",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1654&txtFormat=html",
+                "text_size": 11972,
+                "text_hash": "2feb5405ce6d11c9ae3ba2db7324329d"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-18",
+                "time": "09:00",
+                "location": "Legislative Office Building301-303",
+                "description": "Environment and Agriculture Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-18",
+                "time": "09:00",
+                "location": "Legislative Office Building301-303",
+                "description": "Environment and Agriculture Executive Session"
+            }
+        ],
+        "full_text": "extended producer responsibility study commission there is established a committee to study extended producer responsibility in order to provide relief to the cost of municipalities in solid waste disposal the members of the commission shall be as follows a two members of the house of representatives as appointed by the speaker of the house of representatives b one member of the senate as appointed by the president of the senate c one member of the department of environmental services waste management council appointed by that council d one member of the northeast resource recovery association appointed by that association e one member of the new hampshire municipal association appointed by that association f one member of the northeast recycling council appointed by that council legislative members of the commission shall receive mileage at the legislative rate when attending to the duties of the commission the commission s study shall include but not be limited to a examining the waste reduction goals established in rsa with emphasis on the improvement of municipal recycling reducing solid waste flow and reducing taxpayer costs in support of municipal transfer stations through extended producer responsibility b suggested legislation in order to help update rsa in order to better meet the waste reduction goals therein the commission may solicit input from any person or entity the commission deems relevant to its study the members of the commission shall elect a chairperson from among the members the first meeting of the commission shall be called by the house member the first meeting of the commission shall be held within days of the effective date of this section four members of the commission shall constitute a quorum the commission shall submit a report including its findings and any recommendations for proposed legislation on or before september to the speaker of the house of representatives the president of the senate the house clerk the senate clerk the governor and the state library repeal rsa relative to the extended producer liability study commission is repealed the remainder of this act shall take effect upon its passage"
+    }
+}

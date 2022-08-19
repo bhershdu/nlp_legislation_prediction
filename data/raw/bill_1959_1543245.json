@@ -1,0 +1,175 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1543245,
+        "change_hash": "42ff5975d579593e1a8aa1806f3fd231",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1621/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2732&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1621",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-12-22",
+        "progress": [
+            {
+                "date": "2021-12-22",
+                "event": 1
+            },
+            {
+                "date": "2021-12-22",
+                "event": 9
+            },
+            {
+                "date": "2022-02-09",
+                "event": 11
+            },
+            {
+                "date": "2022-02-09",
+                "event": 10
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1621",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to reducing the rebates distributed by the energy efficiency fund.",
+        "description": "Relative to reducing the rebates distributed by the energy efficiency fund.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-12-22",
+                "committee_id": 1261,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Science, Technology and Energy"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-12-22",
+                "action": "Introduced 01/05/2022 and referred to Science, Technology and Energy",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-11",
+                "action": "Public Hearing: 01/11/2022 3:00 p.m. Legislative Office Building306-308",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-07",
+                "action": "Executive Session: 02/07/2022 2:00 p.m. Legislative Office Building306-308",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-09",
+                "action": "Majority Committee Report: Inexpedient to Legislate (Vote 12-9; Regular Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-02-09",
+                "action": "Minority Committee Report: Ought to Pass",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-02-22",
+                "action": "Lay HB1621 on Table (Rep. Vose): Motion Adopted DV 183-165 02/17/2022 House Journal  4",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 15325,
+                "person_hash": "ujgzvxti",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "John Mann",
+                "first_name": "John",
+                "middle_name": "",
+                "last_name": "Mann",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-02-CHE",
+                "ftm_eid": 13703553,
+                "votesmart_id": 141700,
+                "opensecrets_id": "",
+                "knowwho_pid": 426513,
+                "ballotpedia": "John_Mann",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2461858,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1621/id/2461858",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1825&txtFormat=html",
+                "text_size": 30674,
+                "text_hash": "b9aee24f0f4761a4664e0a4ec6adbcb3"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-11",
+                "time": "15:00",
+                "location": "Legislative Office Building306-308",
+                "description": "Science, Technology and Energy Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-07",
+                "time": "14:00",
+                "location": "Legislative Office Building306-308",
+                "description": "Science, Technology and Energy Executive Session"
+            }
+        ]
+    }
+}

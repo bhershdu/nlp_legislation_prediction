@@ -1,0 +1,243 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1543541,
+        "change_hash": "46064f6e2c831e1cb66cc57ca0b4bbba",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1359/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2666&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1359",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-11-20",
+        "progress": [
+            {
+                "date": "2021-11-20",
+                "event": 1
+            },
+            {
+                "date": "2021-11-20",
+                "event": 9
+            },
+            {
+                "date": "2022-03-02",
+                "event": 11
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1359",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to the election-day duties of incumbent election officials who also appear on the ballot.",
+        "description": "Relative to the election-day duties of incumbent election officials who also appear on the ballot.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-11-20",
+                "committee_id": 1241,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Election Law"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-11-20",
+                "action": "Introduced 01/05/2022 and referred to Election Law",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-02-10",
+                "action": "Public Hearing: 02/10/2022 10:30 a.m. Legislative Office Building306-308",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-23",
+                "action": "Executive Session: 02/23/2022 11:00 a.m. Legislative Office Building306-308",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-02",
+                "action": "Committee Report: Inexpedient to Legislate (Vote 20-0; Consent Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-11",
+                "action": "Inexpedient to Legislate: Motion Adopted Voice Vote 03/10/2022 House Journal  5",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 21863,
+                "person_hash": "xojju4ii",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Jennifer Rhodes",
+                "first_name": "Jennifer",
+                "middle_name": "",
+                "last_name": "Rhodes",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-15-CHE",
+                "ftm_eid": 50226849,
+                "votesmart_id": 194753,
+                "opensecrets_id": "",
+                "knowwho_pid": 744159,
+                "ballotpedia": "Jennifer_Rhodes",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21824,
+                "person_hash": "04qt4vfv",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Gregg Hough",
+                "first_name": "Gregg",
+                "middle_name": "",
+                "last_name": "Hough",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-03-BEL",
+                "ftm_eid": 50226769,
+                "votesmart_id": 194680,
+                "opensecrets_id": "",
+                "knowwho_pid": 744013,
+                "ballotpedia": "Gregg_Hough",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 16889,
+                "person_hash": "nqhihhjo",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "John Potucek",
+                "first_name": "John",
+                "middle_name": "",
+                "last_name": "Potucek",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-06-ROC",
+                "ftm_eid": 9891524,
+                "votesmart_id": 154553,
+                "opensecrets_id": "",
+                "knowwho_pid": 501775,
+                "ballotpedia": "John_Potucek",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19144,
+                "person_hash": "jfm12os5",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "David Binford",
+                "first_name": "David",
+                "middle_name": "W.",
+                "last_name": "Binford",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-15-GRA",
+                "ftm_eid": 41757478,
+                "votesmart_id": 172601,
+                "opensecrets_id": "",
+                "knowwho_pid": 587150,
+                "ballotpedia": "David_W._Binford",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2462144,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1359/id/2462144",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1759&txtFormat=html",
+                "text_size": 10668,
+                "text_hash": "024c3abf6249a171f68459f2bb9c7b4d"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-10",
+                "time": "10:30",
+                "location": "Legislative Office Building306-308",
+                "description": "Election Law Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-23",
+                "time": "11:00",
+                "location": "Legislative Office Building306-308",
+                "description": "Election Law Executive Session"
+            }
+        ],
+        "full_text": "absences among election officers disqualification of certain persons amend rsa to read as follows disqualification of certain persons any person other than a moderator clerk selectman inspector of election or supervisor of the checklist whose name appears on a ballot for an elective position other than a position of an election official shall be disqualified from performing duties as an election official in that election a moderator clerk selectman inspector of election or supervisor of the checklist whose name appears on a ballot for an elective position other than the position of an election official shall be disqualified from the handling of marked ballots and the counting of votes election procedure counting of votes amend rsa to read as follows disqualification of officials any election official other than the moderator clerk who is also a candidate for office shall not be allowed to remain within the guardrail during the counting of votes for an office for which he is a candidate such official shall disqualify himself or herself from election duties relating to the tabulation of votes and the moderator shall appoint an assistant who shall take the same oath as serve in the same capacity as and have all the powers of the election official who is disqualified until such official may properly return electioneering by election officers amend rsa to read as follows electioneering by election officers no election officer shall electioneer while in the performance of his official duties all election officers except clerks who appear on the ballot in an election shall remain within the spaces designated for electioneering pursuant to rsa unless proceeding into the polling place to cast their own votes for the purposes of this section electioneer shall mean to act in any way specifically designed to influence the vote of a voter on any question or office any person who violates this provision shall be guilty of a misdemeanor"
+    }
+}

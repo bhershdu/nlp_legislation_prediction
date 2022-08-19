@@ -1,0 +1,229 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1543273,
+        "change_hash": "0a65d152974665aa06d4a5c4f2113161",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1054/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2028&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1054",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-11-02",
+        "progress": [
+            {
+                "date": "2021-11-02",
+                "event": 1
+            },
+            {
+                "date": "2021-11-02",
+                "event": 9
+            },
+            {
+                "date": "2022-03-09",
+                "event": 11
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1054",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Requiring an audit of the state police.",
+        "description": "Requiring an audit of the state police.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-11-02",
+                "committee_id": 1244,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Finance"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-11-02",
+                "action": "Introduced 01/05/2022 and referred to Finance",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-08",
+                "action": "==CANCELLED== Public Hearing: 01/12/2022 10:45 am Legislative Office Building 210-211",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-11",
+                "action": "==RESCHEDULED== Public Hearing: 01/20/2022 10:45 am Legislative Office Building 210-211",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-21",
+                "action": "Executive Session: 02/11/2022 10:00 am Legislative Office Building 210-211",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-19",
+                "action": "Executive Session: 03/08/2022 10:00 am Legislative Office Building 210-211",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-09",
+                "action": "Committee Report: Inexpedient to Legislate (Vote 19-0; Consent Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-15",
+                "action": "Inexpedient to Legislate: Motion Adopted Voice Vote 03/15/2022 House Journal  6",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 21877,
+                "person_hash": "8iinsmky",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Douglas Trottier",
+                "first_name": "Douglas",
+                "middle_name": "R.",
+                "last_name": "Trottier",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-06-BEL",
+                "ftm_eid": 50226739,
+                "votesmart_id": 194690,
+                "opensecrets_id": "",
+                "knowwho_pid": 744027,
+                "ballotpedia": "Douglas_Trottier",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21840,
+                "person_hash": "rup7pir7",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Richard Littlefield",
+                "first_name": "Richard",
+                "middle_name": "",
+                "last_name": "Littlefield",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-03-BEL",
+                "ftm_eid": 50226771,
+                "votesmart_id": 194682,
+                "opensecrets_id": "",
+                "knowwho_pid": 744016,
+                "ballotpedia": "Richard_Littlefield",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2461884,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1054/id/2461884",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1121&txtFormat=html",
+                "text_size": 7801,
+                "text_hash": "e3ffab21d19bc74a8a5d6ded0b694c53"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-12",
+                "time": "10:45",
+                "location": "Legislative Office Building 210-211",
+                "description": "Finance Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-12",
+                "time": "10:45",
+                "location": "Legislative Office Building 210-211",
+                "description": "(CANCELLED) Finance Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-20",
+                "time": "10:45",
+                "location": "Legislative Office Building 210-211",
+                "description": "Finance Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-11",
+                "time": "10:00",
+                "location": "Legislative Office Building 210-211",
+                "description": "Finance Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-03-08",
+                "time": "10:00",
+                "location": "Legislative Office Building 210-211",
+                "description": "Finance Executive Session"
+            }
+        ],
+        "full_text": "performance audit of the new hampshire state police in addition to any other performance audit requirements the audit division of the legislative budget assistant shall complete a performance audit of the new hampshire state police the audit shall include an assessment of the proficiency structure financial dealings and services provided by the organization the legislative budget assistant shall complete the performance audit and resulting report not later than months after the effective date of this section and shall submit the report to the governor the speaker of the house of representatives the senate president the legislative performance audit and oversight committee and the fiscal committee of the general court"
+    }
+}

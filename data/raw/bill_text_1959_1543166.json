@@ -1,0 +1,276 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1543166,
+        "change_hash": "4bc3a9c9e3807f65c67ecfc50ff9f8b0",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1059/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2032&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1059",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2022-05-06",
+        "progress": [
+            {
+                "date": "2021-11-02",
+                "event": 1
+            },
+            {
+                "date": "2021-11-02",
+                "event": 9
+            },
+            {
+                "date": "2022-02-02",
+                "event": 10
+            },
+            {
+                "date": "2022-02-02",
+                "event": 11
+            },
+            {
+                "date": "2022-03-15",
+                "event": 2
+            },
+            {
+                "date": "2022-03-15",
+                "event": 9
+            },
+            {
+                "date": "2022-03-23",
+                "event": 10
+            },
+            {
+                "date": "2022-04-25",
+                "event": 3
+            },
+            {
+                "date": "2022-05-06",
+                "event": 8
+            },
+            {
+                "date": "2022-05-06",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1059",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Clarifying limits on licensure by operation of law.",
+        "description": "Clarifying limits on licensure by operation of law.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-11-02",
+                "committee_id": 1243,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Executive Departments and Administration"
+            },
+            {
+                "date": "2022-03-15",
+                "committee_id": 1270,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Executive Departments and Administration"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-11-02",
+                "action": "To Be Introduced 01/05/2022 and referred to Executive Departments and Administration",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-20",
+                "action": "Public Hearing: 01/20/2022 10:00 a.m. Legislative Office Building302-304",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-02",
+                "action": "Executive Session: 01/20/2022 10:00 am Legislative Office Building302-304",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-02",
+                "action": "Majority Committee Report: Ought to Pass (Vote 11-5; Regular Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-02-02",
+                "action": "Minority Committee Report: Inexpedient to Legislate",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-11",
+                "action": "Ought to Pass: Motion Adopted DV 177-157 03/10/2022 House Journal  5",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-15",
+                "action": "Introduced 02/24/2022 and Referred to Executive Departments and Administration; Senate Journal 5",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-16",
+                "action": "Hearing: 03/23/2022, Room 103, State House, 10:00 am; Senate Calendar  12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-23",
+                "action": "Committee Report: Ought to Pass, 03/31/2022; Vote 5-0; Consent Calendar; Senate Calendar  13",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-31",
+                "action": "Ought to Pass: Motion Adopted, Voice Vote; OT3rdg; 03/31/2022; Senate Journal 7",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-25",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 04/21/2022); Senate Journal 10",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-25",
+                "action": "Enrolled (in recess of) 04/21/2022 House Journal  10",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-05-06",
+                "action": "Signed by Governor Sununu 05/03/2022; Chapter 32; 07/02/2022",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 19745,
+                "person_hash": "zq58vlv6",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Sallie Fellows",
+                "first_name": "Sallie",
+                "middle_name": "",
+                "last_name": "Fellows",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-08-GRA",
+                "ftm_eid": 16289651,
+                "votesmart_id": 185234,
+                "opensecrets_id": "",
+                "knowwho_pid": 670356,
+                "ballotpedia": "Sallie_Fellows",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2461781,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1059/id/2461781",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1125&txtFormat=html",
+                "text_size": 8631,
+                "text_hash": "7df2c6c6cc3e0ef61d08a8f82180d637"
+            },
+            {
+                "doc_id": 2562089,
+                "date": "2022-03-31",
+                "type": "Enrolled",
+                "type_id": 5,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1059/id/2562089",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&v=SP&id=1125",
+                "text_size": 8642,
+                "text_hash": "550153bae04c6e81ccec1f6b3dddcd7a"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-20",
+                "time": "10:00",
+                "location": "Legislative Office Building302-304",
+                "description": "Executive Departments and Administration Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-20",
+                "time": "10:00",
+                "location": "Legislative Office Building302-304",
+                "description": "Executive Departments and Administration Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-03-23",
+                "time": "10:00",
+                "location": "Room 103, State House",
+                "description": "Executive Departments and Administration Hearing"
+            }
+        ],
+        "full_text": "new paragraph administration of the office of professional licensure and certification amend rsa by inserting after paragraph iv the following new paragraph in the event a board commission or council does not meet the requirements of rsa for taking action on a license application such application shall only be deemed approved and the executive director shall only issue a license if the application otherwise meets the requirements for licensure established in law or administrative rule administrative procedure act failure of agency to act amend rsa i to read as follows if an agency fails to take any required action on an application petition or request within the time limits prescribed by rsa or any other provisions of law the application petition or request shall be deemed approved and any permit approval or other item requested shall be deemed granted to or received by the applicant petitioner or requestor except as provided in rsa v"
+    }
+}

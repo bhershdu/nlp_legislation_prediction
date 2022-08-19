@@ -1,0 +1,191 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1543157,
+        "change_hash": "5e5b856e27fabf9277151532d27a8249",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1107/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2574&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1107",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-11-16",
+        "progress": [
+            {
+                "date": "2021-11-16",
+                "event": 1
+            },
+            {
+                "date": "2021-11-16",
+                "event": 9
+            },
+            {
+                "date": "2022-02-10",
+                "event": 11
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1107",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Establishing a committee to study the rental or lease of housing to a person who has pets.",
+        "description": "Establishing a committee to study the rental or lease of housing to a person who has pets.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-11-16",
+                "committee_id": 1250,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Judiciary"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-11-16",
+                "action": "Introduced 01/05/2022 and referred to Judiciary",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-08",
+                "action": "Public Hearing: 01/12/2022 01:00 pm Legislative Office Building 206-208",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-27",
+                "action": "Executive Session: 02/03/2022 09:00 am Legislative Office Building 206-208",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-10",
+                "action": "Committee Report: Inexpedient to Legislate (Vote 11-10; Regular Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-20",
+                "action": "Lay HB1107 on Table (Rep. Alexander Jr.): Motion Adopted Voice Vote 03/16/2022 House Journal  7",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 18127,
+                "person_hash": "kl3fp6h1",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Ellen Read",
+                "first_name": "Ellen",
+                "middle_name": "",
+                "last_name": "Read",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-16-ROC",
+                "ftm_eid": 6494587,
+                "votesmart_id": 172683,
+                "opensecrets_id": "",
+                "knowwho_pid": 587693,
+                "ballotpedia": "Ellen_Read",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19802,
+                "person_hash": "e3ap3y16",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Cam Kenney",
+                "first_name": "Cam",
+                "middle_name": "",
+                "last_name": "Kenney",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-06-STR",
+                "ftm_eid": 45378778,
+                "votesmart_id": 185396,
+                "opensecrets_id": "",
+                "knowwho_pid": 670912,
+                "ballotpedia": "Cam_Kenney",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2461772,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1107/id/2461772",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1667&txtFormat=html",
+                "text_size": 12412,
+                "text_hash": "0e576deba48e2a3ab0c5cfac88c9e570"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-12",
+                "time": "13:00",
+                "location": "Legislative Office Building 206-208",
+                "description": "Judiciary Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-03",
+                "time": "09:00",
+                "location": "Legislative Office Building 206-208",
+                "description": "Judiciary Executive Session"
+            }
+        ],
+        "full_text": "committee established there is established a committee to study the rental or lease of housing to a person who has pets membership and compensation the members of the committee shall be as follows a four members of the house of representatives appointed by the speaker of the house of representatives b two members of the senate appointed by the president of the senate members of the committee shall receive mileage at the legislative rate when attending to the duties of the committee duties the committee shall study the following whether legislation should be proposed to prohibit discrimination or to add protection for pet owners and pets under property leasing and laws whether such legislation should be limited to indoor cats animals kept in indoor enclosures and dogs with separate requirements specifically a for cats and animals kept in enclosures allowing a refundable pet security deposit per animal with maximum allowable security deposit existing laws and ordinances on the number of animals would remain in effect b for dogs landlords would be allowed to charge an additional refundable pet security deposit unless the tenant provides proof of insurance against dogs damages and injuries in which case the pet deposit for other animals would apply landlord may demand proof of insurance prohibition against breed size restrictions would remain the grandfathering of any new legislation for existing tenants so no current tenant is affected providing clarification that prohibition on asking about pets does not preclude a landlord from inquiring of previous landlords in regard to damages and nuisance to other tenants establishing a process for landlord action against tenants in the case that damage or disruption of other tenants peaceful enjoyment is reasonably suspected that best maximizes the rights of pet owners without preventing landlords ability to minimize and recover losses the process should provide that a landlord may provide the tenant commensurate with the offense with a series of written warnings to remedy behavior and orders to remove the offending pet or be subject to eviction the process should also protect the right of the tenant to timely warnings sufficient opportunities to remedy the situation the ability to keep the pet if a reasonable remedy can be achieved and should clear the tenant of the responsibility of the remainder of the lease should they choose to move in response to the landlord action provided sufficient notice to the landlord is given chairperson quorum the members of the study committee shall elect a chairperson from among the members the first meeting of the committee shall be called by the house member the first meeting of the committee shall be held within days of the effective date of this section four members of the committee shall constitute a quorum report the committee shall report its findings and any recommendations for proposed legislation to the speaker of the house of representatives the president of the senate the house clerk the senate clerk the governor and the state library on or before november"
+    }
+}

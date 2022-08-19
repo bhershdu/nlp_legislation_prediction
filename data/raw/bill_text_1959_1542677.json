@@ -1,0 +1,291 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1542677,
+        "change_hash": "400bb22304c7e0d3a6d98ed0587a4672",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/SB406/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=3055&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=SB406",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2022-06-22",
+        "progress": [
+            {
+                "date": "2021-12-23",
+                "event": 1
+            },
+            {
+                "date": "2021-12-23",
+                "event": 9
+            },
+            {
+                "date": "2022-02-02",
+                "event": 10
+            },
+            {
+                "date": "2022-03-23",
+                "event": 2
+            },
+            {
+                "date": "2022-03-23",
+                "event": 9
+            },
+            {
+                "date": "2022-04-27",
+                "event": 10
+            },
+            {
+                "date": "2022-06-07",
+                "event": 3
+            },
+            {
+                "date": "2022-06-22",
+                "event": 8
+            },
+            {
+                "date": "2022-06-22",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "SB406",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "S",
+        "body_id": 68,
+        "current_body": "S",
+        "current_body_id": 68,
+        "title": "Relative to driver's license reciprocity.",
+        "description": "Relative to driver's license reciprocity.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-12-23",
+                "committee_id": 1779,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Transportation"
+            },
+            {
+                "date": "2022-03-23",
+                "committee_id": 1263,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Transportation"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-12-23",
+                "action": "To Be Introduced 01/05/2022 and Referred to Transportation; Senate Journal 1",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-06",
+                "action": "Hearing: 02/01/2022, Room 101, Legislative Office Building, 01:40 pm; Senate Calendar  2",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-02",
+                "action": "Committee Report: Ought to Pass, 02/16/2022; Vote 5-0; Consent Calendar; Senate Calendar  7",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-02-16",
+                "action": "Ought to Pass: Motion Adopted, Voice Vote; OT3rdg; 02/16/2022; Senate Journal 3",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-23",
+                "action": "Introduced 03/17/2022 and referred to Transportation",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-04-06",
+                "action": "Public Hearing: 04/12/2022 01:40 pm Legislative Office Building 201-203",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-20",
+                "action": "Executive Session: 04/26/2022 10:00 am Legislative Office Building 201-203",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-27",
+                "action": "Committee Report: Ought to Pass (Vote 18-0; Consent Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-05-04",
+                "action": "Ought to Pass: Motion Adopted Voice Vote 05/04/2022 House Journal  11",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-06-06",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 05/26/2022); Senate Journal 13",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-06-07",
+                "action": "Enrolled (in recess of) 05/26/2022 House Journal  14",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-06-22",
+                "action": "Signed by the Governor on 06/17/2022; Chapter 0235; Effective 08/16/2022",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 11989,
+                "person_hash": "szz8y6ea",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Regina Birdsell",
+                "first_name": "Regina",
+                "middle_name": "",
+                "last_name": "Birdsell",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-019",
+                "ftm_eid": 6695412,
+                "votesmart_id": 126600,
+                "opensecrets_id": "",
+                "knowwho_pid": 296214,
+                "ballotpedia": "Regina_Birdsell",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4958,
+                "person_hash": "2po1aje7",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "David Watters",
+                "first_name": "David",
+                "middle_name": "H.",
+                "last_name": "Watters",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-004",
+                "ftm_eid": 6494743,
+                "votesmart_id": 110047,
+                "opensecrets_id": "",
+                "knowwho_pid": 269494,
+                "ballotpedia": "David_Watters",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2461301,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB406/id/2461301",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=2148&txtFormat=html",
+                "text_size": 11064,
+                "text_hash": "8d7107622e51ac91ec8ebbc8382bcaa5"
+            },
+            {
+                "doc_id": 2580729,
+                "date": "2022-05-04",
+                "type": "Enrolled",
+                "type_id": 5,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB406/id/2580729",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&v=HP&id=2148",
+                "text_size": 11075,
+                "text_hash": "708c242efab811e59bdc187fedfc8504"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-01",
+                "time": "13:40",
+                "location": "Room 101, Legislative Office Building",
+                "description": "Transportation Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-04-12",
+                "time": "13:40",
+                "location": "Legislative Office Building 201-203",
+                "description": "Transportation Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-04-26",
+                "time": "10:00",
+                "location": "Legislative Office Building 201-203",
+                "description": "Transportation Executive Session"
+            }
+        ],
+        "full_text": "conditions and requirements for a license driver education reciprocity amend rsa to read as follows driver education reciprocity the provisions of rsa shall not prevent the issuance of a driver s license to any individual who can provide satisfactory evidence of completion of a course of driver education approved by the state in which the course is offered provided that the commissioner of safety shall determine that such course is essentially equivalent to the state s minimum standards the commissioner shall take all reasonable steps to facilitate appropriate interstate driver education the commissioner shall include in its report pursuant to rsa a report to the general court on the progress of reciprocal driver education the commissioner of safety shall develop and adopt rules pursuant to rsa relative to driver education reciprocity including procedures for submitting a request for reciprocal recognition of driver education and the evaluation of such requests including criteria for determining whether the education meets the state s minimum standards driver license compact license authority amend rsa to read as follows licensing authority defined as used in the compact the term licensing authority with reference to this state shall mean the division of motor vehicles of the department of safety the division of motor vehicles shall furnish to the appropriate authorities of any other party state any information or documents reasonably necessary to facilitate the administration of articles iii iv and v of the compact except as otherwise prohibited by law when discharging his or her duties under article iv of the compact the director or designee as head of the licensing authority of this state is authorized to impose the suspensions revocations or other limitations upon the driver s licenses of new hampshire residents convicted of offenses identified in article iv as if such conduct had occurred in this state the director or designee is authorized to exercise the discretion accorded by state law exclusively related to the extension and suspension of the periods of driver s license revocation authorized by state law for convictions for offenses identified in article the commissioner of safety shall develop and adopt rules under rsa to implement the authority provided under rsa as described in this paragraph"
+    }
+}

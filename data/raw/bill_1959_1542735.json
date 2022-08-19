@@ -1,0 +1,261 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1542735,
+        "change_hash": "4a699caf37ff4a44690e9fc30beed974",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/CACR28/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2665&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=CACR28",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-11-20",
+        "progress": [
+            {
+                "date": "2021-11-20",
+                "event": 1
+            },
+            {
+                "date": "2021-11-20",
+                "event": 9
+            },
+            {
+                "date": "2022-02-10",
+                "event": 11
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "CACR28",
+        "bill_type": "CA",
+        "bill_type_id": "7",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relating to the minimum wage. Providing that all workers have a right to a minimum wage that provides them with well-being and a dignified existence.",
+        "description": "Relating to the minimum wage. Providing that all workers have a right to a minimum wage that provides them with well-being and a dignified existence.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-11-20",
+                "committee_id": 1251,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Labor, Industrial and Rehabilitative Services"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-11-20",
+                "action": "Introduced 01/05/2022 and referred to Labor, Industrial and Rehabilitative Services",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-13",
+                "action": "Public Hearing: 01/13/2022 11:00 a.m. Legislative Office Building305-307",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-10",
+                "action": "Executive Session: 01/13/2022 11:00 am Legislative Office Building305-307",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-10",
+                "action": "Committee Report: Inexpedient to Legislate (Vote 20-1; Consent Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 21835,
+                "person_hash": "obohez3u",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Tony Labranche",
+                "first_name": "Tony",
+                "middle_name": "",
+                "last_name": "Labranche",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-22-HIL",
+                "ftm_eid": 50226570,
+                "votesmart_id": 194956,
+                "opensecrets_id": "",
+                "knowwho_pid": 744546,
+                "ballotpedia": "Tony_Labranche",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21814,
+                "person_hash": "lkojttrr",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Eric Gallager",
+                "first_name": "Eric",
+                "middle_name": "",
+                "last_name": "Gallager",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-15-MER",
+                "ftm_eid": 45378733,
+                "votesmart_id": 185382,
+                "opensecrets_id": "",
+                "knowwho_pid": 670730,
+                "ballotpedia": "Eric_Gallager",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21837,
+                "person_hash": "d4m83bpi",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Stacie-Marie Laughton",
+                "first_name": "Stacie-Marie",
+                "middle_name": "",
+                "last_name": "Laughton",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-31-HIL",
+                "ftm_eid": 50226645,
+                "votesmart_id": 141745,
+                "opensecrets_id": "",
+                "knowwho_pid": 426621,
+                "ballotpedia": "Stacie-Marie_Laughton",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18127,
+                "person_hash": "kl3fp6h1",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Ellen Read",
+                "first_name": "Ellen",
+                "middle_name": "",
+                "last_name": "Read",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-16-ROC",
+                "ftm_eid": 6494587,
+                "votesmart_id": 172683,
+                "opensecrets_id": "",
+                "knowwho_pid": 587693,
+                "ballotpedia": "Ellen_Read",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19789,
+                "person_hash": "o9ep2oo3",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Arthur Ellison",
+                "first_name": "Arthur",
+                "middle_name": "",
+                "last_name": "Ellison",
+                "suffix": "",
+                "nickname": "Art",
+                "district": "HD-27-MER",
+                "ftm_eid": 42048163,
+                "votesmart_id": 185381,
+                "opensecrets_id": "",
+                "knowwho_pid": 670729,
+                "ballotpedia": "Art_Ellison",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2461358,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/CACR28/id/2461358",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1758&txtFormat=html",
+                "text_size": 12211,
+                "text_hash": "0f2a7b5160228c746b4a39d85101b696"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-13",
+                "time": "11:00",
+                "location": "Legislative Office Building305-307",
+                "description": "Labor, Industrial and Rehabilitative Services Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-13",
+                "time": "11:00",
+                "location": "Legislative Office Building305-307",
+                "description": "Labor, Industrial and Rehabilitative Services Executive Session"
+            }
+        ]
+    }
+}

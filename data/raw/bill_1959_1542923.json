@@ -1,0 +1,235 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1542923,
+        "change_hash": "c43ac2e69ecf8f8ebde3ad9c45736790",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HR16/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2317&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HR16",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-11-18",
+        "progress": [
+            {
+                "date": "2021-11-18",
+                "event": 1
+            },
+            {
+                "date": "2021-11-18",
+                "event": 9
+            },
+            {
+                "date": "2022-01-31",
+                "event": 10
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HR16",
+        "bill_type": "R",
+        "bill_type_id": "2",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Calling for the federal government to construct a nuclear waste repository to permanently store our nation's nuclear waste.",
+        "description": "Calling for the federal government to construct a nuclear waste repository to permanently store our nation's nuclear waste.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-11-18",
+                "committee_id": 1262,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "State-federal Relations and Veterans Affairs"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-11-18",
+                "action": "Introduced 01/05/2022 and referred to State-Federal Relations and Veterans Affairs",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-09",
+                "action": "Public Hearing: 01/20/2022 02:15 pm Legislative Office Building 201-203",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-31",
+                "action": "Committee Report: Ought to Pass HR0016 (Vote 21-0; Consent Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-02-01",
+                "action": "Executive Session: 01/21/2022 03:00 pm Legislative Office Building 201-203",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 21835,
+                "person_hash": "obohez3u",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Tony Labranche",
+                "first_name": "Tony",
+                "middle_name": "",
+                "last_name": "Labranche",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-22-HIL",
+                "ftm_eid": 50226570,
+                "votesmart_id": 194956,
+                "opensecrets_id": "",
+                "knowwho_pid": 744546,
+                "ballotpedia": "Tony_Labranche",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21837,
+                "person_hash": "d4m83bpi",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Stacie-Marie Laughton",
+                "first_name": "Stacie-Marie",
+                "middle_name": "",
+                "last_name": "Laughton",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-31-HIL",
+                "ftm_eid": 50226645,
+                "votesmart_id": 141745,
+                "opensecrets_id": "",
+                "knowwho_pid": 426621,
+                "ballotpedia": "Stacie-Marie_Laughton",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 15580,
+                "person_hash": "wrup7d7d",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Linda Massimilla",
+                "first_name": "Linda",
+                "middle_name": "",
+                "last_name": "Massimilla",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-01-GRA",
+                "ftm_eid": 9753448,
+                "votesmart_id": 143257,
+                "opensecrets_id": "",
+                "knowwho_pid": 428009,
+                "ballotpedia": "Linda_Massimilla",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19752,
+                "person_hash": "ownh1shp",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Kat McGhee",
+                "first_name": "Kat",
+                "middle_name": "",
+                "last_name": "McGhee",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-40-HIL",
+                "ftm_eid": 13703631,
+                "votesmart_id": 141738,
+                "opensecrets_id": "",
+                "knowwho_pid": 426613,
+                "ballotpedia": "Kat_McGhee",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2461545,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HR16/id/2461545",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1410&txtFormat=html",
+                "text_size": 7278,
+                "text_hash": "b09adf422c8d61a8006845bd1a77b4a4"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-20",
+                "time": "14:15",
+                "location": "Legislative Office Building 201-203",
+                "description": "State-Federal Relations and Veterans Affairs Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-21",
+                "time": "15:00",
+                "location": "Legislative Office Building 201-203",
+                "description": "State-Federal Relations and Veterans Affairs Executive Session"
+            }
+        ]
+    }
+}

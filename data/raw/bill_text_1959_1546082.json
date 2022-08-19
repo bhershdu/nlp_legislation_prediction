@@ -1,0 +1,529 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1546082,
+        "change_hash": "32d05e4c25d6e48dc6bfd0a305138df4",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB579/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=695&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB579",
+        "completed": 0,
+        "status": 2,
+        "status_date": "2022-01-18",
+        "progress": [
+            {
+                "date": "2021-01-12",
+                "event": 1
+            },
+            {
+                "date": "2021-01-12",
+                "event": 9
+            },
+            {
+                "date": "2021-11-16",
+                "event": 10
+            },
+            {
+                "date": "2021-11-16",
+                "event": 11
+            },
+            {
+                "date": "2022-01-18",
+                "event": 2
+            },
+            {
+                "date": "2022-01-18",
+                "event": 9
+            },
+            {
+                "date": "2022-04-06",
+                "event": 11
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB579",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "S",
+        "current_body_id": 68,
+        "title": "Requiring notice to the public before immigration checkpoints are conducted.",
+        "description": "Requiring notice to the public before immigration checkpoints are conducted.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-12",
+                "committee_id": 1239,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Criminal Justice and Public Safety"
+            },
+            {
+                "date": "2022-01-18",
+                "committee_id": 1273,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Judiciary"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-12",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Criminal Justice and Public Safety House Journal  2 P. 54",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-01",
+                "action": "Public Hearing: 02/10/2021 02:30 pm Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/99588247178 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-09",
+                "action": "Retained in Committee",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-09-14",
+                "action": "==CANCELLED== Subcommittee Work Session: 09/22/2021 10:00 am Legislative Office Building 201-203",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-09-20",
+                "action": "Subcommittee Work Session: 09/28/2021 02:15 pm Legislative Office Building 201-203",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-09-28",
+                "action": "Full Committee Work Session: 10/05/2021 11:00 am Legislative Office Building 201-203",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-10-13",
+                "action": "Executive Session: 10/20/2021 11:00 am Legislative Office Building 201-203",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-11-16",
+                "action": "Majority Committee Report: Ought to Pass with Amendment # 2021-2201h 10/20/2021 (Vote 11-9; Regular Calendar) House Calendar 48 P. 24",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-11-16",
+                "action": "Minority Committee Report: Inexpedient to Legislate",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-10",
+                "action": "Ought to Pass with Amendment : Motion Adopted Regular Calendar 254-85 01/06/2022 House Journal  1",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-18",
+                "action": "Introduced 01/05/2022 and Referred to Judiciary; Senate Journal 2",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-02-23",
+                "action": "Hearing: 03/08/2022, Room 100, State House, 02:00 pm; Senate Calendar  9",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-06",
+                "action": "Committee Report: Inexpedient to Legislate, 04/14/2022; Senate Calendar  15",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-04-14",
+                "action": "Inexpedient to Legislate, Regular Calendar 14Y-10N, Motion Adopted === BILL KILLED ===; 04/14/2022; Senate Journal 8",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 19766,
+                "person_hash": "ia8i53pp",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Kevin Craig",
+                "first_name": "Kevin",
+                "middle_name": "",
+                "last_name": "Craig",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-04-COO",
+                "ftm_eid": 45946739,
+                "votesmart_id": 185473,
+                "opensecrets_id": "",
+                "knowwho_pid": 671017,
+                "ballotpedia": "Kevin_Craig_(New_Hampshire)",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19824,
+                "person_hash": "8ya6utb2",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Tony Lekas",
+                "first_name": "Tony",
+                "middle_name": "",
+                "last_name": "Lekas",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-37-HIL",
+                "ftm_eid": 9794125,
+                "votesmart_id": 54877,
+                "opensecrets_id": "",
+                "knowwho_pid": 670662,
+                "ballotpedia": "Tony_Lekas",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 16959,
+                "person_hash": "0btljhov",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Amanda Bouldin",
+                "first_name": "Amanda",
+                "middle_name": "",
+                "last_name": "Bouldin",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-12-HIL",
+                "ftm_eid": 25005739,
+                "votesmart_id": 154276,
+                "opensecrets_id": "",
+                "knowwho_pid": 501853,
+                "ballotpedia": "Amanda_Bouldin",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19743,
+                "person_hash": "ryfcko8x",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Rebecca McWilliams",
+                "first_name": "Rebecca",
+                "middle_name": "",
+                "last_name": "McWilliams",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-27-MER",
+                "ftm_eid": 45378835,
+                "votesmart_id": 185383,
+                "opensecrets_id": "",
+                "knowwho_pid": 670731,
+                "ballotpedia": "Rebecca_McWilliams",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19829,
+                "person_hash": "2ajjrn2j",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Jacqueline Chretien",
+                "first_name": "Jacqueline",
+                "middle_name": "",
+                "last_name": "Chretien",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-42-HIL",
+                "ftm_eid": 45378663,
+                "votesmart_id": 185371,
+                "opensecrets_id": "",
+                "knowwho_pid": 670677,
+                "ballotpedia": "Jacqueline_Chretien",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19883,
+                "person_hash": "2tjp2hjv",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Andrew Bouldin",
+                "first_name": "Andrew",
+                "middle_name": "",
+                "last_name": "Bouldin",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-12-HIL",
+                "ftm_eid": 45378645,
+                "votesmart_id": 185553,
+                "opensecrets_id": "",
+                "knowwho_pid": 670551,
+                "ballotpedia": "Andrew_Bouldin",
+                "sponsor_type_id": 2,
+                "sponsor_order": 6,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21835,
+                "person_hash": "obohez3u",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Tony Labranche",
+                "first_name": "Tony",
+                "middle_name": "",
+                "last_name": "Labranche",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-22-HIL",
+                "ftm_eid": 50226570,
+                "votesmart_id": 194956,
+                "opensecrets_id": "",
+                "knowwho_pid": 744546,
+                "ballotpedia": "Tony_Labranche",
+                "sponsor_type_id": 2,
+                "sponsor_order": 7,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19891,
+                "person_hash": "865n4e99",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Matthew Wilhelm",
+                "first_name": "Matthew",
+                "middle_name": "B.",
+                "last_name": "Wilhelm",
+                "suffix": "",
+                "nickname": "Matt",
+                "district": "HD-42-HIL",
+                "ftm_eid": 42048257,
+                "votesmart_id": 185372,
+                "opensecrets_id": "",
+                "knowwho_pid": 670679,
+                "ballotpedia": "Matt_Wilhelm",
+                "sponsor_type_id": 2,
+                "sponsor_order": 8,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21847,
+                "person_hash": "xpplg1d5",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Melbourne Moran",
+                "first_name": "Melbourne",
+                "middle_name": "",
+                "last_name": "Moran",
+                "suffix": "Jr.",
+                "nickname": "",
+                "district": "HD-34-HIL",
+                "ftm_eid": 50226649,
+                "votesmart_id": 194957,
+                "opensecrets_id": "",
+                "knowwho_pid": 744561,
+                "ballotpedia": "Melbourne_Moran_Jr.",
+                "sponsor_type_id": 2,
+                "sponsor_order": 9,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [
+            {
+                "type_id": 9,
+                "type": "Carry Over",
+                "sast_bill_number": "HB579",
+                "sast_bill_id": 1403720
+            }
+        ],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2481327,
+                "date": "2022-01-06",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB579/id/2481327",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&txtFormat=html&v=HA&id=703",
+                "text_size": 8283,
+                "text_hash": "6f24c317d9e884bc2f517ffffb7f680d"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1122491,
+                "date": "2022-01-06",
+                "desc": "OTPA",
+                "yea": 254,
+                "nay": 85,
+                "nv": 54,
+                "absent": 0,
+                "total": 393,
+                "passed": 1,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/HB579/id/1122491",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=17&sy=2022&lb=H&eb=HB0579&sortoption=&txtsessionyear=2022&txtbillnumber=HB579&ddlsponsors=&lsr=695"
+            },
+            {
+                "roll_call_id": 1188748,
+                "date": "2022-04-14",
+                "desc": "Inexpedient to Legislate",
+                "yea": 14,
+                "nay": 10,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/HB579/id/1188748",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=86&sy=2022&lb=S&eb=HB0579&sortoption=&txtsessionyear=2022&txtbillnumber=HB579&ddlsponsors=&lsr=695"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-10",
+                "time": "14:30",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Criminal Justice and Public Safety Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-09-22",
+                "time": "10:00",
+                "location": "Legislative Office Building 201-203",
+                "description": "(CANCELLED) Criminal Justice and Public Safety Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-09-28",
+                "time": "14:15",
+                "location": "Legislative Office Building 201-203",
+                "description": "Criminal Justice and Public Safety Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-10-05",
+                "time": "11:00",
+                "location": "Legislative Office Building 201-203",
+                "description": "Criminal Justice and Public Safety Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-10-20",
+                "time": "11:00",
+                "location": "Legislative Office Building 201-203",
+                "description": "Criminal Justice and Public Safety Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-03-08",
+                "time": "14:00",
+                "location": "Room 100, State House",
+                "description": "Judiciary Hearing"
+            }
+        ],
+        "full_text": "immigration checkpoints when any state county or municipal police department or law enforcement agency is informed by a federal agency of intent to conduct an immigration checkpoint the department or agency shall give notice to the public within hours of when the checkpoint is scheduled to occur or as soon as is practical the notice shall disclose if known the date municipality and geographical area in which the checkpoint will occur notice to the public shall be provided by using various media resources available which may include publishing this information on the government agency s website and on social media or the use of press conferences press releases radio and television coverage posters and flyers"
+    }
+}

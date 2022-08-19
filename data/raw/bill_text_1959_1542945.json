@@ -1,0 +1,302 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1542945,
+        "change_hash": "29bd2529802587203003bf75cca453e5",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/SB246/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2951&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=SB246",
+        "completed": 0,
+        "status": 2,
+        "status_date": "2022-03-23",
+        "progress": [
+            {
+                "date": "2021-12-14",
+                "event": 1
+            },
+            {
+                "date": "2021-12-14",
+                "event": 9
+            },
+            {
+                "date": "2022-02-15",
+                "event": 10
+            },
+            {
+                "date": "2022-03-23",
+                "event": 2
+            },
+            {
+                "date": "2022-03-23",
+                "event": 9
+            },
+            {
+                "date": "2022-04-26",
+                "event": 11
+            },
+            {
+                "date": "2022-04-26",
+                "event": 10
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "SB246",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "S",
+        "body_id": 68,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to qualified private communities.",
+        "description": "Relative to qualified private communities.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-12-14",
+                "committee_id": 3825,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Election Law and Municipal Affairs"
+            },
+            {
+                "date": "2022-03-23",
+                "committee_id": 1257,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Municipal and County Government"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-12-14",
+                "action": "To Be Introduced 01/05/2022 and Referred to Election Law and Municipal Affairs; Senate Journal 1",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-18",
+                "action": "Hearing: 01/24/2022, Room 100, State House, 01:45 pm; Senate Calendar  4",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-15",
+                "action": "Committee Report: Ought to Pass with Amendment # 2022-0700s, 02/24/2022; Senate Calendar  8",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-02-24",
+                "action": "Committee Amendment # 2022-0700s, Amendment Adopted, Voice Vote; 02/24/2022; Senate Journal 4",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-24",
+                "action": "Ought to Pass with Amendment 2022-0700s, Motion Adopted, Voice Vote; OT3rdg; 02/24/2022; Senate Journal 4",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-23",
+                "action": "Introduced 03/17/2022 and referred to Municipal and County Government",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-29",
+                "action": "Public Hearing: 04/07/2022 11:00 am Legislative Office Building 301-303",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-06",
+                "action": "Executive Session: 04/18/2022 10:00 am Legislative Office Building 301-303",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-26",
+                "action": "Majority Committee Report: Inexpedient to Legislate (Vote 10-9; Regular Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-04-26",
+                "action": "Minority Committee Report: Ought to Pass",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-05-05",
+                "action": "Inexpedient to Legislate: Motion Adopted DV 183-146 05/05/2022 House Journal  12",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 11989,
+                "person_hash": "szz8y6ea",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Regina Birdsell",
+                "first_name": "Regina",
+                "middle_name": "",
+                "last_name": "Birdsell",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-019",
+                "ftm_eid": 6695412,
+                "votesmart_id": 126600,
+                "opensecrets_id": "",
+                "knowwho_pid": 296214,
+                "ballotpedia": "Regina_Birdsell",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4775,
+                "person_hash": "kswslwpv",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Sharon Carson",
+                "first_name": "Sharon",
+                "middle_name": "",
+                "last_name": "Carson",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-014",
+                "ftm_eid": 6593753,
+                "votesmart_id": 42537,
+                "opensecrets_id": "",
+                "knowwho_pid": 208650,
+                "ballotpedia": "Sharon_Carson",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21842,
+                "person_hash": "w44e3v5y",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Wayne MacDonald",
+                "first_name": "Wayne",
+                "middle_name": "D.",
+                "last_name": "MacDonald",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-05-ROC",
+                "ftm_eid": 14799618,
+                "votesmart_id": 195047,
+                "opensecrets_id": "",
+                "knowwho_pid": 744326,
+                "ballotpedia": "Wayne_MacDonald",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2461567,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB246/id/2461567",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=2044&txtFormat=html",
+                "text_size": 11313,
+                "text_hash": "7c26ae308f2340b99a6d688098fe3210"
+            },
+            {
+                "doc_id": 2528907,
+                "date": "2022-02-24",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB246/id/2528907",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&txtFormat=html&v=SA&id=2044",
+                "text_size": 11973,
+                "text_hash": "52dbf658dc2784adfa8d826629cd238c"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-24",
+                "time": "13:45",
+                "location": "Room 100, State House",
+                "description": "Election Law and Municipal Affairs Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-04-07",
+                "time": "11:00",
+                "location": "Legislative Office Building 301-303",
+                "description": "Municipal and County Government Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-04-18",
+                "time": "10:00",
+                "location": "Legislative Office Building 301-303",
+                "description": "Municipal and County Government Executive Session"
+            }
+        ],
+        "full_text": "new chapter qualified private communities amend rsa by inserting after chapter the following new chapter chapter qualified private communities definitions in this chapter the following definitions shall apply capital reserve fund means a monetary fund setup for the purpose of accumulating cash reserves for future expenses related to capital assets in the qualified private community capital reserve fund shall not have the same meaning as in rsa declarant means any person who executes or proposes to execute the declaration associated with a qualified private community or on whose behalf the declaration is executed or proposed to be executed qualified private community means a residential condominium cooperative open space subdivision or other community consisting of at least units the residents of which do not receive any tax abatement or tax exemption related to its construction comprised of a community trust or other trust device condominium association homeowners association road association or council of wherein the cost of maintaining roads streets water and sewer infrastructure and providing essential services is paid for by a entity consisting exclusively of unit owners within the community qualified private community shall not include a any apartment building or garden apartment complex owned by an individual or entity that receives monthly rental payments from tenants who occupy the premises b any proprietary campground facility c any community where title to land does not convey with improvements except a residential condominium or cooperative qualified private community requirements no city or town shall approve plans for a qualified private community unless the declarant agrees to at least one of the following requirements for such qualified private community a the declarant will establish a capital reserve fund of no less than percent of the cost to replace all roadways within the qualified private community based on the cost estimate as described in paragraph b the declarant will build all roadways to the design standards for public ways for the municipality that is approving the project the declarant shall submit a written estimate of the cost to replace the roadways in the qualified private community for approval by the city or town the estimate shall be based on the projected cost to replace the roads on the projected completion date of the project this estimate may be updated from time to time until completion of the project the capital reserve fund shall be held in escrow until the qualified private community is complete the unit owners have control of the community trust or other trust device condominium association homeowners association or council of and the declarant has relinquished interest in the qualified private community"
+    }
+}

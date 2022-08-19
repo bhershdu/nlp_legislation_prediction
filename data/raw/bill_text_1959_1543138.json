@@ -1,0 +1,344 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1543138,
+        "change_hash": "837baaed06f5a4913feec5f8e62ff434",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1280/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2795&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1280",
+        "completed": 0,
+        "status": 3,
+        "status_date": "2022-06-09",
+        "progress": [
+            {
+                "date": "2021-11-19",
+                "event": 1
+            },
+            {
+                "date": "2021-11-19",
+                "event": 9
+            },
+            {
+                "date": "2022-03-09",
+                "event": 10
+            },
+            {
+                "date": "2022-03-09",
+                "event": 11
+            },
+            {
+                "date": "2022-03-22",
+                "event": 2
+            },
+            {
+                "date": "2022-03-22",
+                "event": 9
+            },
+            {
+                "date": "2022-04-27",
+                "event": 10
+            },
+            {
+                "date": "2022-06-09",
+                "event": 3
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1280",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Prohibiting a parent's refusal to vaccinate a child from being used as evidence in any proceeding to terminating parental rights and enacting the 2009 interstate compact for the placement of children.",
+        "description": "Prohibiting a parent's refusal to vaccinate a child from being used as evidence in any proceeding to terminating parental rights and enacting the 2009 interstate compact for the placement of children.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-11-19",
+                "committee_id": 1237,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Children and Family Law"
+            },
+            {
+                "date": "2022-03-22",
+                "committee_id": 1273,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Judiciary"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-11-19",
+                "action": "Introduced 01/05/2022 and referred to Children and Family Law",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-02-11",
+                "action": "Public Hearing: 02/15/2022 11:15 am Legislative Office Building 206-208",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-23",
+                "action": "Executive Session: 03/01/2022 0900am Legislative Office Building 206-208",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-09",
+                "action": "Majority Committee Report: Ought to Pass (Vote 8-7; Regular Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-09",
+                "action": "Minority Committee Report: Inexpedient to Legislate",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-15",
+                "action": "FLAM # 2022-0912h (Rep. Yokela): Amendment Adopted Voice Vote 03/15/2022 House Journal  6",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-15",
+                "action": "Ought to Pass with Amendment 2022-0912h: Motion Adopted Voice Vote 03/15/2022 House Journal  6",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-22",
+                "action": "Introduced 03/17/2022 and Referred to Judiciary; Senate Journal 6",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-04-20",
+                "action": "Hearing: 04/26/2022, Room 100, State House, 01:00 pm; Senate Calendar  17",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-27",
+                "action": "Committee Report: Ought to Pass with Amendment # 2022-1859s, 05/05/2022; Senate Calendar  18",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-05-05",
+                "action": "Sen. Soucy Moved to divide the Question on Committee Amendment #2022-1859s: Sections 1 and 7 and then the remainder of the amendment with the effective date; 05/05/2022; Senate Journal 11",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-05",
+                "action": "The Chair ruled the Question Divisible; 05/05/2022; Senate Journal 11",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-05",
+                "action": "Committee Amendment #2022-1859s: Sections 1 and 7, Regular Calendar 14Y-10N, Amendment Adopted; 05/05/2022; Senate Journal 11",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-05",
+                "action": "Committee Amendment #2022-1859s: Remainder of the Amendment with the Effective Date, Amendment Adopted, Voice Vote; 05/05/2022; Senate Journal 11",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-05",
+                "action": "Ought to Pass with Amendment 2022-1859s: Sections 1 and 7, Regular Calendar 14Y-10N, Motion Adopted; 05/05/2022; Senate Journal 11",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-05",
+                "action": "Ought to Pass with Amendment 2022-1859s: Remainder of the bill with the effective date, Motion Adopted, Voice Vote; OT3rdg; 05/05/2022; Senate Journal 11",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-05",
+                "action": "Sen. Soucy Moved to divide the Question on Ought to Pass with Amendment #2022-1859s: Sections 1 and 7 and then the remainder of the bill as amended with the effective date; 05/05/2022; Senate Journal 11",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-05",
+                "action": "The Chair ruled the Question Divisible; 05/05/2022; Senate Journal 11",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-12",
+                "action": "House Concurs with Senate Amendment (Rep. Rice): Motion Adopted Voice Vote 05/12/2022 House Journal  13",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-06-09",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 05/26/2022); Senate Journal 13",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-06-09",
+                "action": "Enrolled (in recess of) 05/26/2022",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 19877,
+                "person_hash": "fuqaltb9",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Terry Roy",
+                "first_name": "Terry",
+                "middle_name": "",
+                "last_name": "Roy",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-32-ROC",
+                "ftm_eid": 45378923,
+                "votesmart_id": 185521,
+                "opensecrets_id": "",
+                "knowwho_pid": 670768,
+                "ballotpedia": "Terry_Roy",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2461754,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1280/id/2461754",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1888&txtFormat=html",
+                "text_size": 8490,
+                "text_hash": "aa5774bde3ff3453a97bfa54d33a86fe"
+            },
+            {
+                "doc_id": 2550177,
+                "date": "2022-03-15",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1280/id/2550177",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&txtFormat=html&v=HA&id=1888",
+                "text_size": 8436,
+                "text_hash": "d6ddd764d8433ee9c4e834aae5dcc74d"
+            },
+            {
+                "doc_id": 2580988,
+                "date": "2022-05-05",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1280/id/2580988",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&txtFormat=html&v=SA&id=1888",
+                "text_size": 96961,
+                "text_hash": "c1938c293150ddb7b8c9ea421ccaa22f"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1200888,
+                "date": "2022-05-05",
+                "desc": "Committee Amendment Sections",
+                "yea": 14,
+                "nay": 10,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/HB1280/id/1200888",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=140&sy=2022&lb=S&eb=HB1280&sortoption=&txtsessionyear=2022&txtbillnumber=HB1280&ddlsponsors=&lsr=2795"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-15",
+                "time": "11:15",
+                "location": "Legislative Office Building 206-208",
+                "description": "Children and Family Law Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-04-26",
+                "time": "13:00",
+                "location": "Room 100, State House",
+                "description": "Judiciary Hearing"
+            }
+        ],
+        "full_text": "termination of parental rights grounds for termination of the relationship decision to vaccinate prohibited amend rsa ii to read as follows that although the parents are financially able they have substantially and continuously neglected to provide the child with necessary subsistence education or other care necessary for his mental emotional or physical health or have substantially and continuously neglected to pay for such subsistence education or other care when legal custody is lodged with others provided however it shall not be grounds for the termination of the relationship for the sole reason the parent of said child relies upon spiritual means through prayer in accordance with a recognized religious method of healing in lieu of medical treatment for the healing of said child a parent s decision not to have their child vaccinated shall not be used as evidence in any proceeding to terminate parental rights interstate compact for the placement of children rsa is repealed and reenacted to read as follows chapter interstate compact for the placement of children interstate compact for the placement of children on the effective date of this chapter based upon the enactment of the interstate compact for the placement of children into law by the compacting state the governor is authorized and directed to execute a compact on behalf of this state with any other state or states legally joining therein in the form substantially as follows article i purpose the purpose of this interstate compact for the placement of children is to provide a process through which children subject to this compact are placed in safe and suitable homes in a timely manner facilitate ongoing supervision of a placement the delivery of services and communication between the states provide operating procedures that will ensure that children are placed in safe and suitable homes in a timely manner provide for the promulgation and enforcement of administrative rules implementing the provisions of this compact and regulating the covered activities of the member states provide for uniform data collection and information sharing between member states under this compact promote coordination between this compact the interstate compact for juveniles the interstate compact on adoption and medical assistance and other compacts affecting the placement of and which provide services to children otherwise subject to this compact provide for a state s continuing legal jurisdiction and responsibility for placement and care of a child that it would have had if the placement were intrastate provide for the promulgation of guidelines in collaboration with indian tribes for interstate cases involving indian children as is or may be permitted by federal law article ii definitions as used in this compact approved placement means the public agency in the receiving state has determined that the placement is both safe and suitable for the child assessment means an evaluation of a prospective placement by a public agency in the receiving state to determine if the placement meets the individualized needs of the child including but not limited to the child s safety and stability health and and mental emotional and physical development an assessment is only applicable to a placement by a public agency child means an individual who has not attained the age of certification means to attest declare or swear to before a judge or notary public default means the failure of a member state to perform the obligations or responsibilities imposed upon it by this compact or the bylaws or rules of the interstate commission home study means an evaluation of a home environment conducted in accordance with the applicable requirements of the state in which the home is located and that documents the preparation and the suitability of the placement resource for placement of a child in accordance with the laws and requirements of the state in which the home is located indian tribe means any indian tribe band nation or other organized group or community of indians recognized as eligible for services provided to indians by the secretary of the interior because of their status as indians including any alaskan native village as defined in section c of the alaska native claims settlement act u s section c interstate commission for the placement of children means the commission that is created under article viii of this compact and which is generally referred to as the interstate commission jurisdiction means the power and authority of a court to hear and decide matters legal risk placement or legal risk adoption means a placement made preliminary to an adoption where the prospective adoptive parents acknowledge in writing that a child can be ordered returned to the sending state or the birth mother s state of residence if different from the sending state and a final decree of adoption shall not be entered in any jurisdiction until all required consents are obtained or are dispensed with in accordance with applicable law member state means a state that has enacted this compact noncustodial parent means a person who at the time of the commencement of court proceedings in the sending state does not have sole legal custody of the child or has joint legal custody of a child and who is not the subject of allegations or findings of child abuse or neglect nonmember state means a state which has not enacted this compact notice of residential placement means information regarding a placement into a residential facility provided to the receiving state including but not limited to the name date and place of birth of the child the identity and address of the parent or legal guardian evidence of authority to make the placement and the name and address of the facility in which the child will be placed notice of residential placement shall also include information regarding a discharge and any unauthorized absence from the facility placement means the act by a public or private agency intended to arrange for the care or custody of a child in another state private agency means any private corporation agency foundation institution or charitable organization or any private person or attorney that facilitates causes or is involved in the placement of a child from one state to another and that is not an instrumentality of the state or acting under color of state law provisional placement means a determination made by the public agency in the receiving state that the proposed placement is safe and suitable and to the extent allowable the receiving state has temporarily waived its standards or requirements otherwise applicable to prospective foster or adoptive parents so as to not delay the placement completion of the receiving state requirements regarding training for prospective foster or adoptive parents shall not delay an otherwise safe and suitable placement public agency means any government child welfare agency or child protection agency or a private entity under contract with such an agency regardless of whether the entity acts on behalf of a state a county a municipality or another governmental unit and which facilitates causes or is involved in the placement of a child from one state to another receiving state means the state to which a child is sent brought or caused to be sent or brought relative means someone who is related to the child as a parent stepparent sibling by half or whole blood or by adoption grandparent aunt uncle or first cousin or a nonrelative with such significant ties to the child that the nonrelative may be regarded as a relative as determined by the court in the sending state residential facility means a facility providing a level of care that is sufficient to substitute for parental responsibility or foster care and that is beyond what is needed for assessment or treatment of an acute condition for purposes of the compact the term residential facility does not include institutions primarily educational in character hospitals or other medical facilities rule means a written directive mandate standard or principle issued by the interstate commission promulgated pursuant to article xi of this compact that is of general applicability and that implements interprets or prescribes a policy or provision of the compact a rule has the force and effect of an administrative rule in a member state and includes the amendment repeal or suspension of an existing rule sending state means the state from which the placement of a child is initiated service member s permanent duty station means the military installation where an active duty united states armed services member is currently assigned and is physically located under competent orders that do not specify the duty as temporary service member s state of legal residence means the state in which the active duty united states armed services member is considered a resident for tax and voting purposes state means a state of the united states the district of columbia the commonwealth of puerto rico the united states virgin islands guam american samoa the northern mariana islands and any other territory of the united states state court means a judicial body of a state that is vested by law with responsibility for adjudicating cases involving abuse neglect deprivation delinquency or status offenses of individuals who have not attained the age of supervision means monitoring provided by the receiving state once a child has been placed in a receiving state pursuant to this compact article iii applicability except as otherwise provided in paragraph ii this compact shall apply to a the interstate placement of a child subject to ongoing court jurisdiction in the sending state due to allegations or findings that the child has been abused neglected or deprived as defined by the laws of the sending state provided however that the placement of such a child into a residential facility shall only require notice of residential placement to the receiving state prior to placement b the interstate placement of a child adjudicated delinquent or unmanageable based on the laws of the sending state and subject to ongoing court jurisdiction of the sending state if the child is being placed in a residential facility in another member state and is not covered under another compact or the child is being placed in another member state and the determination of safety and suitability of the placement and services required is not provided through another compact c the interstate placement of any child by a public agency or private agency as a preliminary step to a possible adoption the provisions of this compact shall not apply to a the interstate placement of a child in a custody proceeding in which a public agency is not a party provided however that the placement is not intended to effectuate an adoption b the interstate placement of a child with a nonrelative in a receiving state by a parent with the legal authority to make such a placement provided however that the placement is not intended to effectuate an adoption c the interstate placement of a child by one relative with the lawful authority to make such a placement directly with a relative in a receiving state d the placement of a child not subject to paragraph i into a residential facility by his or her parent e the placement of a child with a noncustodial parent provided that the noncustodial parent proves to the satisfaction of a court in the sending state a substantial relationship with the child the court in the sending state makes a written finding that placement with the noncustodial parent is in the best interests of the child and the court in the sending state dismisses its jurisdiction in interstate placements in which the public agency is a party to the proceeding f a child entering the united states from a foreign country for the purpose of adoption or leaving the united states to go to a foreign country for the purpose of adoption in that country g cases in which a child who is a united states citizen living overseas with his or her family at least one of whom is in the united states armed services and stationed overseas is removed and placed in a state h the sending of a child by a public agency or a private agency for a visit as defined by the rules of the interstate commission for purposes of determining the applicability of this compact to the placement of a child with a family member in the united states armed services the public agency or private agency may choose the state of the service member s permanent duty station or the service member s declared legal residence nothing in this compact shall be construed to prohibit the concurrent application of the provisions of this compact with other applicable interstate compacts including the interstate compact for juveniles and the interstate compact on adoption and medical assistance the interstate commission may in cooperation with other interstate compact commissions having responsibility for the interstate movement placement or transfer of children promulgate similar rules to ensure the coordination of services timely placement of children and reduction of unnecessary or duplicative administrative or procedural requirements article iv jurisdiction except as provided in article iv paragraph viii and article v subparagraph ii b and c concerning private and independent adoptions and in interstate placements in which the public agency is not a party to a custody proceeding the sending state shall retain jurisdiction over a child with respect to all matters of custody and disposition of the child which it would have had if the child had remained in the sending state such jurisdiction shall also include the power to order the return of the child to the sending state when an issue of child protection or custody is brought before a court in the receiving state such court shall confer with the court of the sending state to determine the most appropriate forum for adjudication in cases that are before courts and subject to this compact the taking of testimony for hearings before any judicial officer may occur in person or by telephone conference or such other means as approved by the rules of the interstate commission and judicial officers may communicate with other judicial officers and persons involved in the interstate process as may be permitted by their code of judicial conduct and any rules promulgated by the interstate commission in accordance with its own laws the court in the sending state shall have authority to terminate its jurisdiction if a the child is reunified with the parent in the receiving state who is the subject of allegations or findings of abuse or neglect only with the concurrence of the public agency in the receiving state b the child is adopted c the child reaches the age of majority under the laws of the sending state d the child achieves legal independence pursuant to the laws of the sending state e a guardianship is created by a court in the receiving state with the concurrence of the court in the sending state f an indian tribe has petitioned for and received jurisdiction from the court in the sending state or g the public agency of the sending state requests termination and has obtained the concurrence of the public agency in the receiving state when a sending state court terminates its jurisdiction the receiving state agency shall be notified nothing in this article shall defeat a claim of jurisdiction by a receiving state court sufficient to deal with an act of truancy delinquency crime or behavior involving a child as defined by the laws of the receiving state committed by the child in the receiving state which would be a violation of its laws nothing in this article shall limit the receiving state s ability to take emergency jurisdiction for the protection of the child the substantive laws of the state in which an adoption will be finalized shall solely govern all issues relating to the adoption of the child and the court in which the adoption proceeding is filed shall have subject matter jurisdiction regarding all substantive issues relating to the adoption except a when the child is a ward of another court that established jurisdiction over the child prior to the placement b when the child is in the legal custody of a public agency in the sending state or c when a court in the sending state has otherwise appropriately assumed jurisdiction over the child prior to the submission of the request for approval of placement a final decree of adoption shall not be entered in any jurisdiction until the placement is authorized as an approved placement by the public agency in the receiving state article v placement evaluation prior to sending bringing or causing a child to be sent or brought into a receiving state the public agency shall provide a written request for assessment to the receiving state for placements by a private agency a child may be sent or brought or caused to be sent or brought into a receiving state upon receipt and immediate review of the required content in a request for approval of a placement in both the sending and receiving state public agencies the required content to accompany a request for approval shall include all of the following a a request for approval identifying the child the birth parents the prospective adoptive parents and the supervising agency signed by the person requesting approval b the appropriate consents or relinquishments signed by the birth parents in accordance with the laws of the sending state or where permitted the laws of the state where the adoption will be finalized c certification by a licensed attorney or authorized agent of a private adoption agency that the consent or relinquishment is in compliance with the applicable laws of the sending state or where permitted the laws of the state where finalization of the adoption will occur d a home study e an acknowledgment of legal risk signed by the prospective adoptive parents the sending state and the receiving state may request additional information or documents prior to finalization of an approved placement but they may not delay travel by the prospective adoptive parents with the child if the required content for approval has been submitted received and reviewed by the public agency in both the sending state and the receiving state approval from the public agency in the receiving state for a provisional or approved placement is required as provided for in the rules of the interstate commission the procedures for making the request for an assessment shall contain all information and be in such form as provided for in the rules of the interstate commission upon receipt of a request from the public agency of the sending state the receiving state shall initiate an assessment of the proposed placement to determine its safety and suitability if the proposed placement is a placement with a relative the public agency of the sending state may request a determination for a provisional placement the public agency in the receiving state may request from the public agency or the private agency in the sending state and shall be entitled to receive supporting or additional information necessary to complete the assessment or approve the placement the public agency in the receiving state shall approve a provisional placement and complete or arrange for the completion of the assessment within the timeframes established by the rules of the interstate commission for a placement by a private agency the sending state shall not impose any additional requirements to complete the home study that are not required by the receiving state unless the adoption is finalized in the sending state the interstate commission may develop uniform standards for the assessment of the safety and suitability of interstate placements article vi placement authority except as otherwise provided in this compact no child subject to this compact shall be placed in a receiving state until approval for such placement is obtained if the public agency in the receiving state does not approve the proposed placement then the child shall not be placed the receiving state shall provide written documentation of any such determination in accordance with the rules promulgated by the interstate commission such determination is not subject to judicial review in the sending state if the proposed placement is not approved any interested party shall have standing to seek an administrative review of the receiving state s determination a the administrative review and any further judicial review associated with the determination shall be conducted in the receiving state pursuant to its applicable administrative procedures act b if a determination not to approve the placement of the child in the receiving state is overturned upon review the placement shall be deemed approved provided however that all administrative or judicial remedies have been exhausted or the time for such remedies has passed article vii placing agency responsibility for the interstate placement of a child made by a public agency or state court a the public agency in the sending state shall have financial responsibility for the ongoing support and maintenance for the child during the period of the placement unless otherwise provided for in the receiving state and as determined by the public agency in the sending state services for the child beyond the public services for which the child is eligible in the receiving state b the receiving state shall only have financial responsibility for any assessment conducted by the receiving state and supervision conducted by the receiving state at the level necessary to support the placement as agreed upon by the public agencies of the receiving and sending states c nothing in this section shall prohibit public agencies in the sending state from entering into agreements with licensed agencies or persons in the receiving state to conduct assessments and provide supervision for the placement of a child by a private agency preliminary to a possible adoption the private agency shall be a legally responsible for the child during the period of placement as provided for in the law of the sending state until the finalization of the adoption b financially responsible for the child absent a contractual agreement to the contrary the public agency in the receiving state shall provide timely assessments as provided for in the rules of the interstate commission the public agency in the receiving state shall provide or arrange for the provision of supervision and services for the child including timely reports during the period of the placement nothing in this compact shall be construed to limit the authority of the public agency in the receiving state from contracting with a licensed agency or person in the receiving state for an assessment or the provision of supervision or services for the child or otherwise authorizing the provision of supervision or services by a licensed agency during the period of placement each member state shall provide for coordination among its branches of government concerning the state s participation in and compliance with the compact and interstate commission activities through the creation of an advisory council or use of an existing body or board each member state shall establish a central state compact office which shall be responsible for state compliance with the compact and the rules of the interstate commission the public agency in the sending state shall oversee compliance with the provisions of the indian child welfare act u s section et seq for placements subject to the provisions of this compact prior to placement with the consent of the interstate commission states may enter into limited agreements that facilitate the timely assessment and provision of services and supervision of placements under this compact article viii interstate commission for the placement of children the member states hereby establish by way of this compact a commission known as the interstate commission for the placement of children the activities of the interstate commission are the formation of public policy and are a discretionary state function the interstate commission shall be a joint commission of the member states and shall have the responsibilities powers and duties set forth herein and such additional powers as may be conferred upon it by subsequent concurrent action of the respective legislatures of the member states consist of one commissioner from each member state who shall be appointed by the executive head of the state human services administration with ultimate responsibility for the child welfare program the appointed commissioner shall have the legal authority to vote on matters governed by this compact binding the state a each member state represented at a meeting of the interstate commission is entitled to one vote b a majority of the member states shall constitute a quorum for the transaction of business unless a larger quorum is required by the bylaws of the interstate commission c a representative shall not delegate a vote to another member state d a representative may delegate voting authority to another person from that state for a specified meeting include in addition to the commissioners of each member state persons who are members of interested organizations as defined in the bylaws or rules of the interstate commission such members shall be ex officio and shall not be entitled to vote on any matter before the interstate commission establish an executive committee which shall have the authority to administer the operations and administration of the interstate commission the executive committee shall not have the power to engage in rulemaking article ix powers and duties of the interstate commission the interstate commission shall have the following powers to promulgate rules and take all necessary actions to effect the goals purposes and obligations as enumerated in this compact to provide for dispute resolution among member states to issue upon request of a member state advisory opinions concerning the meaning or interpretation of the interstate compact its bylaws rules or actions to enforce compliance with this compact or the bylaws or rules of the interstate commission pursuant to article collect standardized data concerning the interstate placement of children subject to this compact as directed through its rules which shall specify the data to be collected the means of collection and data exchange and reporting requirements to establish and maintain offices as may be necessary for the transacting of its business to purchase and maintain insurance and bonds to hire or contract for services of personnel or consultants as necessary to carry out its functions under the compact and establish personnel qualification policies and rates of compensation to establish and appoint committees and officers including but not limited to an executive committee as required by article to accept any and all donations and grants of money equipment supplies materials and services and to receive utilize and dispose thereof to lease purchase accept contributions or donations of or otherwise to own hold improve or use any property real personal or mixed to sell convey mortgage pledge lease exchange abandon or otherwise dispose of any property real personal or mixed to establish a budget and make expenditures to adopt a seal and bylaws governing the management and operation of the interstate commission to report annually to the legislatures the governors the judiciary and the state advisory councils of the member states concerning the activities of the interstate commission during the preceding year such reports shall also include any recommendations that may have been adopted by the interstate commission to coordinate and provide education training and public awareness regarding the interstate movement of children for officials involved in such activity to maintain books and records in accordance with the bylaws of the interstate commission to perform such functions as may be necessary or appropriate to achieve the purposes of this compact article x organization and operation of the interstate commission organization a within months after the first interstate commission meeting the interstate commission shall adopt rules to govern its conduct as may be necessary or appropriate to carry out the purposes of the compact b the interstate commission s rules shall establish conditions and procedures under which the interstate commission shall make its information and official records available to the public for inspection or copying meetings a the interstate commission shall meet at least once each calendar year the chairperson may call additional meetings and upon the request of a simple majority of the member states shall call additional meetings b public notice shall be given by the interstate commission of all meetings and all meetings shall be open to the public c the bylaws may provide for meetings of the interstate commission to be conducted by telecommunication or other electronic communication officers and staff a the interstate commission may through its executive committee appoint or retain a staff director for such period upon such terms and conditions and for such compensation as the interstate commission may deem appropriate the staff director shall serve as secretary to the interstate commission but shall not have a vote the staff director may hire and supervise such other staff as may be authorized by the interstate commission b the interstate commission shall elect from among its members a chairperson and a vice chairperson of the executive committee and other necessary officers each of whom shall have such authority and duties as may be specified in the bylaws qualified immunity defense and indemnification a the interstate commission s staff director and its employees shall be immune from suit and liability either personally or in their official capacity for a claim for damage to or loss of property or personal injury or other civil liability caused or arising out of or relating to an actual or alleged act error or omission that occurred or that such person had a reasonable basis for believing occurred within the scope of interstate commission employment duties or responsibilities provided however that such person shall not be protected from suit or liability for damage loss injury or liability caused by a criminal act or the intentional or willful and wanton misconduct of such person b the liability of the interstate commission s staff director and employees or interstate commission representatives acting within the scope of such person s employment or duties for acts errors or omissions occurring within such person s state may not exceed the limits of liability set forth under the constitution and laws of that state for state officials employees and agents the interstate commission is considered to be an instrumentality of the states for the purposes of any such action nothing in this subsection shall be construed to protect such person from suit or liability for damage loss injury or liability caused by a criminal act or the intentional or willful and wanton misconduct of such person the interstate commission shall defend the staff director and its employees and subject to the approval of the attorney general or other appropriate legal counsel of the member state shall defend the commissioner of a member state in a civil action seeking to impose liability arising out of an actual or alleged act error or omission that occurred within the scope of interstate commission employment duties or responsibilities or that the defendant had a reasonable basis for believing occurred within the scope of interstate commission employment duties or responsibilities provided however that the actual or alleged act error or omission did not result from intentional or willful and wanton misconduct on the part of such person to the extent not covered by the state involved a member state or the interstate commission the representatives or employees of the interstate commission shall be held harmless in the amount of a settlement or judgment including attorney s fees and costs obtained against such persons arising out of an actual or alleged act error or omission that occurred within the scope of interstate commission employment duties or responsibilities or that such persons had a reasonable basis for believing occurred within the scope of interstate commission employment duties or responsibilities provided however that the actual or alleged act error or omission did not result from intentional or willful and wanton misconduct on the part of such persons article xi rulemaking functions of the interstate commission the interstate commission shall promulgate and publish rules in order to effectively and efficiently achieve the purposes of the compact rulemaking shall occur pursuant to the criteria set forth in this article and the bylaws and rules adopted pursuant thereto such rulemaking shall substantially conform to the principles of the model state administrative procedures act act uniform laws annotated vol p or such other administrative procedure acts as the interstate commission deems appropriate consistent with due process requirements under the united states constitution as now or hereafter interpreted by the united states supreme court all rules and amendments shall become binding as of the date specified as published with the final version of the rule as approved by the interstate commission when promulgating a rule the interstate commission shall at a minimum a publish the proposed rule s entire text stating the reasons for that proposed rule b allow and invite any and all persons to submit written data facts opinions and arguments which information shall be added to the record and made publicly available and c promulgate a final rule and its effective date if appropriate based on input from state or local officials or interested parties rules promulgated by the interstate commission shall have the force and effect of administrative rules and shall be binding in the compacting states to the extent and in the manner provided for in this compact not later than days after a rule is promulgated an interested person may file a petition in the united states district court for the district of columbia or in the federal district court where the interstate commission s principal office is located for judicial review of such rule if the court finds that the interstate commission s action is not supported by substantial evidence in the rulemaking record the court shall hold the rule unlawful and set it aside if a majority of the legislatures of the member states rejects a rule those states may by enactment of a statute or resolution in the same manner used to adopt the compact cause that such rule shall have no further force and effect in any member state the existing rules governing the operation of the interstate compact on the placement of children superseded by this act shall be null and void no less than months but no more than months after the first meeting of the interstate commission created hereunder as determined by the members during the first meeting within the first months of operation the interstate commission shall promulgate rules addressing the following a transition rules b forms and procedures c timelines d data collection and reporting e rulemaking f visitation g progress reports and supervision h sharing of information and confidentiality i financing of the interstate commission j mediation arbitration and dispute resolution k education training and technical assistance l enforcement m coordination with other interstate compacts upon determination by a majority of the members of the interstate commission that an emergency exists a the interstate commission may promulgate an emergency rule only if it is required to protect the children covered by this compact from an imminent threat to their health safety and prevent loss of federal or state funds or meet a deadline for the promulgation of an administrative rule required by federal law b an emergency rule shall become effective immediately upon adoption provided that the usual rulemaking procedures provided hereunder shall be retroactively applied to the emergency rule as soon as reasonably possible but no later than days after the effective date of the emergency rule c an emergency rule shall be promulgated as provided for in the rules of the interstate commission article xii oversight dispute resolution and enforcement oversight a the interstate commission shall oversee the administration and operation of the compact b the executive legislative and judicial branches of state government in each member state shall enforce this compact and the rules of the interstate commission and shall take all actions necessary and appropriate to effectuate the compact s purposes and intent the compact and its rules shall be binding in the compacting states to the extent and in the manner provided for in this compact c all courts shall take judicial notice of the compact and the rules in any judicial or administrative proceeding in a member state pertaining to the subject matter of this compact d the interstate commission shall be entitled to receive service of process in any action in which the validity of a compact provision or rule is the issue for which a judicial determination has been sought and shall have standing to intervene in any proceedings failure to provide service of process to the interstate commission shall render any judgment order or other determination however so captioned or classified void as to this compact its bylaws or rules of the interstate commission dispute resolution a the interstate commission shall attempt upon the request of a member state to resolve disputes which are subject to the compact and which may arise among member states and between member and nonmember states b the interstate commission shall promulgate a rule providing for both mediation and binding dispute resolution for disputes among compacting states the costs of such mediation or dispute resolution shall be the responsibility of the parties to the dispute enforcement if the interstate commission determines that a member state has defaulted in the performance of its obligations or responsibilities under this compact its bylaws or rules of the interstate commission the interstate commission may a provide remedial training and specific technical assistance b provide written notice to the defaulting state and other member states of the nature of the default and the means of curing the default the interstate commission shall specify the conditions by which the defaulting state must cure its default c by majority vote of the members initiate against a defaulting member state legal action in the united states district court for the district of columbia or at the discretion of the interstate commission in the federal district where the interstate commission has its principal office to enforce compliance with the provisions of the compact its bylaws or rules of the interstate commission the relief sought may include both injunctive relief and damages in the event judicial enforcement is necessary the prevailing party shall be awarded all costs of such litigation including reasonable attorney s fees or d avail itself of any other remedies available under state law or the regulation of official or professional conduct article xiii financing of the commission the interstate commission shall pay or provide for the payment of the reasonable expenses of its establishment organization and ongoing activities the interstate commission may levy on and collect an annual assessment from each member state to cover the cost of the operations and activities of the interstate commission and its staff which must be in a total amount sufficient to cover the interstate commission s annual budget as approved by its members each year the aggregate annual assessment amount shall be allocated based upon a formula to be determined by the interstate commission which shall promulgate a rule binding upon all member states the interstate commission shall not incur obligations of any kind prior to securing the funds adequate to meet those obligations nor shall the interstate commission pledge the credit of any of the member states except by and with the authority of the member state the interstate commission shall keep accurate accounts of all receipts and disbursements the receipts and disbursements of the interstate commission shall be subject to the audit and accounting procedures established under its bylaws however all receipts and disbursements of funds handled by the interstate commission shall be audited yearly by a certified or licensed public accountant and the report of the audit shall be included in and become part of the annual report of the interstate commission article xiv any state is eligible to become a member state the compact shall become effective and binding upon legislative enactment of the compact into law by no less than states the effective date shall be the later of july or upon enactment of the compact into law by the state thereafter it shall become effective and binding as to any other member state upon enactment of the compact into law by that state the executive heads of the state human services administration with ultimate responsibility for the child welfare program of nonmember states or their designees shall be invited to participate in the activities of the interstate commission on a nonvoting basis prior to adoption of the compact by all states the interstate commission may propose amendments to the compact for enactment by the member states no amendment shall become effective and binding on the member states unless and until it is enacted into law by unanimous consent of the member states article xv withdrawal and dissolution withdrawal a once effective the compact shall continue in force and remain binding upon each and every member state provided that a member state may withdraw from the compact by specifically repealing the statute which enacted the compact into law b withdrawal from this compact shall be by the enactment of a statute repealing the compact the effective date of withdrawal shall be the effective date of the repeal of the statute c the withdrawing state shall immediately notify the president of the interstate commission in writing upon the introduction of legislation repealing this compact in the withdrawing state the interstate commission shall then notify the other member states of the withdrawing state s intent to withdraw d the withdrawing state is responsible for all assessments obligations and liabilities incurred through the effective date of withdrawal e reinstatement following withdrawal of a member state shall occur upon the withdrawing state reenacting the compact or upon such later date as determined by the members of the interstate commission dissolution of compact a this compact shall dissolve effective upon the date of the withdrawal or default of the member state which reduces the membership in the compact to one member state b upon the dissolution of this compact the compact becomes null and void and shall be of no further force or effect and the business and affairs of the interstate commission shall be concluded and surplus funds shall be distributed in accordance with the bylaws article xvi severability and construction the provisions of this compact shall be severable and if any phrase clause sentence or provision is deemed unenforceable the remaining provisions of the compact shall be enforceable the provisions of this compact shall be liberally construed to effectuate its purposes nothing in this compact shall be construed to prohibit the concurrent applicability of other interstate compacts to which the states are members article xvii binding effect of compact and other laws other laws nothing in this compact prevents the enforcement of any other law of a member state that is not inconsistent with this compact binding effect of the compact a all lawful actions of the interstate commission are binding upon the member states b all agreements between the interstate commission and the member states are binding in accordance with their terms c in the event any provision of this compact exceeds the constitutional limits imposed on the legislature or executive branch of any member state such provision shall be ineffective to the extent of the conflict with the constitutional provision in question in that member state article xviii indian tribes notwithstanding any other provision in this compact the interstate commission may promulgate guidelines to permit indian tribes to utilize the compact to achieve any or all of the purposes of the compact as specified in article the interstate commission shall make reasonable efforts to consult with indian tribes in promulgating guidelines to reflect the diverse circumstances of the various indian tribes adoption reference changed amend rsa iv to read as follows the department or a licensed agency making the required assessment may request other departments or licensed agencies within or outside this state to make the assessment or designated portions thereof as may be appropriate where such written assessments are made a written report shall be filed with the court provided however said report shall not violate rsa the interstate compact on for the placement of children placement of a child with a parent the provisions of this chapter shall not apply to the placement of a child with a parent provided that the parent proves to the satisfaction of a court a substantial relationship with the child and the court makes a written finding that placement with the parent is in the best interests of the child repeal rsa relative to the placement of a child with a parent under the interstate compact on the placement of children is repealed the remainder of this act shall take effect january"
+    }
+}

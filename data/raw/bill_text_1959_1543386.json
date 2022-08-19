@@ -1,0 +1,350 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1543386,
+        "change_hash": "3cb4ec0035d09b286fbc080027ece88d",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1125/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2715&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1125",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2022-06-22",
+        "progress": [
+            {
+                "date": "2021-11-17",
+                "event": 1
+            },
+            {
+                "date": "2021-11-17",
+                "event": 9
+            },
+            {
+                "date": "2022-02-03",
+                "event": 10
+            },
+            {
+                "date": "2022-03-01",
+                "event": 2
+            },
+            {
+                "date": "2022-03-01",
+                "event": 9
+            },
+            {
+                "date": "2022-04-14",
+                "event": 10
+            },
+            {
+                "date": "2022-06-09",
+                "event": 3
+            },
+            {
+                "date": "2022-06-22",
+                "event": 8
+            },
+            {
+                "date": "2022-06-22",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1125",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to school emergency plans.",
+        "description": "Relative to school emergency plans.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-11-17",
+                "committee_id": 1240,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Education"
+            },
+            {
+                "date": "2022-03-01",
+                "committee_id": 1267,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Education"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-11-17",
+                "action": "Introduced 01/05/2022 and referred to Education",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-09",
+                "action": "Public Hearing: 01/20/2022 10:45 am Legislative Office Building 205-207",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-25",
+                "action": "Executive Session: 01/25/2022 08:00 am Legislative Office Building 205-207",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-03",
+                "action": "Committee Report: Ought to Pass with Amendment # 2022-0141h (Vote 19-0; Consent Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-02-16",
+                "action": "Ought to Pass with Amendment 2022-0141h: Motion Adopted Voice Vote 02/16/2022 House Journal  3",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-23",
+                "action": "Amendment # 2022-0141h: Amendment Adopted Voice Vote 02/16/2022 House Journal  3",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-01",
+                "action": "Introduced 02/24/2022 and Referred to Education; Senate Journal 5",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-30",
+                "action": "Hearing: 04/05/2022, Room 101, Legislative Office Building, 09:00 am; Senate Calendar  14",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-14",
+                "action": "Committee Report: Ought to Pass with Amendment # 2022-1511s, 04/21/2022; Vote 5-0; Consent Calendar; Senate Calendar  16",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2022-04-21",
+                "action": "Committee Amendment # 2022-1511s, Amendment Adopted, Voice Vote; 04/21/2022; Senate Journal 9",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-04-21",
+                "action": "Ought to Pass with Amendment 2022-1511s, Motion Adopted, Voice Vote; OT3rdg; 04/21/2022; Senate Journal 9",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-05-13",
+                "action": "House Concurs with Senate Amendment (Rep. Ladd): Motion Adopted Voice Vote 05/12/2022",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-06-09",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 05/26/2022); Senate Journal 13",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2022-06-09",
+                "action": "Enrolled (in recess of) 05/26/2022",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-06-22",
+                "action": "Signed by Governor Sununu 06/17/2022; Chapter 187; 06/17/2022 House Journal  14",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 14478,
+                "person_hash": "1kegb9fu",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Glenn Cordelli",
+                "first_name": "Glenn",
+                "middle_name": "",
+                "last_name": "Cordelli",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-04-CAR",
+                "ftm_eid": 13703548,
+                "votesmart_id": 143307,
+                "opensecrets_id": "",
+                "knowwho_pid": 427994,
+                "ballotpedia": "Glenn_Cordelli",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 17471,
+                "person_hash": "7ldkn52f",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Patricia Cornell",
+                "first_name": "Patricia",
+                "middle_name": "",
+                "last_name": "Cornell",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-18-HIL",
+                "ftm_eid": 9701043,
+                "votesmart_id": 154281,
+                "opensecrets_id": "",
+                "knowwho_pid": 503474,
+                "ballotpedia": "Patricia_Cornell",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 12886,
+                "person_hash": "2bsgot9r",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Marjorie Porter",
+                "first_name": "Marjorie",
+                "middle_name": "",
+                "last_name": "Porter",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-01-HIL",
+                "ftm_eid": 6510482,
+                "votesmart_id": 14523,
+                "opensecrets_id": "",
+                "knowwho_pid": 296493,
+                "ballotpedia": "Marjorie_Porter",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2461994,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1125/id/2461994",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1808&txtFormat=html",
+                "text_size": 11222,
+                "text_hash": "bdb11cdbf46ed26a77981862e47e468a"
+            },
+            {
+                "doc_id": 2521818,
+                "date": "2022-02-16",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1125/id/2521818",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&txtFormat=html&v=HA&id=1808",
+                "text_size": 11396,
+                "text_hash": "01f78803a92776af8862e8459f2a6c83"
+            },
+            {
+                "doc_id": 2573381,
+                "date": "2022-04-21",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1125/id/2573381",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&txtFormat=html&v=SA&id=1808",
+                "text_size": 13808,
+                "text_hash": "5e6fcd3ff77f85f27c84406f28952321"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-20",
+                "time": "10:45",
+                "location": "Legislative Office Building 205-207",
+                "description": "Education Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-25",
+                "time": "08:00",
+                "location": "Legislative Office Building 205-207",
+                "description": "Education Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-04-05",
+                "time": "09:00",
+                "location": "Room 101, Legislative Office Building",
+                "description": "Education Hearing"
+            }
+        ],
+        "full_text": "schools emergency operations plans amend the subdivision heading preceding rsa to read as follows emergency response operations plans schools emergency operations plans rsa is repealed and reenacted to read as follows emergency operations plans every public chartered public and nonpublic school shall develop a school emergency operations plan which is based on and conforms to the incident command system and the national incident management system and submit such plan to the director of homeland security and emergency management department of safety by october of each year access to all plans shall be provided to the department of education a the plan shall address hazards including but not limited to acts of violence biological incidents civil unrest cyber incidents drought earthquakes extreme temperatures floods hurricane severe storm internal and external hazardous materials releases medical emergencies structural fire threats tornadoes wildfire winter storm or any other hazard deemed necessary by school officials and local emergency authorities b schools that are located within the emergency planning zone shall address radiological emergencies within the emergency operations plan as required by the federal emergency management agency fema in nureg the plan shall provide that at least of the currently required number of fire evacuation drills shall be emergency response drills of which at least one shall test emergency response to an armed assailant the armed assailant drill may be discussion based the types of drills and exercises and the manner and time in which these activities take place shall be determined by the school in collaboration with local public safety emergency management and public health officials the school may include students and first responders in response drills or activities as appropriate the first emergency operations plan drill shall be conducted within one year of the completion of the plan if the school has a building schematic floor plan diagram the school may with the approval of the local school board submit the diagram to the division of homeland security and emergency management department of safety in a commonly used digital format submission of the diagram will enable the state to better prepare respond and mitigate potentially dangerous conditions should the need arise each school shall provide the plan to and coordinate the plan with local emergency authorities and with the emergency operations plan in the municipality in which the school is located each school shall review its plan at least annually and update the plan as necessary and shall submit the updated plan to the director of homeland security and emergency management department of safety by october if after review the plan is unchanged the school shall notify the department of safety by october that the plan is unchanged a the director of homeland security and emergency management department of safety shall assist schools in conducting training for and providing support to schools districts in the development implementation and review of an emergency operations plan upon request b for just cause the director of homeland security and emergency management department of safety may grant a school district city chartered public school public academy or nonpublic school up to a extension to the reporting deadline the director may further extend the deadline when unusual or unforeseen circumstances prevent a school district city chartered public school public academy or nonpublic school from submitting the required reports under paragraph v before the expiration of such extension c if a school district city chartered public school public academy or nonpublic school fails to submit its emergency operations plan by the established deadline for consecutive years the director of homeland security and emergency management department of safety shall notify the department of education"
+    }
+}

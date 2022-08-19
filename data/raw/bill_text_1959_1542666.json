@@ -1,0 +1,161 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1542666,
+        "change_hash": "ad8b60c5c4a4baccfffa5100f781229a",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1050/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2069&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1050",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-11-02",
+        "progress": [
+            {
+                "date": "2021-11-02",
+                "event": 1
+            },
+            {
+                "date": "2021-11-02",
+                "event": 9
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1050",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Declaring November 11 as Remembrance Day.",
+        "description": "Declaring November 11 as Remembrance Day.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-11-02",
+                "committee_id": 1262,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "State-federal Relations and Veterans Affairs"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-11-02",
+                "action": "Introduced 01/05/2022 and referred to State-Federal Relations and Veterans Affairs",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-09",
+                "action": "Public Hearing: 01/14/2022 09:00 am Legislative Office Building 201-203",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-31",
+                "action": "Committee Report: Refer for Interim Study HB1050 (Vote 21-0; Consent Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-01",
+                "action": "Executive Session: 01/21/2022 03:00 pm Legislative Office Building 201-203",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-16",
+                "action": "Refer for Interim Study: Motion Adopted Voice Vote 02/16/2022 House Journal  3",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 4802,
+                "person_hash": "qb4mmu60",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Stephen Shurtleff",
+                "first_name": "Stephen",
+                "middle_name": "",
+                "last_name": "Shurtleff",
+                "suffix": "",
+                "nickname": "Steve",
+                "district": "HD-11-MER",
+                "ftm_eid": 6463896,
+                "votesmart_id": 42264,
+                "opensecrets_id": "",
+                "knowwho_pid": 228849,
+                "ballotpedia": "Stephen_Shurtleff",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2461291,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1050/id/2461291",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1162&txtFormat=html",
+                "text_size": 7384,
+                "text_hash": "c5f64f1122c479f0230f8b7499116b1f"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-14",
+                "time": "09:00",
+                "location": "Legislative Office Building 201-203",
+                "description": "State-Federal Relations and Veterans Affairs Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-21",
+                "time": "15:00",
+                "location": "Legislative Office Building 201-203",
+                "description": "State-Federal Relations and Veterans Affairs Executive Session"
+            }
+        ],
+        "full_text": "remembrance day in recognition of the armistice agreement that ended the first world war the governor shall annually proclaim november as remembrance day on this day the governor shall urge cities and towns to observe this day with appropriate ceremonies and activities"
+    }
+}

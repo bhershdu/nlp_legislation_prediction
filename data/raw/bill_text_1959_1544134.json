@@ -1,0 +1,244 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1544134,
+        "change_hash": "281461749b4a6455ac36c89b05c408a8",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1670/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2416&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1670",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-12-30",
+        "progress": [
+            {
+                "date": "2021-12-30",
+                "event": 1
+            },
+            {
+                "date": "2021-12-30",
+                "event": 9
+            },
+            {
+                "date": "2022-03-07",
+                "event": 11
+            },
+            {
+                "date": "2022-03-07",
+                "event": 10
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1670",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to funds of the education freedom account program after termination of a student's participation and responsibilities of the scholarship organization.",
+        "description": "Relative to funds of the education freedom account program after termination of a student's participation and responsibilities of the scholarship organization.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-12-30",
+                "committee_id": 1240,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Education"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-12-30",
+                "action": "Introduced 01/05/2022 and referred to Education",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-19",
+                "action": "Public Hearing: 02/02/2022 02:00 pm Legislative Office Building 205-207",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-07",
+                "action": "Executive Session: 02/02/2022 02:00 pm Legislative Office Building 205-207",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-07",
+                "action": "Majority Committee Report: Inexpedient to Legislate (Vote 10-9; Regular Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-07",
+                "action": "Minority Committee Report: Ought to Pass",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-20",
+                "action": "Lay HB1670 on Table (Rep. Ladd): Motion Adopted DV 188-163 03/16/2022 House Journal  7",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 19161,
+                "person_hash": "t6eaph47",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Bonnie Ham",
+                "first_name": "Bonnie",
+                "middle_name": "",
+                "last_name": "Ham",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-05-GRA",
+                "ftm_eid": 6594611,
+                "votesmart_id": 5063,
+                "opensecrets_id": "",
+                "knowwho_pid": 196943,
+                "ballotpedia": "Bonnie_Ham",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21807,
+                "person_hash": "tlbyuyoy",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Brodie Deshaies",
+                "first_name": "Brodie",
+                "middle_name": "",
+                "last_name": "Deshaies",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-06-CAR",
+                "ftm_eid": 50226968,
+                "votesmart_id": 194708,
+                "opensecrets_id": "",
+                "knowwho_pid": 744060,
+                "ballotpedia": "Brodie_Deshaies",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18149,
+                "person_hash": "itr43jxq",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Dan Wolf",
+                "first_name": "Dan",
+                "middle_name": "",
+                "last_name": "Wolf",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-07-HIL",
+                "ftm_eid": 9697983,
+                "votesmart_id": 172477,
+                "opensecrets_id": "",
+                "knowwho_pid": 587510,
+                "ballotpedia": "Dan_Wolf_(New_Hampshire)",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2462886,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1670/id/2462886",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1509&txtFormat=html",
+                "text_size": 14628,
+                "text_hash": "217155091c906cf4a4ffe1540e106fe9"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1172227,
+                "date": "2022-03-16",
+                "desc": "Table",
+                "yea": 188,
+                "nay": 163,
+                "nv": 18,
+                "absent": 21,
+                "total": 390,
+                "passed": 1,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/HB1670/id/1172227",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=98&sy=2022&lb=H&eb=HB1670&sortoption=&txtsessionyear=2022&txtbillnumber=HB1670&ddlsponsors=&lsr=2416"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-02",
+                "time": "14:00",
+                "location": "Legislative Office Building 205-207",
+                "description": "Education Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-02",
+                "time": "14:00",
+                "location": "Legislative Office Building 205-207",
+                "description": "Education Executive Session"
+            }
+        ],
+        "full_text": "education freedom accounts program enrolling in public school amend rsa vi to read as follows upon notice to the scholarship organization an efa student may choose to stop receiving efa funding and enroll in a public school a enrolling as a student in the resident district public school shall result in the immediate suspension of payment of additional funds into the student s efa however an efa that has been open for at least one full school year shall remain open and active for the parent to make qualifying expenditures to educate the student from funds remaining in the efa when no funds remain in the student s efa the scholarship organization may close the efa termination of the efa and any remaining funds being be transferred back to the education trust fund b if an eligible student decides to return to the efa program payments into the student s existing efa may resume if the efa is still open and active a new efa may be established if the student s efa was closed responsibilities of the scholarship organization audits misuse of funds amend rsa x through xiii to read as follows the scholarship organization may shall conduct or contract for the auditing of individual efas and shall at a minimum conduct random audits of efas on an annual basis the scholarship organization may shall make any parent or efa student ineligible for the efa program in the event of intentional and substantial misuse of efa funds a the scholarship organization shall create procedures to ensure that a fair process exists to determine whether an intentional and substantial misuse of efa funds has occurred b if an efa student is free from personal misconduct that student shall be eligible for an efa in the future if placed with a new guardian or other person with the legal authority to act on behalf of the student c the scholarship organization may shall refer suspected cases of intentional and substantial misuse of efa funds to the attorney general for investigation if evidence of fraudulent use of efa funds is obtained d a parent or efa student may appeal the scholarship organization s decision to deny eligibility for the efa program to the department the scholarship organization may bar an education service provider from accepting payments from efas if the scholarship organization determines that the education service provider has a intentionally and substantially misrepresented information or failed to refund any overpayments in a timely manner b routinely failed to provide students with promised educational goods or services the scholarship organization shall create procedures to ensure that a fair process exists to determine whether an education service provider may be barred from receiving payments from efas a if the scholarship organization bars an education service provider from receiving payments from efas it shall notify parents and efa students of its decision as quickly as possible within business days b education service providers may appeal the scholarship organization s decision to bar them from receiving payments from the efa to the department"
+    }
+}

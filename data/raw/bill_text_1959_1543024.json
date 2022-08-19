@@ -1,0 +1,191 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1543024,
+        "change_hash": "2938df0972c3f1abb9e3ba3c94b24d61",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1023/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2258&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1023",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-11-02",
+        "progress": [
+            {
+                "date": "2021-11-02",
+                "event": 1
+            },
+            {
+                "date": "2021-11-02",
+                "event": 9
+            },
+            {
+                "date": "2022-02-10",
+                "event": 11
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1023",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to regulation of athlete agents.",
+        "description": "Relative to regulation of athlete agents.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-11-02",
+                "committee_id": 1250,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Judiciary"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-11-02",
+                "action": "Introduced 01/05/2022 and referred to Judiciary",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-13",
+                "action": "Public Hearing: 01/19/2022 09:30 am Legislative Office Building 206-208",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-27",
+                "action": "Executive Session: 02/03/2022 09:00 am Legislative Office Building 206-208",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-10",
+                "action": "Committee Report: Inexpedient to Legislate (Vote 21-0; Consent Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-02-16",
+                "action": "Inexpedient to Legislate: Motion Adopted Voice Vote 02/16/2022 House Journal  3",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 19878,
+                "person_hash": "n0xfc702",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Josh Yokela",
+                "first_name": "Josh",
+                "middle_name": "",
+                "last_name": "Yokela",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-33-ROC",
+                "ftm_eid": 45378989,
+                "votesmart_id": 185522,
+                "opensecrets_id": "",
+                "knowwho_pid": 670769,
+                "ballotpedia": "Josh_Yokela",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21791,
+                "person_hash": "utnxsxt0",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Tim Baxter",
+                "first_name": "Tim",
+                "middle_name": "",
+                "last_name": "Baxter",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-20-ROC",
+                "ftm_eid": 50226956,
+                "votesmart_id": 195031,
+                "opensecrets_id": "",
+                "knowwho_pid": 744368,
+                "ballotpedia": "Tim_Baxter",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2461643,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1023/id/2461643",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1351&txtFormat=html",
+                "text_size": 16483,
+                "text_hash": "88fcad1209ae30a096ad0085d5452856"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-19",
+                "time": "09:30",
+                "location": "Legislative Office Building 206-208",
+                "description": "Judiciary Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-03",
+                "time": "09:00",
+                "location": "Legislative Office Building 206-208",
+                "description": "Judiciary Executive Session"
+            }
+        ],
+        "full_text": "athlete agents required form of contract amend rsa ii b to read as follows b the name of any person not listed in the application for registration or renewal of registration who will be compensated because the signed the agency contract athlete agents prohibited conduct penalties amend rsa and to read as follows prohibited conduct penalties an athlete agent with the intent to induce a to enter into an agency contract shall not a give any materially false or misleading information or make a materially false promise or representation b furnish anything of value to a before the enters into the agency contract c furnish anything of value to any individual other than the or another registered athlete agent an athlete agent shall not a initiate contact with a unless registered under this chapter contribute to the loss of eligibility of a student athlete without a signed contract with the warning required pursuant to rsa b refuse or fail to retain or permit inspection of the records required to be retained by rsa refuse a student athlete s right to cancel as required pursuant to rsa c fail to register when required by rsa fail to give notice to an education institution as required pursuant to rsa d provide materially false or misleading information in an application for registration or renewal of registration e d predate or postdate an agency contract f e fail to notify a before the signs or otherwise authenticates an agency contract for a particular sport that the signing or authentication may make the ineligible to participate as a in that sport a an athlete agent who violates any provision of paragraph i is guilty of a class b felony b an athlete agent who violates any provision of paragraph ii is guilty of a class a misdemeanor civil remedies an educational institution has a right of action against an athlete agent or a former for damages caused by a violation of rsa in an action under this section the court may award to the prevailing party costs and reasonable attorney s fees damages of an educational institution under paragraph i include losses and expenses incurred because as a result of the conduct of an athlete agent or former the educational institution was injured by a violation of rsa or was penalized disqualified or suspended from participation in athletics by a national association for the promotion and regulation of athletics by an athletic conference or by reasonable disciplinary action taken to mitigate sanctions likely to be imposed by such an organization a right of action under this section does not accrue until the educational institution discovers or by the exercise of reasonable diligence would have discovered the violation by the athlete agent or former any liability of the athlete agent or the former under this section is several and not joint a former student athlete has a right of action against an athlete agent for damages caused by any violation of rsa ii a or b in any such action the court may award to the prevailing party costs and reasonable attorney s fees damages of a student athlete under paragraph shall include losses and expenses incurred because as a result of the conduct of an athlete agent the former student athlete was penalized disqualified or suspended from participation in athletics by a national association for the promotion and regulation of athletics by an athletic conference or because of reasonable disciplinary action taken to mitigate sanctions likely to be imposed such an organization damages shall not include those damages imposed by judgments against the former athlete agent this chapter does not restrict rights remedies or defenses of any person under law or equity repeal the following are repealed rsa ix relative to the definition of registration for purposes of regulating athlete agents rsa through relative to the registration of athlete agents rsa relative to required records of athlete agents rsa relative to administrative penalties against athlete agents"
+    }
+}

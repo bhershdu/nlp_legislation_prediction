@@ -1,0 +1,188 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1542757,
+        "change_hash": "c9fa2809e31702e4f728ccd5f0949c6c",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1149/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2453&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1149",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-11-17",
+        "progress": [
+            {
+                "date": "2021-11-17",
+                "event": 1
+            },
+            {
+                "date": "2021-11-17",
+                "event": 9
+            },
+            {
+                "date": "2022-02-22",
+                "event": 11
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1149",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to the number of names required for nomination by nomination papers.",
+        "description": "Relative to the number of names required for nomination by nomination papers.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-11-17",
+                "committee_id": 1241,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Election Law"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-11-17",
+                "action": "Introduced 01/05/2022 and referred to Election Law",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-26",
+                "action": "Public Hearing: 02/03/2022 09:30 am Legislative Office Building 306-308",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-10",
+                "action": "Executive Session: 02/10/2022 1:00 p.m. Legislative Office Building306-308",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-22",
+                "action": "Committee Report: Inexpedient to Legislate (Vote 20-0; Consent Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-11",
+                "action": "Inexpedient to Legislate: Motion Adopted Voice Vote 03/10/2022 House Journal  5",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-21",
+                "action": "Removed from Consent (Rep. Abramson) 03/10/2022 House Journal  5",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 19766,
+                "person_hash": "ia8i53pp",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Kevin Craig",
+                "first_name": "Kevin",
+                "middle_name": "",
+                "last_name": "Craig",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-04-COO",
+                "ftm_eid": 45946739,
+                "votesmart_id": 185473,
+                "opensecrets_id": "",
+                "knowwho_pid": 671017,
+                "ballotpedia": "Kevin_Craig_(New_Hampshire)",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2461380,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1149/id/2461380",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1546&txtFormat=html",
+                "text_size": 9279,
+                "text_hash": "dca7f3d3f76332f77c709034cda689d6"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1167964,
+                "date": "2022-03-10",
+                "desc": "ITL",
+                "yea": 283,
+                "nay": 43,
+                "nv": 63,
+                "absent": 0,
+                "total": 389,
+                "passed": 1,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/HB1149/id/1167964",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=68&sy=2022&lb=H&eb=HB1149&sortoption=&txtsessionyear=2022&txtbillnumber=HB1149&ddlsponsors=&lsr=2453"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-03",
+                "time": "09:30",
+                "location": "Legislative Office Building 306-308",
+                "description": "Election Law Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-10",
+                "time": "13:00",
+                "location": "Legislative Office Building306-308",
+                "description": "Election Law Executive Session"
+            }
+        ],
+        "full_text": "nomination by nomination papers number amend rsa to read as follows number it shall require the names of registered voters from each united states congressional district in the state to nominate by nomination papers a candidate for president united states senator or governor it shall require the names of voters registered in the district to nominate by nomination papers a candidate for united states representative to nominate a candidate for councilor or state senator and to nominate a candidate for state representative or county officer it shall require the names of registered voters equaling one percent of the total votes cast at the previous state general election to nominate by nomination papers a political organization"
+    }
+}

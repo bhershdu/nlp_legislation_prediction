@@ -1,0 +1,254 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1543523,
+        "change_hash": "17f3e5ce8857f65467ad73ac1f8478ec",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HR17/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2570&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HR17",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-11-18",
+        "progress": [
+            {
+                "date": "2021-11-18",
+                "event": 1
+            },
+            {
+                "date": "2021-11-18",
+                "event": 9
+            },
+            {
+                "date": "2022-01-31",
+                "event": 10
+            },
+            {
+                "date": "2022-01-31",
+                "event": 11
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HR17",
+        "bill_type": "R",
+        "bill_type_id": "2",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Opposing all federal and state efforts to establish a carbon tax on fuels for electricity and transportation.",
+        "description": "Opposing all federal and state efforts to establish a carbon tax on fuels for electricity and transportation.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-11-18",
+                "committee_id": 1262,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "State-federal Relations and Veterans Affairs"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-11-18",
+                "action": "Introduced 01/05/2022 and referred to State-Federal Relations and Veterans Affairs",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-09",
+                "action": "Public Hearing: 01/20/2022 11:15 am Legislative Office Building 201-203",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-01-31",
+                "action": "Committee Report: Ought to Pass Majority (Vote 11-10; Regular Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-31",
+                "action": "Minority Committee Report: Inexpedient to Legislate",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-31",
+                "action": "Ought to Pass: Motion Adopted Regular Calendar 178-159 03/31/2022 House Journal  9",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 21794,
+                "person_hash": "k4vbi4j7",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "JD Bernardy",
+                "first_name": "JD",
+                "middle_name": "",
+                "last_name": "Bernardy",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-16-ROC",
+                "ftm_eid": 16014256,
+                "votesmart_id": 195036,
+                "opensecrets_id": "",
+                "knowwho_pid": 744359,
+                "ballotpedia": "J_D_Bernardy",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 10920,
+                "person_hash": "ocox7vyt",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Jeanine Notter",
+                "first_name": "Jeanine",
+                "middle_name": "M.",
+                "last_name": "Notter",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-21-HIL",
+                "ftm_eid": 13004224,
+                "votesmart_id": 122804,
+                "opensecrets_id": "",
+                "knowwho_pid": 296536,
+                "ballotpedia": "Jeanine_Notter",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21882,
+                "person_hash": "1xj3iye5",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Nick White",
+                "first_name": "Nick",
+                "middle_name": "",
+                "last_name": "White",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-20-MER",
+                "ftm_eid": 50226790,
+                "votesmart_id": 194987,
+                "opensecrets_id": "",
+                "knowwho_pid": 744262,
+                "ballotpedia": "Nick_White_(New_Hampshire)",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21800,
+                "person_hash": "s73fj10s",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Jose Cambrils",
+                "first_name": "Jose",
+                "middle_name": "E.",
+                "last_name": "Cambrils",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-09-MER",
+                "ftm_eid": 45378653,
+                "votesmart_id": 185500,
+                "opensecrets_id": "",
+                "knowwho_pid": 670697,
+                "ballotpedia": "Jose_Cambrils",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2462126,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HR17/id/2462126",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1663&txtFormat=html",
+                "text_size": 7797,
+                "text_hash": "770a1cc4ce070bf73eb302c620d82cb4"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1181335,
+                "date": "2022-03-31",
+                "desc": "OTP",
+                "yea": 178,
+                "nay": 159,
+                "nv": 25,
+                "absent": 28,
+                "total": 390,
+                "passed": 1,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/HR17/id/1181335",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=168&sy=2022&lb=H&eb=HR0017&sortoption=&txtsessionyear=2022&txtbillnumber=HR17&ddlsponsors=&lsr=2570"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-20",
+                "time": "11:15",
+                "location": "Legislative Office Building 201-203",
+                "description": "State-Federal Relations and Veterans Affairs Public Hearing"
+            }
+        ]
+    }
+}

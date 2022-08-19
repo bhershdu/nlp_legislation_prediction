@@ -1,0 +1,243 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1543521,
+        "change_hash": "4f547dbc58f45203b8028394d221aa11",
+        "session_id": 1959,
+        "session": {
+            "session_id": 1959,
+            "state_id": 29,
+            "year_start": 2022,
+            "year_end": 2022,
+            "prefile": 0,
+            "sine_die": 0,
+            "prior": 0,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2022 Regular Session",
+            "session_name": "2022 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB1078/2022",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=2100&sy=2022&sortoption=&txtsessionyear=2022&txtbillnumber=HB1078",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-11-02",
+        "progress": [
+            {
+                "date": "2021-11-02",
+                "event": 1
+            },
+            {
+                "date": "2021-11-02",
+                "event": 9
+            },
+            {
+                "date": "2022-03-09",
+                "event": 11
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB1078",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to budget procedures of the Gunstock Area Commission.",
+        "description": "Relative to budget procedures of the Gunstock Area Commission.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-11-02",
+                "committee_id": 1257,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Municipal and County Government"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-11-02",
+                "action": "To Be Introduced 01/05/2022 and referred to Municipal and County Government",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-01-31",
+                "action": "Public Hearing: 01/31/2022 1:00 p.m. Legislative Office Building301-303",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-02-22",
+                "action": "Executive Session: 02/22/2022 9:00 a.m. Legislative Office Building301-303",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2022-03-09",
+                "action": "Committee Report: Inexpedient to Legislate (Vote 19-0; Consent Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2022-03-16",
+                "action": "Inexpedient to Legislate: Motion Adopted Voice Vote 03/15/2022 House Journal  6",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 18162,
+                "person_hash": "69syqij2",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Norman Silber",
+                "first_name": "Norman",
+                "middle_name": "",
+                "last_name": "Silber",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-02-BEL",
+                "ftm_eid": 17005721,
+                "votesmart_id": 172402,
+                "opensecrets_id": "",
+                "knowwho_pid": 586968,
+                "ballotpedia": "Norman_Silber",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21874,
+                "person_hash": "73n5eg45",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Paul Terry",
+                "first_name": "Paul",
+                "middle_name": "A.",
+                "last_name": "Terry",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-05-BEL",
+                "ftm_eid": 50226894,
+                "votesmart_id": 194687,
+                "opensecrets_id": "",
+                "knowwho_pid": 744018,
+                "ballotpedia": "Paul_Terry",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21826,
+                "person_hash": "9u6g4tu4",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Dawn Johnson",
+                "first_name": "Dawn",
+                "middle_name": "M.",
+                "last_name": "Johnson",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-03-BEL",
+                "ftm_eid": 50226770,
+                "votesmart_id": 194681,
+                "opensecrets_id": "",
+                "knowwho_pid": 744014,
+                "ballotpedia": "Dawn_Johnson_(New_Hampshire)",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 17360,
+                "person_hash": "dga0ijjy",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Raymond Howard",
+                "first_name": "Raymond",
+                "middle_name": "",
+                "last_name": "Howard",
+                "suffix": "Jr.",
+                "nickname": "",
+                "district": "HD-08-BEL",
+                "ftm_eid": 25005409,
+                "votesmart_id": 154406,
+                "opensecrets_id": "",
+                "knowwho_pid": 502539,
+                "ballotpedia": "Raymond_Howard",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2462124,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB1078/id/2462124",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2022&id=1194&txtFormat=html",
+                "text_size": 13402,
+                "text_hash": "db062d9d1e5f9ea84739028bf8d48bd6"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-01-31",
+                "time": "13:00",
+                "location": "Legislative Office Building301-303",
+                "description": "Municipal and County Government Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2022-02-22",
+                "time": "09:00",
+                "location": "Legislative Office Building301-303",
+                "description": "Municipal and County Government Executive Session"
+            }
+        ],
+        "full_text": "gunstock area commission appropriation and revenues amend as amended by to read as follows appropriation and revenues a the county convention may from time to time appropriate money for the use of the commission to carry out the purposes of this chapter shall approve the budget submitted by the commission pursuant to this section b all moneys received by the commission from the operation of the area by borrowing from the appropriations by the county convention or from other sources shall be turned over to the county treasurer shall be kept in a separate fund and shall be paid out of the same only upon order of the commission or its duly designated agent c the commission is hereby authorized and empowered to use the revenues from the area pursuant to the budget approved by the county convention according to this section to carry out any and all of the purposes herein stated and is hereby especially authorized and empowered to retain any profits from the operation of the area and invest the same for the purpose of future maintenance operation improvements of the area and for working capital except that any sums accumulated and on hand at the end of the fiscal year in excess of percent of the average gross income of the three immediately preceding fiscal years not required for the payment of outstanding bills of amortization of outstanding indebtedness shall be turned over to the county of belknap if required by vote of the county convention d the commission is hereby authorized to adopt a fiscal year for accounting purposes which need not be the same as the calendar year e all financial transactions of the commission shall be audited annually and at such other times and in such manner as the county convention may determine the commission shall make an annual report to the county convention of its financial and other transactions for the preceding fiscal year on or before the fifteenth day of the second month following the close of the preceding fiscal year this report and the report of such audits as shall be made as herein provided shall be filed with the clerk of the superior court for belknap county after completion and shall be open for public inspection f if the commission at any time requests the county convention for an appropriation or for authority to borrow money as provided in section such request shall be accompanied by a complete budget of expected receipts and expenditures for the current fiscal year f annually at least days in advance of the commencement of the next fiscal year of the commission the commission shall provide to the county convention a detailed budget proposal of appropriations and expected revenues for its upcoming fiscal year setting forth in such detail as the county convention may require details of all proposed appropriations for expenditure by detailed general ledger line items as usually and customarily utilized by the counties in their budgeting processes and pursuant to general ledger formats promulgated by the department of revenue administration each such budget proposal shall also contain disclosures for each general ledger line item the amounts budgeted and the amounts actually expended during each of the preceding fiscal years g adoption of a proposed budget for the commission as well as any supplemental appropriations must be approved by an affirmative vote of a majority of the members of the county convention voting at a meeting called for such purpose the approved budget for the immediately preceding fiscal year shall continue if the county convention has not approved a budget for the commission prior to the commencement of that fiscal year until such time as a new budget has been duly adopted by the county convention h no expenditures by the commission for any purpose shall be made except pursuant to an appropriation for such purpose or purposes approved by the county convention in a duly approved budget or in a supplemental appropriation approved by the county convention i the county convention may adopt and promulgate a transfer policy providing for limits on the power of the members of the commission to transfer appropriations between line items in any approved budget"
+    }
+}
