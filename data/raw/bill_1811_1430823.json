@@ -1,0 +1,163 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1430823,
+        "change_hash": "37dc3a061b7d0675c71a1a818b97bd5b",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/SB119/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=1035&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=SB119",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-29",
+        "progress": [
+            {
+                "date": "2021-01-29",
+                "event": 1
+            },
+            {
+                "date": "2021-01-29",
+                "event": 9
+            },
+            {
+                "date": "2021-03-16",
+                "event": 11
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "SB119",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "S",
+        "body_id": 68,
+        "current_body": "S",
+        "current_body_id": 68,
+        "title": "Relative to the ordinary death benefit in the retirement system.",
+        "description": "Relative to the ordinary death benefit in the retirement system.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-29",
+                "committee_id": 1271,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Finance"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-29",
+                "action": "Introduced 01/06/2021 and Referred to Finance; Senate Journal 3",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-05",
+                "action": "Remote Hearing: 02/09/2021, 01:00 pm; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  10",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-16",
+                "action": "Committee Report: Inexpedient to Legislate, 03/25/2021; Senate Calendar  16",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-25",
+                "action": "Sen. Bradley Moved Laid on Table, Regular Calendar 24Y-0N, Motion Adopted; 03/25/2021; Senate Journal 9",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-25",
+                "action": "Pending Motion Inexpedient to Legislate; 03/25/2021; Senate Journal 9",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 19435,
+                "person_hash": "pcvm1xbc",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Kevin Cavanaugh",
+                "first_name": "Kevin",
+                "middle_name": "J.",
+                "last_name": "Cavanaugh",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-016",
+                "ftm_eid": 43568196,
+                "votesmart_id": 176396,
+                "opensecrets_id": "",
+                "knowwho_pid": 634333,
+                "ballotpedia": "Kevin_Cavanaugh_(New_Hampshire)",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2267346,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB119/id/2267346",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=1026&txtFormat=html",
+                "text_size": 35613,
+                "text_hash": "c62693971b40f7174cd5cea3bf81bef5"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1038801,
+                "date": "2021-03-25",
+                "desc": "Laid on Table",
+                "yea": 24,
+                "nay": 0,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB119/id/1038801",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=215&sy=2021&lb=S&eb=SB0119&sortoption=&txtsessionyear=2021&txtbillnumber=SB119&ddlsponsors=&lsr=1035"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": []
+    }
+}

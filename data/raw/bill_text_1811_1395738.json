@@ -1,0 +1,182 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1395738,
+        "change_hash": "61eda6e026794a115ec94bb0e6b97c58",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB287/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=417&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB287",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-09",
+        "progress": [
+            {
+                "date": "2021-01-09",
+                "event": 1
+            },
+            {
+                "date": "2021-01-09",
+                "event": 9
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB287",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to remote notarization.",
+        "description": "Relative to remote notarization.",
+        "pending_committee_id": 1250,
+        "committee": {
+            "committee_id": 1250,
+            "chamber": "H",
+            "chamber_id": 67,
+            "name": "Judiciary"
+        },
+        "referrals": [
+            {
+                "date": "2021-01-09",
+                "committee_id": 1250,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Judiciary"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-09",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Judiciary House Journal  2 P. 42",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-27",
+                "action": "Public Hearing: 02/02/2021 02:00 pm Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/91233802944 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-02",
+                "action": "Executive Session: 03/02/2021 09:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/95501229688",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-09",
+                "action": "Retained in Committee",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-09-08",
+                "action": "Executive Session: 09/28/2021 10:00 am Legislative Office Building 206-208",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 15324,
+                "person_hash": "ldhysba1",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "David Danielson",
+                "first_name": "David",
+                "middle_name": "J.",
+                "last_name": "Danielson",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-07-HIL",
+                "ftm_eid": 9896444,
+                "votesmart_id": 122258,
+                "opensecrets_id": "",
+                "knowwho_pid": 296710,
+                "ballotpedia": "David_Danielson",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2232819,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB287/id/2232819",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=422&txtFormat=html",
+                "text_size": 22546,
+                "text_hash": "5496f54aeb94b5476934af0c966bc235"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-02",
+                "time": "14:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Judiciary Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-02",
+                "time": "09:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Judiciary Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-02",
+                "time": "09:00",
+                "location": "Members of the public may attend using the following links: 1. T",
+                "description": "Judiciary Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-09-28",
+                "time": "10:00",
+                "location": "Legislative Office Building 206-208",
+                "description": "Judiciary Executive Session"
+            }
+        ],
+        "full_text": "new chapter remote notarization amend rsa by inserting after chapter the following new chapter chapter remote notarization definitions in this chapter commissioned includes those appointed and licensed electronic has the meaning given that term in rsa electronic record has the meaning given that term in rsa electronic signature has the meaning given that term in rsa information has the meaning given that term in rsa law includes any statute regulation or rule of law notarization includes a any act whether performed with respect to a tangible or electronic record and whether performed in an individual official or representative capacity that a notarial officer may perform under new hampshire law or the law of the state in which the individual giving the acknowledgment is located or under the laws of the state under which the notarial officer is commissioned and b any such act in which an individual making a statement or executing a record is not in the physical presence of the notarial officer but is able to communicate with the notarial officer simultaneously by sight and sound through an electronic device or process at the time of such act notarial officer has the meaning given that term in rsa person has the meaning given that term in rsa record has the meaning given that term in rsa requirement includes a duty a standard of care or a prohibition simultaneously means substantially simultaneously and without unreasonable interruption or disconnection but includes reasonably short delays inherent or common in the method of communication stamp or seal of office means an image containing information as specified under the law of the state in which a notarial officer is commissioned which is used by the notarial officer to authenticate the notarization of a record and which may consist of a physical image or impression affixed to or embossed on a tangible record or an electronic image attached to or logically associated with an electronic record state means any state of the united states the district of columbia the commonwealth of puerto rico every territory or possession subject to the jurisdiction of the united states and every federally recognized indian tribe and includes any executive legislative or judicial agency court department board office clerk recorder register commission authority institution or instrumentality and any county municipality or other political subdivision thereof remote notarization requirements subject to the provisions of this chapter a notarial officer commissioned under the laws of this state may perform a notarization for an individual not in the physical presence of the notary officer if a the individual and the notarial officer can communicate simultaneously by sight and sound through an electronic device or process at the time of the notarization b the notarial officer has reasonably identified the individual by one or more of the following a personal knowledge of the individual b at least different types of processes or services by which a third person provides a means to verify the identity of the individual through a review of public or private data sources or c oath or affirmation of a credible witness who i is in the physical presence of either the notarial officer or the individual or ii is able to communicate with the notarial officer and the individual simultaneously by sight and sound through an electronic device or process at the time of the notarization if the credible witness has personal knowledge of the individual and has been reasonably identified by the notarial officer under subparagraph a or b and either directly or through an agent a creates an audio and visual recording of the performance of the notarization and b retains such recording as a notarial record during the term of the notarial officer s office including renewals thereof unless a law of the state requires a different period of retention and if any laws of the state govern the content retention security use effect and disclosure of such recording and any information contained therein such recording shall be subject thereto and for an individual physically located outside the geographic boundaries of the state of new hampshire a the record i is intended for filing with or relates to a matter before a court governmental entity public official or other entity subject to the jurisdiction of the state of new hampshire or ii involves property located in the territorial jurisdiction of the state of new hampshire or a transaction substantially connected to the state of new hampshire and b the notarial officer has no actual knowledge that the act of making the statement or signing the record is prohibited by the laws of the jurisdiction in which the individual is physically located if a state law requires an individual to appear personally before or be in the physical presence of a notarial officer at the time of a notarization that requirement shall be satisfied if the individual and the notarial officer are not in the physical presence of each other but can communicate simultaneously by sight and sound through an electronic device or process at the time of the notarization nothing in this chapter shall require a notarial officer commissioned under the laws of the state of new hampshire to perform a notarization a with respect to an electronic record b for an individual not in the physical presence of the notarial officer or c using a technology that the notarial officer has not selected remote notarization procedure for certification once signed the requesting person shall mail the signed copy of the documents to the notarial officer for certification and execution with the notarial officer s signature and the official stamp or seal the official date and time of the notarization shall be the date and time when the notarial officer witnesses the signature via the electronic devices that provide the audio video presence validity the validity and recognition of a notarization under this chapter shall not prevent an aggrieved person from seeking to invalidate a record or transaction that is the subject of a notarization or from seeking other remedies based on state or federal law other than this chapter for any reason not addressed in this chapter including on the basis a that a person did not with present intent to authenticate or adopt a record execute or adopt on the record a tangible symbol or attach to or logically associate with the record an electronic signature b that an individual was incompetent lacked authority or capacity to execute the record or did not knowingly and voluntarily execute a record or c of fraud forgery mistake misrepresentation impersonation duress undue influence or other invalidating cause nothing in this chapter shall affect or supersede a state law or rule governing authorizing or prohibiting the practice of law the failure of a notarial officer to meet a requirement specified in this chapter shall not invalidate or impair the recognition of a notarization performed by the notarial officer under the authority granted in this chapter this chapter shall not be construed to create a public or private cause of action or remedy this chapter shall not affect the validity of a notarization performed before the effective date hereof the validity and recognition of a notarization performed pursuant to the terms of this chapter shall not be affected by the subsequent repeal or amendment of this chapter if any provision of this chapter or the application of such provision to any person or circumstance is held to be invalid or unconstitutional the remainder of this chapter and the application of the provisions thereof to other persons or circumstances shall not be affected thereby"
+    }
+}

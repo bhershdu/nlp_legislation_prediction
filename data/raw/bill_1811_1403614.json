@@ -1,0 +1,74 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1403614,
+        "change_hash": "30ec27747a39b4b37faddbc0711a7531",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HR10/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=1071&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HR10",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2021-01-12",
+        "progress": [
+            {
+                "date": "2021-01-12",
+                "event": 1
+            },
+            {
+                "date": "2021-01-12",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HR10",
+        "bill_type": "R",
+        "bill_type_id": "2",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "A resolution condemning violence in Washington D.C.",
+        "description": "A resolution condemning violence in Washington D.C.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [],
+        "history": [
+            {
+                "date": "2021-01-12",
+                "action": "Rules Suspension to allow action at the present time Motion Adopted obtaining the necessary 2/3 Regular Calendar 236-35 01/06/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-01-12",
+                "action": "Introduced and Adopted Voice Vote 01/06/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [],
+        "sasts": [],
+        "subjects": [],
+        "texts": [],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": []
+    }
+}

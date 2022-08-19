@@ -1,0 +1,703 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1435209,
+        "change_hash": "0818b3ee70da8fe6763ea31f78a4ce44",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/SB133/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=964&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=SB133",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2021-08-16",
+        "progress": [
+            {
+                "date": "2021-02-03",
+                "event": 1
+            },
+            {
+                "date": "2021-02-03",
+                "event": 9
+            },
+            {
+                "date": "2021-03-10",
+                "event": 10
+            },
+            {
+                "date": "2021-03-24",
+                "event": 10
+            },
+            {
+                "date": "2021-04-13",
+                "event": 2
+            },
+            {
+                "date": "2021-04-13",
+                "event": 9
+            },
+            {
+                "date": "2021-05-26",
+                "event": 10
+            },
+            {
+                "date": "2021-07-28",
+                "event": 3
+            },
+            {
+                "date": "2021-08-16",
+                "event": 8
+            },
+            {
+                "date": "2021-08-16",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "SB133",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "S",
+        "body_id": 68,
+        "current_body": "S",
+        "current_body_id": 68,
+        "title": "Adopting omnibus legislation relative to occupational licensure.",
+        "description": "Adopting omnibus legislation relative to occupational licensure.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-02-03",
+                "committee_id": 1270,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Executive Departments and Administration"
+            },
+            {
+                "date": "2021-04-13",
+                "committee_id": 1243,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Executive Departments and Administration"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-02-03",
+                "action": "Introduced 01/06/2021 and Referred to Executive Departments and Administration; Senate Journal 3",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-04",
+                "action": "Remote Hearing: 02/10/2021, 09:00 am; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  10",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-10",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-0779s, 03/18/2021; Senate Calendar  15",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-18",
+                "action": "Committee Amendment # 2021-0779s, Regular Calendar 23Y-1N, Amendment Adopted; 03/18/2021; Senate Journal 8",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-18",
+                "action": "Sen. Prentiss Moved to divide the Question on Ought to Pass as Amended 2021-0779s, Part II; and then, the Remainder of the Bill; 03/18/2021; Senate Journal 8",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-18",
+                "action": "The Chair ruled the Question Divisible; 03/18/2021; Senate Journal 8",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-18",
+                "action": "Ought to Pass with Amendment 2021-0779s, Part II, Regular Calendar 21Y-2N, Motion Adopted; 03/18/2021; Senate Journal 8",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-18",
+                "action": "Ought to Pass with Amendment 2021-0779s, Remainder of the Bill, Regular Calendar 23Y-1N, Motion Adopted; Refer to Finance Rule 4-5; 03/18/2021; Senate Journal 8",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-24",
+                "action": "Committee Report: Ought to Pass, 04/01/2021; Senate Calendar  17",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-01",
+                "action": "Sen. Prentiss Moved to Divide the Question on SB 133-FN: Part II, and then, the Remainder of the Bill; 04/01/2021; Senate Journal 10",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-01",
+                "action": "The Chair ruled the Question Divisible; 04/01/2021; Senate Journal 10",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-01",
+                "action": "Ought to Pass: Part II, Regular Calendar 22Y-1N, Motion Adopted; 04/01/2021; Senate Journal 10",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-01",
+                "action": "Ought to Pass: Remainder of the Bill, Regular Calendar 24Y-0N, Motion Adopted; OT3rdg; 04/01/2021; Senate Journal 10",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-13",
+                "action": "Introduced (in recess of) 04/09/2021 and referred to Executive Departments and Administration House Journal  7 P. 100",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-14",
+                "action": "==CANCELLED== Public Hearing: 04/22/2021 10:00 am Members of the public may attend using the following link:To join the webinar: https://zoom.us/j/94495026603 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-15",
+                "action": "Public Hearing: 04/21/2021 10:00 am Members of the public may attend using the following link:To join the webinar: https://zoom.us/j/98840025132 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-21",
+                "action": "Part VII Subcommittee Work Session: 04/22/2021 10:00 am Members of the public may attend using the following link:To join the webinar: https://zoom.us/j/93274165337",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-21",
+                "action": "Part V Subcommittee Work Session: 04/22/2021 01:00 pm Members of the public may attend using the following link:To join the webinar: https://zoom.us/j/93274165337",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-21",
+                "action": "Parts I/II/III/IV/VI/VIII/IX/X/XI/XII/XIII Subcommittee Work Session: 04/29/2021 10:00 am Members of the public may attend using the following link: To join the webinar: https://zoom.us/j/99523296379",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-21",
+                "action": "Public Hearing on non-germane Amendment # 2021-1162h: 04/27/2021 01:05 pm Members of the public may attend using the following link:To join the webinar: https://zoom.us/j/93185691814 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-22",
+                "action": "Part VII Subcommittee Work Session: 04/29/2021 09:00 am Members of the public may attend using the following link:To join the webinar: https://zoom.us/j/99523296379",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-26",
+                "action": "Part V Subcommittee Work Session: 05/04/2021 09:30 am Members of the public may attend using the following link:To join the webinar: https://zoom.us/j/91038843098",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-28",
+                "action": "Non Germane Amendment 2021-1162h Subcommittee Work Session: 05/04/2021 10:00 am Members of the public may attend using the following link:To join the webinar: https://zoom.us/j/91038843098",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-04",
+                "action": "Executive Session: 05/11/2021 01:00 pm Members of the public may attend using the following link:To join the webinar: https://zoom.us/j/92150579267 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-26",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-1579h (Vote 19-0; Consent Calendar) House Calendar 26 P. 7",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-06-03",
+                "action": "Amendment # 2021-1579h: Amendment Adopted Voice Vote 06/03/2021 House Journal  8 P. 41",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-03",
+                "action": "Ought to Pass with Amendment 2021-1579h: Motion Adopted Voice Vote 06/03/2021 House Journal  8 P. 41",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-10",
+                "action": "Sen. Carson Moved Nonconcur with the House Amendment; Requests C of C, Motion Adopted, Voice Vote; 06/10/2021; Senate Journal 19",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-10",
+                "action": "President Appoints: Senators Carson, Reagan, Cavanaugh; 06/10/2021; Senate Journal 19",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-10",
+                "action": "House Accedes to Senate Request for CofC (Rep. McGuire): Motion Adopted Voice Vote 06/10/2021 House Journal  10 P. 16",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-10",
+                "action": "Speaker Appoints: Reps. McGuire, S. Pearson, Yakubovich, Grote 06/10/2021 House Journal  10 P. 16",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-11",
+                "action": "Conferee Change; Senator Whitley Replaces Senator Cavanaugh; Senate Journal 20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-11",
+                "action": "Committee of Conference Meeting: 06/14/2021, 9:30 a.m., Room 100, State House",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-17",
+                "action": "Conference Committee Report # 2021-1943c Filed 06/10/2021; House Amendment",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-24",
+                "action": "Conference Committee Report 2021-1943c: Adopted, Voice Vote 06/24/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-24",
+                "action": "Conference Committee Report # 2021-1943c, Adopted, Voice Vote; 06/24/2021; Senate Journal 20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-20",
+                "action": "Enrolled Bill Amendment # 2021-2074e: Amendment Adopted Voice Vote (in recess of) 06/24/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-21",
+                "action": "Enrolled Bill Amendment # 2021-2074e Adopted, Voice Vote, (In recess of 06/24/2021); Senate Journal 20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-28",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 06/24/2021); Senate Journal 20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-28",
+                "action": "Enrolled (in recess of) 06/24/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-08-16",
+                "action": "Signed by the Governor on 08/10/2021; Chapter 0205",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-08-16",
+                "action": "Part I Effective 10/09/2021",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-08-16",
+                "action": "Part II Effective 10/09/2021",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-08-16",
+                "action": "Part III Effective 08/10/2021",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-08-16",
+                "action": "Part IV Effective 07/01/2021",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-08-16",
+                "action": "Part V. Effective I. Section 1 & 2 as provided in Part V; Section 5",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-08-16",
+                "action": "Part V. II. Remainder Effective 01/01/2022",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-08-16",
+                "action": "Part VI Effective 08/10/2021",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-08-16",
+                "action": "Part VII Effective 10/09/2021",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-08-16",
+                "action": "Part VIII Effective 10/09/2021",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-08-16",
+                "action": "Part IX Effective 08/10/2021",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-08-16",
+                "action": "Part X Effective 08/10/2021",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-08-16",
+                "action": "Part XI Effective 10/09/2021",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 4775,
+                "person_hash": "kswslwpv",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Sharon Carson",
+                "first_name": "Sharon",
+                "middle_name": "",
+                "last_name": "Carson",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-014",
+                "ftm_eid": 6593753,
+                "votesmart_id": 42537,
+                "opensecrets_id": "",
+                "knowwho_pid": 208650,
+                "ballotpedia": "Sharon_Carson",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2272295,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB133/id/2272295",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=955&txtFormat=html",
+                "text_size": 488425,
+                "text_hash": "b028b08596e2d2aba6b07c22c277014f"
+            },
+            {
+                "doc_id": 2342858,
+                "date": "2021-03-18",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB133/id/2342858",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=SA&id=955",
+                "text_size": 309040,
+                "text_hash": "b287e478d91f40b33c4025f62f4c0260"
+            },
+            {
+                "doc_id": 2355383,
+                "date": "2021-04-01",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB133/id/2355383",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&v=SP&id=955",
+                "text_size": 501744,
+                "text_hash": "d748920452f20390e5e454e5dde46992"
+            },
+            {
+                "doc_id": 2411654,
+                "date": "2021-03-18",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB133/id/2411654",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=HA&id=955",
+                "text_size": 277331,
+                "text_hash": "164437293d086bcebbb2b3dcce0e81c9"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1035851,
+                "date": "2021-03-18",
+                "desc": "Committee Amendment",
+                "yea": 23,
+                "nay": 1,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB133/id/1035851",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=178&sy=2021&lb=S&eb=SB0133&sortoption=&txtsessionyear=2021&txtbillnumber=SB133&ddlsponsors=&lsr=964"
+            },
+            {
+                "roll_call_id": 1035852,
+                "date": "2021-03-18",
+                "desc": "Divide Remainder",
+                "yea": 23,
+                "nay": 1,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB133/id/1035852",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=180&sy=2021&lb=S&eb=SB0133&sortoption=&txtsessionyear=2021&txtbillnumber=SB133&ddlsponsors=&lsr=964"
+            },
+            {
+                "roll_call_id": 1037235,
+                "date": "2021-03-18",
+                "desc": "Divide Remainder",
+                "yea": 21,
+                "nay": 2,
+                "nv": 0,
+                "absent": 1,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB133/id/1037235",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=179&sy=2021&lb=S&eb=SB0133&sortoption=&txtsessionyear=2021&txtbillnumber=SB133&ddlsponsors=&lsr=964"
+            },
+            {
+                "roll_call_id": 1046260,
+                "date": "2021-04-01",
+                "desc": "Divide Part II",
+                "yea": 22,
+                "nay": 1,
+                "nv": 0,
+                "absent": 1,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB133/id/1046260",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=251&sy=2021&lb=S&eb=SB0133&sortoption=&txtsessionyear=2021&txtbillnumber=SB133&ddlsponsors=&lsr=964"
+            },
+            {
+                "roll_call_id": 1046261,
+                "date": "2021-04-01",
+                "desc": "Divide Remainder",
+                "yea": 24,
+                "nay": 0,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB133/id/1046261",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=252&sy=2021&lb=S&eb=SB0133&sortoption=&txtsessionyear=2021&txtbillnumber=SB133&ddlsponsors=&lsr=964"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-04-21",
+                "time": "10:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Executive Departments and Administration Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-04-22",
+                "time": "10:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "(CANCELLED) Executive Departments and Administration Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-04-22",
+                "time": "10:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Executive Departments and Administration Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-04-22",
+                "time": "13:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Executive Departments and Administration Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-04-29",
+                "time": "10:00",
+                "location": "Members of the public may attend using the following link: To jo",
+                "description": "Executive Departments and Administration Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-04-29",
+                "time": "09:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Executive Departments and Administration Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-05-04",
+                "time": "09:30",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Executive Departments and Administration Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-05-04",
+                "time": "10:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Executive Departments and Administration Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-05-11",
+                "time": "13:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Executive Departments and Administration Executive Session"
+            }
+        ]
+    }
+}

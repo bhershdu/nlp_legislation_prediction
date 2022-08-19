@@ -1,0 +1,243 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1400144,
+        "change_hash": "a2d9929f7aa5c38c1a764d161fb70288",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB508/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=752&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB508",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-11",
+        "progress": [
+            {
+                "date": "2021-01-11",
+                "event": 1
+            },
+            {
+                "date": "2021-01-11",
+                "event": 9
+            },
+            {
+                "date": "2021-03-29",
+                "event": 11
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB508",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Establishing a committee to study the definition of \"temporary\" as it pertains to residence in the state for voting purposes.",
+        "description": "Establishing a committee to study the definition of \"temporary\" as it pertains to residence in the state for voting purposes.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-11",
+                "committee_id": 1241,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Election Law"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-11",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Election Law House Journal  2 P. 51",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-08",
+                "action": "Public Hearing: 03/08/2021 10:00 am Please click the link below to join the webinar:https://zoom.us/j/91394352757Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-29",
+                "action": "Committee Report: Inexpedient to Legislate (Vote 20-0; Consent Calendar) House Calendar 18 P. 9",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Inexpedient to Legislate: Motion Adopted Voice Vote 04/07/2021 House Journal  5 P. 12",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Reconsider (Rep. Osborne): Motion Failed Voice Vote 04/07/2021 House Journal  5 P. 50",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 18810,
+                "person_hash": "jop80o18",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Peter Torosian",
+                "first_name": "Peter",
+                "middle_name": "E.",
+                "last_name": "Torosian",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-14-ROC",
+                "ftm_eid": 41757598,
+                "votesmart_id": 172539,
+                "opensecrets_id": "",
+                "knowwho_pid": 587653,
+                "ballotpedia": "Peter_Torosian",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19160,
+                "person_hash": "tsvwjqxp",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "John Janigian",
+                "first_name": "John",
+                "middle_name": "",
+                "last_name": "Janigian",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-08-ROC",
+                "ftm_eid": 40527566,
+                "votesmart_id": 173063,
+                "opensecrets_id": "",
+                "knowwho_pid": 587626,
+                "ballotpedia": "John_Janigian",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 16885,
+                "person_hash": "wv76xmbo",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Chris True",
+                "first_name": "Chris",
+                "middle_name": "",
+                "last_name": "True",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-04-ROC",
+                "ftm_eid": 25005586,
+                "votesmart_id": 154543,
+                "opensecrets_id": "",
+                "knowwho_pid": 501771,
+                "ballotpedia": "Chris_True",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19830,
+                "person_hash": "h40x79f9",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Michael Gunski",
+                "first_name": "Michael",
+                "middle_name": "",
+                "last_name": "Gunski",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-06-HIL",
+                "ftm_eid": 45378748,
+                "votesmart_id": 185243,
+                "opensecrets_id": "",
+                "knowwho_pid": 670387,
+                "ballotpedia": "Michael_Gunski",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2234448,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB508/id/2234448",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=752&txtFormat=html",
+                "text_size": 9830,
+                "text_hash": "7e5d039e2ab07a397068e0c6b6cd279d"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-08",
+                "time": "13:00",
+                "location": "Please click the link below to join the webinar:https://zoom.us/",
+                "description": "Election Law Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-08",
+                "time": "10:00",
+                "location": "Please click the link below to join the webinar:https://zoom.us/",
+                "description": "Election Law Public Hearing"
+            }
+        ],
+        "full_text": "committee established there is established a committee to study the definition of temporary as it pertains to residence in the state for voting purposes membership and compensation the members of the committee shall be as follows a three members of the house of representatives appointed by the speaker of the house of representatives b three members of the senate appointed by the president of the senate members of the committee shall receive mileage at the legislative rate when attending to the duties of the committee duties the committee shall study the definition of temporary as it pertains to residence in the state for voting purposes chairperson quorum the members of the study committee shall elect a chairperson from among the members the first meeting of the committee shall be called by the house member the first meeting of the committee shall be held within days of the effective date of this section four members of the committee shall constitute a quorum report the committee shall report its findings and any recommendations for proposed legislation to the speaker of the house of representatives the president of the senate the house clerk the senate clerk the governor and the state library on or before november"
+    }
+}

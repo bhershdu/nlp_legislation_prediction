@@ -1,0 +1,210 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1395980,
+        "change_hash": "b809a0035b31ece88b346e8725aad7c6",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB276/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=474&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB276",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-09",
+        "progress": [
+            {
+                "date": "2021-01-09",
+                "event": 1
+            },
+            {
+                "date": "2021-01-09",
+                "event": 9
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB276",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to availability of menstrual hygiene products in schools.",
+        "description": "Relative to availability of menstrual hygiene products in schools.",
+        "pending_committee_id": 1240,
+        "committee": {
+            "committee_id": 1240,
+            "chamber": "H",
+            "chamber_id": 67,
+            "name": "Education"
+        },
+        "referrals": [
+            {
+                "date": "2021-01-09",
+                "committee_id": 1240,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Education"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-09",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Education House Journal  2 P. 41",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-09",
+                "action": "Public Hearing: 03/09/2021 10:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/97054508060 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-17",
+                "action": "Retained in Committee",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-09-29",
+                "action": "Executive Session: 10/14/2021 09:30 am Legislative Office Building 205-207",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 18153,
+                "person_hash": "h6wcnlm4",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Jess Edwards",
+                "first_name": "Jess",
+                "middle_name": "",
+                "last_name": "Edwards",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-11-HIL",
+                "ftm_eid": 25005737,
+                "votesmart_id": 172496,
+                "opensecrets_id": "",
+                "knowwho_pid": 587584,
+                "ballotpedia": "Jess_Edwards",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19819,
+                "person_hash": "8zx0v085",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Judy Aron",
+                "first_name": "Judy",
+                "middle_name": "",
+                "last_name": "Aron",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-07-SUL",
+                "ftm_eid": 45378624,
+                "votesmart_id": 185539,
+                "opensecrets_id": "",
+                "knowwho_pid": 670808,
+                "ballotpedia": "Judy_Aron",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 16622,
+                "person_hash": "k000lozh",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Katherine Prudhomme-O'Brien",
+                "first_name": "Katherine",
+                "middle_name": "",
+                "last_name": "Prudhomme-O'Brien",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-06-ROC",
+                "ftm_eid": 6695401,
+                "votesmart_id": 127368,
+                "opensecrets_id": "",
+                "knowwho_pid": 296206,
+                "ballotpedia": "Katherine_Prudhomme_O%27Brien",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2232847,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB276/id/2232847",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=447&txtFormat=html",
+                "text_size": 9424,
+                "text_hash": "eb4b60feef4bffe33a9669eadc2358f6"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-09",
+                "time": "10:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Education Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-10-14",
+                "time": "09:30",
+                "location": "Legislative Office Building 205-207",
+                "description": "Education Executive Session"
+            }
+        ]
+    }
+}

@@ -1,0 +1,266 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1395626,
+        "change_hash": "64b0fda66e9dc321fa79ac659744bf53",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB246/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=143&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB246",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-09",
+        "progress": [
+            {
+                "date": "2021-01-09",
+                "event": 1
+            },
+            {
+                "date": "2021-01-09",
+                "event": 9
+            },
+            {
+                "date": "2021-02-17",
+                "event": 11
+            },
+            {
+                "date": "2021-02-17",
+                "event": 10
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB246",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Establishing a protective order for vulnerable adults.",
+        "description": "Establishing a protective order for vulnerable adults.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-09",
+                "committee_id": 1249,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Health, Human Services & Elderly Affairs"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-09",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Health, Human Services and Elderly Affairs House Journal  2 P. 40",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-20",
+                "action": "==RECESSED== Public Hearing: 01/26/2021 01:45 pm Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/94852322897 / Executive session on pending legislation may be held throughout the day (time permitting) from the time thecommittee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-01-27",
+                "action": "==CONTINUED== Public Hearing: 02/08/2021 01:00 pm Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/92769044991 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-16",
+                "action": "Executive Session: 02/16/2021 01:30 pm",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-17",
+                "action": "Majority Committee Report: Inexpedient to Legislate (Vote 14-7; Regular Calendar) House Calendar 12 P. 21",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-17",
+                "action": "Minority Committee Report: Ought to Pass",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-24",
+                "action": "Indefinitely Postpone (Rep. Burt): Motion Adopted Regular Calendar 195-158 02/24/2021 House Journal  3 P. 69",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 5026,
+                "person_hash": "fenlx6qz",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Robert Cushing",
+                "first_name": "Robert",
+                "middle_name": "Reynolds",
+                "last_name": "Cushing",
+                "suffix": "",
+                "nickname": "Renny",
+                "district": "HD-21-ROC",
+                "ftm_eid": 6433716,
+                "votesmart_id": 14688,
+                "opensecrets_id": "",
+                "knowwho_pid": 233889,
+                "ballotpedia": "Robert_Cushing",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 16060,
+                "person_hash": "78xprz0j",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Latha Mangipudi",
+                "first_name": "Latha",
+                "middle_name": "",
+                "last_name": "Mangipudi",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-35-HIL",
+                "ftm_eid": 9697845,
+                "votesmart_id": 145406,
+                "opensecrets_id": "",
+                "knowwho_pid": 475422,
+                "ballotpedia": "Latha_Mangipudi",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19809,
+                "person_hash": "rh4yysxz",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Wendy Chase",
+                "first_name": "Wendy",
+                "middle_name": "",
+                "last_name": "Chase",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-18-STR",
+                "ftm_eid": 45378661,
+                "votesmart_id": 185394,
+                "opensecrets_id": "",
+                "knowwho_pid": 670925,
+                "ballotpedia": "Wendy_Chase",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2234687,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB246/id/2234687",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=146&txtFormat=html",
+                "text_size": 57420,
+                "text_hash": "8eaf1f2f0e576fa3e0aeba0836527a94"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1017298,
+                "date": "2021-02-26",
+                "desc": "Indefinitely Postpone",
+                "yea": 195,
+                "nay": 158,
+                "nv": 15,
+                "absent": 30,
+                "total": 398,
+                "passed": 1,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/HB246/id/1017298",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=29&sy=2021&lb=H&eb=HB0246&sortoption=&txtsessionyear=2021&txtbillnumber=HB246&ddlsponsors=&lsr=143"
+            },
+            {
+                "roll_call_id": 1036969,
+                "date": "2021-02-26",
+                "desc": "Indefinitely Postpone",
+                "yea": 195,
+                "nay": 158,
+                "nv": 10,
+                "absent": 35,
+                "total": 398,
+                "passed": 1,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/HB246/id/1036969",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=29&sy=2021&lb=H&eb=HB0246&sortoption=&txtsessionyear=2021&txtbillnumber=HB246&ddlsponsors=&lsr=0143"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-01-26",
+                "time": "13:45",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Health, Human Services and Elderly Affairs Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-08",
+                "time": "13:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Health, Human Services and Elderly Affairs Public Hearing"
+            }
+        ],
+        "full_text": "new chapter protective orders for vulnerable adults amend rsa by inserting after chapter the following new chapter chapter protective orders for vulnerable adults purpose the purpose of this chapter is to enable vulnerable adults to seek permanent and temporary relief from abuse exploitation and neglect definitions in this chapter abuse means any one of the following a emotional abuse means the misuse of power authority or both verbal harassment or unreasonable confinement which results or could result in the mental anguish or emotional distress of a vulnerable adult b physical abuse means the use of physical force which results or could result in physical injury to a vulnerable adult c sexual abuse means contact or interaction of a sexual nature involving a vulnerable adult without his or her informed consent d other abuse means any of the following assault or reckless conduct as defined in rsa through rsa criminal threatening as defined in rsa sexual assault as defined in rsa through rsa interference with freedom as defined in rsa through rsa destruction of property as defined in rsa and rsa unauthorized entry as defined in rsa and rsa harassment as defined in rsa cruelty to animals as defined in rsa authorized means written consent provided by the vulnerable adult contact means any action to communicate with another either directly or indirectly including but not limited to using any form of electronic communication leaving items or causing another to communicate in such fashion defendant means the person against whom the protective orders are sought and if the petition is granted the restrained person department means the department of health and human services exploitation means the improper use of a vulnerable adult s person or property for another person s profit or advantage or the breach of a fiduciary relationship through the use of a person or a person s property for any purpose not in the proper and lawful execution of a trust including but not limited to situations where a person obtains money property or services from a vulnerable adult through the use of undue influence harassment duress deception fraud or under any circumstances where the person knew or had reason to know that the vulnerable adult lacked capacity to consent foreign protective order means an order enforceable under rsa neglect means an act or omission which results or could result in the deprivation of essential services or supports necessary to maintain the minimum mental emotional or physical health and safety of a vulnerable adult plaintiff means the vulnerable adult to be protected by the protective orders and if the court grants the petition the protected person vulnerable means that the physical mental or emotional ability of a person is such that he or she is unable to manage personal home or financial affairs in his or her own best interest or he or she is unable to act or unable to delegate responsibility to a responsible caretaker or caregiver jurisdiction and venue the district division and the judicial branch family division of the circuit courts shall have concurrent jurisdiction over all proceedings under this chapter if the plaintiff has left the household or premises to avoid further abuse the plaintiff shall have the option to commence proceedings pursuant to rsa in the county or district where the plaintiff temporarily resides proceedings under this chapter may be transferred to another court upon the motion of any party or of the court as the interests of justice or the convenience of the parties may require commencement of proceedings hearing a vulnerable adult guardian or of a vulnerable adult or if authorized by the vulnerable adult the department may seek relief pursuant to rsa by filing a petition in the county or district where the plaintiff or defendant resides alleging abuse exploitation or neglect by the defendant any person filing a petition containing false allegations of abuse shall be subject to criminal penalties notice of the pendency of the action and of the facts alleged against the defendant shall be given to the defendant either personally or as provided in paragraph the plaintiff shall be permitted to supplement or amend the petition only if the defendant is provided an opportunity prior to the hearing to respond to the supplemental or amended petition all petitions filed under this section shall include the home and work telephone numbers of the defendant if known notice of the whereabouts of the plaintiff shall not be revealed except by order of the court for good cause shown any answer by the defendant shall be filed with the court and a copy shall be provided to the plaintiff by the court no filing fee or fee for service of process shall be charged for a petition or response under this section and the plaintiff or defendant may proceed without legal counsel either a peace officer or the sheriff s department shall serve process under this section any proceeding under this chapter shall not preclude any other available civil or criminal remedy the clerks of the circuit courts shall supply forms for petitions and for relief under this chapter designed to facilitate pro se proceedings all such petitions shall contain the following words i swear that the foregoing information is true and correct to the best of my knowledge i understand that making a false statement on this petition will subject me to criminal penalties prior to filing a petition under this chapter the plaintiff shall be required to complete a worksheet developed by the court outlining the plaintiff s rights and options for relief under this chapter rsa and rsa the worksheet shall also advise plaintiffs that they may contact new hampshire legal assistance and the new hampshire domestic violence hotline for assistance prior to filing a petition plaintiffs shall be required to sign the worksheet stating the following i understand my rights and options as explained in this worksheet i am freely choosing to file this petition even though there are other petitions i may qualify for that are specifically designed for victims of domestic violence and stalking i understand that using this petition may prevent me from getting additional protections for physical safety that may be available to me including the right to ask the court to order the defendant to hand over their firearms or deadly weapons a the court shall hold a hearing within days of the filing of a petition under this section or within days of service of process upon the defendant whichever occurs later b the time frame established in this paragraph may be extended for an additional days upon motion by either party for good cause shown a recusal by the judge or any act of god or closing of the court that interferes with the originally scheduled hearing shall not be cause for the dismissal of the petition the court shall reschedule any hearing under this section in an expeditious manner in any proceeding under this chapter the court shall not be bound by the technical rules of evidence and may admit evidence which it considers relevant and material the filing of a petition under this chapter including any facts alleged or findings made regarding the plaintiff s mental or physical capacity shall not be admitted as evidence for any purpose in any other court proceeding in a proceeding under this chapter a support person may accompany a party in court and if the party is not represented by an attorney may sit with the party at the table that is generally reserved for the party and the party s attorney the support person is present to provide moral and emotional support for a person who alleges he or she is a victim of abuse the support person is not present as a legal adviser and shall not provide legal advice the support person may assist the person who alleges he or she is a victim of abuse in feeling more confident that he or she will not be injured or threatened by the other party during the proceedings if the person who alleges he or she is a victim of abuse and the other party are required to be present in close proximity this section shall not preclude the court from exercising its discretion to remove the support person from the courtroom if the court believes the support person is prompting swaying or influencing the party assisted by the support person temporary relief upon a showing of an immediate and present danger of abuse exploitation or neglect the court may enter temporary orders to protect the plaintiff with or without actual notice to defendant the court may issue such temporary orders by telephone facsimile or any other methods approved by court rules such telephonically issued orders shall be made by a circuit court judge to a law enforcement officer shall be valid in any jurisdiction in the state and shall be effective until the close of the next regular court business day such orders shall be returnable to the circuit court where the plaintiff resides or to which the plaintiff has fled unless otherwise ordered by the issuing judge if temporary orders are made ex parte the party against whom such relief is issued may file a written request with the clerk of the court and request a hearing on such orders such hearing shall be held no less than business days and no more than business days after the request is received by the clerk such hearings may constitute the final hearing described in rsa such temporary relief may include a protective orders restraining the defendant from abusing exploiting or neglecting the plaintiff restraining the defendant from entering the premises and curtilage where the plaintiff resides except when the defendant is accompanied by a peace officer and upon reasonable notice to the plaintiff is allowed entry by the plaintiff for the sole purpose of retrieving toiletries medication clothing business equipment and any other items as determined by the court restraining the defendant from withholding items of the plaintiff s personal property which are specified in the order a peace officer shall accompany the plaintiff or his or her representative in retrieving such property to protect the plaintiff restraining the defendant from contacting the plaintiff or entering a specified place frequented regularly by the plaintiff restraining the defendant from abusing the plaintiff plaintiff s relatives regardless of their place of residence or plaintiff s household members in any way restraining the defendant from taking converting or damaging property in which the plaintiff has a legal or equitable interest granting the plaintiff exclusive care custody or control of any animal owned possessed leased kept or held by the plaintiff or by the plaintiff jointly with the defendant in either household and ordering the defendant to stay away from the animal and forbidding the defendant from taking transferring encumbering concealing committing an act of cruelty or neglect or disposing of the animal b other relief including but not limited to in the case of financial exploitation prohibiting the defendant from transferring or otherwise encumbering any of his or her assets which equal or exceed the amount of assets claimed to be exploited provided however that such prohibition shall not extend to encumber or otherwise limit the rights of creditors mortgagees or secured parties in such property restraining the defendant from taking any action which would lead to the disconnection of any and all utilities and services to the parties household or the discontinuance of existing business or service contracts including but not limited to mortgage or rental agreements an order enjoining a party from specified behavior that the court determines is necessary to protect the vulnerable adult relief a finding of abuse exploitation or neglect shall mean the defendant represents a credible threat to the safety of the plaintiff or physical mental or financial upon a showing of abuse exploitation or neglect of the plaintiff by a preponderance of the evidence the court shall grant such relief as is necessary to bring about a cessation of abuse exploitation or neglect such relief may include a protective orders restraining the defendant from abusing exploiting or neglecting the plaintiff restraining the defendant from entering the premises and curtilage where the plaintiff resides except when the defendant is accompanied by a peace officer and is allowed entry by the plaintiff for the sole purpose of retrieving personal property specified by the court restraining the defendant from contacting the plaintiff or entering the plaintiff s place of employment school or any specified place frequented regularly by the plaintiff or by any family or household member restraining the defendant from abusing the plaintiff plaintiff s relatives regardless of their place of residence or plaintiff s household members in any way restraining the defendant from taking converting or damaging property in which the plaintiff has a legal or equitable interest granting the plaintiff exclusive care custody or control of any animal owned possessed leased kept or held by the plaintiff or by the plaintiff jointly with the defendant in either household and ordering the defendant to stay away from the animal and forbidding the defendant from taking transferring encumbering concealing committing an act of cruelty or neglect or disposing of the animal b other relief including but not limited to granting the plaintiff the exclusive use and possession of the premises and curtilage of the plaintiff s place of residence unless the defendant exclusively owns or leases and pays for the premises and the defendant has no legal duty to support the plaintiff and provided however that such relief shall not extend to extinguish encumber or otherwise limit the rights of creditors mortgagees or secured parties in such property restraining the defendant from withholding items of the plaintiff s personal property specified by the court a peace officer shall accompany the plaintiff in retrieving such property to protect the plaintiff granting to the plaintiff the exclusive right of use and possession of the household furniture furnishings or a specific automobile unless the defendant exclusively owns such personal property and the defendant has no legal duty to support the plaintiff ordering the defendant to make automobile insurance health care utilities rent or mortgage payments if the defendant has a legal or fiduciary duty to do so ordering the defendant to pay the plaintiff monetary compensation for losses suffered as a direct result of the abuse exploitation or neglect which may include but not be limited to misappropriated funds loss of earnings or support medical and dental expenses damage to property losses for injuries sustained and moving and shelter expenses ordering the defendant to pay reasonable attorney s fees the court shall not deny the plaintiff protective orders based solely on a lapse of time between an act of abuse exploitation or neglect and the filing of a petition provided that the underlying act presents a credible threat to the plaintiff s current safety or physical mental or financial no order made under this section shall supersede or affect any court order pertaining to the possession of a residence or household furniture as determined by a circuit court or title to real or personal property the findings of fact with respect to the protective order shall be final but questions of law may be transferred from the circuit court to the supreme court any order under this section shall be for a fixed period of time not to exceed one year but may be extended by order of the court upon a motion by the plaintiff showing good cause with notice to the defendant for one year after the expiration of the first order and thereafter each extension may be for up to years upon the request of the plaintiff and at the discretion of the court the court shall review the order and each renewal thereof and shall grant such relief as may be necessary to provide for the safety and of the plaintiff a defendant shall have the right to a hearing on the extension of any order under this paragraph to be held within days of the extension the court shall state in writing at the respondent s request its reason or reasons for granting the extension the court shall retain jurisdiction to enforce and collect any financial compensation due to the plaintiff which accrued prior to the expiration of the protective order both parties shall be issued written copies of any orders issued by the court and all orders shall bear the following language a willful violation of this order is a crime as well as contempt of court violations of the protective provisions shall result in arrest and may result in imprisonment orders shall clearly state how any party can request a further hearing and how the plaintiff may bring a criminal complaint or a petition for contempt if there is a violation of any court order a no order issued under this chapter shall be modified other than by the court b if either party wishes the defendant to be excused from any provisions of an order of protection the remedy is to petition the court for modification of such order c a defendant who is restrained from contacting the plaintiff or entering the premises of the plaintiff is prohibited from doing so even if invited by the plaintiff unless the restraining order has been modified by the court d this paragraph shall give unequivocal direction to peace officers that orders for protection are to be enforced as written and that no action by a party relieves them of the duty to enforce the order upon issuing an order against a defendant in which a defendant is restrained from having any contact with the plaintiff the court shall advise the plaintiff that it would be unwise and possibly unsafe for the plaintiff to contact the defendant if the plaintiff wishes to contact the defendant for any reason the court shall advise the plaintiff that such contact be made only after petitioning the court for a modification of the order in an emergency situation the plaintiff or plaintiff s family may request that the local police department notify the defendant and the local police may accompany the defendant to a designated location such as a hospital if appropriate a a copy of each protective order issued under this chapter shall be transmitted to the administrative office of the courts by facsimile or computer an emergency protective order issued telephonically shall be transmitted by telephone or facsimile to the department of safety b the administrative office of the courts shall enter information regarding the protective orders into the state database which shall be made available to police and sheriff departments statewide the department of safety shall make available information regarding emergency protective orders issued telephonically to police and sheriff departments statewide c the administrative office of the courts shall update the database upon expiration or termination of a protective order d notwithstanding any other provision of law the administrative office of the courts the department of health and human services or the department of safety their employees and agents and law enforcement officials shall not be held criminally or civilly liable for action taken under this chapter or rsa provided they are acting in good faith and without gross negligence and within the scope of their duties and authority permissible contact a protective order issued pursuant to rsa or rsa shall not be construed to prohibit an attorney or any person acting on the attorney s behalf who is representing the defendant in an action brought under this chapter or in any criminal proceeding concerning the abuse alleged under this chapter from contacting the plaintiff for a legitimate purpose within the scope of the civil or criminal proceeding provided that the attorney or person acting on behalf of the attorney identifies himself or herself as a representative of the defendant acknowledges the existence of the protective order and informs the plaintiff that he or she has no obligation to speak terminates contact with the plaintiff if the plaintiff expresses an unwillingness to talk and ensures that any personal contact with the plaintiff occurs outside of the defendant s presence unless the court has modified the protective order to permit such contact a provision in a protective order issued pursuant to rsa or rsa shall not be construed to a prevent contact between counsel for represented parties or b prevent a party from appearing at a scheduled court or administrative hearing or c prevent a defendant or defendant s counsel from sending the plaintiff copies of any legal pleadings filed in court relating to the petition or related civil or criminal matters a violation of this section may result in a finding of contempt of court guardian ad litem in all proceedings under this chapter the court may appoint a guardian ad litem to represent the interests of the vulnerable adult the guardian ad litem may continue to serve after the final disposition of the case notification a copy of any order made under this chapter which prohibits any person from abusing another shall be promptly transmitted to the local law enforcement agency having jurisdiction to enforce such order temporary orders shall be promptly served on the defendant by a peace officer subsequent orders shall be sent to the defendant s last address of record the defendant shall be responsible for informing the court of any changes of address law enforcement agencies shall establish procedures whereby a peace officer at the scene of an alleged violation of such an order may be informed of the existence and terms of such order any changes or modifications of the order shall be effective upon issuance of such changes or modifications and shall be mailed or otherwise provided to the appropriate local law enforcement agency and transmitted to the department of safety within hours of the entry of such changes or modification violation of protective order penalty when the defendant violates either a temporary or permanent protective order issued or enforced under this chapter peace officers shall arrest the defendant and ensure that the defendant is detained until arraignment provided that in extreme circumstances such as when the health of the defendant would be jeopardized by the temporary detention a judge in response to a request by the arresting law enforcement officer or agency may order an alternative to detention pending arraignment such arrests may be made within hours without a warrant upon probable cause whether or not the violation is committed in the presence of a peace officer the prosecution and sentencing for criminal contempt for a violation of a protective order shall not preclude the prosecution of or sentencing for other criminal charges underlying the contempt a person shall be guilty of a class a misdemeanor if such person knowingly violates a protective order issued under this chapter or any foreign protective order enforceable under the laws of this state charges made under this chapter shall not be reduced to a lesser charge as permitted in other instances under rsa any person convicted under paragraph iii or who has been convicted in another jurisdiction of violating a protective order enforceable under the laws of this state who within years of such conviction or the completion of the sentence imposed for such conviction whichever is later subsequently commits and is convicted of one or more offenses involving abuse may be charged with an enhanced penalty for each subsequent offense as follows a there shall be no enhanced charge under this section if the subsequent offense is a class a felony or an unclassified felony b if the subsequent offense would otherwise constitute a class b felony it may be charged as a class a felony c if the subsequent offense would otherwise constitute a class a misdemeanor it may be charged as a class b felony d if the subsequent offense would otherwise constitute a class b misdemeanor it may be charged as a class a misdemeanor e if the subsequent offense would otherwise constitute a violation it may be charged as a class b misdemeanor a victim of abuse exploitation or neglect shall be entitled to all rights granted to victims of crime under rsa protection by peace officers whenever any peace officer has probable cause to believe that a person has been abused exploited or neglected as defined in rsa and rsa that officer shall use all means within reason to prevent further abuse exploitation or neglect including but not limited to transporting or obtaining transportation for the victim to a place of safety local family member or friend assisting the victim in removing toiletries medication clothing and any other items determined by the court giving the victim immediate and written notice of the rights of victims and of the remedies and services available to victims of abuse exploitation and neglect the written notice shall include a statement substantially as follows if you are the victim of abuse exploitation and neglect and you believe that law enforcement protection is needed for your physical safety you have the right to request that the officer assist in providing for your safety including asking for an emergency telephonic order for protection you may also request that the officer assist you in obtaining from your premises and curtilage toiletries medication clothing business equipment and any other items as determined by the court and in locating and taking you to a local safe place including but not limited to a place of safety a family member s or friend s residence or a similar place of safety if you are in need of medical treatment you have the right to request that the officer assist you in obtaining an ambulance you may request a copy of the report filed by the peace officer at no cost from the law enforcement department notice to the victim notwithstanding the peace officer s obligations in rsa all peace officers shall give victims of abuse exploitation and neglect immediate and adequate notice of their right to go to the circuit court of their county to file a petition asking for protective orders against the abusive person and to seek a private criminal complaint the clerk of the court shall be responsible for advising victims of their right to request that the judge issue an order which may include a restraining the defendant from abusing exploiting and or neglecting the victim b directing the defendant to leave and stay away from the victim s premises and curtilage c restraining the defendant from contacting the victim or entering any specified place frequented regularly by the victim d restraining the defendant from abusing in any way the victim household members or victim s relatives regardless of their place of residence e restraining the defendant from taking converting or damaging personal or real property in which the victim may have a legal or equitable interest f ordering the defendant to pay the victim monetary compensation for losses suffered as a direct result of the abuse exploitation or neglect which may include but not be limited to misappropriated funds loss of earnings or support medical and dental expenses damage to property losses for injuries sustained and moving and shelter expenses g ordering the defendant to pay reasonable attorney s fees emergency care limitation and liability any act or omission of any peace officer rendering emergency care or assistance to a victim under this chapter including but not limited to transportation shall not impose civil liability upon the peace officer or the peace officer s supervisors or employer if the care or assistance is rendered in good faith unless the act or omission is a result of gross negligence or willful misconduct orders enforceable any protective order issued under this chapter shall be effective throughout the state any protective order issued by any other state tribal or territorial court related to abuse exploitation or neglect of a vulnerable adult including an ex parte order shall be deemed valid if the issuing court had jurisdiction over the parties and matter under the law of the state tribe or territory and the person against whom the order was made was given reasonable notice and opportunity to be heard there shall be a presumption of validity where an order appears facially valid any valid protective order as defined in paragraph ii shall be accorded full faith and credit throughout the state a person entitled to protection under a foreign protective order as defined in paragraph ii may file such order in any circuit court by filing with the court a certified copy of the order such person shall swear under oath in an affidavit to the best of such person s knowledge that the order is presently in effect as written such filing shall be without fee or cost the clerk of the circuit court shall forward such order to the administrative office of the courts which shall enter such order in the state database such filing shall not be a precondition to arrest or enforcement of a foreign order a peace officer may rely upon a copy of any protective order issued under this chapter or upon a copy of a foreign protective order as defined in this section which has been provided to the peace officer by any source law enforcement personnel may rely on the statement of the person protected by the order that the order remains in effect as written provided such person reasonably appears to be of sound mind when making such statement reporting and referrals any law enforcement officer who investigates an alleged incident of abuse exploitation or neglect of a vulnerable adult shall report the matter to the department pursuant to rsa and advise the person subject to such violence of the availability of programs from which that person may receive services severability if any provision of this chapter or the application of such provision to any person or circumstance is held invalid the invalidity does not affect other provisions or applications of the chapter which can be given effect without the invalid provisions or applications and to this end the provisions of this chapter are severable"
+    }
+}

@@ -1,0 +1,341 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1393013,
+        "change_hash": "e1bafd740bd23c01a07631bec9141319",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB88/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=98&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB88",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2021-05-19",
+        "progress": [
+            {
+                "date": "2021-01-04",
+                "event": 1
+            },
+            {
+                "date": "2021-01-04",
+                "event": 9
+            },
+            {
+                "date": "2021-02-25",
+                "event": 10
+            },
+            {
+                "date": "2021-04-07",
+                "event": 2
+            },
+            {
+                "date": "2021-04-07",
+                "event": 9
+            },
+            {
+                "date": "2021-04-16",
+                "event": 10
+            },
+            {
+                "date": "2021-05-06",
+                "event": 3
+            },
+            {
+                "date": "2021-05-19",
+                "event": 8
+            },
+            {
+                "date": "2021-05-19",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB88",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to the city of Claremont police commission.",
+        "description": "Relative to the city of Claremont police commission.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-04",
+                "committee_id": 1257,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Municipal and County Government"
+            },
+            {
+                "date": "2021-04-07",
+                "committee_id": 3825,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Election Law and Municipal Affairs"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-04",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Municipal and County Government House Journal  2 P. 34",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-27",
+                "action": "Public Hearing: 02/08/2021 09:30 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/96815613466 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-02",
+                "action": "Executive Session: 02/09/2021 02:00 pm Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/93215390740",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-25",
+                "action": "Committee Report: Ought to Pass (Vote 18-0; Consent Calendar) House Calendar 18 P. 20",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Ought to Pass: Motion Adopted Voice Vote 04/07/2021 House Journal  5 P. 43",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Reconsider (Rep. Osborne): Motion Failed Voice Vote 04/07/2021 House Journal  5 P. 50",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Introduced 04/01/2021 and Referred to Election Law and Municipal Affairs; Senate Journal 11",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Remote Hearing: 04/12/2021, 09:30 am; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  19",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-16",
+                "action": "Committee Report: Ought to Pass, 04/22/2021; Vote 5-0; Consent Calendar; Senate Calendar  20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-22",
+                "action": "Ought to Pass: Regular Calendar 23Y-1N, Motion Adopted; OT3rdg; 04/22/2021; Senate Journal 12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-06",
+                "action": "Enrolled (in recess of) 04/09/2021 House Journal  7 P. 102",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-05-06",
+                "action": "Enrolled Regular Calendar 23Y-0N, Motion Adopted, (In recess of 05/06/2021); Senate Journal 15",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-19",
+                "action": "Signed by Governor Sununu 05/17/2021; Chapter 32; Eff: 05/17/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 15590,
+                "person_hash": "wucdrx6a",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Andrew O'Hearne",
+                "first_name": "Andrew",
+                "middle_name": "Scott",
+                "last_name": "O'Hearne",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-03-SUL",
+                "ftm_eid": 13703707,
+                "votesmart_id": 141801,
+                "opensecrets_id": "",
+                "knowwho_pid": 426716,
+                "ballotpedia": "Andrew_O%27Hearne",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19817,
+                "person_hash": "b2bzem0t",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Gary Merchant",
+                "first_name": "Gary",
+                "middle_name": "",
+                "last_name": "Merchant",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-04-SUL",
+                "ftm_eid": 9718120,
+                "votesmart_id": 185387,
+                "opensecrets_id": "",
+                "knowwho_pid": 670932,
+                "ballotpedia": "Gary_Merchant",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19888,
+                "person_hash": "vk9nhh38",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Walter Stapleton",
+                "first_name": "Walter",
+                "middle_name": "A.",
+                "last_name": "Stapleton",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-05-SUL",
+                "ftm_eid": 19883519,
+                "votesmart_id": 173079,
+                "opensecrets_id": "",
+                "knowwho_pid": 587780,
+                "ballotpedia": "Walter_Stapleton_(New_Hampshire)",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 5024,
+                "person_hash": "pj10rgq1",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "John Cloutier",
+                "first_name": "John",
+                "middle_name": "R.",
+                "last_name": "Cloutier",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-10-SUL",
+                "ftm_eid": 6394097,
+                "votesmart_id": 4985,
+                "opensecrets_id": "",
+                "knowwho_pid": 197011,
+                "ballotpedia": "John_Cloutier",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2227313,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB88/id/2227313",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=98&txtFormat=html",
+                "text_size": 8294,
+                "text_hash": "bdb6a7451e5dc2242752178d384637fd"
+            },
+            {
+                "doc_id": 2380112,
+                "date": "2021-04-22",
+                "type": "Enrolled",
+                "type_id": 5,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB88/id/2380112",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&v=SP&id=98",
+                "text_size": 8305,
+                "text_hash": "5e1439ab0a9acb778130a1550a0e7a0d"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-08",
+                "time": "09:30",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Municipal and County Government Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-09",
+                "time": "14:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Municipal and County Government Executive Session"
+            }
+        ]
+    }
+}

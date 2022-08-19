@@ -1,0 +1,434 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1396189,
+        "change_hash": "93169e5409d4975e7c51b40c3ca2cebd",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB291/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=401&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB291",
+        "completed": 0,
+        "status": 2,
+        "status_date": "2021-04-13",
+        "progress": [
+            {
+                "date": "2021-01-09",
+                "event": 1
+            },
+            {
+                "date": "2021-01-09",
+                "event": 9
+            },
+            {
+                "date": "2021-03-29",
+                "event": 10
+            },
+            {
+                "date": "2021-03-29",
+                "event": 11
+            },
+            {
+                "date": "2021-04-13",
+                "event": 2
+            },
+            {
+                "date": "2021-04-13",
+                "event": 9
+            },
+            {
+                "date": "2021-05-24",
+                "event": 10
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB291",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "S",
+        "current_body_id": 68,
+        "title": "Relative to the analysis of requests for absentee ballot information by the attorney general.",
+        "description": "Relative to the analysis of requests for absentee ballot information by the attorney general.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-09",
+                "committee_id": 1241,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Election Law"
+            },
+            {
+                "date": "2021-04-13",
+                "committee_id": 3825,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Election Law and Municipal Affairs"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-09",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Election Law House Journal  2 P. 42",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-03",
+                "action": "==CONTINUED== Executive Session: 03/10/2021 10:20 am Members of the public may attend using the following link:To join the webinar: https://zoom.us/j/95087806399 (if necessary)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-04",
+                "action": "Public Hearing: 03/04/2021 02:00 pm Please click the link below to join the webinar:https://zoom.us/j/91092569734Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-08",
+                "action": "Executive Session: 03/08/2021 12:00 pm Please click the link below to join the webinar:https://zoom.us/j/91394352757",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-29",
+                "action": "Majority Committee Report: Ought to Pass (Vote 11-9; Regular Calendar) House Calendar 18 P. 42",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-29",
+                "action": "Minority Committee Report: Inexpedient to Legislate",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-08",
+                "action": "Ought to Pass: Motion Adopted DV 191-179 04/08/2021 House Journal  6 P. 58",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-13",
+                "action": "Introduced 04/08/2021 and Referred to Election Law and Municipal Affairs; Senate Journal 12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-05-11",
+                "action": "Remote Hearing: 05/17/2021, 09:30 am; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  24",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-24",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-1674s, 05/27/2021; Senate Calendar  25A",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-05-27",
+                "action": "Committee Amendment # 2021-1674s, Regular Calendar 14Y-10N, Amendment Adopted; 05/27/2021; Senate Journal 17",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-27",
+                "action": "Ought to Pass with Amendment 2021-1674s, Motion Adopted, Voice Vote; OT3rdg; 05/27/2021; Senate Journal 17",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-08",
+                "action": "House Non-Concurs with Senate Amendment 2021-1674s and Requests CofC (Reps. Torosian, B. Griffin, Groen, Mooney): Motion Adopted Voice Vote 06/04/2021 House Journal  9 P. 52",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-10",
+                "action": "President Appoints: Senators Gray, Birdsell, Soucy; 06/10/2021; Senate Journal 19",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-10",
+                "action": "Sen. Gray Accedes to House Request for Committee of Conference, Motion Adopted, Voice Vote; 06/10/2021; Senate Journal 19",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-15",
+                "action": "==RECESSED== Conference Committee Meeting: 06/15/2021 01:30 pm Legislative Office Building 306-308",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-17",
+                "action": "==CONTINUED== Conference Committee Meeting: 06/17/2021 09:30 am Legislative Office Building 306-308",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-23",
+                "action": "Conference Committee Report; Not Signed Off; Senate Journal 20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 11747,
+                "person_hash": "1xanj7dq",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Gregory Hill",
+                "first_name": "Gregory",
+                "middle_name": "",
+                "last_name": "Hill",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-06-MER",
+                "ftm_eid": 6695257,
+                "votesmart_id": 126565,
+                "opensecrets_id": "",
+                "knowwho_pid": 296582,
+                "ballotpedia": "Gregory_Hill_(New_Hampshire)",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18162,
+                "person_hash": "69syqij2",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Norman Silber",
+                "first_name": "Norman",
+                "middle_name": "",
+                "last_name": "Silber",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-02-BEL",
+                "ftm_eid": 17005721,
+                "votesmart_id": 172402,
+                "opensecrets_id": "",
+                "knowwho_pid": 586968,
+                "ballotpedia": "Norman_Silber",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 16797,
+                "person_hash": "3wdxrmgx",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Kimberly Rice",
+                "first_name": "Kimberly",
+                "middle_name": "",
+                "last_name": "Rice",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-37-HIL",
+                "ftm_eid": 25005534,
+                "votesmart_id": 154512,
+                "opensecrets_id": "",
+                "knowwho_pid": 502112,
+                "ballotpedia": "Kimberly_Rice",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 17049,
+                "person_hash": "5e551ecl",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Claire Rouillard",
+                "first_name": "Claire",
+                "middle_name": "",
+                "last_name": "Rouillard",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-06-HIL",
+                "ftm_eid": 25005476,
+                "votesmart_id": 154469,
+                "opensecrets_id": "",
+                "knowwho_pid": 501714,
+                "ballotpedia": "Claire_Rouillard",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18152,
+                "person_hash": "gx7i067p",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Howard Pearl",
+                "first_name": "Howard",
+                "middle_name": "",
+                "last_name": "Pearl",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-26-MER",
+                "ftm_eid": 13703940,
+                "votesmart_id": 141848,
+                "opensecrets_id": "",
+                "knowwho_pid": 425998,
+                "ballotpedia": "Howard_Pearl",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2237000,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB291/id/2237000",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=400&txtFormat=html",
+                "text_size": 11094,
+                "text_hash": "f239aa290688407c7fc51f06406e1d0c"
+            },
+            {
+                "doc_id": 2406209,
+                "date": "2021-05-27",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB291/id/2406209",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=SA&id=400",
+                "text_size": 7977,
+                "text_hash": "4ee78f1cb359a4b183c826044393bc27"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1087319,
+                "date": "2021-05-27",
+                "desc": "Committee Amendment",
+                "yea": 14,
+                "nay": 10,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/HB291/id/1087319",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=396&sy=2021&lb=S&eb=HB0291&sortoption=&txtsessionyear=2021&txtbillnumber=HB291&ddlsponsors=&lsr=401"
+            },
+            {
+                "roll_call_id": 1091953,
+                "date": "2021-05-27",
+                "desc": "Committee Amendment",
+                "yea": 14,
+                "nay": 10,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/HB291/id/1091953",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=388&sy=2021&lb=S&eb=HB0291&sortoption=&txtsessionyear=2021&txtbillnumber=HB291&ddlsponsors=&lsr=401"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-04",
+                "time": "14:00",
+                "location": "Please click the link below to join the webinar:https://zoom.us/",
+                "description": "Election Law Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-08",
+                "time": "12:00",
+                "location": "Please click the link below to join the webinar:https://zoom.us/",
+                "description": "Election Law Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-10",
+                "time": "10:20",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Election Law Executive Session"
+            }
+        ],
+        "full_text": "analysis of requests for absentee ballot information the attorney general shall analyze the requests for absentee ballot information for state general elections and presidential primary elections contained in the statewide centralized voter registration database for evidence of misuse the analysis shall include but shall not be limited to the number of absentee ballots mailed to a common address and significant differences in the number of ballots that were requested from a city or town the results of the analysis and any additional actions identified shall be reported to the house and senate committees with jurisdiction over elections within days of the election"
+    }
+}

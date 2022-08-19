@@ -1,0 +1,535 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1411875,
+        "change_hash": "08bc217cc12a6d301bc6a8b38b2b3f5d",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/SB74/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=857&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=SB74",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2021-08-03",
+        "progress": [
+            {
+                "date": "2021-01-19",
+                "event": 1
+            },
+            {
+                "date": "2021-01-19",
+                "event": 9
+            },
+            {
+                "date": "2021-03-25",
+                "event": 10
+            },
+            {
+                "date": "2021-04-13",
+                "event": 2
+            },
+            {
+                "date": "2021-04-13",
+                "event": 9
+            },
+            {
+                "date": "2021-05-25",
+                "event": 10
+            },
+            {
+                "date": "2021-05-25",
+                "event": 11
+            },
+            {
+                "date": "2021-07-07",
+                "event": 3
+            },
+            {
+                "date": "2021-08-03",
+                "event": 8
+            },
+            {
+                "date": "2021-08-03",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "SB74",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "S",
+        "body_id": 68,
+        "current_body": "S",
+        "current_body_id": 68,
+        "title": "Relative to advance directives for health care decisions.",
+        "description": "Relative to advance directives for health care decisions.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-19",
+                "committee_id": 1272,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Health and Human Services"
+            },
+            {
+                "date": "2021-04-13",
+                "committee_id": 1249,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Health, Human Services & Elderly Affairs"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-19",
+                "action": "Introduced 01/06/2021 and Referred to Health and Human Services; Senate Journal 3",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-21",
+                "action": "Remote Hearing: 01/28/2021, 01:15 pm; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  8",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-25",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-1022s, 04/01/2021; Senate Calendar  17",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-01",
+                "action": "Committee Amendment # 2021-1022s, Regular Calendar 24Y-0N, Amendment Adopted; 04/01/2021;",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-01",
+                "action": "Ought to Pass with Amendment 2021-1022s, Regular Calendar 24Y-0N, Motion Adopted; OT3rdg; 04/01/2021; Senate Journal 10",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-13",
+                "action": "Introduced (in recess of) 04/09/2021 and referred to Health, Human Services and Elderly Affairs House Journal  7 P. 99",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-20",
+                "action": "Public Hearing: 05/03/2021 10:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/91978983838 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-05",
+                "action": "Executive Session: 05/17/2021 09:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/95933161404",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-25",
+                "action": "Majority Committee Report: Ought to Pass (Vote 16-5; Regular Calendar) House Calendar 26 P. 23",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-05-25",
+                "action": "Minority Committee Report: Inexpedient to Legislate",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-06-03",
+                "action": "FLAM # 2021-1846h (Rep. M. Pearson): Amendment Adopted Voice Vote 06/03/2021 House Journal  8 P. 154",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-03",
+                "action": "Ought to Pass with Amendment 2021-1846h: Motion Adopted Voice Vote 06/03/2021 House Journal  8 P. 158",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-03",
+                "action": "Lay on Table (Rep. Silber): Motion Failed Voice Vote 06/03/2021 House Journal  8 P. 158",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-10",
+                "action": "Sen. Bradley Moved to Concur with the House Amendment, Motion Adopted, Voice Vote; 06/10/2021; Senate Journal 19",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-07",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 06/24/2021); Senate Journal 20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-07",
+                "action": "Enrolled (in recess of) 06/24/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-08-03",
+                "action": "Signed by the Governor on 07/30/2021; Chapter 0176",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-08-03",
+                "action": "I. RSA 137-J:5; IV-a as inserted by Section 2 Effective 07/01/2021",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-08-03",
+                "action": "II. Remainder Effective 07/30/2021",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 14488,
+                "person_hash": "elsfgcmi",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Thomas Sherman",
+                "first_name": "Thomas",
+                "middle_name": "",
+                "last_name": "Sherman",
+                "suffix": "",
+                "nickname": "Tom",
+                "district": "SD-024",
+                "ftm_eid": 13703813,
+                "votesmart_id": 141784,
+                "opensecrets_id": "",
+                "knowwho_pid": 426683,
+                "ballotpedia": "Tom_Sherman",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4760,
+                "person_hash": "8scgvpbd",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Jeb Bradley",
+                "first_name": "Jeb",
+                "middle_name": "",
+                "last_name": "Bradley",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-003",
+                "ftm_eid": 6636719,
+                "votesmart_id": 4953,
+                "opensecrets_id": "",
+                "knowwho_pid": 197009,
+                "ballotpedia": "Jeb_Bradley",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4924,
+                "person_hash": "5p0a0w6s",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Cindy Rosenwald",
+                "first_name": "Lucinda",
+                "middle_name": "",
+                "last_name": "Rosenwald",
+                "suffix": "",
+                "nickname": "Cindy",
+                "district": "SD-013",
+                "ftm_eid": 6463841,
+                "votesmart_id": 42204,
+                "opensecrets_id": "",
+                "knowwho_pid": 228804,
+                "ballotpedia": "Lucinda_Rosenwald",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21883,
+                "person_hash": "70cv20ch",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Becky Whitley",
+                "first_name": "Becky",
+                "middle_name": "",
+                "last_name": "Whitley",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-015",
+                "ftm_eid": 50226754,
+                "votesmart_id": 194987,
+                "opensecrets_id": "",
+                "knowwho_pid": 743970,
+                "ballotpedia": "Becky_Whitley",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21861,
+                "person_hash": "pdunw5it",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Suzanne Prentiss",
+                "first_name": "Suzanne",
+                "middle_name": "M.",
+                "last_name": "Prentiss",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-005",
+                "ftm_eid": 50226736,
+                "votesmart_id": 194271,
+                "opensecrets_id": "",
+                "knowwho_pid": 743968,
+                "ballotpedia": "Suzanne_Prentiss",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4958,
+                "person_hash": "2po1aje7",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "David Watters",
+                "first_name": "David",
+                "middle_name": "H.",
+                "last_name": "Watters",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-004",
+                "ftm_eid": 6494743,
+                "votesmart_id": 110047,
+                "opensecrets_id": "",
+                "knowwho_pid": 269494,
+                "ballotpedia": "David_Watters",
+                "sponsor_type_id": 2,
+                "sponsor_order": 6,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18167,
+                "person_hash": "gbz9mi50",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "William Marsh",
+                "first_name": "William",
+                "middle_name": "M.",
+                "last_name": "Marsh",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-17-ROC",
+                "ftm_eid": 6483516,
+                "votesmart_id": 65293,
+                "opensecrets_id": "",
+                "knowwho_pid": 587047,
+                "ballotpedia": "William_Marsh",
+                "sponsor_type_id": 2,
+                "sponsor_order": 7,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19787,
+                "person_hash": "bjj3jam7",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Gary Woods",
+                "first_name": "Gary",
+                "middle_name": "L.",
+                "last_name": "Woods",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-23-MER",
+                "ftm_eid": 45378986,
+                "votesmart_id": 185380,
+                "opensecrets_id": "",
+                "knowwho_pid": 670713,
+                "ballotpedia": "Gary_Woods_(New_Hampshire)",
+                "sponsor_type_id": 2,
+                "sponsor_order": 8,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2247334,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB74/id/2247334",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=848&txtFormat=html",
+                "text_size": 139064,
+                "text_hash": "d72d12395d81d586e751b7bcba3641fc"
+            },
+            {
+                "doc_id": 2355216,
+                "date": "2021-04-01",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB74/id/2355216",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=SA&id=848",
+                "text_size": 160466,
+                "text_hash": "0ce568f6f3b59f29e789f15b0e489647"
+            },
+            {
+                "doc_id": 2411629,
+                "date": "2021-04-01",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB74/id/2411629",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=HA&id=848",
+                "text_size": 157968,
+                "text_hash": "943870d322da51b7809e278b5dfbcd1b"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1045920,
+                "date": "2021-04-01",
+                "desc": "Committee Amendment 1022s",
+                "yea": 24,
+                "nay": 0,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB74/id/1045920",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=269&sy=2021&lb=S&eb=SB0074&sortoption=&txtsessionyear=2021&txtbillnumber=SB74&ddlsponsors=&lsr=857"
+            },
+            {
+                "roll_call_id": 1045921,
+                "date": "2021-04-01",
+                "desc": "Ought to Pass w/Amendment",
+                "yea": 24,
+                "nay": 0,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB74/id/1045921",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=270&sy=2021&lb=S&eb=SB0074&sortoption=&txtsessionyear=2021&txtbillnumber=SB74&ddlsponsors=&lsr=857"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-05-03",
+                "time": "10:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Health, Human Services and Elderly Affairs Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-05-17",
+                "time": "09:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Health, Human Services and Elderly Affairs Executive Session"
+            }
+        ],
+        "full_text": "advance health care directives amend rsa to read as follows purpose and policy the state of new hampshire recognizes that a person has individual persons have the right founded in the autonomy and sanctity of the a person to control the decisions relating to the rendering of his or her their own medical care in order that the rights of persons may be respected even after such persons lack the capacity to make health care decisions for themselves and to encourage communication between patients and their attending physicians pas or aprns practitioners the general court declares that the laws of this state shall recognize the right of a competent person to make a written directive a delegating to an agent in the durable power of attorney for health care the authority to make health care decisions on the person s behalf in the event such person is unable to make those decisions for himself or herself independently either due to permanent or temporary lack of capacity to make health care decisions b stating the person s wishes in the living will about end of life care and providing guidance to the person s agent surrogate and or instructing his or her attending practitioner physician pa or aprn to provide withhold or withdraw treatment in the event such person is near death or is permanently unconscious all persons have a right to make health care decisions and to refuse health care treatments including the right to refuse cardiopulmonary resuscitation it is the purpose of the do not resuscitate provisions of this chapter to ensure that the right of a person to relating to cardiopulmonary resuscitation is protected and to give direction to emergency services personnel and other health care providers in regard to the performance of cardiopulmonary resuscitation recognizing this right the refusal of health care treatments is not sufficient to demonstrate that a person lacks capacity to make health care decisions while all persons have a right to make a written directive not all take advantage of that right and it is the purpose of the surrogacy provisions of this chapter to ensure that health care decisions can be made in a timely manner by a person s next of kin or loved one without involving court action this chapter specifies a process to establish a surrogate when there is no valid advance directive agent appointed under a durable power of attorney for health care or a guardian as defined in rsa to make health care decisions this chapter seeks to simplify and clarify the process by which a person may execute a health care advance directive by combining in one form the durable power of attorney for health care document and the living will either of which or both may be executed by the person the law recognizes that it is preferable for a person to choose an agent under a durable power of attorney for health care document who can make decisions in real time and under then existing circumstances regarding health care decisions that best reflect the person s values as articulated orally or in writing by the person the law also recognizes that a person may wish to execute a living will that sets forth their wishes about end of life care that would be used by an agent or surrogate as guidance in implementing the person s wishes the law further recognizes that a person may wish to grant greater power and authority to their named agent than to a surrogate and honors any limitations placed on a surrogate in a person s advance directive definitions in this chapter actively dying means an incurable condition caused by injury disease or illness which is such that death is imminent and the application of treatment would to a reasonable degree of medical certainty only postpone the moment of death to another imminent moment as certified in the principal s medical record by physicians or a physician and another attending practitioner who is not under the supervision of the certifying physician advance directive means a directive document allowing a person to give directions and guidance about future medical care or and to designate another person to make medical decisions if he or she the principal should lose the capacity to make health care decisions the term advance directives directive shall include living wills and a durable powers power of attorney for health care and a living will advanced practice registered nurse or aprn means a registered nurse who is licensed in good standing in the state of new hampshire as having specialized clinical qualifications agent means an adult to whom authority to make health care decisions is delegated under an advance directive a durable power of attorney for health care attending physician pa or aprn practitioner means the physician physician assistant or advanced practice registered nurse selected by or assigned to a patient who has primary responsibility for the treatment and care of the patient if more than one physician physician assistant or advanced practice registered nurse shares that responsibility any one of those physicians physician assistants or advanced practice registered nurses may act as the attending physician pa or aprn practitioner under the provisions of this chapter capacity to make health care decisions means the ability to understand and appreciate generally the nature and consequences of a health care decision including the significant benefits and harms of and reasonable alternatives to any proposed health care the fact that a person has been diagnosed with mental illness brain injury or intellectual disability or has declined a recommended medical procedure or therapy shall not mean that the person necessarily lacks the capacity to make health care decisions cardiopulmonary resuscitation means those measures used to restore or support cardiac or respiratory function in the event of a cardiac or respiratory arrest certified in the principal s medical record means the making of a statement in the medical record whether such record is written or electronic close friend means any person years of age or older who presents an affidavit to the attending physician stating that he or she the individual is a close friend of the patient is willing and able to become involved in the patient s health care and has maintained such regular contact with the patient as to be familiar with the patient s activities health and religious and moral beliefs the affidavit shall also state facts and circumstances that demonstrate such familiarity with the patient do not resuscitate identification means a standardized identification necklace bracelet card pink portable do not resuscitate order polst or other written medical order that signifies that a do not resuscitate order has been issued for the principal do not resuscitate order or dnr order also known as do not attempt resuscitation order or dnar order means an order that in the event of an actual or imminent cardiac or respiratory arrest chest compression and ventricular defibrillation will not be performed the patient will not be intubated or manually ventilated and there will be no administration of resuscitation drugs x durable power of attorney for health care means a document delegating to an agent the authority to make health care decisions executed in accordance with the provisions of this chapter it shall not mean forms routinely required by health and residential care providers for admissions and consent to treatment emergency services personnel means paid or volunteer firefighters officers emergency medical technicians paramedics or other emergency services personnel providers or entities acting within the usual course of their professions health care decision means informed consent refusal to give informed consent or withdrawal of informed consent to any type of health care treatment admission to a health care facility any service or procedure to maintain diagnose or treat an individual s physical or mental condition except as prohibited in this chapter or otherwise by law health care provider means an individual or a facility licensed certified or otherwise authorized or permitted by law to administer health care for profit or otherwise in the ordinary course of business or professional practice treatment means any medical procedures or interventions which utilize mechanical or other medically administered means to sustain restore or supplant a vital function which in the written judgment of the attending physician pa or aprn would serve only to artificially postpone the moment of death and where the person is near death or is permanently unconscious treatment includes but is not limited to the following medically administered nutrition and hydration mechanical respiration kidney dialysis or the use of other external mechanical or technological devices life sustaining treatment may include drugs to maintain blood pressure blood transfusions and antibiotics treatment shall not include the administration of medication natural ingestion of food or fluids by eating and drinking or the performance of any medical procedure deemed necessary to provide comfort or to alleviate pain living will means a directive written statement of guidance that which when duly executed contains sets forth the express direction wishes of the principal that attempts at life sustaining treatment shall be continued or that certain no treatment shall not be given attempted when the person executing said directive principal has been diagnosed and certified in writing the principal s medical record by the attending physician pa or aprn physicians or a physician and another attending practitioner who is not under the supervision of the certifying physician to be near death or permanently unconscious without hope of recovery from such condition and is unable to actively participate in the process have lost capacity to make health care decisions and to be permanently unconscious or to suffer from an advanced incurable and progressive condition for which treatment has become excessively burdensome or ineffective for the principal medically administered nutrition and hydration means invasive procedures such as but not limited to the following nasogastric tubes gastrostomy tubes intravenous feeding or hydration and hyperalimentation it shall not include the natural ingestion of food or fluids by eating and drinking near death means an incurable condition caused by injury disease or illness which is such that death is imminent and the application of treatment would to a reasonable degree of medical certainty as determined by physicians or a physician and a pa or a physician and an aprn only postpone the moment of death permanently unconscious means a lasting condition indefinitely without improvement in which thought awareness of self and environment and other indicators of consciousness are absent as determined by an appropriate neurological assessment by a physician in consultation with the attending physician or an appropriate neurological assessment by a physician in consultation with an aprn or pa physician means a medical doctor licensed in good standing to practice in the state of new hampshire pursuant to rsa physician assistant or pa means a physician assistant licensed in good standing to practice in the state of new hampshire pursuant to rsa polst means a form that contains a set of emergency medical orders signed by an attending practitioner this order set may contain dnr orders and although it may be completed in any state under similar title the dnr and all other orders shall conform to new hampshire law principal means a person years of age or older who has executed an advance directive pursuant to the provisions of this chapter or a qualified patient who has not executed an advance directive and whose health care decisions are made by a surrogate appointed pursuant to the provisions of this chapter qualified patient means any patient who has executed an advance directive in accordance with this chapter and who has been certified in writing the patient s medical record by the attending physician pa or aprn practitioner to lack the capacity to make health care decisions reasonable degree of medical certainty means a medical judgment that is made by a physician pa or aprn the attending practitioner who is knowledgeable about the case and the treatment possibilities with respect to the medical conditions involved residential care provider means a facility as defined in rsa iv a nursing home as defined in rsa iv or any individual or facility licensed certified or otherwise authorized or permitted by law to operate for profit or otherwise a residential care facility for adults including but not limited to those operating pursuant to rsa surrogate or surrogate means an adult individual who has health care capacity is available upon reasonable inquiry is willing to make health care decisions on behalf of a patient who lacks health care capacity and is identified by the attending physician pa or aprn practitioner in accordance with the provisions of this chapter as the person who is to make those decisions in accordance with the provisions of this chapter witness means a competent person years or older who is present when the principal signs an advance directive freedom from influence notice required no health care provider or residential care provider and no health care service plan insurer issuing disability insurance employee welfare benefit plan or nonprofit hospital service plan shall charge a person a different rate because of the existence or of an advance directive or do not resuscitate order or polst or require any person to execute an advance directive or require the issuance of a do not resuscitate order as a condition of admission to a hospital nursing home or residential care home or as a condition of being insured for or receiving health or residential care services health or residential care services shall not be refused because a person is known to have executed an advance directive or have a do not resuscitate order the execution of an advance directive or polst pursuant to this chapter shall not affect in any manner the sale procurement or issuance of any policy of life insurance nor shall it be deemed to modify the terms of an existing policy of life insurance no policy of life insurance shall be legally impaired modified or invalidated in any manner by the withholding or withdrawal of treatment from an insured person notwithstanding any term of the policy to the contrary any health care provider or residential care provider which does not recognize dnr s or living wills shall post at every place of admission a notice which shall be a minimum size of x stating the following in legible print this hospital facility does not honor do not resuscitate dnr or living will documents advance directives amend rsa to read as follows scope and duration of agent s and surrogate s authority subject to the provisions of this chapter and any express limitations set forth by the principal in an advance directive a durable power of attorney for health care the agent or surrogate shall have the authority to make any and all health care decisions on the principal s behalf that the principal could make an agent s or surrogate s authority under an advance directive a durable power of attorney for health care or a surrogate s authority shall be in effect only when the principal lacks capacity to make health care decisions as certified in writing the principal s medical record by the principal s attending physician pa or aprn practitioner and filed with the name of the agent or surrogate shall be indicated in the principal s medical record when and if the principal regains capacity to make health care decisions such event shall be certified in writing the principal s medical record by the principal s attending physician pa or aprn practitioner noted in the principal s medical record the agent s or surrogate s authority shall terminate and the authority to make health care decisions shall revert to the principal if the principal has no attending physician pa or aprn practitioner for reasons based on the principal s religious or moral beliefs as specified in his or her the principal s advance directive the advance directive may include a provision that a person designated by the principal in the advance directive may certify in writing acknowledged before a notary or justice of the peace as to the principal s lack of decisional capacity to make health care decisions of the principal the person so designated by the principal shall not be the agent or a person ineligible to be the agent the principal s attending physician pa or aprn practitioner shall make reasonable efforts to inform the principal even if the principal has lost capacity of any proposed treatment or of any proposal to withdraw or withhold treatment when the principal has lost capacity to make health care decisions and an agent or surrogate is acting on the principal s behalf and the agent or surrogate consents to treatment or withholding of treatment from the principal such treatment may be given or withheld even over the principal s objection unless the principal s durable power of attorney for health care provides otherwise notwithstanding that an advance directive or a surrogacy is in effect and irrespective of the principal s lack of capacity to make health care decisions at the time treatment may not be given to or withheld from the principal over the principal s objection unless the principal s advance directive includes the following statement initialed by the principal even if i am incapacitated and i object to treatment treatment may be given to me against my objection consent to clinical trials or experimental treatments agents and surrogates shall have the authority to consent to clinical trials or experimental treatments pursuant to the following a the clinical trial or experimental treatment must be authorized by an institutional review board and be consistent with the relevant state and federal regulations including cfr part subpart a the common rule and cfr parts and as applicable b an agent or surrogate may only give consent that is consistent with authority granted in a durable power of attorney for health care if the durable power of attorney for health care does not address authority to give consent to a clinical trial or experimental treatment the agent or surrogate may only give consent that is consistent with the authority provided in subparagraph c c absent a limitation in a durable power of attorney for health care an agent or surrogate may give consent to clinical trials or experimental treatment as follows for purposes of this subsection immediately diseases or conditions are diseases or conditions that are likely to cause death if treatment is not provided promptly when there is an immediately disease or condition consent may be given if a there is no alternate method of approved or generally recognized therapy available that provides an equal or greater likelihood of saving the life of the patient or preventing a permanent or extended impairment of function that is likely to substantially limit one or more major life activities or b the clinical trial or experimental treatment is not intended to save the life of the patient but rather is intended to be beneficial to the patient in terms of increasing mobility or reducing pain distress or discomfort for purposes of this subsection serious diseases or conditions are diseases or conditions that if left untreated are likely to result in a permanent or extended impairment of function that is likely to substantially limit one or more major life activities when there is a serious disease or condition consent may be given if a there is no alternate method of approved or generally recognized therapy that is available and b the clinical trial or experimental treatment is intended to prevent or diminish a permanent or extended impairment of function that is likely to substantially limit one or more major life activities and such impairment is likely to occur if not treated promptly or be beneficial to the patient in terms of increasing mobility or reducing pain distress or discomfort that is likely to substantially limit a major life activity nothing in this chapter shall be construed to give an agent or surrogate authority to a consent to voluntary admission to any state institution b consent to a voluntary sterilization c consent to withholding treatment from a pregnant principal unless to a reasonable degree of medical certainty as certified on in the principal s medical record by the attending physician pa or aprn practitioner and an obstetrician who has examined the principal such treatment or procedures will not maintain the principal in such a way as to permit the continuing development and live birth of the fetus or will be physically harmful to the principal or prolong severe pain which cannot be alleviated by medication or d consent to psychosurgery or shock therapy sterilization or an experimental treatment of any kind e notwithstanding the prohibition in subparagraph v d for any patient experiencing severe advanced symptoms or complications who does not have the capacity to consent himself or herself to an experimental treatment an agent or surrogate shall have the authority to consent to experimental treatments authorized by an institutional review board on the patient for symptoms or complications for an agent or surrogate to approve the use of an experimental treatment approved by an institutional review board the agent or surrogate must be informed of all risks and side effects and follow all institutional review board instructions regarding consent as if the agent or surrogate were the individual receiving the treatment including the completion of all consent documentation required by the food and drug administration an agent or surrogate shall not consent unless the following factors exist a the patient is confronted by a situation necessitating the use of the experimental treatment and b informed consent cannot be obtained from the patient because of an inability to communicate with or obtain legally effective consent from the patient and c there is no alternate method of approved or generally recognized therapy available that provides an equal or greater likelihood of saving the life of the patient if a patient has a living will the agent shall follow the directions of the living will in addition if the agent or surrogate has actual knowledge that the patient wished to decline the experimental treatment the agent or surrogate shall not have the authority to consent to treatment requirement to act in accordance with principal s wishes and best interests after consultation with the attending physician pa or aprn practitioner and other health care providers the agent or surrogate shall make health care decisions in accordance with the agent s or surrogate s knowledge of the principal s wishes and religious or moral beliefs as stated orally in writing including but not limited to in the durable power of attorney for health care and the living will or otherwise communicated by the principal or if the principal s wishes are unknown in accordance with the agent s or surrogate s assessment of the principal s best interests and in accordance with accepted medical practice physician pa aprn attending practitioner and heath care provider s responsibilities a qualified patient s attending physician pa or aprn practitioner or a qualified patient s health care provider or residential care provider and employees thereof having knowledge of the qualified patient s advance directive shall be bound to follow as applicable the dictates of the qualified patient s living will and or the directives of a qualified patient s designated agent or surrogate to the extent they are consistent with this chapter and the advance directive and to the extent they are within the bounds of responsible medical practice a an attending physician pa or aprn practitioner or other health care provider or residential care provider who is requested to do so by the principal shall make the principal s advance directive or a copy of such document a part of the principal s medical record b any person having in his or her possession who possesses a duly executed advance directive or a revocation thereof if it becomes known to that person that the principal executing the same is in such circumstances that the terms of the advance directive might become applicable such as when the principal becomes a qualified patient shall forthwith deliver an original or copy of the same to the health care provider or residential care provider with which the principal is a patient c the principal s attending physician pa or aprn practitioner or any other physician pa or aprn who is aware of the principal s execution of an advance directive shall without delay take the necessary steps to provide for written verification of the principal s lack of capacity to make health care decisions in other words to certify in the principal s medical record that the principal is a qualified patient and or the principal s near death or permanently unconscious condition as defined in this chapter and as appropriate to the principal s medical condition so that the attending physician pa or aprn practitioner and the principal s agent or surrogate may be authorized to act pursuant to this chapter d if a physician pa or an aprn because of his or her personal beliefs or conscience is unable to comply with the terms of the advance directive or surrogate s decision he or she shall immediately inform the qualified patient the qualified patient s family or the qualified patient s agent the qualified patient or the qualified patient s agent or family may then request that the case be referred to another physician pa or aprn an attending physician pa or aprn practitioner who because of personal beliefs or conscience is unable to comply with a polst the advance directive principal s living will and or the agent s or the surrogate s decision pursuant to this chapter shall without delay make the necessary arrangements to effect the transfer of a qualified patient and the appropriate medical records that document the qualified patient s lack of capacity to make health care decisions to another physician pa or aprn practitioner who has been chosen by the qualified patient by the qualified patient s agent or surrogate or by the qualified patient s family provided that pending the completion of the transfer the attending physician pa or aprn practitioner shall not deny health care treatment nutrition or hydration which denial would within a reasonable degree of medical certainty result in or hasten the qualified patient s death against the express will of the qualified patient the qualified patient s advance directive or the agent or surrogate medically administered nutrition and hydration and life sustaining treatment shall not be withdrawn or withheld under this chapter unless a there is a clear expression of such intent in the directive b the principal objects pursuant to rsa iv or c such treatment would have the unintended consequence of hastening death or causing irreparable harm as certified by an attending physician and a physician knowledgeable about the patient s condition when the direction of an agent or instruction under a living will when an agent s or a surrogate s decision pursuant to this chapter or the principal s living will or polst requires an act or omission contrary to the moral or ethical principles or other standards of a health care provider or residential care provider of which the principal is a patient or resident the health care provider shall allow for the transfer of the principal and the appropriate medical records to another health care provider chosen by the principal or by the agent or surrogate and shall incur no liability for its refusal to carry out the terms of the direction by the agent or surrogate provided that pending the completion of the transfer the health care provider or residential care provider shall not deny health care treatment nutrition hydration or life sustaining treatment which denial would with within a reasonable degree of medical certainty result in or hasten the principal s death against the expressed will of the principal the principal s advance directive or the agent or surrogate and further provided that the health care provider or residential care provider shall inform the agent or surrogate of its decision not to participate in such an act or omission restrictions on who may act as agent or surrogate a person may not exercise the authority of an agent or a surrogate while serving in one of the following capacities the principal s health care provider attending practitioner or residential care provider a person acting under the direct authority of the attending practitioner a nonrelative of the principal who is an employee of the principal s health care provider or residential care provider confidentiality and access to protected health information health care providers residential care providers and persons acting for such providers or under their control shall be authorized to a communicate to an agent or surrogate any medical information about the principal if the principal lacks the capacity to make health care decisions necessary for the purpose of assisting the agent or surrogate in making health care decisions on the principal s behalf b provide copies of the principal s advance directives directive as necessary to facilitate treatment of the principal subject to any limitations set forth in the advance directive durable power of attorney for health care by the principal an agent or surrogate whose authority is in effect shall be authorized for the purpose of making health care decisions to a request review and receive any information oral or written regarding the principal s physical or mental health including but not limited to medical and hospital records b execute any releases or other documents which may be required in order to obtain such medical information c consent to the disclosure of such medical information to a third party withholding or withdrawal of treatment criminal act not construed or authorized in the event a health care decision to withhold or withdraw treatment including medically administered nutrition and hydration is to be made by an agent or surrogate and the principal has not executed the living will of the advance directive the following additional conditions shall apply a the principal s attending physician pa or aprn shall certify in writing that the principal lacks the capacity to make health care decisions b two physicians or a physician and an aprn or pa shall certify in writing that the principal is near death or is permanently unconscious c notwithstanding the capacity of an agent or surrogate to act the agent or surrogate shall make a good faith effort to explore all avenues reasonably available to discern the desires of the principal including but not limited to the principal s advance directive the principal s written or spoken expressions of wishes and the principal s known religious or moral beliefs notwithstanding paragraph i medically administered nutrition and hydration and treatment shall not be withdrawn or withheld under an advance directive unless a there is a clear expression of such intent in the directive b the principal objects pursuant to rsa iv or c such treatment would have the unintended consequence of hastening death or causing irreparable harm as certified by an attending physician and a physician knowledgeable about the patient s condition the withholding or withdrawal of treatment pursuant to the provisions of this chapter shall at no time be construed as a suicide or murder for any legal purpose nothing in this chapter shall be construed to legalize constitute condone authorize or approve suicide assisted suicide mercy killing or euthanasia or permit any affirmative or deliberate act or omission to end one s own life or to end the life of another other than either to permit the natural process of dying of a patient near death actively dying or the removal of treatment from a patient in a permanently unconscious condition as provided in this chapter the withholding or withdrawal of treatment in accordance with the provisions of this chapter however shall not relieve any individual of responsibility for any criminal acts that may have caused the principal s condition nothing in this chapter shall be construed to condone authorize or approve a the consent to withhold or withdraw treatment from a pregnant principal unless to a reasonable degree of medical certainty as certified on in the principal s medical record by the attending physician pa or aprn practitioner and an obstetrician who has examined the principal such treatment or procedures will not maintain the principal in such a way as to permit the continuing development and live birth of the fetus or will be physically harmful to the principal or prolong severe pain which cannot be alleviated by medication b the withholding or withdrawing of medically administered nutrition and hydration or treatment from a mentally incompetent or developmentally disabled person unless such person has a validly executed advance directive or such action is authorized by an existing guardianship or other court order or in the absence of such directive authorization or order such action is taken in accordance with the standard written protocol of a health care facility licensed under rsa as applicable to its general patient population c the use of this chapter to authorize any health care decision rejected by the patient based primarily substantially or solely on a finding that the patient is not capable of making a health care decision because the patient has refused that procedure or therapy nothing in this chapter shall impair or supersede any other legal right or responsibility which any person may have to effect treatment in any lawful manner provided that this paragraph shall not be construed to authorize any violation of rsa ii or iii nothing in this chapter shall be construed to revoke or adversely affect the privileges or immunities of health care providers or residential care providers and others to provide treatment to persons in need thereof in an emergency as provided for under new hampshire law nothing in this chapter shall be construed to create a presumption that in the absence of an advance directive a person wants treatment to be either taken provided or withdrawn this chapter shall also not be construed to supplant any existing rights and responsibilities under the law of this state governing the conduct of physicians pas or aprns attending practitioners in consultation with patients or their families their surrogates or legal guardians in the absence of an advance directive liability for health care costs liability for the cost of health care provided pursuant to the agent s or surrogate s decision shall be the same as if the health care were provided pursuant to the principal s decision advance health care directives amend rsa to read as follows immunity no person acting as agent pursuant to an advance directive or acting as a surrogate shall be subjected to criminal or civil liability for making a health care decision on behalf of the principal in good faith pursuant to the provisions of this chapter and the terms of the advance directive if any if such person exercised made such power decision in a manner consistent with the requirements of this chapter and new hampshire law no health care provider or residential care provider or any other person acting for the provider or under the provider s control shall be subjected to civil or criminal liability or be deemed to have engaged in unprofessional conduct for a any act or intentional failure to act if the act or intentional failure to act is done pursuant to the dictates of an advance directive the directives of the principal s agent or surrogate and or the provisions of this chapter and said act or intentional failure to act is done in good faith and in keeping with reasonable medical standards pursuant to the advance directive or a surrogacy and in accordance with this chapter or b failure to follow the directive of an agent or surrogate if the health care provider or residential care provider or other such person believes in good faith and in keeping with reasonable medical standards that such directive exceeds the scope of or conflicts with the authority of the agent or surrogate under this chapter or the contents of the principal s advance directive provided that this subparagraph shall not be construed to authorize any violation of rsa ii or iii nothing in this section shall be construed to establish immunity for the failure to exercise due care in the provision of services or for actions contrary to the requirements of this chapter or other laws of the state of new hampshire for purposes of this section good faith means honesty in fact in the conduct of the transaction concerned advance health care directives use of statutory forms amend rsa i to read as follows every person wishing to execute an advance directive shall be provided with a disclosure statement substantially in the form set forth in rsa prior to execution the principal shall be required to sign a statement acknowledging that he or she has received the its contents advance health care directives execution and witnesses revocability amend rsa to read as follows execution and witnesses the advance directive shall be signed by the principal in the presence of either of the following a two or more subscribing witnesses neither of whom shall at the time of execution be the agent or surrogate the principal s spouse or heir at law or a person entitled to any part of the estate of the principal upon death of the principal under a will trust or other testamentary instrument or deed in existence or by operation of law or attending physician pa or aprn practitioner or person acting under the direction or control of the attending physician pa or aprn practitioner no more than one such witness may be the principal s health or residential care provider or such provider s employee the witnesses shall affirm that the principal appeared to be of sound mind and free from duress at the time the advance directive was signed and that the principal affirmed that he or she was aware awareness of the nature of the document and signed it freely and voluntarily or b a notary public or justice of the peace who shall acknowledge the principal s signature pursuant to the provisions of rsa or rsa rsa if the principal is physically unable to sign the advance directive may be signed by another person who signs the principal s name written by some other person in the principal s physical presence and at the principal s express direction a principal s decision to exclude or strike references to pas or aprns and the powers granted to pas or aprns in his or her advance directive shall be honored revocation an advance directive or surrogacy consistent with the provisions of this chapter shall be revoked a by written revocation delivered to the agent or surrogate or to a health care provider or residential care provider expressing the principal s intent to revoke signed and dated by the principal by oral revocation in the presence of or more witnesses none of whom shall be the principal s spouse or heir at law a person disqualified from acting as a witness under rsa i a or by any other act evidencing a specific intent to revoke the power such as by burning tearing or obliterating the same or causing the same to be done by some other person at the principal s direction and in the principal s physical presence b by execution by the principal of a subsequent advance directive or c by the filing of an action for divorce legal separation annulment or protective order where both the agent and or the surrogate and the principal are parties to such action except when there is an alternate agent designated in which case the designation of the primary agent shall be revoked and the alternate designation shall become effective or written of the advance directive following a filing of an action for divorce legal separation annulment or protective order shall make effective the original designation of the primary agent under the advance directive d repealed a principal s health or residential care provider who is informed of or provided with a revocation of an advance directive or surrogacy shall immediately record the revocation and the time and date when he or she received the revocation the revocation was received in the principal s medical record and notify the agent the attending physician pa or aprn practitioner and staff responsible for the principal s care of the revocation an agent or surrogate who becomes aware of such revocation shall inform the principal s health or residential care provider of such revocation revocation shall become effective upon communication to the attending physician pa or aprn practitioner advance health care directives reciprocity amend rsa to read as follows reciprocity a dnr polst durable power of attorney for health care an advance directive living will or similar document executed in another state and valid according to the laws of the state where it was executed shall be as effective in this state as it would have been if executed according to the laws of this state provided that this paragraph shall not be construed to authorize any violation of this chapter advance health care directives rsa are repealed and reenacted to read as follows advance directive disclosure statement the disclosure statement which must accompany an advance directive shall be in substantially the following form an advance directive is a legal document you should know these facts before signing it this form allows you to choose who you want to make decisions about your health care when you cannot make decisions for yourself this person is called your agent you should consider choosing an alternate in case your agent is unable to act agents must be years old or older they should be someone you know and trust they cannot be anyone who is caring for you in a health care or residential care setting this form is an advance directive that defines a way to make medical decisions in the future when you are not able to make decisions for yourself it is not a medical order e g it is not in and of itself a dnr do not resuscitate order or polst you will always make your own decisions until your medical practitioner examines you and certifies that you can no longer understand or make a decision for yourself at that point your agent becomes the person who can make decisions for you if you get better you will make your own healthcare decisions again with few exceptions when you are unable to make your own medical decisions your agent will make them for you unless you limit your agent s authority in part b of the durable power of attorney form your agent can agree to start or stop medical treatment including near the end of your life some people do not want to allow their agent to make some decisions examples of what you might write in include i do not want my agent to ask for or agree to stop treatment such as breathing machines nutrition and or hydration tube feeding kidney dialysis other mechanical devices blood transfusions and certain drugs to ask for or to agree to a do not resuscitate order dnr order to agree to treatment even if i object to it in the moment after i have lost the ability to make health care decisions for myself the law allows your agent to put you in a clinical trial medical study or to agree to new or experimental treatment that is meant to benefit you if you have a disease or condition that is immediately or if untreated may cause a serious disability or impairment for example new treatment for a pandemic infection that is not yet proven you may change this by writing in the durable power of attorney for health care form i want my agent to be able to agree to medical studies or experimental treatment in any situation or i don t want to participate in medical studies or experimental treatment even if the treatment may help me or i will likely die without it your agent must try to make the best decisions for you based on what you have said or written in the past tell your agent that you have appointed them as your healthcare decision maker talk to your agent about your wishes in the living will section of the form you can write down wishes values or goals as guidance for your agent surrogate and or medical practitioners in making decisions about your medical treatment you do not need a lawyer to complete this form but feel free to talk to a lawyer if you have questions about it you must sign this form in the physical presence of witnesses or a notary or justice of the peace for it to be valid the witnesses cannot be your agent spouse heir or anyone named in your will trust or who may otherwise receive your property at your death or your attending medical practitioner or anyone who works directly under them only one witness can be employed by your health or residential care provider give copies of the completed form to your agent your medical providers and your lawyer exceptions your agent may not stop you from eating or drinking as you want they also cannot agree to voluntary admission to a state institution voluntary sterilization withholding treatment if you are pregnant unless it will severely harm you or psychosurgery advance directive durable power of attorney and living will forms an advance directive in its individual durable power of attorney for health care and living will components shall be in substantially the following form new hampshire advance directive form name principal s name ___________________________________ dob ____________________________________ address _________________________________ durable power of attorney for health care the durable power of attorney for healthcare form names your agent s and if you wish sets limits on what your agent can decide i choose the following person s as agent s if i have lost capacity to make health care decisions cannot make health care decisions for myself if you choose more than one person they will become your agent in the order written unless you indicate otherwise a choosing your agent agent i appoint ___________ of _________ and whose phone number is _____________ to be my agent to make health care decisions for me alternate agent if the person above is not able willing or available i appoint _____________ of _______ and whose phone number is _____________ to be my alternate agent if no one listed above can make decisions for you a surrogate will be assigned in the order written in law spouse adult child parent sibling etc and will have the same powers as an agent if there is no surrogate a court appointed guardian may be assigned b limiting your agent s authority or providing additional instructions when you can no longer make your own health care decisions your agent will be able to make decisions for you please review the disclosure statement that is attached to this advance directive for examples of how you may want to advise your agent you may write in limits or additional instructions below or attach additional pages ______________________________________________________________________________ _____________________________________________________________________________ living will if you would like to provide written guidance to your agent surrogate and or medical practitioners in making decisions about life sustaining medical treatment if you cannot make your own decisions you may complete the options below choose item a or b initial your choice if i suffer from an advanced incurable and progressive condition _______ a i wish to have all attempts at treatment within the limits of generally accepted health care standards to try to extend my life as long as possible no matter what burdens costs or complications may occur or _______ b i do not wish to have any treatment attempted that i would consider to be excessively burdensome or that would not have a reasonable hope of benefit for me i wish to receive only those forms of treatment that i would not consider to be excessively burdensome and that have a reasonable hope of benefit for me the following are situations that i would consider excessively burdensome cross out and initial any of the below statements if you disagree i do not wish to have treatment attempted if i am actively dying medical treatment will only prolong my dying i do not wish to have treatment attempted if i become permanently unconscious with no reasonable hope of recovery i do not wish to have treatment attempted if i suffer from an advanced incurable and progressive condition and if the likely risks and burdens of treatment would outweigh the expected benefits other situations that i would consider excessively burdensome if i suffer from an advanced incurable and progressive condition ______________________________________________________________________________ ______________________________________________________________________________ in these situations i wish for comfort care only i understand that stopping or starting treatments to achieve my comfort including stopping nutrition and hydration may be a way to allow me to die when the treatments would be excessively burdensome for me signature i have received reviewed and understood the disclosure statement and i have completed the durable power of attorney for health care and or living will consistent with my wishes i have attached __ pages to better express my wishes signed this ___ day of __________ ___ principal s signature ____________________ if you are physically unable to sign this advance directive may be signed by someone else writing your name in your physical presence at your direction this advance directive must be signed by two witnesses or a notary public or a justice of the peace we declare that the principal appears to be of sound mind and free from duress at the time this advance directive is signed and that the principal affirms that the principal is aware of the nature of the directive and is signing it freely and voluntarily witness _______________ address city state ____________________ witness _______________ address city state ____________________ state of new hampshire county of ____________________ the foregoing advance directive was acknowledged before me this ___ day of __________ ___ by __________ the principal ____________________ notary public justice of the peace my commission expires advance health care directives civil action amend rsa to read as follows civil action the principal or any person who is a near relative of the principal or who is a responsible adult who is directly interested in the principal by personal knowledge and acquaintance including but not limited to a guardian social worker physician or member of the clergy may file an action in the probate court of the county where the principal is located at the time a requesting that the authority granted to an agent by an advance directive be revoked on the grounds that the principal was not of sound mind or was under duress fraud or undue influence when the advance directive was executed and shall have all the rights and remedies provided by rsa which shall apply to directives executed under this chapter and persons acting pursuant to this chapter b challenging the right of any agent or surrogate who is acting or who proposes to act as such pursuant to this chapter and naming another person who agrees to so act to be appointed guardian over the person of the principal for the sole purpose of making health care decisions as provided for in rsa a copy of any such action shall be given in hand to the principal s attending physician pa or aprn practitioner and as applicable to the principal s health care provider or residential care provider to the extent they are not irreversibly implemented health care decisions made by a challenged agent or surrogate shall not thereafter be implemented without an order of the probate court or a withdrawal or dismissal of the court action provided that this paragraph shall not be construed to authorize any violation of rsa ii or iii the probate court in which such a petition is filed shall hold a hearing as expeditiously as possible advance health care directives amend rsa to read as follows presumed consent to cardiopulmonary resuscitation health care providers and residential care providers not required to expand to provide cardiopulmonary resuscitation every person shall be presumed to consent to the administration of cardiopulmonary resuscitation in the event of cardiac or respiratory arrest unless one or more of the following conditions of which the health care provider or residential care provider has actual knowledge apply a a do not resuscitate order in accordance with the provisions of this chapter has been issued for that person b a completed advance directive for that person is in effect pursuant to the provisions of this chapter in which the person indicated that he or she does not wish a wish not to receive cardiopulmonary resuscitation or his or her the principal s agent or surrogate has determined that the person would not wish to receive cardiopulmonary resuscitation c a person who lacks capacity to make health care decisions is near death actively dying and admitted to a health care facility and the person s agent or surrogate is not available and the facility has made diligent efforts to contact the agent or surrogate without success or the person s agent or surrogate is not legally capable of making health care decisions for the person and the attending physician pa or aprn practitioner and a physician knowledgeable about the patient s condition have determined that the provision of cardiopulmonary resuscitation would be contrary to accepted medical standards and would cause unnecessary harm to the person and the attending physician pa or aprn practitioner has completed a do not resuscitate order or d a person is under treatment solely by spiritual means through prayer in accordance with the tenets and practices of a recognized church or religious denomination by a duly accredited practitioner thereof e the application of cardiopulmonary resuscitation would clearly be medically futile based on accepted medical standards nothing in this section shall be construed to revoke any statute regulation or law otherwise requiring or exempting a health care provider or residential care provider from instituting or maintaining the ability to provide cardiopulmonary resuscitation or expanding its existing equipment facilities or personnel to provide cardiopulmonary resuscitation issuance of a do not resuscitate order order to be written by the attending physician pa or aprn practitioner an attending physician pa or aprn practitioner may issue a do not resuscitate order for a person if the person or the person s agent or surrogate has consented to the order a do not resuscitate order shall be issued in writing in the form as described in this section for a person not present or residing in a health care facility for persons present in health care facilities a do not resuscitate order shall be issued in accordance with the policies and procedures of the health care facility and in accordance with the provisions of this chapter a person may request that his or her may request that their attending physician pa or aprn practitioner issue a do not resuscitate order for the person an agent may consent to a do not resuscitate order for a person who lacks the capacity to make health care decisions if the advance directive signed by the principal grants such authority a do not resuscitate order written by the attending physician pa or aprn practitioner for such a person with the consent of the agent or surrogate is valid and shall be respected by health care providers and residential care providers if an agent or surrogate is not reasonably available and the facility has made diligent efforts to contact the agent or surrogate without success or the agent or surrogate is not legally capable of making a decision regarding a do not resuscitate order an attending physician pa or aprn practitioner may issue a do not resuscitate order for a person who lacks capacity to make health care decisions who is near death actively dying and who is admitted to a health care facility if a second physician practitioner who has personally examined the person concurs in the opinion of the attending physician pa or aprn practitioner that the provision of cardiopulmonary resuscitation would be contrary to accepted medical standards and would cause unnecessary harm to the person for persons not present or residing in a health care facility the do not resuscitate order shall be noted on a medical orders form or in substantially the following form on a card suitable for carrying on the person do not resuscitate order as attending physician pa or aprn of __________ and as a licensed physician physician assistant or advanced practice registered nurse i order that this person shall not be resuscitated in the event of cardiac or respiratory arrest this order has been discussed with __________ or if applicable with his her agent __________ who has given consent as evidenced by his her signature below attending physician pa or aprn name attending physician pa or aprn signature address person signature address agent signature if applicable __________________________ address ____________________ the do not resuscitate order shall be reflected in at least one of the following forms a forms issued in accordance with the policies and procedures of the health care facility in compliance with this chapter if applicable b a portable dnr medical orders form documenting the patient s name and signed by an attending practitioner and that clearly documents the dnr order dnr bracelet or necklace worn by a patient and inscribed with the patient s name date of birth in numerical form and nh dnr or nh do not resuscitate and polst constitutes a dnr if it states this will constitute a dnr order and no separate dnr order will be required for persons residing in a health care facility the do not resuscitate order shall be reflected in at least one of the following forms a forms required by the policies and procedures of the health care facility in compliance with this chapter b the do not resuscitate card as set forth in paragraph v or c the medical orders form in compliance with this chapter portable dnr and polst that indicates do not resuscitate forms are transferable valid medical orders throughout this state compliance with a do not resuscitate order health care providers and residential care providers shall comply with the do not resuscitate order when presented with one of the following a a do not resuscitate order or polst that indicates do not resuscitate completed by the attending physician pa or aprn practitioner on a form as specified in rsa b a do not resuscitate order or polst indicating do not resuscitate for a person present or residing in a health care facility issued in accordance with the health care facility s policies and procedures in compliance with the chapter or c a medical orders or polst form on which the attending physician pa or aprn practitioner has documented a do not resuscitate order in compliance with this chapter d do not resuscitate identification as set forth in rsa pursuant to this chapter health care providers shall respect do not resuscitate orders for persons in health care facilities ambulances homes and communities within this state protection of persons carrying out in good faith a do not resuscitate order notification of agent or surrogate by attending physician pa or aprn practitioner refusing to comply with do not resuscitate or polst order no health care provider or residential care provider or any other person acting for the provider or under the provider s control shall be subjected to criminal or civil liability or be deemed to have engaged in unprofessional conduct for carrying out in good faith a do not resuscitate or polst order authorized by this chapter on behalf of a person as instructed by the person or the person s agent or surrogate or for those actions taken in compliance with the standards and procedures set forth in this chapter no health care provider or residential care provider or any other person acting for the provider or under the provider s control or other individual who witnesses a cardiac or respiratory arrest shall be subjected to criminal or civil liability for providing cardiopulmonary resuscitation to a person for whom a do not resuscitate order has been issued provided that such provider or individual a reasonably and in good faith is unaware of the issuance of a do not resuscitate order or b reasonably and in good faith believed that consent to the do not resuscitate order has been revoked or canceled a any attending physician pa or aprn practitioner who because of personal beliefs or conscience refuses to issue a do not resuscitate order at a person s request or to comply with a do not resuscitate or polst order issued pursuant to this chapter shall take reasonable steps to advise promptly the person or agent or surrogate of the person that such attending physician or aprn practitioner is unwilling to effectuate the order the attending physician pa or aprn practitioner shall thereafter at the election of the person or agent or surrogate permit the person or agent or surrogate to obtain another attending physician pa or aprn practitioner b if a physician pa or aprn an attending practitioner because of his or her the practitioner s personal beliefs or conscience is unable to comply with the terms of a do not resuscitate or polst order he or she the practitioner shall immediately inform the person the person s agent or surrogate the person or the person s family the person the person s agent or surrogate or the person s family may then request that the case be referred to another physician pa or aprn practitioner as set forth in rsa ii and iii revocation or suspension of do not resuscitate or polst order at any time a person in a principal admitted as an inpatient or outpatient to a health care facility may revoke his or her previous request for or consent to a do not resuscitate or polst order by making either a written oral or other act of communication to the attending physician pa or aprn practitioner or other professional staff of the health care facility at any time a person principal residing at home outside a health care facility may revoke his or her the principal s do not resuscitate or polst order by destroying such order and removing do not resuscitate identification on his or her the principal s person or by making either a written oral or other act of communication to a healthcare provider that is present with the principal the person is responsible for notifying his or her attending physician pa or aprn of the revocation at any time in accordance with rsa an agent or surrogate may revoke his or her consent to a do not resuscitate or polst order for a person principal who lacks capacity to make health care decisions who is admitted to a health care facility by making either a written oral or other act of communication to the attending practitioner or other professional staff at the health care facility notifying the attending physician pa or aprn or other professional staff of the health care facility of the revocation of consent in writing or by orally notifying the attending physician pa or aprn in the presence of a witness years of age or older at any time in accordance with rsa an agent or surrogate may revoke his or her consent a do not resuscitate or polst order for a person principal who lacks capacity to make health care decisions who is residing at home outside a health care facility by destroying such order and removing do not resuscitate identification from the person principal s person or by making either written oral or other act of communication to a healthcare provider that is present with the principal the agent is responsible for notifying the person s attending physician pa or aprn practitioner of the revocation the attending physician pa or aprn practitioner who is informed of or provided with a revocation of consent pursuant to this section shall immediately cancel or suspend the do not resuscitate or polst order in the principal s medical recor d if the person principal is in a health care facility and notify the professional staff of the health care facility responsible for the person s principal s care of the revocation suspension or and cancellation any professional staff of the health care facility who is informed of or provided with a revocation of consent pursuant to this section shall immediately notify the attending physician pa or aprn practitioner of such revocation only a physician physician assistant or advanced practice registered nurse may cancel the issuance of a do not resuscitate order not suicide or murder amend rsa to read as follows not suicide or murder the withholding of cardiopulmonary resuscitation from a person in accordance with the provisions of this chapter shall not for any purpose constitute suicide or murder the withholding of cardiopulmonary resuscitation from a person in accordance with the provisions of this chapter however shall not relieve any individual of responsibility for any criminal acts that may have caused the person s condition nothing in this chapter shall be construed to legalize constitute condone authorize or approve suicide assisted suicide mercy killing or assisted suicide euthanasia advance health care directives preservation of existing rights amend rsa i to read as follows nothing in this chapter shall impair or supersede any legal right or legal responsibility which any person may have to effect the withholding of cardiopulmonary resuscitation in any lawful manner in such respect the provisions of this chapter are cumulative provided that this paragraph shall not be construed to authorize any violation of rsa ii or iii advance health care directives surrogate decision making amend rsa to read as follows surrogate when a patient lacks capacity to make health care decisions the physician pa or aprn attending practitioner shall make a reasonable inquiry pursuant to as to whether the patient has a valid advance directive durable power of attorney for health care and to the extent that the patient has designated an agent whether such agent is available willing and able to act when no health care agent is authorized and available the health care provider shall make a reasonable inquiry as to the availability of possible surrogates listed under this paragraph a surrogate may make medical decisions on behalf of a patient without court order or judicial involvement in the following order of priority a the patient s spouse or civil union partner or common law spouse as defined by rsa if the principal were currently deceased unless there is a divorce proceeding separation agreement or restraining order limiting that person s relationship with the patient b any adult son or daughter of the patient c either parent of the patient d any adult brother or sister of the patient e any adult grandchild of the patient f any grandparent of the patient g any adult aunt uncle niece or nephew of the patient h a close friend of the patient i the agent with financial power of attorney or a conservator appointed in accordance with rsa j the guardian of the patient s estate the physician pa or aprn attending practitioner may identify a surrogate from the list in paragraph i if the physician pa or aprn attending practitioner determines he or she the surrogate is able and willing to act and determines after reasonable inquiry that neither a legal guardian health care agent under a durable power of attorney for health care nor a surrogate of higher priority is available and able and willing to act the surrogate as identified by the attending physician pa or aprn practitioner may make health care decisions for the patient in accordance with rsa the surrogacy provisions of this chapter shall take effect when the names are recorded in the medical record the physician pa or aprn attending practitioner shall have the right to rely on any of the above surrogates if the physician pa or aprn attending practitioner believes after reasonable inquiry that neither a health care agent under a durable power of attorney for health care or a surrogate of higher priority is available or able and willing to act advance health care directives amend rsa i to read as follows where there are multiple surrogate at the same priority level in the hierarchy it shall be the responsibility of those surrogates to make reasonable efforts to reach a consensus as to their decision on behalf of the patient regarding any health care decision if or more surrogates who are in the same category and have equal priority indicate to the attending physician pa or aprn practitioner that they disagree about the health care decision at issue a majority of the available persons in that category shall control unless the minority or any other interested party initiates guardianship proceedings in accordance with rsa there shall not be a recognized surrogate when a guardianship proceeding has been initiated and a decision is pending the person initiating the petition for guardianship shall immediately provide written notice of the initiation of the guardianship proceeding to the health care facility where the patient is being treated this process shall not preempt the care of the patient no health care provider or other person shall be required to seek appointment of a guardian advance health care directives limitations on surrogacy amend rsa to read as follows limitations of surrogacy a surrogate shall not be identified over the express objection of the patient and a surrogacy shall terminate if at any time a patient for whom a surrogate has been appointed expresses objection to the continuation of the surrogacy no physician pa or aprn attending practitioner shall be required to identify a surrogate and may in the event a surrogate has been identified revoke the surrogacy if the surrogate is unwilling or unable to act a physician pa or aprn an attending practitioner may but shall not be required to initiate guardianship proceedings or encourage a family member or friend to seek guardianship in the event a patient is determined to lack capacity to make health care decisions and no guardian agent under a health care power of attorney or surrogate has been appointed or named nothing in this chapter shall be construed to require a physician pa or aprn an attending practitioner to treat a patient who the physician pa or aprn practitioner reasonably believes lacks health care capacity and for whom no guardian agent or surrogate has been appointed the surrogate may make health care decisions for a principal to the same extent as an agent under a durable power of attorney for health care for up to days after being identified in rsa i unless the authority of the surrogate shall terminate if the principal regains the capacity to make health care capacity decisions or a guardian is appointed or patient is determined to be near death as defined in rsa xvi the authority of the surrogate shall terminate after days unless the patient is determined to be actively dying repeal rsa relative to applicability of certain advance directives is repealed the remainder of this act shall take effect upon its passage"
+    }
+}

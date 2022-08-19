@@ -1,0 +1,491 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1396109,
+        "change_hash": "0d3253a446451a21ca0d70b739435b3e",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB315/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=533&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB315",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2021-09-07",
+        "progress": [
+            {
+                "date": "2021-01-09",
+                "event": 1
+            },
+            {
+                "date": "2021-01-09",
+                "event": 9
+            },
+            {
+                "date": "2021-03-30",
+                "event": 10
+            },
+            {
+                "date": "2021-04-13",
+                "event": 2
+            },
+            {
+                "date": "2021-04-13",
+                "event": 9
+            },
+            {
+                "date": "2021-05-04",
+                "event": 10
+            },
+            {
+                "date": "2021-07-23",
+                "event": 3
+            },
+            {
+                "date": "2021-09-07",
+                "event": 8
+            },
+            {
+                "date": "2021-09-07",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB315",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to the aggregation of electric customers and municipal host customer generators serving political subdivisions.",
+        "description": "Relative to the aggregation of electric customers and municipal host customer generators serving political subdivisions.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-09",
+                "committee_id": 1261,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Science, Technology and Energy"
+            },
+            {
+                "date": "2021-04-13",
+                "committee_id": 1736,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Energy and Natural Resources"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-09",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Science, Technology and Energy House Journal  2 P. 43",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-03",
+                "action": "==RECESSED== Public Hearing: 02/12/2021 03:00 pm Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/98218369454 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-22",
+                "action": "==CONTINUED== Public Hearing: 02/22/2021 01:00 pm Members of the public may attend using the following links: 1. 1. To join the webinar: https://www.zoom.us/j/91732382660",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-25",
+                "action": "Full Committee Work Session: 03/05/2021 10:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/95412375991 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-08",
+                "action": "==RECESSED== Executive Session: 03/08/2021 10:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/96232478698",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-10",
+                "action": "Full Committee Work Session: 03/19/2021 09:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/93683395113 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-30",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-0748h (Vote 18-0; Regular Calendar) House Calendar 18 P. 59",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-09",
+                "action": "Amendment # 2021-0748h: Amendment Adopted Voice Vote 04/09/2021 House Journal  7 P. 42",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-09",
+                "action": "Ought to Pass with Amendment 2021-0748h: Motion Adopted Voice Vote 04/09/2021 House Journal  7 P. 42",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-13",
+                "action": "Introduced 04/08/2021 and Referred to Energy and Natural Resources; Senate Journal 12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-20",
+                "action": "Remote Hearing: 04/26/2021, 01:00 pm; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  21",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-04",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-1294s, 05/13/2021; Senate Calendar  23",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-05-13",
+                "action": "Committee Amendment # 2021-1294s, Amendment Adopted, Voice Vote; 05/13/2021; Senate Journal 15",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-13",
+                "action": "Ought to Pass with Amendments 2021-1294s and 2021-1400s, Motion Adopted, Voice Vote; OT3rdg; 05/13/2021; Senate Journal 15",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-13",
+                "action": "Sen. Avard Floor Amendment # 2021-1400s, Amendment Adopted, Voice Vote; 05/13/2021; Senate Journal 15",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-07",
+                "action": "House Non-Concurs with Senate Amendment 2021-1294s and 2021-1400s and Requests CofC (Reps. Vose, Harrington, Thomas, Cali-Pitts): Motion Adopted Voice Vote 06/04/2021 House Journal  9 P. 52",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-10",
+                "action": "Sen. Avard Accedes to House Request for Committee of Conference, Motion Adopted, Voice Vote; 06/10/2021; Senate Journal 19",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-10",
+                "action": "President Appoints: Senators Avard, Bradley, Watters; 06/10/2021; Senate Journal 19",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-14",
+                "action": "==RECESSED== Conference Committee Meeting: 06/14/2021 09:15 am Legislative Office Building 206-208",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-15",
+                "action": "==CONTINUED== Conference Committee Meeting: 06/15/2021 10:00 am Legislative Office Building 206-208",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-17",
+                "action": "Conference Committee Report Filed, # 2021-1987c; 06/24/2021",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-24",
+                "action": "Conference Committee Report # 2021-1987c, Adopted, Voice Vote; 06/24/2021; Senate Journal 20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-24",
+                "action": "Conference Committee Report 2021-1987c: Adopted, Voice Vote 06/24/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-15",
+                "action": "Enrolled Bill Amendment # 2021-2066e Adopted, Voice Vote, (In recess of 06/24/2021); Senate Journal 20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-15",
+                "action": "Enrolled Bill Amendment # 2021-2066eba: Amendment Adopted Voice Vote (in recess of) 06/24/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-21",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 06/24/2021); Senate Journal 20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-23",
+                "action": "Enrolled (in recess of) 06/24/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-09-07",
+                "action": "Signed by Governor Sununu 08/26/2021; Chapter 229; I. Sec. 1-10 Eff: 10/25/2021 II. Rem. Eff: 08/26/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 17495,
+                "person_hash": "9stsskue",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Michael Vose",
+                "first_name": "Michael",
+                "middle_name": "",
+                "last_name": "Vose",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-09-ROC",
+                "ftm_eid": 25005609,
+                "votesmart_id": 154583,
+                "opensecrets_id": "",
+                "knowwho_pid": 503499,
+                "ballotpedia": "Michael_Vose",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 5043,
+                "person_hash": "rsm79woa",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Jacqueline Cali-Pitts",
+                "first_name": "Jacqueline",
+                "middle_name": "",
+                "last_name": "Cali-Pitts",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-30-ROC",
+                "ftm_eid": 6463088,
+                "votesmart_id": 21535,
+                "opensecrets_id": "",
+                "knowwho_pid": 197257,
+                "ballotpedia": "Jacqueline_Cali-Pitts",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18160,
+                "person_hash": "hp88brg1",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Michael Harrington",
+                "first_name": "Michael",
+                "middle_name": "D.",
+                "last_name": "Harrington",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-03-STR",
+                "ftm_eid": 6594659,
+                "votesmart_id": 14569,
+                "opensecrets_id": "",
+                "knowwho_pid": 208531,
+                "ballotpedia": "Michael_Harrington_(New_Hampshire)",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 16696,
+                "person_hash": "rsvjzse8",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Douglas Thomas",
+                "first_name": "Douglas",
+                "middle_name": "",
+                "last_name": "Thomas",
+                "suffix": "",
+                "nickname": "Doug",
+                "district": "HD-05-ROC",
+                "ftm_eid": 16015398,
+                "votesmart_id": 154549,
+                "opensecrets_id": "",
+                "knowwho_pid": 502642,
+                "ballotpedia": "Doug_Thomas",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2232854,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB315/id/2232854",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=527&txtFormat=html",
+                "text_size": 24875,
+                "text_hash": "bb7b3f0afa94c56ea84041008adf245a"
+            },
+            {
+                "doc_id": 2361701,
+                "date": "2021-04-09",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB315/id/2361701",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=HA&id=527",
+                "text_size": 30238,
+                "text_hash": "3e1e90b705dfabc68e8098a1b7dde58a"
+            },
+            {
+                "doc_id": 2400874,
+                "date": "2021-05-13",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB315/id/2400874",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=SA&id=527",
+                "text_size": 35640,
+                "text_hash": "de6134c52101d70089dec835241a130b"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-12",
+                "time": "15:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Science, Technology and Energy Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-22",
+                "time": "13:00",
+                "location": "Members of the public may attend using the following links: 1. T",
+                "description": "Science, Technology and Energy Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-22",
+                "time": "13:00",
+                "location": "Members of the public may attend using the following links: 1. 1",
+                "description": "Science, Technology and Energy Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-05",
+                "time": "10:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Science, Technology and Energy Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-08",
+                "time": "10:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Science, Technology and Energy Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-19",
+                "time": "09:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Science, Technology and Energy Work Session"
+            }
+        ],
+        "full_text": "aggregation of electric customers definition aggregation amend rsa i to read as follows aggregation means the grouping of retail electric customers to provide broker or contract for electric power supply and energy services for such customers new paragraph definition energy services amend rsa by inserting after paragraph v the following new paragraph energy services means the provision of electric power supply solely or in combination with any or all of the services specified in rsa municipal and county authority agreements amend rsa ii a to read as follows a enter into agreements and provide for energy services specifically the supply of electric power and capacity demand side management conservation meter reading with commission approval for meters owned or controlled by the electric distribution utilities or used for load settlement customer service for aggregation provided services other related services the operation of energy efficiency and clean energy districts adopted by a municipality pursuant to rsa and as approved by the municipality s governing body municipal aggregators amend rsa to read as follows municipal aggregators authorized municipal aggregators of electricity load under this chapter and municipalities operating municipal electric utilities under rsa are expressly authorized to aggregate other energy services commonly and regularly billed to customers as described in rsa municipalities may operate approved aggregation programs as enterprise funds including the use of revenue bonds pursuant to rsa and rsa and loans from other municipal enterprise funds as may be approved by the governing body and the legislative body of the municipality any such loans from other municipal enterprise funds shall be used for purposes that have a clear nexus to the primary purposes of such other funds such as generation storage or sale of power generated from sites facilities or resources that might otherwise be operated or produced by the other enterprise fund nothing in this chapter shall be deemed to limit the capacity of customers to select any service or combination of services offered by such municipal aggregators or to limit the municipality from combining billing for any or all utility energy services with other municipal services regulation of aggregators amend rsa i to read as follows an aggregator operating under this chapter shall not be considered a public utility engaging in the wholesale purchase and resale of electric power under rsa and shall not be considered a municipal utility under rsa providing electric power or energy services to aggregated customers within a municipality or county shall not be considered a wholesale utility transaction however a municipal or county aggregation may elect to participate in the iso new england wholesale energy market as a load serving entity for the purpose of procuring or selling electrical energy or capacity on behalf of its participating retail electric customers including itself regulation of aggregators amend rsa iv to read as follows for the purpose of obtaining interval meter data for load settlement the provision of energy services and near customer access to such data a municipal and county aggregator may contribute to the cost of electric utility provided meter upgrades jointly own revenue grade meters with an electric utility or provide its own revenue grade electric meter which would be in addition to a utility provided meter such metering shall only be implemented subject to the commission finding it is in the public good assuring that meters used for distribution tariff implementation remain under the control and majority ownership of the electric distribution utility and approval of otherwise approving the terms and conditions for such arrangements including sharing or transfer of meter data from and to the electric distribution utility financial responsibility amend rsa to read as follows financial responsibility retail electric customers who choose not to participate in an aggregation program adopted under rsa shall not be responsible for and no entity shall require them to pay any costs associated with such program through taxes or otherwise except for electric power supply or energy services consumed directly by the municipality or county or incidental costs which may include costs necessary to comply with the provisions of this chapter up to the time that the aggregation starts to produce revenue from participating customers but shall not include any capitalized or operating costs of an aggregation program electric aggregation plan amend rsa i to read as follows the governing body of a municipality or county may form an electric aggregation committee to develop a plan for an aggregation program for its citizens a municipality or county may join other municipalities or counties in developing such plans a county plan may provide an aggregation program for all or a subset of municipalities within the county that request to participate by a majority vote of their respective governing bodies aggregation program rsa is repealed and reenacted to read as follows aggregation program the governing body of a municipality or county may submit to its legislative body for adoption a final plan for an aggregation program or any revision to include an aggregation program to be approved by a majority of those present and voting every electric aggregation plan and any revision of a plan to include an default service program shall be submitted to the commission either before or after being submitted by the governing body to the legislative body for approval to determine whether the plan conforms to the requirements of this chapter and applicable rules of the commission the commission shall approve any plan submitted to it unless it finds that it does not meet the requirements of this chapter and other applicable rules and shall detail in writing addressed to the governing bodies of the municipalities or counties concerned the specific respects in which the proposed plan substantially fails to meet the requirements of this chapter and applicable rules failure to disapprove a plan submitted hereunder within days of its submission shall constitute approval thereof a municipality or county may submit a plan that is revised to comply with applicable requirements at any time and start the review process over any plan submitted to the commission under this paragraph shall also be submitted on the same date to the office of the consumer advocate under rsa and any electric distribution utility providing service within the jurisdiction of the municipality or county the consumer advocate utilities and members of the public may file comments about such plans within the first days of their submission commission review and approval of electric aggregation plans shall not require a contested case but shall allow time for submission and consideration of any such comments if the plan is adopted or once adopted is revised to include an service the municipality or county shall mail written notification to each retail electric customer within the municipality or county service area to enable such mailed notification and notwithstanding rsa after an aggregation plan is duly approved the electric distribution utility or utilities serving an adopting municipality or county shall provide to such municipality or county a current list of the names and mailing addresses of all electric customers taking distribution service within the municipality or county service area and for such customers on utility provided default service the account numbers and any other information necessary for successful enrollment in the aggregation notification shall include a description of the aggregation program the implications to the municipality or county and the rights and responsibilities that the participants will have under the program and if provided on an basis the fixed rate or charges that will apply no retail electric customer shall be included in a program in which the customer does not know all of the rates or charges the customer may be subject to at least days in advance and has the option for a period of not less than days from the date of the mailing to opt out of being enrolled in such program unless the customer affirmatively responds to the notification or requests in writing to be included in the program within days after notification of the plan has been sent to retail electric customers in the service area a public information meeting to answer questions on the program shall be held services proposed to be offered by or through the aggregation shall be on an basis unless the adopted aggregation plan explicitly creates an alternative default energy service program where the rate or price is known at least days in advance of its application and for a period of not less than days from the date notification is mailed the customer has the opportunity to opt out of being enrolled in such program by return postcard website or such additional means as may be provided customers who are on default service provided by an electric distribution utility shall be enrolled by the aggregator in an aggregation provided alternative default service if they do not elect to opt out customers opting out will instead remain on utility provided default service customers taking energy service from a competitive electricity supplier shall not be enrolled in any aggregation program unless they voluntarily opt in new customers to the electric distribution utility after the notification mailing required by paragraph iii shall initially be enrolled in utility provided default service unless the customer has relocated within a single utility s service area and is continuing service with a competitive supplier or a municipal or county aggregation program upon request of an aggregator but not more frequently than monthly and notwithstanding rsa the utility shall make available to each operating municipal aggregation or county aggregation where there is no municipal aggregation the names account numbers mailing addresses and any other information necessary for successful enrollment in the aggregation of customers that are new to or then currently on electric distribution utility provided default service after they have provided the customer list for the initial customer mailing required by paragraph iii and that are located within the aggregation service area the aggregation shall periodically mail a written notification to such new customers that have not previously opted out of the aggregator s service and shall enroll them in the aggregation consistent with the or requirements of this paragraph and paragraph municipal aggregations shall take priority or precedence over any county aggregations and each such aggregation shall be responsible for assuring that customers are enrolled with the correct aggregation viii customers enrolled in a or default service shall be free to elect to transfer to utility provided default service or to transfer to a competitive electricity supplier with adequate notice in advance of the next regular meter reading by the distribution utility in the same manner as if they were on utility provided default service or as approved by the commission no such customer shall be required to pay any exit fee or charge for such transfer customers requesting transfer of supply service upon dates other than on the next available regular meter reading date may be charged an meter reading and billing charge upon request of the customer the aggregator shall transfer the customer back to utility provided default service once adopted an aggregation plan and program may be amended and modified from time to time as provided by the governing body of the municipality or county in all cases the establishment of an default service program shall be approved as provided in paragraphs i ii and the commission shall adopt rules under rsa to implement this chapter and to the extent authorities granted to municipalities and counties by this chapter materially affect the interests of electric distribution utilities and their customers to reasonably balance such interests with those of municipalities and counties for the public good which may also be done through adjudicative proceedings to the extent specified or not addressed in rules such rules shall include but not be limited to rules governing the relationship between municipal and county aggregators and distribution utilities metering billing access to customer data for planning and operation of aggregations notice of the commencement or termination of aggregation services and products and the reestablishment of a municipal or county aggregation that has substantially ceased to provide services where the commission has adopted rules in conformity with this chapter complaints to and proceedings before the commission shall not be subject to rsa or rsa billing arrangements for purposes of this section the term supplier shall mean an aggregator functioning as a load serving entity under this chapter or a competitive electricity supplier serving an aggregation under this chapter the term shall also include competitive electricity suppliers generally to the extent and for such customer rate classes as the commission finds after notice and hearing that it is for the public good such a determination shall be on a basis if proposed and assented to by the utility each electric distribution utility shall propose to the commission for review and approval a program for the purchase of receivables of the supplier in which the utility shall pay in a timely manner the amounts due such suppliers from customers for electricity supply and related services less a discount percentage rate equal to the utility s actual uncollectible rate adjusted to recover capitalized and operating costs specific to the implementation and operation of the purchase of receivables program including working capital additionally such discount rate adjustments shall include a pro rata share of the cost of administering collection efforts such that the utility s participation in the purchase of receivables program shall not require the utility or consumers to assume any costs arising from its use such pro rata costs must include but not be limited to any increases in the utility s bad debt attributable to participants in the purchase of receivables program as approved by the commission however the allocation of costs arising from different rate components and determination of the uncollectible rate shall be equitably allocated between such suppliers utility provided default service and other utility charges that are a part of consolidated billing by the utility as approved by the commission the discount percentage rate shall be subject to periodic adjustment as approved by the commission eligible customer generator exception added for municipal hosts amend rsa through to read as follows eligible or means an electric utility customer who owns operates or purchases power from an electrical generating facility either powered by renewable energy or which employs a heat led combined heat and power system with a total peak generating capacity of up to and including one megawatt except as provided for a municipal host as defined in paragraph that is located behind a retail meter on the customer s premises is interconnected and operates in parallel with the electric grid and is used to offset the customer s own electricity requirements incremental generation added to an existing generation facility that does not itself qualify for net metering shall qualify if such incremental generation meets the qualifications of this paragraph and is metered separately from the nonqualifying facility municipal host means a customer generator with a total peak generating capacity of greater than one megawatt and less than megawatts used to offset the electricity requirements of a group consisting exclusively of one or more customers who are political subdivisions provided that all customers are located within the same utility franchise service territory a municipal host shall be located in the same municipality as all group members if the facility began operation after january a municipal host may be owned by either a public or private entity for this definition political subdivision means any city town county school district chartered public school village district school administrative unit or any district or entity created for a special purpose administered or funded by any of the governmental units eligible fuel means natural gas propane wood pellets hydrogen or heating oil when combusted with a burner including air emission standards for the device using the approved fuel heat led means that the combined heat and power system is operated in a manner to satisfy the heat usage needs of the utility property tax exclusion from definition of utility property amend rsa v d to read as follows d the electrical generation production storage and supply equipment of an eligible as defined in rsa and of a limited producer as defined in rsa iii if selling under rsa for facilities with a rated electricity production capacity of up to and including one megawatt the remainder of this act shall take effect upon its passage"
+    }
+}

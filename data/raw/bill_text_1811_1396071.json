@@ -1,0 +1,308 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1396071,
+        "change_hash": "3068978cf3f086eb18f44fc79112652d",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB311/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=414&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB311",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2021-07-06",
+        "progress": [
+            {
+                "date": "2021-01-09",
+                "event": 1
+            },
+            {
+                "date": "2021-01-09",
+                "event": 9
+            },
+            {
+                "date": "2021-02-16",
+                "event": 10
+            },
+            {
+                "date": "2021-03-04",
+                "event": 2
+            },
+            {
+                "date": "2021-03-04",
+                "event": 9
+            },
+            {
+                "date": "2021-03-18",
+                "event": 10
+            },
+            {
+                "date": "2021-06-22",
+                "event": 3
+            },
+            {
+                "date": "2021-07-06",
+                "event": 8
+            },
+            {
+                "date": "2021-07-06",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB311",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Establishing a committee to study rail trail best management practices.",
+        "description": "Establishing a committee to study rail trail best management practices.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-09",
+                "committee_id": 1259,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Resources, Recreation and Development"
+            },
+            {
+                "date": "2021-03-04",
+                "committee_id": 1779,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Transportation"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-09",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Resources, Recreation and Development House Journal  2 P. 43",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-27",
+                "action": "Public Hearing: 02/03/2021 09:00 am Members of the public may attend using the following linkTo join the webinar: https://www.zoom.us/j/92220129569 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-16",
+                "action": "Committee Report: Ought to Pass (Vote 20-0; Consent Calendar) House Calendar 12 P. 12",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-24",
+                "action": "Ought to Pass: Motion Adopted Voice Vote 02/24/2021 House Journal  3 P. 17",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-04",
+                "action": "Introduced 03/04/2021 and Referred to Transportation; Senate Journal 7",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-11",
+                "action": "Remote Hearing: 03/16/2021, 01:45 pm; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  15",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-18",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-0864s, 03/25/2021; Vote 5-0; Consent Calendar; Senate Calendar  16",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-25",
+                "action": "Ought to Pass with Amendment 2021-0864s, Regular Calendar 24-0, Motion Adopted; OT3rdg; 03/25/2021; Senate Journal 9",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-25",
+                "action": "Committee Amendment # 2021-0864s, Regular Calendar 24Y-0N, Amendment Adopted; 03/25/2021; Senate Journal 9",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-10",
+                "action": "House Concurs with Senate Amendment 2021-0864s (Rep. Renzullo): Motion Adopted Voice Vote 06/10/2021 House Journal  10 P. 17",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-22",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 06/10/2021); Senate Journal 20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-22",
+                "action": "Enrolled (in recess of) 06/10/2021 House Journal  10 P. 23",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-07-06",
+                "action": "Signed by Governor Sununu 07/01/2021; Chapter 94; Eff: 07/01/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 5010,
+                "person_hash": "zlw1guie",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Suzanne Smith",
+                "first_name": "Suzanne",
+                "middle_name": "",
+                "last_name": "Smith",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-08-GRA",
+                "ftm_eid": 6494669,
+                "votesmart_id": 110098,
+                "opensecrets_id": "",
+                "knowwho_pid": 237442,
+                "ballotpedia": "Suzanne_Smith_(New_Hampshire)",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19774,
+                "person_hash": "tec8l4b3",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Joyce Weston",
+                "first_name": "Joyce",
+                "middle_name": "",
+                "last_name": "Weston",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-08-GRA",
+                "ftm_eid": 9723374,
+                "votesmart_id": 185235,
+                "opensecrets_id": "",
+                "knowwho_pid": 670357,
+                "ballotpedia": "Joyce_Weston",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 16624,
+                "person_hash": "5ydai6qf",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Linda Gould",
+                "first_name": "Linda",
+                "middle_name": "",
+                "last_name": "Gould",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-07-HIL",
+                "ftm_eid": 9711345,
+                "votesmart_id": 154475,
+                "opensecrets_id": "",
+                "knowwho_pid": 502379,
+                "ballotpedia": "Linda_Gould",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2232853,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB311/id/2232853",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=404&txtFormat=html",
+                "text_size": 14040,
+                "text_hash": "f0f8009070d971caf6807aa15982d320"
+            },
+            {
+                "doc_id": 2348105,
+                "date": "2021-03-25",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB311/id/2348105",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=SA&id=404",
+                "text_size": 14033,
+                "text_hash": "34a1c5ed1998ea750e3fa558ae924bf0"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-03",
+                "time": "09:00",
+                "location": "Members of the public may attend using the following linkTo join",
+                "description": "Resources, Recreation and Development Public Hearing"
+            }
+        ],
+        "full_text": "findings the general court finds that many former rail lines were abandoned years ago and appear to be nearly reclaimed by nature others have been repurposed as recreational trails which are used by residents and visitors for walking bicycling skiing snowshoeing as well as for snowmobiles and ohrvs in some instances adjacent industrial activities historic loading practices leaks during material transfers or storage and repair activities have contaminated soil with oil or hazardous materials in addition residual contamination can often be found along the length of the line incidental to the maintenance and use of the railway itself redevelopment of former rail lines to recreational trails can be accomplished in a way that protects public health and the environment it requires recognizing potential problems and implementing actions to safeguard nearby residents workers and trail users throughout the life of the project committee established there is established a committee to study rail trail management practices membership and compensation the members of the committee shall be as follows a three members of the house of representatives at least of whom shall be from the resources recreation and development committee appointed by the speaker of the house of representatives b one member of the senate appointed by the president of the senate members of the committee shall receive mileage at the legislative rate when attending to the duties of the committee duties the committee shall develop best management practices for repurposing former rail beds into rail trails and develop best management practices for maintaining rail trails to reduce or limit exposure of possible contamination to users seek input from state agencies including department of environmental services department of transportation and the department of natural and cultural resources bureau of trails solicit advice and testimony from experts in areas of study including but not limited to a residual contamination from railroad operations b contamination from other sources c identifying areas of contamination concern d establishing goals of best management practices e concerns f fugitive dust g impact on vegetation h impact on abutters i motorized vehicle impact j pedestrian impact k animal impact chairperson quorum the members of the study committee shall elect a chairperson from among the members the first meeting of the committee shall be called by the house member the first meeting of the committee shall be held within days of the effective date of this section three members of the committee shall constitute a quorum report the committee shall submit an interim report of its findings and any recommendations for proposed legislation to the speaker of the house of representatives the president of the senate the house clerk the senate clerk the governor and the state library on or before november and shall submit a final report on or before november"
+    }
+}

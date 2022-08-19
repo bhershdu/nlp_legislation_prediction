@@ -1,0 +1,312 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1396522,
+        "change_hash": "4997f54765fca00a139d7fcd4ed84af1",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB374/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=227&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB374",
+        "completed": 0,
+        "status": 2,
+        "status_date": "2021-04-13",
+        "progress": [
+            {
+                "date": "2021-01-10",
+                "event": 1
+            },
+            {
+                "date": "2021-01-10",
+                "event": 9
+            },
+            {
+                "date": "2021-03-12",
+                "event": 10
+            },
+            {
+                "date": "2021-03-12",
+                "event": 11
+            },
+            {
+                "date": "2021-04-13",
+                "event": 2
+            },
+            {
+                "date": "2021-04-13",
+                "event": 9
+            },
+            {
+                "date": "2021-04-28",
+                "event": 11
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB374",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "S",
+        "current_body_id": 68,
+        "title": "Relative to the official ballot referendum form of town meetings.",
+        "description": "Relative to the official ballot referendum form of town meetings.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-10",
+                "committee_id": 1257,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Municipal and County Government"
+            },
+            {
+                "date": "2021-04-13",
+                "committee_id": 3825,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Election Law and Municipal Affairs"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-10",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Municipal and County Government House Journal  2 P. 45",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-08",
+                "action": "Public Hearing: 03/08/2021 10:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/96469796123 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-12",
+                "action": "Majority Committee Report: Ought to Pass (Vote 10-9; Regular Calendar) House Calendar 18 P. 57",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-12",
+                "action": "Minority Committee Report: Inexpedient to Legislate",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-09",
+                "action": "Ought to Pass: Motion Adopted DV 200-175 04/09/2021 House Journal  7 P. 31",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-13",
+                "action": "Introduced 04/08/2021 and Referred to Election Law and Municipal Affairs; Senate Journal 12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-21",
+                "action": "Remote Hearing: 04/26/2021, 09:30 am; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  21",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-28",
+                "action": "Committee Report: Inexpedient to Legislate; Vote 5-0; Consent Calendar; 05/06/2021; Senate Calendar  22",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-05-06",
+                "action": "Inexpedient to Legislate, Regular Calendar 23Y-0N, Motion Adopted === BILL KILLED ===; 05/06/2021; Senate Journal 14",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 21855,
+                "person_hash": "ka1p2mm2",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Diane Pauer",
+                "first_name": "Diane",
+                "middle_name": "",
+                "last_name": "Pauer",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-26-HIL",
+                "ftm_eid": 50226578,
+                "votesmart_id": 195060,
+                "opensecrets_id": "",
+                "knowwho_pid": 744188,
+                "ballotpedia": "Diane_Pauer",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4754,
+                "person_hash": "p5hsu8yc",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Carol McGuire",
+                "first_name": "Carol",
+                "middle_name": "",
+                "last_name": "McGuire",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-29-MER",
+                "ftm_eid": 6677888,
+                "votesmart_id": 109938,
+                "opensecrets_id": "",
+                "knowwho_pid": 222865,
+                "ballotpedia": "Carol_McGuire",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19878,
+                "person_hash": "n0xfc702",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Josh Yokela",
+                "first_name": "Josh",
+                "middle_name": "",
+                "last_name": "Yokela",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-33-ROC",
+                "ftm_eid": 45378989,
+                "votesmart_id": 185522,
+                "opensecrets_id": "",
+                "knowwho_pid": 670769,
+                "ballotpedia": "Josh_Yokela",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18154,
+                "person_hash": "rbl9goo2",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "John Lewicke",
+                "first_name": "John",
+                "middle_name": "",
+                "last_name": "Lewicke",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-26-HIL",
+                "ftm_eid": 6695663,
+                "votesmart_id": 1320,
+                "opensecrets_id": "",
+                "knowwho_pid": 296244,
+                "ballotpedia": "John_Lewicke",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 10931,
+                "person_hash": "qw6kqc7b",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Mark Warden",
+                "first_name": "Mark",
+                "middle_name": "",
+                "last_name": "Warden",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-39-HIL",
+                "ftm_eid": 9715337,
+                "votesmart_id": 122391,
+                "opensecrets_id": "",
+                "knowwho_pid": 296507,
+                "ballotpedia": "Mark_Warden",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2235025,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB374/id/2235025",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=230&txtFormat=html",
+                "text_size": 9778,
+                "text_hash": "59f3664ef7000d6bbe07f64683842c10"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-08",
+                "time": "10:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Municipal and County Government Public Hearing"
+            }
+        ],
+        "full_text": "method of adopting official ballot referendum form of meeting amend rsa iii to read as follows the local political subdivision shall place the question on the warrant of the annual meeting under the procedures set out in rsa or rsa and the question shall be voted on by official ballot in accordance with the procedures established in rsa rsa and rsa including all requirements pertaining to absentee voting polling places and polling hours voting on the question shall be by ballot but the question shall not be placed on the official ballot used to elect officers polls shall remain open and ballots shall be accepted by the moderator for a period of not less than one hour following the completion of discussion on the question method of adopting official ballot referendum form of meeting amend rsa vii to read as follows any local political subdivision which has adopted rsa may consider rescinding its action in the manner described in paragraphs except that the question shall be placed on the official ballot the wording of the question shall be shall we rescind the provisions of rsa known as sb as adopted by the local political subdivision on date of adoption so that the official ballot will no longer be used for voting on all questions but only for the election of officers and certain other questions for which the official ballot is required by state law a majority of those voting on the question shall be required to rescind the provisions of this subdivision except in the case of repeal by charter enactment under rsa only votes in the affirmative or negative shall be included in the calculation of the majority"
+    }
+}

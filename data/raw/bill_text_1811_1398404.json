@@ -1,0 +1,368 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1398404,
+        "change_hash": "672a7a5854d85b5793c1a7bf24580591",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB442/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=667&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB442",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2021-05-19",
+        "progress": [
+            {
+                "date": "2021-01-10",
+                "event": 1
+            },
+            {
+                "date": "2021-01-10",
+                "event": 9
+            },
+            {
+                "date": "2021-02-18",
+                "event": 10
+            },
+            {
+                "date": "2021-03-04",
+                "event": 2
+            },
+            {
+                "date": "2021-03-04",
+                "event": 9
+            },
+            {
+                "date": "2021-03-31",
+                "event": 10
+            },
+            {
+                "date": "2021-05-06",
+                "event": 3
+            },
+            {
+                "date": "2021-05-19",
+                "event": 8
+            },
+            {
+                "date": "2021-05-19",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB442",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to penalties for a school's failure to file department of education reports.",
+        "description": "Relative to penalties for a school's failure to file department of education reports.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-10",
+                "committee_id": 1240,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Education"
+            },
+            {
+                "date": "2021-03-04",
+                "committee_id": 1267,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Education"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-10",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Education House Journal  2 P. 48",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-20",
+                "action": "Public Hearing: 01/26/2021 01:00 pm Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/91325381640 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-18",
+                "action": "Executive Session: 02/18/2021 09:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/95029670134",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-18",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-0383h (Vote 20-0; Consent Calendar) House Calendar 12 P. 4",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-24",
+                "action": "Amendment # 2021-0383h: Amendment Adopted Voice Vote 02/24/2021 House Journal  3 P. 6",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-24",
+                "action": "Ought to Pass with Amendment 2021-0383h: Motion Adopted Voice Vote 02/24/2021 House Journal  3 P. 6",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-04",
+                "action": "Introduced 03/04/2021 and Referred to Education; Senate Journal 7",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-17",
+                "action": "Remote Hearing: 03/23/2021, 09:15 am; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  16",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-31",
+                "action": "Committee Report: Ought to Pass, 04/08/2021; Vote 5-0; Consent Calendar; Senate Calendar  18",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-08",
+                "action": "Ought to Pass: Regular Calendar 23Y-1N, Motion Adopted; OT3rdg; 04/08/2021; Senate Journal 11",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-21",
+                "action": "Enrolled Bill Amendment # 2021-1168e Regular Calendar 24Y-0N, Amendment Adopted, (In recess of 04/08/2021); Senate Journal 12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-22",
+                "action": "Enrolled Bill Amendment # 2021-1168e: Amendment Adopted Voice Vote (in recess of) 04/09/2021 House Journal  7 P. 100",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-06",
+                "action": "Enrolled (in recess of) 04/09/2021 House Journal  7 P. 102",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-05-06",
+                "action": "Enrolled Regular Calendar 23Y-0N, Motion Adopted, (In recess of 05/06/2021); Senate Journal 15",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-19",
+                "action": "Signed by Governor Sununu 05/17/2021; Chapter 44; Eff: 05/17/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 14478,
+                "person_hash": "1kegb9fu",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Glenn Cordelli",
+                "first_name": "Glenn",
+                "middle_name": "",
+                "last_name": "Cordelli",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-04-CAR",
+                "ftm_eid": 13703548,
+                "votesmart_id": 143307,
+                "opensecrets_id": "",
+                "knowwho_pid": 427994,
+                "ballotpedia": "Glenn_Cordelli",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4962,
+                "person_hash": "a8w1fmfn",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Roderick Ladd",
+                "first_name": "Roderick",
+                "middle_name": "M.",
+                "last_name": "Ladd",
+                "suffix": "",
+                "nickname": "Rick",
+                "district": "HD-05-GRA",
+                "ftm_eid": 6677856,
+                "votesmart_id": 109958,
+                "opensecrets_id": "",
+                "knowwho_pid": 269203,
+                "ballotpedia": "Rick_Ladd",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21838,
+                "person_hash": "en9fh5dn",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Erica Layon",
+                "first_name": "Erica",
+                "middle_name": "",
+                "last_name": "Layon",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-06-ROC",
+                "ftm_eid": 50226598,
+                "votesmart_id": 195044,
+                "opensecrets_id": "",
+                "knowwho_pid": 744333,
+                "ballotpedia": "Erica_Layon",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 10919,
+                "person_hash": "1v1bugsr",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Joseph Pitre",
+                "first_name": "Joseph",
+                "middle_name": "A.",
+                "last_name": "Pitre",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-03-STR",
+                "ftm_eid": 6695545,
+                "votesmart_id": 122332,
+                "opensecrets_id": "",
+                "knowwho_pid": 296674,
+                "ballotpedia": "Joseph_Pitre_(New_Hampshire)",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2235008,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB442/id/2235008",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=656&txtFormat=html",
+                "text_size": 19968,
+                "text_hash": "4424d0dce9264b36ea533228e2070612"
+            },
+            {
+                "doc_id": 2324147,
+                "date": "2021-02-24",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB442/id/2324147",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=HA&id=656",
+                "text_size": 20115,
+                "text_hash": "3246210e14b8c4daf4c9e1790361c92d"
+            },
+            {
+                "doc_id": 2360641,
+                "date": "2021-02-24",
+                "type": "Enrolled",
+                "type_id": 5,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB442/id/2360641",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&v=SP&id=656",
+                "text_size": 20122,
+                "text_hash": "b658602e2c616a7d9026fa990d6e93f0"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-01-26",
+                "time": "13:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Education Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-18",
+                "time": "09:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Education Executive Session"
+            }
+        ],
+        "full_text": "penalty for failure to file report rsa is repealed and reenacted to read as follows penalty for failure to file report a school district city chartered public school or public academy shall file the reports due under rsa iii no later than september of each year for just cause the commissioner of the department of education may grant a school district city chartered public school or public academy up to a extension to such reporting deadline the commissioner may further extend the deadline when unusual or unforeseen circumstances prevent a school district city chartered public school or public academy from submitting the required reports under paragraph i before the expiration of such extension the commissioner shall notify the governing body of the school district city chartered public school or public academy that all state aid to education shall be withheld until complete and accurate information is submitted in the case of a chartered public school which fails to comply with the reporting requirements by the established deadlines for consecutive years the commissioner may request the state board of education to revoke the enabling charter statistical reports failure to file report amend rsa i to read as follows the governing body of every public chartered public school and nonpublic education agency shall on or before august the deadline established by the department as deemed appropriate in each year submit to the department of education those statistical reports necessary to compute the average daily membership of pupils attending each school district and the average daily membership of pupils resident in each school district information relating to the fall enrollment staffing census and average teacher salary prior year annual safety reports as of october of each school year and other reports necessary to meet state and federal requirements as determined by the department shall be submitted to the department of education on or before october the deadline established by the department the governing body of every public and chartered public school shall submit the average teacher salary as of october of each school year to the department of education on or before the deadline established by the department nonpublic schools shall submit the following general statistics of nonpublic schools nonpublic school restraint and seclusion collection data general fall report of schools school emergency operation plan and other reports necessary to meet state and federal requirements as determined by the department of education if the governing body of a school fails to submit the statistical reports by the established deadlines for consecutive years the commissioner may request the state board of education to revoke the enabling charter or approval statistical reports failure to file report amend rsa iv to read as follows the commissioner of the department of education may grant a school district city or public academy public school chartered public school or nonpublic school up to a extension of the reporting deadline set forth in paragraph i provided that such extension will not delay the statewide calculations the commissioner of the department of education shall notify the governing body of the public education agency that all state aid to education and all federal aid if the report is required by federal law shall be withheld until such time as complete and accurate information is submitted new subparagraphs charter revocation probation amend rsa ii by inserting after subparagraph e the following new subparagraphs f the school fails to comply with the reporting requirements in accordance with rsa g the school fails to comply with the reporting requirements in accordance with rsa school money reports required cities and school districts amend rsa to read as follows reports required cities and school districts the governing body of each city and school district and chartered public school shall submit to the commissioner of the department of education the following reports pursuant to rules adopted under rsa by the commissioner of revenue administration which establish the form and content of such reports a report filed by the governing body of each city and school district and chartered public school shall certify the appropriations voted by the meeting of the appropriate legislative body whether city council mayor and council or mayor and board of aldermen or by each annual or special school district meeting along with estimated revenues this report shall be filed within days of the close of the meeting a report filed by the governing body of each city and school district and chartered public school shall revise all the estimated revenues for the year this report shall be filed by september of each year the revised estimates by school districts for the adequate education grants calculated under rsa shall be considered the most accurate within percent of the amount estimated pursuant to rsa a financial report for each city and school district and chartered public school shall be filed showing the summary of receipts and expenditures according to uniform classifications during the preceding fiscal year and a balance sheet showing assets and liabilities at the close of the year this report shall be submitted on or before september of each year each statistical report submitted under this section shall include a certification signed by the chairperson of the school district s governing body or the chairperson of the board of trustees of approved public academies that states i certify under the pains and penalties of perjury to the best of my knowledge and belief that all of the information contained in this document is true accurate and complete the department of education and the department of revenue administration together shall develop and recommend school accounting standards the departments shall report to the speaker of the house the senate president and the governor concerning such accounting standards on or before december the budget committee in school districts operating under the municipal budget law shall file the budget within days of the close of the annual or special meeting if a city or school district or chartered public school is audited by an independent public accountant it shall submit a copy of the audited financial statements in accordance with rsa if a city or school district is audited under rsa the procedures in rsa through shall be followed"
+    }
+}

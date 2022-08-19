@@ -1,0 +1,486 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1423666,
+        "change_hash": "6978686e29ed3119a68ae58bfe886680",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/SB89/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=999&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=SB89",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2021-08-03",
+        "progress": [
+            {
+                "date": "2021-01-26",
+                "event": 1
+            },
+            {
+                "date": "2021-01-26",
+                "event": 9
+            },
+            {
+                "date": "2021-03-15",
+                "event": 10
+            },
+            {
+                "date": "2021-03-31",
+                "event": 2
+            },
+            {
+                "date": "2021-03-31",
+                "event": 9
+            },
+            {
+                "date": "2021-05-26",
+                "event": 10
+            },
+            {
+                "date": "2021-05-26",
+                "event": 11
+            },
+            {
+                "date": "2021-07-15",
+                "event": 3
+            },
+            {
+                "date": "2021-08-03",
+                "event": 8
+            },
+            {
+                "date": "2021-08-03",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "SB89",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "S",
+        "body_id": 68,
+        "current_body": "S",
+        "current_body_id": 68,
+        "title": "Adopting omnibus legislation relative to election procedures.",
+        "description": "Adopting omnibus legislation relative to election procedures.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-26",
+                "committee_id": 3825,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Election Law and Municipal Affairs"
+            },
+            {
+                "date": "2021-03-31",
+                "committee_id": 1241,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Election Law"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-26",
+                "action": "Introduced 01/06/2021 and Referred to Election Law and Municipal Affairs; Senate Journal 3",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-03",
+                "action": "Remote Hearing: 03/08/2021, 09:00 am; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  14",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-15",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-0825s, 03/25/2021; Senate Calendar  16",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-25",
+                "action": "Committee Amendment # 2021-0825s, Regular Calendar 24Y-0N, Amendment Adopted; 03/25/2021; Senate Journal 9",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-25",
+                "action": "Ought to Pass with Amendment 2021-0825s, Regular Calendar 24Y-0N, Motion Adopted; OT3rdg; 03/25/2021; Senate Journal 9",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-31",
+                "action": "Introduced (in recess of) 02/25/2021 and referred to Election Law House Journal  4 P. 51",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-15",
+                "action": "==CANCELLED== Public Hearing: 04/22/2021 11:15 am Members of the public may attend using the following link:To join the webinar: https://zoom.us/j/99446784139 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-15",
+                "action": "Public Hearing: 04/23/2021 11:15 am Members of the public may attend using the following link:To join the webinar: https://zoom.us/j/96682102830 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-29",
+                "action": "Full Committee Work Session: 05/05/2021 10:00 am Members of the public may attend using the following link:To join the webinar: https://zoom.us/j/98783397971 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-12",
+                "action": "Executive Session: 05/19/2021 10:00 am Members of the public may attend using the following link:To join the webinar: https://zoom.us/j/99392215410",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-12",
+                "action": "Public Hearing on non-germane Amendment # 2021-1445h: 05/19/2021 09:30 am Members of the public may attend using the following link:To join the webinar: https://zoom.us/j/99392215410",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-26",
+                "action": "Majority Committee Report: Ought to Pass with Amendment # 2021-1610h (Vote 11-8; Regular Calendar) House Calendar 26 P. 21",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-05-26",
+                "action": "Minority Committee Report: Inexpedient to Legislate",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-06-03",
+                "action": "Ought to Pass with Amendment 2021-1610h: Motion Adopted DV 200-174 06/03/2021 House Journal  8 P. 138",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-03",
+                "action": "Amendment # 2021-1610h: Amendment Adopted Regular Calendar 202-175 06/03/2021 House Journal  8 P. 137",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-10",
+                "action": "Sen. Gray Moved to Concur with the House Amendment, Regular Calendar 14Y-10N, Motion Adopted; 06/10/2021; Senate Journal 19",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-15",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 06/24/2021); Senate Journal 20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-15",
+                "action": "Enrolled (in recess of) 06/24/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-08-03",
+                "action": "Signed by the Governor on 07/30/2021; Chapter 0177",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-08-03",
+                "action": "Part I Effective 09/28/2021",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-08-03",
+                "action": "Part II Effective 09/28/2021",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-08-03",
+                "action": "Part III Effective 07/30/2021",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-08-03",
+                "action": "Part IV Effective 07/30/2021",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 15558,
+                "person_hash": "9mn5cv50",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "James Gray",
+                "first_name": "James",
+                "middle_name": "",
+                "last_name": "Gray",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-006",
+                "ftm_eid": 6554869,
+                "votesmart_id": 128181,
+                "opensecrets_id": "",
+                "knowwho_pid": 426275,
+                "ballotpedia": "James_Gray_(New_Hampshire)",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2259391,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB89/id/2259391",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=990&txtFormat=html",
+                "text_size": 54756,
+                "text_hash": "dc7bc9c01baee3f49f80059e314e751e"
+            },
+            {
+                "doc_id": 2347703,
+                "date": "2021-03-25",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB89/id/2347703",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=SA&id=990",
+                "text_size": 54604,
+                "text_hash": "35dfa8f7449a0976bcb93d3840046a68"
+            },
+            {
+                "doc_id": 2411529,
+                "date": "2021-03-25",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB89/id/2411529",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=HA&id=990",
+                "text_size": 18307,
+                "text_hash": "fe200407d023ac6f9c962b97ed83e46f"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1038804,
+                "date": "2021-03-25",
+                "desc": "Committee Amendment",
+                "yea": 24,
+                "nay": 0,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB89/id/1038804",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=208&sy=2021&lb=S&eb=SB0089&sortoption=&txtsessionyear=2021&txtbillnumber=SB89&ddlsponsors=&lsr=999"
+            },
+            {
+                "roll_call_id": 1038805,
+                "date": "2021-03-25",
+                "desc": "Ought to Pass w/Amendment",
+                "yea": 24,
+                "nay": 0,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB89/id/1038805",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=209&sy=2021&lb=S&eb=SB0089&sortoption=&txtsessionyear=2021&txtbillnumber=SB89&ddlsponsors=&lsr=999"
+            },
+            {
+                "roll_call_id": 1091821,
+                "date": "2021-06-03",
+                "desc": "Adopt Amendment",
+                "yea": 202,
+                "nay": 175,
+                "nv": 21,
+                "absent": 0,
+                "total": 398,
+                "passed": 1,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/SB89/id/1091821",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=164&sy=2021&lb=H&eb=SB0089&sortoption=&txtsessionyear=2021&txtbillnumber=SB89&ddlsponsors=&lsr=999"
+            },
+            {
+                "roll_call_id": 1097669,
+                "date": "2021-06-10",
+                "desc": "Concur",
+                "yea": 14,
+                "nay": 10,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB89/id/1097669",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=436&sy=2021&lb=S&eb=SB0089&sortoption=&txtsessionyear=2021&txtbillnumber=SB89&ddlsponsors=&lsr=999"
+            },
+            {
+                "roll_call_id": 1102380,
+                "date": "2021-06-03",
+                "desc": "Adopt Amendment 2021-1610h",
+                "yea": 202,
+                "nay": 175,
+                "nv": 1,
+                "absent": 20,
+                "total": 398,
+                "passed": 1,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/SB89/id/1102380",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=164&sy=2021&lb=H&eb=SB0089&sortoption=&txtsessionyear=2021&txtbillnumber=SB89&ddlsponsors=&lsr=0999"
+            },
+            {
+                "roll_call_id": 1102381,
+                "date": "2021-03-25",
+                "desc": "Committee Amendment 0825s",
+                "yea": 24,
+                "nay": 0,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB89/id/1102381",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=208&sy=2021&lb=S&eb=SB0089&sortoption=&txtsessionyear=2021&txtbillnumber=SB89&ddlsponsors=&lsr=0999"
+            },
+            {
+                "roll_call_id": 1102382,
+                "date": "2021-03-25",
+                "desc": "Ought to Pass w/Amendment",
+                "yea": 24,
+                "nay": 0,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB89/id/1102382",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=209&sy=2021&lb=S&eb=SB0089&sortoption=&txtsessionyear=2021&txtbillnumber=SB89&ddlsponsors=&lsr=0999"
+            },
+            {
+                "roll_call_id": 1102383,
+                "date": "2021-06-10",
+                "desc": "Concur",
+                "yea": 14,
+                "nay": 10,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB89/id/1102383",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=436&sy=2021&lb=S&eb=SB0089&sortoption=&txtsessionyear=2021&txtbillnumber=SB89&ddlsponsors=&lsr=0999"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-04-22",
+                "time": "11:15",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "(CANCELLED) Election Law Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-04-23",
+                "time": "11:15",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Election Law Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-05-05",
+                "time": "10:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Election Law Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-05-19",
+                "time": "10:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Election Law Executive Session"
+            }
+        ]
+    }
+}

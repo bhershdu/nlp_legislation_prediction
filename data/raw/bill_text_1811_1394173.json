@@ -1,0 +1,520 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1394173,
+        "change_hash": "616d013614d29076914413f12ab9ace1",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/SB17/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=327&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=SB17",
+        "completed": 0,
+        "status": 2,
+        "status_date": "2021-03-10",
+        "progress": [
+            {
+                "date": "2021-01-05",
+                "event": 1
+            },
+            {
+                "date": "2021-01-05",
+                "event": 9
+            },
+            {
+                "date": "2021-01-19",
+                "event": 10
+            },
+            {
+                "date": "2021-02-11",
+                "event": 10
+            },
+            {
+                "date": "2021-03-10",
+                "event": 2
+            },
+            {
+                "date": "2021-03-10",
+                "event": 9
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "SB17",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "S",
+        "body_id": 68,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to brew pubs allowing customers to bring dogs to outdoor areas and enabling nano breweries and brew pubs to enter into contracts with contract brewers.",
+        "description": "Relative to brew pubs allowing customers to bring dogs to outdoor areas and enabling nano breweries and brew pubs to enter into contracts with contract brewers.",
+        "pending_committee_id": 1238,
+        "committee": {
+            "committee_id": 1238,
+            "chamber": "H",
+            "chamber_id": 67,
+            "name": "Commerce and Consumer Affairs"
+        },
+        "referrals": [
+            {
+                "date": "2021-01-05",
+                "committee_id": 1780,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Commerce"
+            },
+            {
+                "date": "2021-03-10",
+                "committee_id": 1238,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Commerce and Consumer Affairs"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-05",
+                "action": "To Be Introduced 01/06/2021 and Referred to Commerce; Senate Journal 2",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-07",
+                "action": "Remote Hearing: 01/11/2021, 01:10 pm; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  6",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-01-19",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-0024s, 02/04/2021; Senate Calendar  9",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-04",
+                "action": "Sen. Bradley Moved to Special Order to 02/11/2021, Regular Calendar 24Y-0N, Motion Adopted; 02/04/2021; Senate Journal 3",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-11",
+                "action": "Committee Amendment # 2021-0024s, Regular Calendar 24Y-0N, Amendment Adopted; 02/11/2021; Senate Journal 4",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-11",
+                "action": "Sen. Sherman Floor Amendment # 2021-0322s, Regular Calendar 24Y-0N, Amendment Adopted; 02/11/2021; Senate Journal 4",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-11",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-0024s, 02/11/2021; Senate Calendar  9",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-11",
+                "action": "Ought to Pass with Amendments 2021-0024s, and 2021-0322s, Regular Calendar 23Y-1N, Motion Adopted; OT3rdg; 02/11/2021; Senate Journal 4",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-10",
+                "action": "Introduced (in recess of) 02/25/2021 and referred to Commerce and Consumer Affairs House Journal  4 P. 48",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-23",
+                "action": "Public Hearing: 03/23/2021 09:45 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/97167243328 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-05",
+                "action": "Executive Session: 05/13/2021 10:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/93883325643",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-24",
+                "action": "Retained in Committee",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-08-17",
+                "action": "Subcommittee Work Session: 09/08/2021 11:30 am Legislative Office Building 302-304",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-10-06",
+                "action": "Subcommittee Work Session: 10/13/2021 09:00 am Legislative Office Building 302-304",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-10-26",
+                "action": "Executive Session: 10/26/2021 10:00 a.m. Legislative Office Building306-308",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 11989,
+                "person_hash": "szz8y6ea",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Regina Birdsell",
+                "first_name": "Regina",
+                "middle_name": "",
+                "last_name": "Birdsell",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-019",
+                "ftm_eid": 6695412,
+                "votesmart_id": 126600,
+                "opensecrets_id": "",
+                "knowwho_pid": 296214,
+                "ballotpedia": "Regina_Birdsell",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 17477,
+                "person_hash": "1zeltkcr",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "William Gannon",
+                "first_name": "William",
+                "middle_name": "M.",
+                "last_name": "Gannon",
+                "suffix": "",
+                "nickname": "Bill",
+                "district": "SD-023",
+                "ftm_eid": 1161567,
+                "votesmart_id": 154540,
+                "opensecrets_id": "",
+                "knowwho_pid": 502121,
+                "ballotpedia": "William_Gannon",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19435,
+                "person_hash": "pcvm1xbc",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Kevin Cavanaugh",
+                "first_name": "Kevin",
+                "middle_name": "J.",
+                "last_name": "Cavanaugh",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-016",
+                "ftm_eid": 43568196,
+                "votesmart_id": 176396,
+                "opensecrets_id": "",
+                "knowwho_pid": 634333,
+                "ballotpedia": "Kevin_Cavanaugh_(New_Hampshire)",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4775,
+                "person_hash": "kswslwpv",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Sharon Carson",
+                "first_name": "Sharon",
+                "middle_name": "",
+                "last_name": "Carson",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-014",
+                "ftm_eid": 6593753,
+                "votesmart_id": 42537,
+                "opensecrets_id": "",
+                "knowwho_pid": 208650,
+                "ballotpedia": "Sharon_Carson",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 14488,
+                "person_hash": "elsfgcmi",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Thomas Sherman",
+                "first_name": "Thomas",
+                "middle_name": "",
+                "last_name": "Sherman",
+                "suffix": "",
+                "nickname": "Tom",
+                "district": "SD-024",
+                "ftm_eid": 13703813,
+                "votesmart_id": 141784,
+                "opensecrets_id": "",
+                "knowwho_pid": 426683,
+                "ballotpedia": "Tom_Sherman",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2228334,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB17/id/2228334",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=325&txtFormat=html",
+                "text_size": 8137,
+                "text_hash": "4b8cfebac54638f37996ba6f71d9c4ad"
+            },
+            {
+                "doc_id": 2291422,
+                "date": "2021-02-11",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB17/id/2291422",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=SA&id=325",
+                "text_size": 18328,
+                "text_hash": "f7b5df65f2669628884f622d62a427e7"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 998317,
+                "date": "2021-02-04",
+                "desc": "Special ordered to Thursday, February 11, 2021",
+                "yea": 24,
+                "nay": 0,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB17/id/998317",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=16&sy=2021&lb=S&eb=SB0017&sortoption=&txtsessionyear=2021&txtbillnumber=SB17&ddlsponsors=&lsr=327"
+            },
+            {
+                "roll_call_id": 1006661,
+                "date": "2021-02-11",
+                "desc": "Committee Amendment 0024s",
+                "yea": 24,
+                "nay": 0,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB17/id/1006661",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=35&sy=2021&lb=S&eb=SB0017&sortoption=&txtsessionyear=2021&txtbillnumber=SB17&ddlsponsors=&lsr=327"
+            },
+            {
+                "roll_call_id": 1006662,
+                "date": "2021-02-11",
+                "desc": "Floor Amendment 0322s",
+                "yea": 24,
+                "nay": 0,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB17/id/1006662",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=36&sy=2021&lb=S&eb=SB0017&sortoption=&txtsessionyear=2021&txtbillnumber=SB17&ddlsponsors=&lsr=327"
+            },
+            {
+                "roll_call_id": 1006663,
+                "date": "2021-02-11",
+                "desc": "Ought to Pass w/Amendment",
+                "yea": 23,
+                "nay": 1,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB17/id/1006663",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=37&sy=2021&lb=S&eb=SB0017&sortoption=&txtsessionyear=2021&txtbillnumber=SB17&ddlsponsors=&lsr=327"
+            },
+            {
+                "roll_call_id": 1013956,
+                "date": "2021-02-04",
+                "desc": "Special ordered to Thursday, February 11, 2021",
+                "yea": 24,
+                "nay": 0,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB17/id/1013956",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=16&sy=2021&lb=S&eb=SB0017&sortoption=&txtsessionyear=2021&txtbillnumber=SB17&ddlsponsors=&lsr=0327"
+            },
+            {
+                "roll_call_id": 1013957,
+                "date": "2021-02-11",
+                "desc": "Committee Amendment 0024s",
+                "yea": 24,
+                "nay": 0,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB17/id/1013957",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=35&sy=2021&lb=S&eb=SB0017&sortoption=&txtsessionyear=2021&txtbillnumber=SB17&ddlsponsors=&lsr=0327"
+            },
+            {
+                "roll_call_id": 1013958,
+                "date": "2021-02-11",
+                "desc": "Floor Amendment 0322s",
+                "yea": 24,
+                "nay": 0,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB17/id/1013958",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=36&sy=2021&lb=S&eb=SB0017&sortoption=&txtsessionyear=2021&txtbillnumber=SB17&ddlsponsors=&lsr=0327"
+            },
+            {
+                "roll_call_id": 1013959,
+                "date": "2021-02-11",
+                "desc": "Ought to Pass w/Amendment",
+                "yea": 23,
+                "nay": 1,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB17/id/1013959",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=37&sy=2021&lb=S&eb=SB0017&sortoption=&txtsessionyear=2021&txtbillnumber=SB17&ddlsponsors=&lsr=0327"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-23",
+                "time": "09:45",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Commerce and Consumer Affairs Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-05-13",
+                "time": "10:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Commerce and Consumer Affairs Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-09-08",
+                "time": "11:30",
+                "location": "Legislative Office Building 302-304",
+                "description": "Commerce and Consumer Affairs Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-10-13",
+                "time": "09:00",
+                "location": "Legislative Office Building 302-304",
+                "description": "Commerce and Consumer Affairs Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-10-26",
+                "time": "10:00",
+                "location": "Legislative Office Building306-308",
+                "description": "Commerce and Consumer Affairs Executive Session"
+            }
+        ],
+        "full_text": "new paragraph dogs on brew pub patios amend rsa by inserting after paragraph ii the following new paragraph a municipality may adopt an ordinance allowing a person holding a brew pub license under rsa to allow dogs onto any patio at his or her place of business if such dogs and owners access to the patio is from the exterior of the brew pub regardless of whether food or drink are served on such patio in this paragraph patio means an open air exterior paved space with an entrance separate from the brew pub such dogs shall not be allowed in food preparation or production areas a brew pub licensee allowing dogs shall prominently display a sign at all public entrances advising patrons that dogs are allowed on the premises this paragraph shall not apply to service animals as defined by rsa new paragraphs nano brewery contract brewing amend rsa by inserting after paragraph viii the following new paragraphs each nano brewery shall have the right to transport the beverage it manufactures in barrels kegs bottles or other closed containers within the state for sale to licensees and to the state border for transportation and sale outside the state a nano brewer in a contract brewing arrangement may transport the beverage produced by the contract brewer in barrels kegs bottles or other closed containers within the state for storage or to the state border for transportation and sale outside the state a nano brewer may enter into a contract brewing arrangement with a contract brewer brewing in the state of new hampshire after the nano brewer has been in operation for one year beverages produced by a contract brewer intended for sale outside the state may be warehoused at the nano brewer s facility or at some other facility accessible only to the nano brewer a contract brewer shall not deliver beverages to and licensees within the state a nano brewer shall file all contract brewing arrangements with the commission a nano brewer shall not enter into a contract brewing arrangement with a contract brewer if it does not brew at least barrels annually nano brewers and contract brewers shall be allowed to store beverages manufactured in accordance with the provisions of this title in a storage facility licensed by the commission nano brewers and contract brewers storing beverages in a warehouse licensed under rsa or other facility approved by the commissioner for the purpose of storing alcohol shall keep records of the type quality and destination of beverages removed from storage such records shall be retained by the nano brewer or contract brewer using the facility and shall be made available to the commission upon request a nano brewer shall not enter into a contract brewing arrangement with a contract brewer if it does not brew at least barrels annually annual onsite production by a nano brewer shall not be less than their production for the calendar year prior to entering into an arrangement with a contract brewer total production including tenant and contract brewers shall be at least barrels and shall not exceed barrels annually the nano brewer shall submit to the liquor commission an annual report of all beverages by a the nano brewer b any tenant brewer c any contract brewer the nano brewer has contracted with under paragraph all taxes due on product that is made by a contract brewer shall be paid by the nano brewer new paragraphs brew pub contract brewing amend rsa by inserting after paragraph viii the following new paragraphs each brew pub shall have the right to transport the beverage it manufactures in barrels kegs bottles or other closed containers within the state for sale to licensees and to the state border for transportation and sale outside the state a brew pub in a contract brewing arrangement may transport the beverage produced by the contract brewer in barrels kegs bottles or other closed containers within the state for storage or to the state border for transportation and sale outside the state a brew pub may enter into a contract brewing arrangement with a contract brewer brewing in the state of new hampshire after the brew pub has been in operation for one year beverages produced by a contract brewer intended for sale outside the state may be warehoused at the brew pub s facility or at some other facility accessible only to the brew pub a contract brewer shall not deliver beverages to and licensees within the state a brew pub shall file all contract brewing arrangements with the commission a brew pub shall not enter into a contract brewing arrangement with a contract brewer if it does not brew at least barrels annually brew pubs and contract brewers shall be allowed to store beverages manufactured in accordance with the provisions of this title in a storage facility licensed by the commission brew pubs and contract brewers storing beverages in a warehouse licensed under rsa or other facility approved by the commissioner for the purpose of storing alcohol shall keep records of the type quality and destination of beverages removed from storage such records shall be retained by the brew pub or contract brewer using the facility and shall be made available to the commission upon request annual onsite production by a brew pub shall not be less than their production for the calendar year prior to entering into an arrangement with a contract brewer total production including tenant and contract brewers shall be at least barrels and shall not exceed barrels annually the brew pub shall submit to the liquor commission an annual report of all beverages by a the brew pub b any tenant brewer c any contract brewer the brew pub has contracted with under paragraph all taxes due on product that is made by a contract brewer shall be paid by the brew pub contract brewers nano brewers and brew pubs added amend rsa to read as follows contract brewer means a brewery hired by a beverage manufacturer nano brewery or brew pub to produce a beverage for the beverage manufacturer contract brewing arrangement means a business relationship in which a beverage manufacturer nano brewery or brew pub pays another brewer to produce a beverage for the beverage manufacturer nano brewer or brew pub for sale"
+    }
+}

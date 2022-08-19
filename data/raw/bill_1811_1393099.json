@@ -1,0 +1,393 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1393099,
+        "change_hash": "50af7854ba261f37e82a1453bf63c7f4",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB174/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=331&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB174",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2021-07-29",
+        "progress": [
+            {
+                "date": "2021-01-04",
+                "event": 1
+            },
+            {
+                "date": "2021-01-04",
+                "event": 9
+            },
+            {
+                "date": "2021-03-24",
+                "event": 10
+            },
+            {
+                "date": "2021-04-07",
+                "event": 2
+            },
+            {
+                "date": "2021-04-07",
+                "event": 9
+            },
+            {
+                "date": "2021-04-14",
+                "event": 10
+            },
+            {
+                "date": "2021-07-01",
+                "event": 3
+            },
+            {
+                "date": "2021-07-29",
+                "event": 8
+            },
+            {
+                "date": "2021-07-29",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB174",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to reporting a collision between a cat and a motor vehicle.",
+        "description": "Relative to reporting a collision between a cat and a motor vehicle.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-04",
+                "committee_id": 1263,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Transportation"
+            },
+            {
+                "date": "2021-04-07",
+                "committee_id": 1779,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Transportation"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-04",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Transportation House Journal  2 P. 38",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-27",
+                "action": "Public Hearing: 02/05/2021 10:30 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/92807074926 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-19",
+                "action": "Executive Session: 02/19/2021 02:00 pm Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/98257633759",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-24",
+                "action": "Committee Report: Ought to Pass (Vote 19-0; Consent Calendar) House Calendar 18 P. 24",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Ought to Pass: Motion Adopted Voice Vote 04/07/2021 House Journal  5 P. 47",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Reconsider (Rep. Osborne): Motion Failed Voice Vote 04/07/2021 House Journal  5 P. 50",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Introduced 04/01/2021 and Referred to Transportation; Senate Journal 11",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-08",
+                "action": "Remote Hearing: 04/13/2021, 01:15 pm; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  19",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-14",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-1133s, 04/22/2021; Vote 5-0; Consent Calendar; Senate Calendar  20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-22",
+                "action": "Sen. Giuda Moved to Remove HB 174 from the Consent Calendar; 04/22/2021; Senate Journal 12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-22",
+                "action": "Committee Amendment # 2021-1133s, Regular Calendar 24Y-0N, Amendment Adopted; 04/22/2021; Senate Journal 12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-22",
+                "action": "Ought to Pass with Amendment 2021-1133s, Regular Calendar 20Y-4N, Motion Adopted; OT3rdg; 04/22/2021; Senate Journal 12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-10",
+                "action": "House Concurs with Senate Amendment 2021-1133s (Rep. Walsh): Motion Adopted Voice Vote 06/10/2021 House Journal  10 P. 19",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-01",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 06/24/2021); Senate Journal 20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-01",
+                "action": "Enrolled (in recess of) 06/24/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-07-29",
+                "action": "Signed by Governor Sununu 07/28/2021; Chapter 154; Eff: 01/01/2022",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 19846,
+                "person_hash": "o5k0dfka",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Daryl Abbas",
+                "first_name": "Daryl",
+                "middle_name": "A.",
+                "last_name": "Abbas",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-08-ROC",
+                "ftm_eid": 45378616,
+                "votesmart_id": 185319,
+                "opensecrets_id": "",
+                "knowwho_pid": 670640,
+                "ballotpedia": "Daryl_Abbas",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19802,
+                "person_hash": "e3ap3y16",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Cam Kenney",
+                "first_name": "Cam",
+                "middle_name": "",
+                "last_name": "Kenney",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-06-STR",
+                "ftm_eid": 45378778,
+                "votesmart_id": 185396,
+                "opensecrets_id": "",
+                "knowwho_pid": 670912,
+                "ballotpedia": "Cam_Kenney",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19160,
+                "person_hash": "tsvwjqxp",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "John Janigian",
+                "first_name": "John",
+                "middle_name": "",
+                "last_name": "Janigian",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-08-ROC",
+                "ftm_eid": 40527566,
+                "votesmart_id": 173063,
+                "opensecrets_id": "",
+                "knowwho_pid": 587626,
+                "ballotpedia": "John_Janigian",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19754,
+                "person_hash": "77w38ohh",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Anita Burroughs",
+                "first_name": "Anita",
+                "middle_name": "",
+                "last_name": "Burroughs",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-01-CAR",
+                "ftm_eid": 34033164,
+                "votesmart_id": 185226,
+                "opensecrets_id": "",
+                "knowwho_pid": 670235,
+                "ballotpedia": "Anita_Burroughs",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2227397,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB174/id/2227397",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=321&txtFormat=html",
+                "text_size": 8759,
+                "text_hash": "0269bb4be546f71527e3632aee8d1719"
+            },
+            {
+                "doc_id": 2415832,
+                "date": "2021-04-22",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB174/id/2415832",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=SA&id=321",
+                "text_size": 8525,
+                "text_hash": "748018fa6e04f7d4c9888ef49f57fb4d"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1060591,
+                "date": "2021-04-22",
+                "desc": "Committee Amendment 1133s",
+                "yea": 24,
+                "nay": 0,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/HB174/id/1060591",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=320&sy=2021&lb=S&eb=HB0174&sortoption=&txtsessionyear=2021&txtbillnumber=HB174&ddlsponsors=&lsr=331"
+            },
+            {
+                "roll_call_id": 1060592,
+                "date": "2021-04-22",
+                "desc": "Ought to Pass w/Amendment",
+                "yea": 20,
+                "nay": 4,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/HB174/id/1060592",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=321&sy=2021&lb=S&eb=HB0174&sortoption=&txtsessionyear=2021&txtbillnumber=HB174&ddlsponsors=&lsr=331"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-05",
+                "time": "10:30",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Transportation Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-19",
+                "time": "14:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Transportation Executive Session"
+            }
+        ]
+    }
+}

@@ -1,0 +1,231 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1396532,
+        "change_hash": "b47ce3ba39cc3e6e63a37fb0ce53030c",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB341/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=370&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB341",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-09",
+        "progress": [
+            {
+                "date": "2021-01-09",
+                "event": 1
+            },
+            {
+                "date": "2021-01-09",
+                "event": 9
+            },
+            {
+                "date": "2021-03-12",
+                "event": 11
+            },
+            {
+                "date": "2021-03-12",
+                "event": 10
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB341",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to permissible residential units in a residential zone.",
+        "description": "Relative to permissible residential units in a residential zone.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-09",
+                "committee_id": 1257,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Municipal and County Government"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-09",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Municipal and County Government House Journal  2 P. 44",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-08",
+                "action": "Public Hearing: 03/08/2021 10:30 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/96469796123 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-12",
+                "action": "Majority Committee Report: Inexpedient to Legislate (Vote 10-9; Regular Calendar) House Calendar 18 P. 79",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-12",
+                "action": "Minority Committee Report: Ought to Pass with Amendment # 2021-0692h",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 17494,
+                "person_hash": "dj0cr8wi",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Ivy Vann",
+                "first_name": "Ivy",
+                "middle_name": "",
+                "last_name": "Vann",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-24-HIL",
+                "ftm_eid": 25005757,
+                "votesmart_id": 154293,
+                "opensecrets_id": "",
+                "knowwho_pid": 502148,
+                "ballotpedia": "Ivy_Vann",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19460,
+                "person_hash": "9tstvyhl",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Casey Conley",
+                "first_name": "Casey",
+                "middle_name": "M.",
+                "last_name": "Conley",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-13-STR",
+                "ftm_eid": 43989827,
+                "votesmart_id": 176725,
+                "opensecrets_id": "",
+                "knowwho_pid": 644124,
+                "ballotpedia": "Casey_Conley",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21801,
+                "person_hash": "t6khqt0h",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Tony Caplan",
+                "first_name": "Tony",
+                "middle_name": "",
+                "last_name": "Caplan",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-06-MER",
+                "ftm_eid": 50226759,
+                "votesmart_id": 194923,
+                "opensecrets_id": "",
+                "knowwho_pid": 744582,
+                "ballotpedia": "Tony_Caplan",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19743,
+                "person_hash": "ryfcko8x",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Rebecca McWilliams",
+                "first_name": "Rebecca",
+                "middle_name": "",
+                "last_name": "McWilliams",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-27-MER",
+                "ftm_eid": 45378835,
+                "votesmart_id": 185383,
+                "opensecrets_id": "",
+                "knowwho_pid": 670731,
+                "ballotpedia": "Rebecca_McWilliams",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2232762,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB341/id/2232762",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=365&txtFormat=html",
+                "text_size": 8047,
+                "text_hash": "243b72c8a47a69a995f920f1b534f746"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-08",
+                "time": "10:30",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Municipal and County Government Public Hearing"
+            }
+        ]
+    }
+}

@@ -1,0 +1,247 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1393008,
+        "change_hash": "52a2c0ff98455fbd2064be0d99b114f2",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB116/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=104&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB116",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-04",
+        "progress": [
+            {
+                "date": "2021-01-04",
+                "event": 1
+            },
+            {
+                "date": "2021-01-04",
+                "event": 9
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB116",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to personal delivery devices and mobile carriers.",
+        "description": "Relative to personal delivery devices and mobile carriers.",
+        "pending_committee_id": 1263,
+        "committee": {
+            "committee_id": 1263,
+            "chamber": "H",
+            "chamber_id": 67,
+            "name": "Transportation"
+        },
+        "referrals": [
+            {
+                "date": "2021-01-04",
+                "committee_id": 1263,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Transportation"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-04",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Transportation House Journal  2 P. 35",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-27",
+                "action": "Public Hearing: 02/05/2021 01:45 pm Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/92807074926 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-19",
+                "action": "Executive Session: 02/19/2021 02:00 pm Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/98257633759",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-29",
+                "action": "Retained in Committee",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-09-15",
+                "action": "Full Committee Work Session: 09/28/2021 10:00 am Legislative Office Building 201-203 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initiallyconvened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-09-29",
+                "action": "Executive Session: 10/19/2021 1000am",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-10-06",
+                "action": "Full Committee Work Session: 10/12/2021 01:00 pm Legislative Office Building 201-203",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 10468,
+                "person_hash": "p6tivb20",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Steven Smith",
+                "first_name": "Steven",
+                "middle_name": "",
+                "last_name": "Smith",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-11-SUL",
+                "ftm_eid": 6680106,
+                "votesmart_id": 110851,
+                "opensecrets_id": "",
+                "knowwho_pid": 297099,
+                "ballotpedia": "Steven_Smith,_New_Hampshire_Politician",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 5006,
+                "person_hash": "qdqrht6n",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Sherman Packard",
+                "first_name": "Sherman",
+                "middle_name": "A.",
+                "last_name": "Packard",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-05-ROC",
+                "ftm_eid": 6595575,
+                "votesmart_id": 8443,
+                "opensecrets_id": "",
+                "knowwho_pid": 197234,
+                "ballotpedia": "Sherman_Packard",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 15249,
+                "person_hash": "2txq02am",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Thomas Walsh",
+                "first_name": "Thomas",
+                "middle_name": "C.",
+                "last_name": "Walsh",
+                "suffix": "IV",
+                "nickname": "",
+                "district": "HD-24-MER",
+                "ftm_eid": 13703795,
+                "votesmart_id": 143325,
+                "opensecrets_id": "",
+                "knowwho_pid": 428112,
+                "ballotpedia": "Thomas_Walsh_(New_Hampshire)",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2227309,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB116/id/2227309",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=102&txtFormat=html",
+                "text_size": 14471,
+                "text_hash": "3470eb272675c3d733d1e0acd4958fa0"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-05",
+                "time": "13:45",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Transportation Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-19",
+                "time": "14:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Transportation Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-09-28",
+                "time": "10:00",
+                "location": "Legislative Office Building 201-203 / Executive session on pendi",
+                "description": "Transportation Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-10-12",
+                "time": "13:00",
+                "location": "Legislative Office Building 201-203",
+                "description": "Transportation Work Session"
+            }
+        ]
+    }
+}

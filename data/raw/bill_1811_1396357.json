@@ -1,0 +1,270 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1396357,
+        "change_hash": "8a64b6efc44fd57924bedbedc298a76c",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB335/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=290&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB335",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-09",
+        "progress": [
+            {
+                "date": "2021-01-09",
+                "event": 1
+            },
+            {
+                "date": "2021-01-09",
+                "event": 9
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB335",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Requiring bottled drinking water sold to the public to meet the same maximum contaminant levels established for public drinking water.",
+        "description": "Requiring bottled drinking water sold to the public to meet the same maximum contaminant levels established for public drinking water.",
+        "pending_committee_id": 1238,
+        "committee": {
+            "committee_id": 1238,
+            "chamber": "H",
+            "chamber_id": 67,
+            "name": "Commerce and Consumer Affairs"
+        },
+        "referrals": [
+            {
+                "date": "2021-01-09",
+                "committee_id": 1238,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Commerce and Consumer Affairs"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-09",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Commerce and Consumer Affairs House Journal  2 P. 44",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-16",
+                "action": "Public Hearing: 02/16/2021 02:45 pm Members of the public may attend using the following link: To join the webinar: https://www.zoom.us/j/95175123874 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-02",
+                "action": "Executive Session: 03/02/2021 09:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/95215897452",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-03",
+                "action": "Executive Session: 03/03/2021 01:30 pm Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/98917516497 (if necessary)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-09",
+                "action": "Retained in Committee",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-08-17",
+                "action": "Subcommittee Work Session: 09/07/2021 01:45 pm Legislative Office Building 302-304",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-10-06",
+                "action": "Subcommittee Work Session: 10/13/2021 09:30 am Legislative Office Building 302-304",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-10-26",
+                "action": "Executive Session: 10/26/2021 10:00 a.m. Legislative Office Building306-308",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 19110,
+                "person_hash": "8d67mr4c",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Chuck Grassie",
+                "first_name": "Chuck",
+                "middle_name": "",
+                "last_name": "Grassie",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-11-STR",
+                "ftm_eid": 6394424,
+                "votesmart_id": 111940,
+                "opensecrets_id": "",
+                "knowwho_pid": 603174,
+                "ballotpedia": "Chuck_Grassie",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19799,
+                "person_hash": "6ebk3c85",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Cassandra Levesque",
+                "first_name": "Cassandra",
+                "middle_name": "",
+                "last_name": "Levesque",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-04-STR",
+                "ftm_eid": 45378803,
+                "votesmart_id": 185625,
+                "opensecrets_id": "",
+                "knowwho_pid": 670910,
+                "ballotpedia": "Cassandra_Levesque",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19804,
+                "person_hash": "myrvs7s3",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Bruce Cohen",
+                "first_name": "Bruce",
+                "middle_name": "",
+                "last_name": "Cohen",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-28-HIL",
+                "ftm_eid": 45378666,
+                "votesmart_id": 185579,
+                "opensecrets_id": "",
+                "knowwho_pid": 670617,
+                "ballotpedia": "Bruce_Cohen_(New_Hampshire)",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2232750,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB335/id/2232750",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=301&txtFormat=html",
+                "text_size": 11125,
+                "text_hash": "6e53fcda2270bb45410c134d64ba7c61"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-16",
+                "time": "14:45",
+                "location": "Members of the public may attend using the following link: To jo",
+                "description": "Commerce and Consumer Affairs Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-02",
+                "time": "09:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Commerce and Consumer Affairs Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-03",
+                "time": "13:30",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Commerce and Consumer Affairs Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-09-07",
+                "time": "13:45",
+                "location": "Legislative Office Building 302-304",
+                "description": "Commerce and Consumer Affairs Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-10-13",
+                "time": "09:30",
+                "location": "Legislative Office Building 302-304",
+                "description": "Commerce and Consumer Affairs Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-10-26",
+                "time": "10:00",
+                "location": "Legislative Office Building306-308",
+                "description": "Commerce and Consumer Affairs Executive Session"
+            }
+        ]
+    }
+}

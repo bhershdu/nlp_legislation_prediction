@@ -1,0 +1,546 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1393108,
+        "change_hash": "65d9e139474c3e7e081203c42cf7b1ab",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB183/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=29&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB183",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2021-08-03",
+        "progress": [
+            {
+                "date": "2021-01-04",
+                "event": 1
+            },
+            {
+                "date": "2021-01-04",
+                "event": 9
+            },
+            {
+                "date": "2021-02-25",
+                "event": 10
+            },
+            {
+                "date": "2021-02-25",
+                "event": 11
+            },
+            {
+                "date": "2021-04-13",
+                "event": 2
+            },
+            {
+                "date": "2021-04-13",
+                "event": 9
+            },
+            {
+                "date": "2021-04-26",
+                "event": 11
+            },
+            {
+                "date": "2021-07-15",
+                "event": 3
+            },
+            {
+                "date": "2021-08-03",
+                "event": 8
+            },
+            {
+                "date": "2021-08-03",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB183",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Exempting persons under the age of 14, who are selling soft drinks on family owned or leased property, from city, town, or village district licensing requirements.",
+        "description": "Exempting persons under the age of 14, who are selling soft drinks on family owned or leased property, from city, town, or village district licensing requirements.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-04",
+                "committee_id": 1257,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Municipal and County Government"
+            },
+            {
+                "date": "2021-04-13",
+                "committee_id": 3825,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Election Law and Municipal Affairs"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-04",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Municipal and County Government House Journal  2 P. 38",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-27",
+                "action": "Public Hearing: 02/08/2021 10:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/96815613466 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-02",
+                "action": "Executive Session: 02/09/2021 02:00 pm Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/93215390740",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-25",
+                "action": "Majority Committee Report: Ought to Pass with Amendment # 2021-0092h (Vote 10-9; Regular Calendar) House Calendar 18 P. 56",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-25",
+                "action": "Minority Committee Report: Inexpedient to Legislate",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-09",
+                "action": "Amendment # 2021-0092: Amendment Adopted Voice Vote 04/09/2021 House Journal  7 P. 26",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-09",
+                "action": "Ought to Pass with Amendment 2021-0092h: Motion Adopted Regular Calendar 211-163 04/09/2021 House Journal  7 P. 26",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-09",
+                "action": "Lay on Table (Rep. Mayville): Motion Failed DV 181-190 04/09/2021 House Journal  7 P. 26",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-13",
+                "action": "Introduced 04/08/2021 and Referred to Election Law and Municipal Affairs; Senate Journal 12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-14",
+                "action": "Remote Hearing: 04/19/2021, 09:45 am; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-26",
+                "action": "Committee Report: Inexpedient to Legislate, 05/06/2021; Senate Calendar  22",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-05-06",
+                "action": "Inexpedient to Legislate, Regular Calendar 9Y-14N, Motion Failed; 05/06/2021; Senate Journal 14",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-06",
+                "action": "Sen. Soucy Moved Reconsideration on Inexpedient to Legislate, Regular Calendar 23Y-0N, Motion Adopted; 05/06/2021; Senate Journal 14",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-06",
+                "action": "Inexpedient to Legislate, Regular Calendar 10Y-13N, Motion Failed; 05/06/2021; Senate Journal 14",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-06",
+                "action": "Sen. Gray Moved Ought to Pass; 05/06/2021; Senate Journal 14",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-06",
+                "action": "Sen. Gray Floor Amendment # 2021-1311s, Regular Calendar 13Y-10N, Amendment Adopted; 05/06/2021; Senate Journal 14",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-06",
+                "action": "Ought to Pass with Amendment 2021-1311s, Regular Calendar 13Y-10N, Motion Adopted; OT3rdg; 05/06/2021; Senate Journal 14",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-10",
+                "action": "House Concurs with Senate Amendment 2021-1311s (Rep. Dolan): Motion Adopted Regular Calendar 352-6 06/10/2021 House Journal  10 P. 13",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-15",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 06/24/2021); Senate Journal 20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-15",
+                "action": "Enrolled (in recess of) 06/24/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-08-03",
+                "action": "Signed by Governor Sununu 07/30/2021; Chapter 166; Eff: 09/28/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 16885,
+                "person_hash": "wv76xmbo",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Chris True",
+                "first_name": "Chris",
+                "middle_name": "",
+                "last_name": "True",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-04-ROC",
+                "ftm_eid": 25005586,
+                "votesmart_id": 154543,
+                "opensecrets_id": "",
+                "knowwho_pid": 501771,
+                "ballotpedia": "Chris_True",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 16753,
+                "person_hash": "kmft1pyd",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Max Abramson",
+                "first_name": "Max",
+                "middle_name": "",
+                "last_name": "Abramson",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-20-ROC",
+                "ftm_eid": 6695475,
+                "votesmart_id": 126615,
+                "opensecrets_id": "",
+                "knowwho_pid": 502128,
+                "ballotpedia": "Max_Abramson",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19822,
+                "person_hash": "cxfke49i",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Bob Greene",
+                "first_name": "Bob",
+                "middle_name": "",
+                "last_name": "Greene",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-37-HIL",
+                "ftm_eid": 45378745,
+                "votesmart_id": 185261,
+                "opensecrets_id": "",
+                "knowwho_pid": 670660,
+                "ballotpedia": "Bob_Greene",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19792,
+                "person_hash": "a2u2ftfn",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Tony Piemonte",
+                "first_name": "Tony",
+                "middle_name": "",
+                "last_name": "Piemonte",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-04-ROC",
+                "ftm_eid": 45378892,
+                "votesmart_id": 185304,
+                "opensecrets_id": "",
+                "knowwho_pid": 670610,
+                "ballotpedia": "Tony_Piemonte",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18810,
+                "person_hash": "jop80o18",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Peter Torosian",
+                "first_name": "Peter",
+                "middle_name": "E.",
+                "last_name": "Torosian",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-14-ROC",
+                "ftm_eid": 41757598,
+                "votesmart_id": 172539,
+                "opensecrets_id": "",
+                "knowwho_pid": 587653,
+                "ballotpedia": "Peter_Torosian",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2227406,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB183/id/2227406",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=27&txtFormat=html",
+                "text_size": 8949,
+                "text_hash": "ae3de3dbf96563f7e6d4a69beb25b497"
+            },
+            {
+                "doc_id": 2361813,
+                "date": "2021-04-09",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB183/id/2361813",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=HA&id=27",
+                "text_size": 8996,
+                "text_hash": "814baf1c925c26de704592e61a03eaa2"
+            },
+            {
+                "doc_id": 2391401,
+                "date": "2021-05-06",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB183/id/2391401",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=SA&id=27",
+                "text_size": 9399,
+                "text_hash": "93d3b0cd4cddb48e0bee406b9163d82f"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1049922,
+                "date": "2021-04-09",
+                "desc": "OTPA",
+                "yea": 211,
+                "nay": 163,
+                "nv": 24,
+                "absent": 0,
+                "total": 398,
+                "passed": 1,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/HB183/id/1049922",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=129&sy=2021&lb=H&eb=HB0183&sortoption=&txtsessionyear=2021&txtbillnumber=HB183&ddlsponsors=&lsr=29"
+            },
+            {
+                "roll_call_id": 1074773,
+                "date": "2021-05-06",
+                "desc": "Inexpedient to Legislate",
+                "yea": 9,
+                "nay": 14,
+                "nv": 0,
+                "absent": 1,
+                "total": 24,
+                "passed": 0,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/HB183/id/1074773",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=353&sy=2021&lb=S&eb=HB0183&sortoption=&txtsessionyear=2021&txtbillnumber=HB183&ddlsponsors=&lsr=29"
+            },
+            {
+                "roll_call_id": 1074774,
+                "date": "2021-05-06",
+                "desc": "Reconsideration",
+                "yea": 23,
+                "nay": 0,
+                "nv": 0,
+                "absent": 1,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/HB183/id/1074774",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=354&sy=2021&lb=S&eb=HB0183&sortoption=&txtsessionyear=2021&txtbillnumber=HB183&ddlsponsors=&lsr=29"
+            },
+            {
+                "roll_call_id": 1074775,
+                "date": "2021-05-06",
+                "desc": "Inexpedient to Legislate",
+                "yea": 10,
+                "nay": 13,
+                "nv": 0,
+                "absent": 1,
+                "total": 24,
+                "passed": 0,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/HB183/id/1074775",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=355&sy=2021&lb=S&eb=HB0183&sortoption=&txtsessionyear=2021&txtbillnumber=HB183&ddlsponsors=&lsr=29"
+            },
+            {
+                "roll_call_id": 1074776,
+                "date": "2021-05-06",
+                "desc": "Floor Amendment 1311s",
+                "yea": 13,
+                "nay": 10,
+                "nv": 0,
+                "absent": 1,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/HB183/id/1074776",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=356&sy=2021&lb=S&eb=HB0183&sortoption=&txtsessionyear=2021&txtbillnumber=HB183&ddlsponsors=&lsr=29"
+            },
+            {
+                "roll_call_id": 1074777,
+                "date": "2021-05-06",
+                "desc": "Ought to Pass w/Amendment",
+                "yea": 13,
+                "nay": 10,
+                "nv": 0,
+                "absent": 1,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/HB183/id/1074777",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=357&sy=2021&lb=S&eb=HB0183&sortoption=&txtsessionyear=2021&txtbillnumber=HB183&ddlsponsors=&lsr=29"
+            },
+            {
+                "roll_call_id": 1097634,
+                "date": "2021-06-10",
+                "desc": "Concur",
+                "yea": 352,
+                "nay": 6,
+                "nv": 11,
+                "absent": 28,
+                "total": 397,
+                "passed": 1,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/HB183/id/1097634",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=187&sy=2021&lb=H&eb=HB0183&sortoption=&txtsessionyear=2021&txtbillnumber=HB183&ddlsponsors=&lsr=29"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-08",
+                "time": "10:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Municipal and County Government Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-09",
+                "time": "14:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Municipal and County Government Executive Session"
+            }
+        ],
+        "full_text": "hawkers peddlers and vendors exception amend the introductory paragraph of rsa to read as follows the governing board of a city town or village district may adopt by ordinance or regulation provisions for the licensure and regulation of itinerant vendors hawkers peddlers traders farmers merchants or other persons who sell offer to sell or take orders for merchandise from temporary or transient sales locations within a town or who go from town to town or place to place within a town for such purposes any person who violates any provision of such ordinance or regulation shall be guilty of a class b misdemeanor and each continuing day of violation after notice shall constitute a separate offense a city town or village district shall be specifically prohibited however from licensing or regulating a candidate for public office in the process of obtaining signatures on nomination papers who seeks to have the candidate s name placed on the ballot for the state general election by submitting nomination papers under rsa persons who are under the age of who are selling soft drinks on family owned or leased property shall be exempt from city town or village district licensing requirements provisions adopted under this section shall be in addition to any requirements imposed by the state under either rsa or rsa and may include but shall not be limited to"
+    }
+}

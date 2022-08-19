@@ -1,0 +1,274 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1403860,
+        "change_hash": "c32b2132a3a6309b32e2f7994cc62a02",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB545/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=753&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB545",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2021-06-09",
+        "progress": [
+            {
+                "date": "2021-01-12",
+                "event": 1
+            },
+            {
+                "date": "2021-01-12",
+                "event": 9
+            },
+            {
+                "date": "2021-03-05",
+                "event": 10
+            },
+            {
+                "date": "2021-04-07",
+                "event": 2
+            },
+            {
+                "date": "2021-04-07",
+                "event": 9
+            },
+            {
+                "date": "2021-04-28",
+                "event": 10
+            },
+            {
+                "date": "2021-05-26",
+                "event": 3
+            },
+            {
+                "date": "2021-06-09",
+                "event": 8
+            },
+            {
+                "date": "2021-06-09",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB545",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to the use of certain out-of-state banks by the state treasurer and municipal and county treasurers or trustees.",
+        "description": "Relative to the use of certain out-of-state banks by the state treasurer and municipal and county treasurers or trustees.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-12",
+                "committee_id": 1257,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Municipal and County Government"
+            },
+            {
+                "date": "2021-04-07",
+                "committee_id": 3825,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Election Law and Municipal Affairs"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-12",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Municipal and County Government House Journal  2 P. 53",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-01",
+                "action": "Public Hearing: 03/01/2021 12:00 pm Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/97119253057 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-05",
+                "action": "Committee Report: Ought to Pass (Vote 18-0; Consent Calendar) House Calendar 18 P. 21",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Ought to Pass: Motion Adopted Voice Vote 04/07/2021 House Journal  5 P. 44",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Reconsider (Rep. Osborne): Motion Failed Voice Vote 04/07/2021 House Journal  5 P. 50",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Introduced 04/01/2021 and Referred to Election Law and Municipal Affairs; Senate Journal 11",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-21",
+                "action": "Remote Hearing: 04/26/2021, 09:45 am; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  21",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-28",
+                "action": "Committee Report: Ought to Pass, 05/06/2021; Vote 5-0; Consent Calendar; Senate Calendar  22",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-05-06",
+                "action": "Ought to Pass: Regular Calendar 23Y-0N, Motion Adopted; OT3rdg; 05/06/2021; Senate Journal 14",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-26",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 05/20/2021); Senate Journal 17",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-26",
+                "action": "Enrolled (in recess of) 04/09/2021 House Journal  7 P. 104",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-06-09",
+                "action": "Signed by Governor Sununu 06/04/2021; Chapter 65; Eff: 08/03/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 19165,
+                "person_hash": "76icrosj",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Larry Laflamme",
+                "first_name": "Larry",
+                "middle_name": "L.",
+                "last_name": "Laflamme",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-03-COO",
+                "ftm_eid": 6695342,
+                "votesmart_id": 174496,
+                "opensecrets_id": "",
+                "knowwho_pid": 587856,
+                "ballotpedia": "Larry_Laflamme",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18166,
+                "person_hash": "k25p0mqi",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Troy Merner",
+                "first_name": "Troy",
+                "middle_name": "E.",
+                "last_name": "Merner",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-07-COO",
+                "ftm_eid": 6494514,
+                "votesmart_id": 110056,
+                "opensecrets_id": "",
+                "knowwho_pid": 296122,
+                "ballotpedia": "Troy_Merner",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2238465,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB545/id/2238465",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=751&txtFormat=html",
+                "text_size": 53329,
+                "text_hash": "305b56ac5d299fa853a502ee2aa809c5"
+            },
+            {
+                "doc_id": 2391385,
+                "date": "2021-05-06",
+                "type": "Enrolled",
+                "type_id": 5,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB545/id/2391385",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&v=SP&id=751",
+                "text_size": 53340,
+                "text_hash": "4408440651904f1b758c2eed138ee4c5"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-01",
+                "time": "12:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Municipal and County Government Public Hearing"
+            }
+        ]
+    }
+}

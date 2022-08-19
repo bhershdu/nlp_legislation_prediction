@@ -1,0 +1,372 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1398337,
+        "change_hash": "7b7c9deb1fbdd40d0185f7bb76f5e2c0",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB456/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=655&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB456",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2021-05-27",
+        "progress": [
+            {
+                "date": "2021-01-10",
+                "event": 1
+            },
+            {
+                "date": "2021-01-10",
+                "event": 9
+            },
+            {
+                "date": "2021-03-05",
+                "event": 10
+            },
+            {
+                "date": "2021-04-07",
+                "event": 2
+            },
+            {
+                "date": "2021-04-07",
+                "event": 9
+            },
+            {
+                "date": "2021-04-14",
+                "event": 10
+            },
+            {
+                "date": "2021-05-17",
+                "event": 3
+            },
+            {
+                "date": "2021-05-27",
+                "event": 8
+            },
+            {
+                "date": "2021-05-27",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB456",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to the disclosure of information from vital records.",
+        "description": "Relative to the disclosure of information from vital records.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-10",
+                "committee_id": 1243,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Executive Departments and Administration"
+            },
+            {
+                "date": "2021-04-07",
+                "committee_id": 1270,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Executive Departments and Administration"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-10",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Executive Departments and Administration House Journal  2 P. 49",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-28",
+                "action": "Public Hearing: 02/08/2021 11:15 am Members of the public may attend using the following link:To join the webinar: https://zoom.us/j/99308877767 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-05",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-0306h (Vote 18-0; Consent Calendar) House Calendar 18 P. 13",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Amendment # 2021-0306h: Amendment Adopted Voice Vote 04/07/2021 House Journal  5 P. 25",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Ought to Pass with Amendment 2021-0306h: Motion Adopted Voice Vote 04/07/2021 House Journal  5 P. 25",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Reconsider (Rep. Osborne): Motion Failed Voice Vote 04/07/2021 House Journal  5 P. 50",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Introduced 04/01/2021 and Referred to Executive Departments and Administration; Senate Journal 11",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Remote Hearing: 04/14/2021, 10:30 am; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  19",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-14",
+                "action": "Committee Report: Ought to Pass, 04/22/2021; Vote 5-0; Consent Calendar; Senate Calendar  20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-22",
+                "action": "Ought to Pass: Regular Calendar 23Y-1N, Motion Adopted; OT3rdg; 04/22/2021; Senate Journal 12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-17",
+                "action": "Enrolled (in recess of) 04/09/2021 House Journal  7 P. 104",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-05-17",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 05/13/2021); Senate Journal 16",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-27",
+                "action": "Signed by Governor Sununu 05/25/2021; Chapter 54; Eff: 07/24/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 4817,
+                "person_hash": "vgpmvgdh",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Lynne Ober",
+                "first_name": "Lynne",
+                "middle_name": "",
+                "last_name": "Ober",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-37-HIL",
+                "ftm_eid": 6665276,
+                "votesmart_id": 42430,
+                "opensecrets_id": "",
+                "knowwho_pid": 228822,
+                "ballotpedia": "Lynne_Ober",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4831,
+                "person_hash": "culspuxr",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Karen Umberger",
+                "first_name": "Karen",
+                "middle_name": "C.",
+                "last_name": "Umberger",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-02-CAR",
+                "ftm_eid": 6678005,
+                "votesmart_id": 109917,
+                "opensecrets_id": "",
+                "knowwho_pid": 269159,
+                "ballotpedia": "Karen_Umberger",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4754,
+                "person_hash": "p5hsu8yc",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Carol McGuire",
+                "first_name": "Carol",
+                "middle_name": "",
+                "last_name": "McGuire",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-29-MER",
+                "ftm_eid": 6677888,
+                "votesmart_id": 109938,
+                "opensecrets_id": "",
+                "knowwho_pid": 222865,
+                "ballotpedia": "Carol_McGuire",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4889,
+                "person_hash": "spc57l5j",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Peter Leishman",
+                "first_name": "Peter",
+                "middle_name": "R.",
+                "last_name": "Leishman",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-24-HIL",
+                "ftm_eid": 6466019,
+                "votesmart_id": 14252,
+                "opensecrets_id": "",
+                "knowwho_pid": 249975,
+                "ballotpedia": "Peter_Leishman",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4775,
+                "person_hash": "kswslwpv",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Sharon Carson",
+                "first_name": "Sharon",
+                "middle_name": "",
+                "last_name": "Carson",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-014",
+                "ftm_eid": 6593753,
+                "votesmart_id": 42537,
+                "opensecrets_id": "",
+                "knowwho_pid": 208650,
+                "ballotpedia": "Sharon_Carson",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2234570,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB456/id/2234570",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=646&txtFormat=html",
+                "text_size": 10961,
+                "text_hash": "f0dea26fe71f4acb42ba9ea508831eae"
+            },
+            {
+                "doc_id": 2359291,
+                "date": "2021-04-07",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB456/id/2359291",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=HA&id=646",
+                "text_size": 10819,
+                "text_hash": "3a9018569e60191a6102ec9078d703df"
+            },
+            {
+                "doc_id": 2380032,
+                "date": "2021-04-07",
+                "type": "Enrolled",
+                "type_id": 5,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB456/id/2380032",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&v=SP&id=646",
+                "text_size": 10826,
+                "text_hash": "cf7054199c2456f8137cc1aa9cdac318"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-08",
+                "time": "11:15",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Executive Departments and Administration Public Hearing"
+            }
+        ],
+        "full_text": "vital records administration privacy amend rsa ii to read as follows in collecting information prime consideration shall be given to the protection of the privacy of the individuals about whom information is given in accordance with the provisions of this chapter the secretary of state shall ensure that when information is collected the minimum of data shall be collected to accomplish a specific purpose that no information shall be available to unauthorized personnel that only the minimum be made available to authorized personnel and that no information that could possibly adversely affect an identified individual be made public the department of health and human services shall have access to vital records information in accordance with the provisions of rsa the new hampshire retirement system shall have access to a limited data set of vital records information in accordance with the provisions of rsa the department of corrections shall have access to a limited set of vital records information in accordance with the provisions of rsa new paragraph vital records disclosure of information amend rsa by inserting after paragraph viii the following new paragraph the department of corrections shall have a direct and tangible interest in a limited data set of death marriage and divorce information of individuals they are charged with collection of fees and control and supervision by the department pursuant to rsa rsa vi and rsa limited to name of person date of birth social security number date of vital event place of vital event cause of death marital status and name of spouse the secretary of state and the commissioner of the department of corrections shall enter into a memorandum of understanding for the purposes of delineating specific procedures and protections for access to this limited data set new paragraph department of corrections administration access to vital records amend rsa by inserting after paragraph the following new paragraph the department of corrections shall have a direct and tangible interest in a limited data set of death marriage and divorce information of individuals they are charged with collection of fees and control and supervision by the department pursuant to this chapter rsa vi and rsa limited to name of person date of birth social security number date of vital event place of vital event cause of death marital status and name of spouse the commissioner and the secretary of state shall enter into a memorandum of understanding for the purposes of delineating specific procedures and protections for access to this limited data set"
+    }
+}

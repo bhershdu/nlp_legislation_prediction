@@ -1,0 +1,278 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1403479,
+        "change_hash": "6c663c94749027e64e0a863d952b75b1",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB532/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=386&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB532",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-12",
+        "progress": [
+            {
+                "date": "2021-01-12",
+                "event": 1
+            },
+            {
+                "date": "2021-01-12",
+                "event": 9
+            },
+            {
+                "date": "2021-02-10",
+                "event": 10
+            },
+            {
+                "date": "2021-02-10",
+                "event": 11
+            },
+            {
+                "date": "2021-02-24",
+                "event": 9
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB532",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Creating an animal records database.",
+        "description": "Creating an animal records database.",
+        "pending_committee_id": 1264,
+        "committee": {
+            "committee_id": 1264,
+            "chamber": "H",
+            "chamber_id": 67,
+            "name": "Ways and Means"
+        },
+        "referrals": [
+            {
+                "date": "2021-01-12",
+                "committee_id": 1242,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Environment and Agriculture"
+            },
+            {
+                "date": "2021-02-24",
+                "committee_id": 1264,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Ways and Means"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-12",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Environment and Agriculture House Journal  2 P. 52",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-20",
+                "action": "Public Hearing: 01/27/2021 10:00 am Members of the public may attend using the following links:To join the webinar: https://www.zoom.us/j/92887623403 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-10",
+                "action": "Majority Committee Report: Ought to Pass with Amendment # 2021-0211h (Vote 16-2; Regular Calendar) House Calendar 12 P. 19",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-10",
+                "action": "Minority Committee Report: Inexpedient to Legislate",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-24",
+                "action": "Amendment # 2021-0211h: Amendment Adopted Voice Vote 02/24/2021 House Journal  3 P. 37",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-24",
+                "action": "Ought to Pass with Amendment : Motion Adopted Regular Calendar 214-141 02/24/2021 House Journal  3 P. 37",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-24",
+                "action": "Referred to Ways and Means 02/24/2021 House Journal  3 P. 37",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-10",
+                "action": "Public Hearing: 03/10/2021 09:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/99357402693 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-30",
+                "action": "Retained in Committee",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-08-18",
+                "action": "Full Committee Work Session: 09/07/2021 09:30 am Legislative Office Building 202 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-08-18",
+                "action": "==CANCELLED== Full Committee Work Session: 09/28/2021 09:30 am Legislative Office Building 202 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 15423,
+                "person_hash": "2ifxavzg",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Peter Bixby",
+                "first_name": "Peter",
+                "middle_name": "W.",
+                "last_name": "Bixby",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-17-STR",
+                "ftm_eid": 13703837,
+                "votesmart_id": 141796,
+                "opensecrets_id": "",
+                "knowwho_pid": 426709,
+                "ballotpedia": "Peter_Bixby",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2238093,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB532/id/2238093",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=375&txtFormat=html",
+                "text_size": 52257,
+                "text_hash": "ca6149e4cf380350d2c499e7e41d7232"
+            },
+            {
+                "doc_id": 2321895,
+                "date": "2021-02-24",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB532/id/2321895",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=HA&id=375",
+                "text_size": 43458,
+                "text_hash": "1ce4827570adf4ea7f016953e5fc5422"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1017446,
+                "date": "2021-02-26",
+                "desc": "OTPA",
+                "yea": 214,
+                "nay": 141,
+                "nv": 14,
+                "absent": 29,
+                "total": 398,
+                "passed": 1,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/HB532/id/1017446",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=18&sy=2021&lb=H&eb=HB0532&sortoption=&txtsessionyear=2021&txtbillnumber=HB532&ddlsponsors=&lsr=386"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-01-27",
+                "time": "10:00",
+                "location": "Members of the public may attend using the following links:To jo",
+                "description": "Environment and Agriculture Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-10",
+                "time": "09:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Ways and Means Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-09-07",
+                "time": "09:30",
+                "location": "Legislative Office Building 202 / Executive session on pending l",
+                "description": "Ways and Means Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-09-28",
+                "time": "09:30",
+                "location": "Legislative Office Building 202 / Executive session on pending l",
+                "description": "Ways and Means Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-09-28",
+                "time": "09:30",
+                "location": "Legislative Office Building 202 / Executive session on pending l",
+                "description": "(CANCELLED) Ways and Means Work Session"
+            }
+        ]
+    }
+}

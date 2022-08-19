@@ -1,0 +1,460 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1393072,
+        "change_hash": "c5bd08621dc1efc9cc58300fcb2dabf1",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB79/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=37&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB79",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2021-06-09",
+        "progress": [
+            {
+                "date": "2021-01-04",
+                "event": 1
+            },
+            {
+                "date": "2021-01-04",
+                "event": 9
+            },
+            {
+                "date": "2021-02-25",
+                "event": 10
+            },
+            {
+                "date": "2021-04-07",
+                "event": 2
+            },
+            {
+                "date": "2021-04-07",
+                "event": 9
+            },
+            {
+                "date": "2021-04-16",
+                "event": 10
+            },
+            {
+                "date": "2021-05-26",
+                "event": 3
+            },
+            {
+                "date": "2021-06-09",
+                "event": 8
+            },
+            {
+                "date": "2021-06-09",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB79",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to town health officers.",
+        "description": "Relative to town health officers.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-04",
+                "committee_id": 1257,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Municipal and County Government"
+            },
+            {
+                "date": "2021-04-07",
+                "committee_id": 3825,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Election Law and Municipal Affairs"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-04",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Municipal and County Government House Journal  2 P. 34",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-27",
+                "action": "Public Hearing: 02/08/2021 09:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/96815613466 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-02",
+                "action": "Executive Session: 02/09/2021 02:00 pm Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/93215390740",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-25",
+                "action": "Committee Report: Ought to Pass (Vote 17-1; Consent Calendar) House Calendar 18 P. 19",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Ought to Pass: Motion Adopted Voice Vote 04/07/2021 House Journal  5 P. 42",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Reconsider (Rep. Osborne): Motion Failed Voice Vote 04/07/2021 House Journal  5 P. 50",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Introduced 04/01/2021 and Referred to Election Law and Municipal Affairs; Senate Journal 11",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Remote Hearing: 04/12/2021, 09:15 am; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  19",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-16",
+                "action": "Committee Report: Ought to Pass, 04/22/2021; Vote 5-0; Consent Calendar; Senate Calendar  20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-22",
+                "action": "Ought to Pass: Regular Calendar 23Y-1N, Motion Adopted; OT3rdg; 04/22/2021; Senate Journal 12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-06",
+                "action": "Enrolled Bill Amendment # 2021-1336e Regular Calendar 23Y-0N, Amendment Adopted, (In recess of 05/06/2021); Senate Journal 15",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-13",
+                "action": "Enrolled Bill Amendment # 2021-1336e: Amendment Adopted Voice Vote (in recess of) 04/09/2021 House Journal  7 P. 103",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-26",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 05/20/2021); Senate Journal 17",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-26",
+                "action": "Enrolled (in recess of) 04/09/2021 House Journal  7 P. 104",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-06-09",
+                "action": "Signed by Governor Sununu 06/04/2021; Chapter 61; I. Sec. 7 & 8 Eff: 08/03/2021 / II. Rem. Eff: 06/04/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 18167,
+                "person_hash": "gbz9mi50",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "William Marsh",
+                "first_name": "William",
+                "middle_name": "M.",
+                "last_name": "Marsh",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-17-ROC",
+                "ftm_eid": 6483516,
+                "votesmart_id": 65293,
+                "opensecrets_id": "",
+                "knowwho_pid": 587047,
+                "ballotpedia": "William_Marsh",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19176,
+                "person_hash": "e0ortnzo",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Jeffrey Salloway",
+                "first_name": "Jeffrey",
+                "middle_name": "C.",
+                "last_name": "Salloway",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-05-STR",
+                "ftm_eid": 41757421,
+                "votesmart_id": 172710,
+                "opensecrets_id": "",
+                "knowwho_pid": 587732,
+                "ballotpedia": "Jeffrey_Salloway",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19817,
+                "person_hash": "b2bzem0t",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Gary Merchant",
+                "first_name": "Gary",
+                "middle_name": "",
+                "last_name": "Merchant",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-04-SUL",
+                "ftm_eid": 9718120,
+                "votesmart_id": 185387,
+                "opensecrets_id": "",
+                "knowwho_pid": 670932,
+                "ballotpedia": "Gary_Merchant",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 16395,
+                "person_hash": "60pz8htm",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Lino Avellani",
+                "first_name": "Lino",
+                "middle_name": "M.",
+                "last_name": "Avellani",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-05-CAR",
+                "ftm_eid": 25005416,
+                "votesmart_id": 154411,
+                "opensecrets_id": "",
+                "knowwho_pid": 502546,
+                "ballotpedia": "Lino_Avellani",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18153,
+                "person_hash": "h6wcnlm4",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Jess Edwards",
+                "first_name": "Jess",
+                "middle_name": "",
+                "last_name": "Edwards",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-11-HIL",
+                "ftm_eid": 25005737,
+                "votesmart_id": 172496,
+                "opensecrets_id": "",
+                "knowwho_pid": 587584,
+                "ballotpedia": "Jess_Edwards",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21807,
+                "person_hash": "tlbyuyoy",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Brodie Deshaies",
+                "first_name": "Brodie",
+                "middle_name": "",
+                "last_name": "Deshaies",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-06-CAR",
+                "ftm_eid": 50226968,
+                "votesmart_id": 194708,
+                "opensecrets_id": "",
+                "knowwho_pid": 744060,
+                "ballotpedia": "Brodie_Deshaies",
+                "sponsor_type_id": 2,
+                "sponsor_order": 6,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4760,
+                "person_hash": "8scgvpbd",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Jeb Bradley",
+                "first_name": "Jeb",
+                "middle_name": "",
+                "last_name": "Bradley",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-003",
+                "ftm_eid": 6636719,
+                "votesmart_id": 4953,
+                "opensecrets_id": "",
+                "knowwho_pid": 197009,
+                "ballotpedia": "Jeb_Bradley",
+                "sponsor_type_id": 2,
+                "sponsor_order": 7,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 14488,
+                "person_hash": "elsfgcmi",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Thomas Sherman",
+                "first_name": "Thomas",
+                "middle_name": "",
+                "last_name": "Sherman",
+                "suffix": "",
+                "nickname": "Tom",
+                "district": "SD-024",
+                "ftm_eid": 13703813,
+                "votesmart_id": 141784,
+                "opensecrets_id": "",
+                "knowwho_pid": 426683,
+                "ballotpedia": "Tom_Sherman",
+                "sponsor_type_id": 2,
+                "sponsor_order": 8,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2227371,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB79/id/2227371",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=37&txtFormat=html",
+                "text_size": 19179,
+                "text_hash": "e5875e5b3eda8a3ff310ee1552bb70fc"
+            },
+            {
+                "doc_id": 2379880,
+                "date": "2021-04-22",
+                "type": "Enrolled",
+                "type_id": 5,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB79/id/2379880",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&v=SP&id=37",
+                "text_size": 19190,
+                "text_hash": "d290c1e65d9399bc85a56b11aea886b4"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-08",
+                "time": "09:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Municipal and County Government Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-09",
+                "time": "14:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Municipal and County Government Executive Session"
+            }
+        ],
+        "full_text": "town health officers appointment rsa is repealed and reenacted to read as follows appointment the commissioner of the department of health and human services shall appoint as health officer for each town such person as the selectmen of the town recommend and the commissioner of the department of health and human services shall issue to the health officer a certificate of appointment the appointed officer shall provide the department with sufficient and complete contact information to be readily accessible as needed upon the expiration of the officer s term or upon his or her removal death or resignation or the occurrence of a vacancy in the office for any reason the selectmen shall recommend a replacement as soon as reasonably practicable but if no recommendation is made within days after notice the commissioner may appoint a health officer without such recommendation town health officers residence amend rsa to read as follows residence said health officer shall be a resident of the state the commissioner of the department of health and human services may appoint any qualified person to act in unorganized localities as a health officer town health officers secretary of local board amend rsa to read as follows secretary of local board the health officer shall be the secretary and executive officer of and with the selectmen shall constitute the local board of health for the town the local board of health for each town shall meet at least once every year and as frequently as needed to review the state of local public health issues and concerns and provide information as requested to the department of health and human services on the readiness to address relevant public health threats at the local or regional levels town health officer deputy health officer amend rsa to read as follows deputy health officer when a health officer has been appointed under the provisions of rsa such officer may subject to the approval of the selectmen and the commissioner of the department of health and human services appoint a deputy health officer or officers who shall be empowered to enforce public health laws and regulations and make such sanitation investigations as the health officer may direct or as may be required by the department of health and human services the term of the deputy health officer shall expire with that of the health officer or may be extended with the approval of the board of selectmen in consultation with the commissioner of the department of health and human services or designee until the health officer vacancy is filled the deputy health officer shall receive such compensation from the town as the selectmen of the town shall fix town health officers officer for several towns amend rsa to read as follows health officer for several towns upon recommendation of the selectmen of each of several towns the commissioner of the department of health and human services may in the commissioner s discretion appoint any qualified person resident of the state as health officer for all of said towns and such health officer shall receive such compensation from each town as the selectmen thereof or the town shall fix training and qualifications within one year of appointment every health officer shall complete a minimum of hours of training on topics related to the specific state laws that provide authority to health officers the training shall be administered at no cost to the municipality by the department of health and human services in collaboration with the new hampshire health officers association nhhoa the curriculum shall cover but not be limited to duties and responsibilities of the health officer as required on rental housing standards pursuant to rsa i c assessment and management of health nuisances pursuant to rsa and duties pursuant to rsa the required training may be taken in person or through a remote learning platform as provided by the department of health and human services municipalities shall cover reasonable costs of attending the nhhoa training subject to the provisions of rsa background check each municipality shall request and obtain a criminal history record information request from the department of safety as a prerequisite to any nomination of a health officer or deputy health officer to be submitted to the commissioner of the department of health and human services or his or her designee in order to determine if there are any prior convictions that may disqualify such person or interfere with the performance his or her duties administrative rulemaking the commissioner of the department of health and human services may adopt administrative rules for implementation of this chapter pursuant to rsa reporting requirement beginning november and annually thereafter the new hampshire health officers association in consultation with the department of health and human services shall report to the joint legislative oversight committee on health and human services established in rsa and the state health assessment and state health improvement plan advisory council established in rsa regarding the readiness of municipal health officers to respond to potential public health threats in new hampshire new paragraphs communicable disease health officers amend rsa by inserting after paragraph ii the following new paragraphs after being informed of isolation and quarantine orders issued pursuant to rsa to persons in their jurisdiction inform the commissioner if they identify any substantive with the order in the event of a public health emergency declared pursuant to rsa enforce orders issued pursuant to rsa new paragraph communicable disease disclosure amend rsa by inserting after paragraph iv the following new paragraph the department may share information with town and city health officers acting in accordance with their duties under rsa provided the health officer has signed a confidentiality agreement at the time of his or her appointment under rsa and has presented proof of successful completion of training on adherence to applicable confidentiality and security laws and regulations required when assisting the department of health and human services under rsa all sharing of confidential information under this section shall be in accordance with this section and pursuant to f r b safety regulations for pools and bathing places injunction emergency closures amend rsa ii b to read as follows b if the department determines that a pool at the facility is not in compliance with the standards and safety requirements specified in subparagraph a and that the deficiencies threaten the health or safety of patrons of the facility the department shall issue an emergency closure notice to the owner of the facility or the owner s representative and immediately provide a copy of the notice to the town or city health officer the notice shall identify which pool must be closed and specify the reason for the emergency closure the remainder of this act shall take effect upon its passage"
+    }
+}

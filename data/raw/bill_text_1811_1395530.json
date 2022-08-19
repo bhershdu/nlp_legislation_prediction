@@ -1,0 +1,241 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1395530,
+        "change_hash": "c94d5b7a2baed98554f9806b47f471b1",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB230/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=148&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB230",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-09",
+        "progress": [
+            {
+                "date": "2021-01-09",
+                "event": 1
+            },
+            {
+                "date": "2021-01-09",
+                "event": 9
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB230",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to child day care monitoring visits, requirements for child day care providers, and the appeals process for child day care providers.",
+        "description": "Relative to child day care monitoring visits, requirements for child day care providers, and the appeals process for child day care providers.",
+        "pending_committee_id": 1243,
+        "committee": {
+            "committee_id": 1243,
+            "chamber": "H",
+            "chamber_id": 67,
+            "name": "Executive Departments and Administration"
+        },
+        "referrals": [
+            {
+                "date": "2021-01-09",
+                "committee_id": 1243,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Executive Departments and Administration"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-09",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Executive Departments and Administration House Journal  2 P. 40",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-27",
+                "action": "Public Hearing: 02/04/2021 09:30 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/99659562277 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-11",
+                "action": "Retained in Committee",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-09-02",
+                "action": "Subcommittee Work Session: 09/14/2021 10:00 am Legislative Office Building 306",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-10-25",
+                "action": "Executive Session: 10/25/2021 10:30 a.m. Legislative Office Building306-308",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-11-08",
+                "action": "Executive Session: 11/08/2021 10:30 a.m. Legislative Office Building306-308",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 19743,
+                "person_hash": "ryfcko8x",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Rebecca McWilliams",
+                "first_name": "Rebecca",
+                "middle_name": "",
+                "last_name": "McWilliams",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-27-MER",
+                "ftm_eid": 45378835,
+                "votesmart_id": 185383,
+                "opensecrets_id": "",
+                "knowwho_pid": 670731,
+                "ballotpedia": "Rebecca_McWilliams",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19878,
+                "person_hash": "n0xfc702",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Josh Yokela",
+                "first_name": "Josh",
+                "middle_name": "",
+                "last_name": "Yokela",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-33-ROC",
+                "ftm_eid": 45378989,
+                "votesmart_id": 185522,
+                "opensecrets_id": "",
+                "knowwho_pid": 670769,
+                "ballotpedia": "Josh_Yokela",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21883,
+                "person_hash": "70cv20ch",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Becky Whitley",
+                "first_name": "Becky",
+                "middle_name": "",
+                "last_name": "Whitley",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-015",
+                "ftm_eid": 50226754,
+                "votesmart_id": 194987,
+                "opensecrets_id": "",
+                "knowwho_pid": 743970,
+                "ballotpedia": "Becky_Whitley",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2235054,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB230/id/2235054",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=157&txtFormat=html",
+                "text_size": 19325,
+                "text_hash": "ad521392992ba0681158af2944136a68"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-04",
+                "time": "09:30",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Executive Departments and Administration Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-09-14",
+                "time": "10:00",
+                "location": "Legislative Office Building 306",
+                "description": "Executive Departments and Administration Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-10-25",
+                "time": "10:30",
+                "location": "Legislative Office Building306-308",
+                "description": "Executive Departments and Administration Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-11-08",
+                "time": "10:30",
+                "location": "Legislative Office Building306-308",
+                "description": "Executive Departments and Administration Executive Session"
+            }
+        ],
+        "full_text": "child day care licensing record of licenses and investigatory and monitoring visits rsa ii and iii are repealed and reenacted to read as follows information submitted in the application process shall be private confidential and not available for review however the license itself the findings of investigatory and monitoring visits and final decisions relative to licensure of the child day care agency shall be considered public information posted on the department s website and available for review by members of the public the findings of investigatory and monitoring visits and final decisions relative to licensure shall be posted on the department s website not less than days from the date of the finding or decision and shall be available on the website for a period of years at least business days before posting the results or findings of an investigatory visit monitoring visit or a final decision relative to licensure on the department s website the department shall notify the child day care agency of its findings and the date on which the information shall be posted on the department s website the department may provide such notice by email or if the child day care agency has not provided an email address by united states mail if the child day care agency submits a response prior to the date of posting the child day care agency s response shall also be posted on the department s website new subparagraphs child day care licensing rulemaking continuing education requirements and associate teacher qualifications amend rsa i by inserting after subparagraph m the following new subparagraphs n requiring not more than hours of annual continuing education or professional development for all personnel employed at a child day care agency licensed pursuant to this chapter o the following qualification for certification as an associate teacher a minimum of hours of supervised child care experience in a licensed child care program and hours of training in child growth and development the latter of which may be documented life experience child day care licensees hearings amend rsa ii and iii to read as follows any applicant licensee or permittee aggrieved by a decision of the department to suspend revoke deny or refuse to renew a license or permit or aggrieved by an unfavorable decision following informal dispute resolution under rsa may appeal to the commissioner for purposes of carrying out the provisions of this section the commissioner may in accordance with the rules adopted by the department of personnel pursuant to rsa appoint a hearings officer or officers as necessary to preside over such hearings a hearings officer may affirm deny or modify the decision of the department the commissioner shall adopt rules pursuant to rsa relative to procedures for the appeal process provided under this paragraph when the department decides to suspend revoke deny or refuse to renew a license or permit and it expressly finds that the continued operation of a child day care agency violates any minimum standard prescribed by law or rule or otherwise jeopardizes poses a present and credible threat to the health or safety morals or welfare of children served by the agency the department shall include in its order issued under paragraph i an order of closure directing that the operation of the agency terminate immediately or on the date specified in this event the agency shall not unless the department has ordered the agency to terminate immediately the agency shall be permitted to operate during the pendency of any proceeding for the review of the decision of the department except under court order notwithstanding the above the agency shall retain the right to seek injunctive relief in accordance with rsa retaliation prohibited the department shall not retaliate against an applicant licensee or permittee for any reason any applicant licensee or permittee who believes that the department s actions regarding licensure or permit status or the findings of a monitoring visit were retaliatory in nature may request a hearing under rsa ii or informal dispute resolution under rsa committee established there is established a committee to study the creation of a neutral appeals process to review violations committed by a child day care agency the members of the committee shall be as follows a three members of the house of representatives appointed by the speaker of the house of representatives b one member of the senate appointed by the president of the senate members of the committee shall receive mileage at the legislative rate when attending to the duties of the committee the committee shall study the creation of a neutral appeals process to review violations committed by a child day care agency the members of the study committee shall elect a chairperson from among the members the first meeting of the committee shall be called by the house member the first meeting of the committee shall be held within days of the effective date of this section four members of the committee shall constitute a quorum the committee shall report its findings and any recommendations for proposed legislation to the speaker of the house of representatives the president of the senate the house clerk the senate clerk the governor and the state library on or before november the remainder of this act shall take effect upon its passage"
+    }
+}

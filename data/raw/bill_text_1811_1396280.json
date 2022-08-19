@@ -1,0 +1,209 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1396280,
+        "change_hash": "676d5aa8c7687f9c6ea6412a7a301c01",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB294/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=452&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB294",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-09",
+        "progress": [
+            {
+                "date": "2021-01-09",
+                "event": 1
+            },
+            {
+                "date": "2021-01-09",
+                "event": 9
+            },
+            {
+                "date": "2021-03-15",
+                "event": 11
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB294",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to the purchase of output of limited electrical energy producers.",
+        "description": "Relative to the purchase of output of limited electrical energy producers.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-09",
+                "committee_id": 1261,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Science, Technology and Energy"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-09",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Science, Technology and Energy House Journal  2 P. 42",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-19",
+                "action": "Public Hearing: 02/19/2021 10:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/97871766128 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-15",
+                "action": "Committee Report: Inexpedient to Legislate (Vote 18-2; Consent Calendar) House Calendar 18 P. 23",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Inexpedient to Legislate: Motion Adopted Voice Vote 04/07/2021 House Journal  5 P. 47",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Reconsider (Rep. Osborne): Motion Failed Voice Vote 04/07/2021 House Journal  5 P. 50",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 18152,
+                "person_hash": "gx7i067p",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Howard Pearl",
+                "first_name": "Howard",
+                "middle_name": "",
+                "last_name": "Pearl",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-26-MER",
+                "ftm_eid": 13703940,
+                "votesmart_id": 141848,
+                "opensecrets_id": "",
+                "knowwho_pid": 425998,
+                "ballotpedia": "Howard_Pearl",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19166,
+                "person_hash": "nmyh7fie",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Timothy Lang",
+                "first_name": "Timothy",
+                "middle_name": "P.",
+                "last_name": "Lang",
+                "suffix": "Sr.",
+                "nickname": "",
+                "district": "HD-04-BEL",
+                "ftm_eid": 13703536,
+                "votesmart_id": 141853,
+                "opensecrets_id": "",
+                "knowwho_pid": 426007,
+                "ballotpedia": "Timothy_Lang_Sr.",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 17051,
+                "person_hash": "6m7d1lcm",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Lee Oxenham",
+                "first_name": "Lee",
+                "middle_name": "Walker",
+                "last_name": "Oxenham",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-01-SUL",
+                "ftm_eid": 20833980,
+                "votesmart_id": 154370,
+                "opensecrets_id": "",
+                "knowwho_pid": 502170,
+                "ballotpedia": "Lee_Walker_Oxenham",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2234618,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB294/id/2234618",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=442&txtFormat=html",
+                "text_size": 12434,
+                "text_hash": "27fa5684b4c62d5b27ce2cfa21937a15"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-19",
+                "time": "10:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Science, Technology and Energy Public Hearing"
+            }
+        ],
+        "full_text": "limited electrical energy producers act purchase of output by private sector rsa is repealed and reenacted to read as follows purchase of output by private sector a limited producer of electrical energy may sell its produced electrical energy to one or more purchasers other than the franchise electric utility such purchaser may be any electricity supplier or retail electricity customer located in new hampshire the commission shall establish procedures to authorize limited producers including eligible to sell electricity at retail either directly or indirectly through an electricity supplier within a single electric distribution utility franchise area where the purchasers of electricity from such limited producers shall not be charged a transmission tariff or rate for such sales or the purchaser or limited producer receives credit for avoided transmission charges as the commission otherwise determines if the retail sale of such electricity reduces the retail load measured at the wholesale meter point between the distribution system and transmission facilities under federal jurisdiction such that transmission charges allocated to the distribution utility are reduced from what they otherwise would be absent the electricity produced behind retail meters direct retail sales of electricity across the distribution grid shall be facilitated and accounted for by competitive electricity suppliers registered with the commission under rsa by municipal or county aggregations under rsa that are load serving entities or by utility sponsored tariffs that may be offered in conjunction with default service the public utilities commission shall establish such procedures requirements and conditions concerning retail sales of electricity pursuant to this section that it deems necessary to avoid substantial risk to the electric utility in whose franchise area the sales takes place purchasers of power from limited producers shall pay for the delivery of such power through tariffs charges and rates that are generally applicable to the customer s rate class with the exception of default energy service if not applicable and transmission charges if not applicable pursuant to paragraph public utilities that distribute electricity under the jurisdiction of the commission shall not report the production of electricity from behind or across retail electricity meters by limited producers including to the federal energy regulatory commission ferc jurisdictional transmission utilities for load reconstitution purposes or otherwise unless ordered to do so by a court of competent jurisdiction provided that such limited producer is not registered as a generator or an asset with iso new england and is thus not authorized to participate in ferc jurisdictional wholesale energy markets instead such electricity production on the distribution grid shall be treated as load reducers behind the wholesale meter point for purposes of iso new england wholesale energy markets and transmission services limited producers that first became operational before july and that have outstanding capacity commitments in the forward capacity market administered by iso new england may elect to transition to retail sales of electricity on the distribution grid and be treated as a retail load reducer for purposes of wholesale energy markets provided that they undertake the process of retiring from participation in wholesale energy markets administered by iso new england by a ceasing participation in such energy markets such as by receipt of payments for energy generation b transferring to the limited producer s load serving entity any payments received or due from iso new england that are attributable to fulfillment of the limited producer s capacity commitments until such capacity commitments are fulfilled or otherwise retired and c completing the process of retiring from wholesale energy and capacity markets administered by iso new england once any such capacity commitments that were outstanding at the time the limited producer commenced retail electricity sales are fulfilled or otherwise retired"
+    }
+}

@@ -1,0 +1,184 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1403563,
+        "change_hash": "bd199eda1e85299fcbb2d0a95b4d9ed1",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB553/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=699&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB553",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-12",
+        "progress": [
+            {
+                "date": "2021-01-12",
+                "event": 1
+            },
+            {
+                "date": "2021-01-12",
+                "event": 9
+            },
+            {
+                "date": "2021-03-12",
+                "event": 11
+            },
+            {
+                "date": "2021-03-12",
+                "event": 10
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB553",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Prohibiting renewal of certain consumer contracts without express written notice to consumers.",
+        "description": "Prohibiting renewal of certain consumer contracts without express written notice to consumers.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-12",
+                "committee_id": 1238,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Commerce and Consumer Affairs"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-12",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Commerce and Consumer Affairs House Journal  2 P. 53",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-17",
+                "action": "Public Hearing: 02/17/2021 09:45 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/99607943571 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-02",
+                "action": "Executive Session: 03/02/2021 09:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/95215897452",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-03",
+                "action": "==CONTINUED== Executive Session: 03/03/2021 01:30 pm Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/98917516497 (if necessary)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-12",
+                "action": "Majority Committee Report: Inexpedient to Legislate (Vote 10-9; Regular Calendar) House Calendar 18 P. 66",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-12",
+                "action": "Minority Committee Report: Ought to Pass",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 5029,
+                "person_hash": "7v55r6ax",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Benjamin Baroody",
+                "first_name": "Benjamin",
+                "middle_name": "C.",
+                "last_name": "Baroody",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-43-HIL",
+                "ftm_eid": 6393858,
+                "votesmart_id": 4935,
+                "opensecrets_id": "",
+                "knowwho_pid": 197274,
+                "ballotpedia": "Benjamin_Baroody",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2238176,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB553/id/2238176",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=699&txtFormat=html",
+                "text_size": 7581,
+                "text_hash": "1e6c35075719b9fcc5ebb938d5c975fc"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-17",
+                "time": "09:45",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Commerce and Consumer Affairs Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-02",
+                "time": "09:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Commerce and Consumer Affairs Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-03",
+                "time": "13:30",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Commerce and Consumer Affairs Executive Session"
+            }
+        ],
+        "full_text": "new paragraph consumer protection acts unlawful automatic contract renewal amend rsa by inserting after paragraph xvii the following new paragraph including in a contract for services an automatic renewal provision that does not require the consumer to accept in writing an additional term of service prior to the expiration of the current term notice of renewal shall be provided to the consumer no less than days before the contract s expiration date"
+    }
+}

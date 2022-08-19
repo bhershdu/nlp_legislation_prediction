@@ -1,0 +1,243 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1393146,
+        "change_hash": "81a5167af7e64bfb8d689cfac517012b",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB105/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=58&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB105",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-04",
+        "progress": [
+            {
+                "date": "2021-01-04",
+                "event": 1
+            },
+            {
+                "date": "2021-01-04",
+                "event": 9
+            },
+            {
+                "date": "2021-02-17",
+                "event": 11
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB105",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to political contributions made by limited liability companies.",
+        "description": "Relative to political contributions made by limited liability companies.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-04",
+                "committee_id": 1241,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Election Law"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-04",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Election Law House Journal  2 P. 35",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-27",
+                "action": "Public Hearing: 02/05/2021 10:30 am Members of the public may attend using the following link:To join the webinar: https://zoom.us/j/93640014012 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initiallyconvened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-03",
+                "action": "Executive Session: 02/12/2021 01:30 pm Members of the public may attend using the following link:To join the webinar: https://zoom.us/j/95709405955",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-17",
+                "action": "Committee Report: Inexpedient to Legislate (Vote 11-9; Regular Calendar) House Calendar 12 P. 28",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-25",
+                "action": "Special Order to Regular Calendar of next Session day Without Objection House Journal  4 P. 46",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 19752,
+                "person_hash": "ownh1shp",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Kat McGhee",
+                "first_name": "Kat",
+                "middle_name": "",
+                "last_name": "McGhee",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-40-HIL",
+                "ftm_eid": 13703631,
+                "votesmart_id": 141738,
+                "opensecrets_id": "",
+                "knowwho_pid": 426613,
+                "ballotpedia": "Kat_McGhee",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19158,
+                "person_hash": "w1hs0gt8",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Betty Gay",
+                "first_name": "Betty",
+                "middle_name": "I.",
+                "last_name": "Gay",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-08-ROC",
+                "ftm_eid": 41757586,
+                "votesmart_id": 172527,
+                "opensecrets_id": "",
+                "knowwho_pid": 587625,
+                "ballotpedia": "Betty_Gay",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 17478,
+                "person_hash": "ytplmgmi",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Joseph Guthrie",
+                "first_name": "Joseph",
+                "middle_name": "",
+                "last_name": "Guthrie",
+                "suffix": "",
+                "nickname": "Joe",
+                "district": "HD-13-ROC",
+                "ftm_eid": 6670939,
+                "votesmart_id": 14506,
+                "opensecrets_id": "",
+                "knowwho_pid": 250191,
+                "ballotpedia": "Joe_Guthrie",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19774,
+                "person_hash": "tec8l4b3",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Joyce Weston",
+                "first_name": "Joyce",
+                "middle_name": "",
+                "last_name": "Weston",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-08-GRA",
+                "ftm_eid": 9723374,
+                "votesmart_id": 185235,
+                "opensecrets_id": "",
+                "knowwho_pid": 670357,
+                "ballotpedia": "Joyce_Weston",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2227444,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB105/id/2227444",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=54&txtFormat=html",
+                "text_size": 9898,
+                "text_hash": "5f847b2c85d64fb7ac0927902d06b1e1"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-05",
+                "time": "10:30",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Election Law Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-12",
+                "time": "13:30",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Election Law Executive Session"
+            }
+        ],
+        "full_text": "legal status of limited liability company amend rsa i to read as follows a limited liability company formed under this act shall be a legal entity separate and distinct from its members except that political contributions made by a domestic or foreign limited liability shall be allocated to the members of the limited liability company as provided in rsa for the purpose of determining compliance of donors with the contribution limits set forth in rsa v contribution by limited liability company for the purpose of reporting contributions and determining whether a person has exceeded the contribution limits set forth in rsa v a contribution made by a domestic or foreign limited liability company shall be attributed to its members as if the contribution were made by the members for a limited liability company the entire contribution shall be attributed to the member for a limited liability company the contribution shall be allocated to the members on the basis of each member s percentage membership interest in the company if a member of a limited liability company is itself a limited liability company the portion of the contribution allocated to that member shall be allocated among its members on the basis of their percentage membership interests and shall be attributed to those members for the purpose of reporting contributions and determining whether those members have exceeded the contribution limits set forth in rsa when a limited liability company makes a contribution it shall provide the recipient of the contribution with the names and addresses of all members and the names and addresses of all members of any member that is itself a limited liability company and the amount of the contribution attributed to each member or the member s members as applicable"
+    }
+}

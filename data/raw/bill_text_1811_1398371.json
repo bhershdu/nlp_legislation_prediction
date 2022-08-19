@@ -1,0 +1,439 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1398371,
+        "change_hash": "7b5f741664bc0db6656f7e12deaa6306",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB432/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=555&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB432",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2021-07-26",
+        "progress": [
+            {
+                "date": "2021-01-10",
+                "event": 1
+            },
+            {
+                "date": "2021-01-10",
+                "event": 9
+            },
+            {
+                "date": "2021-02-10",
+                "event": 10
+            },
+            {
+                "date": "2021-03-04",
+                "event": 2
+            },
+            {
+                "date": "2021-03-04",
+                "event": 9
+            },
+            {
+                "date": "2021-04-06",
+                "event": 10
+            },
+            {
+                "date": "2021-07-12",
+                "event": 3
+            },
+            {
+                "date": "2021-07-26",
+                "event": 8
+            },
+            {
+                "date": "2021-07-26",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB432",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to the offenses that prevent employment in a school.",
+        "description": "Relative to the offenses that prevent employment in a school.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-10",
+                "committee_id": 1240,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Education"
+            },
+            {
+                "date": "2021-03-04",
+                "committee_id": 1267,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Education"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-10",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Education House Journal  2 P. 48",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-20",
+                "action": "Public Hearing: 01/26/2021 09:30 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/91325381640 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-10",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-0015h (Vote 18-0; Consent Calendar) House Calendar 12 P. 4",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-24",
+                "action": "Amendment # 2021-0015h: Amendment Adopted Voice Vote 02/24/2021 House Journal  3 P. 5",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-24",
+                "action": "Ought to Pass with Amendment 2021-0015h: Motion Adopted Voice Vote 02/24/2021 House Journal  3 P. 5",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-04",
+                "action": "Introduced 03/04/2021 and Referred to Education; Senate Journal 7",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-17",
+                "action": "Remote Hearing: 03/23/2021, 10:00 am; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  16",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-06",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-1113s, 04/08/2021; Vote 5-0; Consent Calendar; Senate Calendar  18A",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-08",
+                "action": "Sen. Watters Moved to Remove HB 432 from the Consent Calendar; 04/08/2021; Senate Journal 11",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-08",
+                "action": "Committee Amendment # 2021-1113s, Regular Calendar 24Y-0N, Amendment Adopted; 04/08/2021; Senate Journal 11",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-08",
+                "action": "Sen. Watters Floor Amendment # 2021-1116s, Regular Calendar 10Y-14N, Amendment Failed; 04/08/2021; Senate Journal 11",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-08",
+                "action": "Ought to Pass with Amendment 2021-1113s, Regular Calendar 24Y-0N, Motion Adopted; OT3rdg; 04/08/2021; Senate Journal 11",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-10",
+                "action": "House Concurs with Senate Amendment 2021-1113s (Rep. Ladd): Motion Adopted Voice Vote 06/10/2021 House Journal  10 P. 9",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-12",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 06/24/2021); Senate Journal 20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-12",
+                "action": "Enrolled (in recess of) 06/24/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-07-26",
+                "action": "Signed by Governor Sununu 07/23/2021; Chapter 142; Eff: 09/21/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 19843,
+                "person_hash": "xz34mimu",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Sue Mullen",
+                "first_name": "Sue",
+                "middle_name": "",
+                "last_name": "Mullen",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-07-HIL",
+                "ftm_eid": 45378856,
+                "votesmart_id": 185326,
+                "opensecrets_id": "",
+                "knowwho_pid": 670399,
+                "ballotpedia": "Sue_Mullen",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19784,
+                "person_hash": "swul5611",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "James Allard",
+                "first_name": "James",
+                "middle_name": "C.",
+                "last_name": "Allard",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-21-MER",
+                "ftm_eid": 45378622,
+                "votesmart_id": 185505,
+                "opensecrets_id": "",
+                "knowwho_pid": 670709,
+                "ballotpedia": "James_Allard",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 17471,
+                "person_hash": "7ldkn52f",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Patricia Cornell",
+                "first_name": "Patricia",
+                "middle_name": "",
+                "last_name": "Cornell",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-18-HIL",
+                "ftm_eid": 9701043,
+                "votesmart_id": 154281,
+                "opensecrets_id": "",
+                "knowwho_pid": 503474,
+                "ballotpedia": "Patricia_Cornell",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 15599,
+                "person_hash": "ws0la0nf",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Linda Tanner",
+                "first_name": "Linda",
+                "middle_name": "",
+                "last_name": "Tanner",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-09-SUL",
+                "ftm_eid": 13703855,
+                "votesmart_id": 141803,
+                "opensecrets_id": "",
+                "knowwho_pid": 436667,
+                "ballotpedia": "Linda_Tanner",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19757,
+                "person_hash": "yrgjv30x",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Stephen Woodcock",
+                "first_name": "Stephen",
+                "middle_name": "L.",
+                "last_name": "Woodcock",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-02-CAR",
+                "ftm_eid": 45378985,
+                "votesmart_id": 185471,
+                "opensecrets_id": "",
+                "knowwho_pid": 670238,
+                "ballotpedia": "Stephen_Woodcock",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2234696,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB432/id/2234696",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=550&txtFormat=html",
+                "text_size": 9123,
+                "text_hash": "af902ef3425239a59f7a44f0ee924b0b"
+            },
+            {
+                "doc_id": 2324136,
+                "date": "2021-02-24",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB432/id/2324136",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=HA&id=550",
+                "text_size": 9025,
+                "text_hash": "4eba91871ad182915ee2abf3ce0879fb"
+            },
+            {
+                "doc_id": 2360965,
+                "date": "2021-04-08",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB432/id/2360965",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=SA&id=550",
+                "text_size": 12238,
+                "text_hash": "edba230571234f1a333a32204dd16db0"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1052041,
+                "date": "2021-04-08",
+                "desc": "Committee Amendment 1113s",
+                "yea": 24,
+                "nay": 0,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/HB432/id/1052041",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=301&sy=2021&lb=S&eb=HB0432&sortoption=&txtsessionyear=2021&txtbillnumber=HB432&ddlsponsors=&lsr=555"
+            },
+            {
+                "roll_call_id": 1052042,
+                "date": "2021-04-08",
+                "desc": "Floor Amendment 1116s",
+                "yea": 10,
+                "nay": 14,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 0,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/HB432/id/1052042",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=302&sy=2021&lb=S&eb=HB0432&sortoption=&txtsessionyear=2021&txtbillnumber=HB432&ddlsponsors=&lsr=555"
+            },
+            {
+                "roll_call_id": 1052043,
+                "date": "2021-04-08",
+                "desc": "Ought to Pass w/Amendment",
+                "yea": 24,
+                "nay": 0,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/HB432/id/1052043",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=303&sy=2021&lb=S&eb=HB0432&sortoption=&txtsessionyear=2021&txtbillnumber=HB432&ddlsponsors=&lsr=555"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-01-26",
+                "time": "09:30",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Education Public Hearing"
+            }
+        ],
+        "full_text": "school employee and designated school volunteer criminal history records check amend rsa v to read as follows any person who has been charged pending disposition for or convicted of any violation or attempted violation of rsa ii or iii or or any violation or any attempted violation of rsa where the act involves a child in material deemed obscene in this state or under any statute prohibiting the same conduct in another state territory or possession of the united states shall not be hired by a school administrative unit school district chartered public school or public academy the superintendent of the school administrative unit or the chief executive officer of the chartered public school or public academy may deny a selected applicant a final offer of employment if such person has been convicted of any crime misdemeanor or felony in addition to those listed above the governing body of a school district chartered public school or public academy shall adopt a policy relative to hiring practices based on the results of the criminal history records check and report of misdemeanors and felonies received under paragraph such policy may include language stating that any person who has been convicted of any misdemeanor or any of a list of misdemeanors may not be hired such policy may also include language stating that any person who has been convicted of any felony or any of a list of felonies shall not be hired new subparagraph chartered public schools application code of conduct for new hampshire educators amend rsa ii by inserting after subparagraph dd the following new subparagraph ee a proposed policy to adopt and implement the code of conduct for new hampshire educators as adopted by the department in administrative rule failure to adopt and implement the code of conduct could result in the probation or revocation of the school s charter as governed by rsa chartered public school approval by state board of education amend rsa ii to read as follows the proposed chartered public school application shall be presented for approval directly to the state board of education by the applicant for the prospective chartered public school the content of such application shall conform to the requirements set forth in rsa ii a bb and dd ee the department of education shall notify an applicant of any missing information within days of the initial filing the applicant shall file any missing information before the department reviews the application chartered public school approval by state board of education amend rsa iv to read as follows the state board of education shall either approve or deny an application using reasonable discretion in the assessment of the elements set forth in rsa ii a bb and dd ee lack of state funding alone shall not constitute grounds for the denial of an application approval of an application constitutes the granting of charter status and the right to operate as a chartered public school the state board of education shall notify all applicants of its decision in writing and shall include in any notice of denial a written statement specifying any areas deemed deficient the reasons for the denial and explaining that the applicant may reapply under rsa or under this section in a subsequent year"
+    }
+}

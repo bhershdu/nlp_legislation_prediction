@@ -1,0 +1,211 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1395609,
+        "change_hash": "4c5a846d84782728111b3dd0df5f8515",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB241/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=176&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB241",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-09",
+        "progress": [
+            {
+                "date": "2021-01-09",
+                "event": 1
+            },
+            {
+                "date": "2021-01-09",
+                "event": 9
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB241",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to trout.",
+        "description": "Relative to trout.",
+        "pending_committee_id": 1248,
+        "committee": {
+            "committee_id": 1248,
+            "chamber": "H",
+            "chamber_id": 67,
+            "name": "Fish and Game and Marine Resources"
+        },
+        "referrals": [
+            {
+                "date": "2021-01-09",
+                "committee_id": 1248,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Fish and Game and Marine Resources"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-09",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Fish and Game and Marine Resources House Journal  2 P. 40",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-21",
+                "action": "Public Hearing: 02/01/2021 11:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/94410519799 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-01-21",
+                "action": "Subcommittee Work Session: 02/01/2021 01:30 pm Remote info same as above",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-08",
+                "action": "Retained in Committee",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-21",
+                "action": "Full Committee Work Session: 04/28/2021 10:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/97783276704",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-08-17",
+                "action": "==ROOM CHANGE== Subcommittee Work Session: 09/15/2021 09:30 am Legislative Office Building 210-211",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-09-22",
+                "action": "Executive Session: 09/22/2021 09:00 am Legislative Office Building 307",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 16395,
+                "person_hash": "60pz8htm",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Lino Avellani",
+                "first_name": "Lino",
+                "middle_name": "M.",
+                "last_name": "Avellani",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-05-CAR",
+                "ftm_eid": 25005416,
+                "votesmart_id": 154411,
+                "opensecrets_id": "",
+                "knowwho_pid": 502546,
+                "ballotpedia": "Lino_Avellani",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2232755,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB241/id/2232755",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=174&txtFormat=html",
+                "text_size": 7674,
+                "text_hash": "3f8cd252bbec834427f83b3366f0cb72"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-01",
+                "time": "11:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Fish and Game and Marine Resources Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-01",
+                "time": "13:30",
+                "location": "Remote info same as above",
+                "description": "Fish and Game and Marine Resources Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-04-28",
+                "time": "10:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Fish and Game and Marine Resources Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-09-15",
+                "time": "09:30",
+                "location": "Legislative Office Building 307",
+                "description": "Fish and Game and Marine Resources Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-09-15",
+                "time": "09:30",
+                "location": "Legislative Office Building 210-211",
+                "description": "Fish and Game and Marine Resources Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-09-22",
+                "time": "09:00",
+                "location": "Legislative Office Building 307",
+                "description": "Fish and Game and Marine Resources Executive Session"
+            }
+        ]
+    }
+}

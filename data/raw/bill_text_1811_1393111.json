@@ -1,0 +1,335 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1393111,
+        "change_hash": "6371ef16841fd697bdcae77369ee5b3e",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB134/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=103&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB134",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2021-05-10",
+        "progress": [
+            {
+                "date": "2021-01-04",
+                "event": 1
+            },
+            {
+                "date": "2021-01-04",
+                "event": 9
+            },
+            {
+                "date": "2021-02-16",
+                "event": 10
+            },
+            {
+                "date": "2021-03-04",
+                "event": 2
+            },
+            {
+                "date": "2021-03-04",
+                "event": 9
+            },
+            {
+                "date": "2021-03-15",
+                "event": 10
+            },
+            {
+                "date": "2021-04-29",
+                "event": 3
+            },
+            {
+                "date": "2021-05-10",
+                "event": 8
+            },
+            {
+                "date": "2021-05-10",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB134",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Repealing certain inactive dedicated funds.",
+        "description": "Repealing certain inactive dedicated funds.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-04",
+                "committee_id": 1264,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Ways and Means"
+            },
+            {
+                "date": "2021-03-04",
+                "committee_id": 1277,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Ways and Means"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-04",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Ways and Means House Journal  2 P. 36",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-27",
+                "action": "Public Hearing: 02/04/2021 10:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/95843569442 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-04",
+                "action": "Full Committee Work Session: 02/10/2021 09:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/99928276230 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-16",
+                "action": "Committee Report: Ought to Pass (Vote 23-0; Consent Calendar) House Calendar 12 P. 13",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-24",
+                "action": "Ought to Pass: Motion Adopted Voice Vote 02/24/2021 House Journal  3 P. 19",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-04",
+                "action": "Introduced 03/04/2021 and Referred to Ways and Means; Senate Journal 7",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-09",
+                "action": "Remote Hearing: 03/15/2021, 09:00 am; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  15",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-15",
+                "action": "Committee Report: Ought to Pass, 03/25/2021; Vote 5-0; Consent Calendar; Senate Calendar  16",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-25",
+                "action": "Ought to Pass: Regular Calendar 24Y-0N, Motion Adopted; OT3rdg; 03/25/2021; Senate Journal 9",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-29",
+                "action": "Enrolled (in recess of) 04/09/2021 House Journal  7 P. 101",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-29",
+                "action": "Enrolled Regular Calendar 24Y-0N, Motion Adopted, (In recess of 04/22/2021); Senate Journal 13",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-10",
+                "action": "Signed by Governor Sununu 05/06/2021; Chapter 19; Eff: 07/05/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 4853,
+                "person_hash": "iwvtz8vb",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Norman Major",
+                "first_name": "Norman",
+                "middle_name": "L.",
+                "last_name": "Major",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-14-ROC",
+                "ftm_eid": 6595208,
+                "votesmart_id": 15170,
+                "opensecrets_id": "",
+                "knowwho_pid": 197125,
+                "ballotpedia": "Norman_Major",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4829,
+                "person_hash": "p7484y9q",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Susan Almy",
+                "first_name": "Susan",
+                "middle_name": "W.",
+                "last_name": "Almy",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-13-GRA",
+                "ftm_eid": 199534,
+                "votesmart_id": 15165,
+                "opensecrets_id": "",
+                "knowwho_pid": 197099,
+                "ballotpedia": "Susan_Almy",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4823,
+                "person_hash": "vrqfec9s",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Lucy Weber",
+                "first_name": "Lucy",
+                "middle_name": "McVitty",
+                "last_name": "Weber",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-02-CHE",
+                "ftm_eid": 6478956,
+                "votesmart_id": 65198,
+                "opensecrets_id": "",
+                "knowwho_pid": 249884,
+                "ballotpedia": "Lucy_McVitty_Weber",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18168,
+                "person_hash": "wzdy4vye",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Bob Giuda",
+                "first_name": "Robert",
+                "middle_name": "",
+                "last_name": "Giuda",
+                "suffix": "",
+                "nickname": "Bob",
+                "district": "SD-002",
+                "ftm_eid": 6594468,
+                "votesmart_id": 21328,
+                "opensecrets_id": "",
+                "knowwho_pid": 208524,
+                "ballotpedia": "Bob_Giuda",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2227409,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB134/id/2227409",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=103&txtFormat=html",
+                "text_size": 17889,
+                "text_hash": "31bbbe7a07c65eeefbdad7198159d46e"
+            },
+            {
+                "doc_id": 2347927,
+                "date": "2021-03-25",
+                "type": "Enrolled",
+                "type_id": 5,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB134/id/2347927",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&v=SP&id=103",
+                "text_size": 17900,
+                "text_hash": "05099c2aa279e28d75505a2ed8c8bdcc"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-04",
+                "time": "10:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Ways and Means Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-10",
+                "time": "09:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Ways and Means Work Session"
+            }
+        ],
+        "full_text": "repeal inactive dedicated funds the following are repealed rsa i b relative to moneys received by the postsecondary education commission for storage and retrieval of closed school transcripts under rsa rsa i b relative to the public interest payphone fund under rsa rsa i b relative to the meat inspection program fund under rsa rsa i b relative to the john g winant memorial special account under rsa new subparagraphs dedicated funds added amend rsa i b by inserting after subparagraph the following new subparagraphs moneys deposited in the forest improvement fund under rsa moneys deposited in the forest protection personnel training fund under rsa alcohol abuse prevention and treatment fund amend rsa i b to read as follows moneys deposited in the alcohol abuse prevention and treatment fund established in rsa as administered by the governor s commission on alcohol and drug abuse prevention treatment and recovery in accordance with rsa repeal public interest payphones the following are repealed rsa relative to the public interest payphone fund rsa iv relative to public interest payphone deposits public interest payphones abandoned property filing of claim amend rsa i b to read as follows b a person claiming an abandoned utility deposit or any other abandoned property under the provisions of rsa that was not deposited with the administrator pursuant to rsa ii or iv may file a claim on a form prescribed by the administrator and verified by the claimant any claim paid by the administrator under this paragraph shall be reimbursable by the utility company which originally reported the property as abandoned or the public interest payphone fund established under rsa the utility company or the public interest payphone fund shall remit such payment upon notification of the claim by the administrator balance of public interest payphone fund lapse to public utilities commission on the effective date of this section the balance of the public interest payphone fund established in rsa shall lapse to the public utilities commission repeal meat inspection fund the following are repealed rsa ii relative to the meat inspection fund rsa relative to the acceptance of gifts grants and donations for the inspection of meat rsa establishing the meat inspection fund meat inspectors certification and duties reference to fund removed amend rsa ii to read as follows fees fines and administrative charges established for the certification program and the auditing program shall be deposited in the meat inspection fund established pursuant to rsa general fund john g winant memorial special account amend rsa to read as follows commission established special account a commission is established to oversee the location design construction and maintenance of a john g winant memorial and to privately raise and expend all the funds necessary for its construction and maintenance the governor is authorized to accept for the commission in the name of the state the gifts of money which are donated to construct and maintain the memorial notwithstanding any other provision of law the commission may accept donated services goods and materials for the construction and maintenance of the memorial without governor and council approval the gifts of money which are donated to contract construct and maintain the memorial shall be placed in a special nonlapsing account in the state treasury to be expended for the purposes of the john g winant memorial any money remaining in the special account after construction of the memorial is completed shall be used for the care maintenance repair and additions to the memorial or for any other purpose deemed appropriate by the commission notwithstanding any other provision of law the commission may expend the money raised or accepted as a gift without the approval of governor and council to contract for the construction and perpetual maintenance of the memorial the commission shall remain in existence upon the completion of the john g winant memorial for the purpose of overseeing maintenance and approving any change to the memorial any site change for the memorial shall be made under the supervision of the director of operations of the department of transportation repeal office of professional licensure and certification rsa v d relative to the year reporting requirement for the office of professional licensure and certification is repealed new subparagraph office of professional licensure and certification year dedicated fund reporting requirement amend rsa v e by inserting after subparagraph the following new subparagraph the office of professional licensure and certification"
+    }
+}

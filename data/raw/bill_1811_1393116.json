@@ -1,0 +1,419 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1393116,
+        "change_hash": "1180e2914a9efde4deb187217bc8dd14",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB108/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=315&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB108",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2021-08-03",
+        "progress": [
+            {
+                "date": "2021-01-04",
+                "event": 1
+            },
+            {
+                "date": "2021-01-04",
+                "event": 9
+            },
+            {
+                "date": "2021-03-09",
+                "event": 10
+            },
+            {
+                "date": "2021-04-07",
+                "event": 2
+            },
+            {
+                "date": "2021-04-07",
+                "event": 9
+            },
+            {
+                "date": "2021-05-25",
+                "event": 10
+            },
+            {
+                "date": "2021-07-15",
+                "event": 3
+            },
+            {
+                "date": "2021-08-03",
+                "event": 8
+            },
+            {
+                "date": "2021-08-03",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB108",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to minutes and decisions in nonpublic sessions; an exemption for items falling within the attorney-client privilege or the attorney work product doctrine under the right-to-know law; and remote access to public meetings under the right-to-know law.",
+        "description": "Relative to minutes and decisions in nonpublic sessions; an exemption for items falling within the attorney-client privilege or the attorney work product doctrine under the right-to-know law; and remote access to public meetings under the right-to-know law.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-04",
+                "committee_id": 1250,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Judiciary"
+            },
+            {
+                "date": "2021-04-07",
+                "committee_id": 1273,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Judiciary"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-04",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Judiciary House Journal  2 P. 35",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-19",
+                "action": "Public Hearing: 02/19/2021 09:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/92168223794 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-02",
+                "action": "Executive Session: 03/02/2021 09:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/95501229688",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-09",
+                "action": "Committee Report: Ought to Pass (Vote 21-0; Consent Calendar) House Calendar 18 P. 17",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Ought to Pass: Motion Adopted Voice Vote 04/07/2021 House Journal  5 P. 37",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Reconsider (Rep. Osborne): Motion Failed Voice Vote 04/07/2021 House Journal  5 P. 50",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Introduced 04/01/2021 and Referred to Judiciary; Senate Journal 11",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-08",
+                "action": "Remote Hearing: 04/13/2021, 01:00 pm; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  19",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-06",
+                "action": "Remote Hearing: 05/10/2021, 02:00 pm, on proposed amendment # 2021-1144s; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  23",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-06",
+                "action": "Remote Hearing: 05/10/2021, 02:15 pm, on proposed amendment # 2021-1251s; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  23",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-25",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-1711s, 05/27/2021; Vote 5-0; Consent Calendar; Senate Calendar  25A",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-05-27",
+                "action": "Committee Amendment # 2021-1711s, Amendment Adopted, Voice Vote; 05/27/2021; Senate Journal 17",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-27",
+                "action": "Ought to Pass with Amendment 2021-1711s, Motion Adopted, Voice Vote; OT3rdg; 05/27/2021; Senate Journal 17",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-07",
+                "action": "House Non-Concurs with Senate Amendment 2021-1711s and Requests CofC (Reps. Gordon, McLean, Wuelper, M. Smith): Motion Adopted Voice Vote 06/04/2021 House Journal  9 P. 51",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-10",
+                "action": "Sen. Carson Accedes to House Request for Committee of Conference, Motion Adopted, Voice Vote; 06/10/2021; Senate Journal 19",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-10",
+                "action": "President Appoints: Senators Carson, Daniels, Perkins Kwoka; 06/10/2021; Senate Journal 19",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-14",
+                "action": "Conference Committee Meeting: 06/14/2021 03:30 pm Legislative Office Building 206-208",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-17",
+                "action": "Conference Committee Report Filed, # 2021-1973c; 06/24/2021",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-24",
+                "action": "Conference Committee Report # 2021-1973c, Adopted, Voice Vote; 06/24/2021; Senate Journal 20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-24",
+                "action": "Conference Committee Report 2021-1973c: Adopted, Voice Vote 06/24/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-15",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 06/24/2021); Senate Journal 20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-15",
+                "action": "Enrolled (in recess of) 06/24/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-08-03",
+                "action": "Signed by Governor Sununu 07/30/2021; Chapter 163; I. Sec. 1 Eff: 01/01/2022 II. Sec. 3 to 7 Eff: 09/28/2021 III. Rem. Eff: 07/30/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 4747,
+                "person_hash": "x9ho5km8",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Jordan Ulery",
+                "first_name": "Jordan",
+                "middle_name": "G.",
+                "last_name": "Ulery",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-37-HIL",
+                "ftm_eid": 6596249,
+                "votesmart_id": 42373,
+                "opensecrets_id": "",
+                "knowwho_pid": 228818,
+                "ballotpedia": "Jordan_Ulery",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 16677,
+                "person_hash": "ybgdem4d",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "James Spillane",
+                "first_name": "James",
+                "middle_name": "",
+                "last_name": "Spillane",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-02-ROC",
+                "ftm_eid": 25005580,
+                "votesmart_id": 154538,
+                "opensecrets_id": "",
+                "knowwho_pid": 502120,
+                "ballotpedia": "James_Spillane",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4754,
+                "person_hash": "p5hsu8yc",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Carol McGuire",
+                "first_name": "Carol",
+                "middle_name": "",
+                "last_name": "McGuire",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-29-MER",
+                "ftm_eid": 6677888,
+                "votesmart_id": 109938,
+                "opensecrets_id": "",
+                "knowwho_pid": 222865,
+                "ballotpedia": "Carol_McGuire",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19824,
+                "person_hash": "8ya6utb2",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Tony Lekas",
+                "first_name": "Tony",
+                "middle_name": "",
+                "last_name": "Lekas",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-37-HIL",
+                "ftm_eid": 9794125,
+                "votesmart_id": 54877,
+                "opensecrets_id": "",
+                "knowwho_pid": 670662,
+                "ballotpedia": "Tony_Lekas",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2227414,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB108/id/2227414",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=316&txtFormat=html",
+                "text_size": 17994,
+                "text_hash": "5e84e74bf65815622a907a13491af759"
+            },
+            {
+                "doc_id": 2406019,
+                "date": "2021-05-27",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB108/id/2406019",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=SA&id=316",
+                "text_size": 30421,
+                "text_hash": "754cbd7d3b2f8da04bcce2eabea441b7"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-19",
+                "time": "09:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Judiciary Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-02",
+                "time": "09:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Judiciary Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-02",
+                "time": "09:00",
+                "location": "Members of the public may attend using the following links: 1. T",
+                "description": "Judiciary Executive Session"
+            }
+        ]
+    }
+}

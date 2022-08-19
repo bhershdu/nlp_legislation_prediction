@@ -1,0 +1,257 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1395618,
+        "change_hash": "7bb02e6ccb6db020b86fb470a9b2ea24",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB274/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=159&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB274",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-09",
+        "progress": [
+            {
+                "date": "2021-01-09",
+                "event": 1
+            },
+            {
+                "date": "2021-01-09",
+                "event": 9
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB274",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to payment by the state of a portion of retirement system contributions of political subdivision employers.",
+        "description": "Relative to payment by the state of a portion of retirement system contributions of political subdivision employers.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-09",
+                "committee_id": 1243,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Executive Departments and Administration"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-09",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Executive Departments and Administration House Journal  2 P. 41",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-21",
+                "action": "Public Hearing: 01/27/2021 11:00 am Members of the public may attend using the following link:To join the webinar: https://zoom.us/j/92995497899 / Executive session on pending legislation may be held throughout the day (time permitting) from the time thecommittee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-17",
+                "action": "Committee Report: Without Recommendation (Vote ; Regular Calendar) House Calendar 12 P. 19",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-24",
+                "action": "Ought to Pass: Motion Failed Regular Calendar 172-186 02/24/2021 House Journal  3 P. 45",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-24",
+                "action": "Inexpedient to Legislate: Motion Adopted Regular Calendar 189-168 02/24/2021 House Journal  3 P. 45",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-24",
+                "action": "Reconsider (Rep. McGuire): Motion Failed Regular Calendar 159-179 02/24/2021 House Journal  3 P. 58",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 4908,
+                "person_hash": "gyv6j66v",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Michael O'Brien",
+                "first_name": "Michael",
+                "middle_name": "B.",
+                "last_name": "O'Brien",
+                "suffix": "Sr.",
+                "nickname": "",
+                "district": "HD-36-HIL",
+                "ftm_eid": 6483538,
+                "votesmart_id": 67226,
+                "opensecrets_id": "",
+                "knowwho_pid": 250089,
+                "ballotpedia": "Michael_O%27Brien_Sr._(New_Hampshire)",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 5026,
+                "person_hash": "fenlx6qz",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Robert Cushing",
+                "first_name": "Robert",
+                "middle_name": "Reynolds",
+                "last_name": "Cushing",
+                "suffix": "",
+                "nickname": "Renny",
+                "district": "HD-21-ROC",
+                "ftm_eid": 6433716,
+                "votesmart_id": 14688,
+                "opensecrets_id": "",
+                "knowwho_pid": 233889,
+                "ballotpedia": "Robert_Cushing",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4924,
+                "person_hash": "5p0a0w6s",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Cindy Rosenwald",
+                "first_name": "Lucinda",
+                "middle_name": "",
+                "last_name": "Rosenwald",
+                "suffix": "",
+                "nickname": "Cindy",
+                "district": "SD-013",
+                "ftm_eid": 6463841,
+                "votesmart_id": 42204,
+                "opensecrets_id": "",
+                "knowwho_pid": 228804,
+                "ballotpedia": "Lucinda_Rosenwald",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2235051,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB274/id/2235051",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=161&txtFormat=html",
+                "text_size": 33046,
+                "text_hash": "25c52117ecead77f6ff4fb659a93fb41"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1017370,
+                "date": "2021-02-26",
+                "desc": "OTP",
+                "yea": 172,
+                "nay": 186,
+                "nv": 11,
+                "absent": 29,
+                "total": 398,
+                "passed": 0,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/HB274/id/1017370",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=20&sy=2021&lb=H&eb=HB0274&sortoption=&txtsessionyear=2021&txtbillnumber=HB274&ddlsponsors=&lsr=159"
+            },
+            {
+                "roll_call_id": 1017371,
+                "date": "2021-02-26",
+                "desc": "ITL",
+                "yea": 189,
+                "nay": 168,
+                "nv": 12,
+                "absent": 29,
+                "total": 398,
+                "passed": 1,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/HB274/id/1017371",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=21&sy=2021&lb=H&eb=HB0274&sortoption=&txtsessionyear=2021&txtbillnumber=HB274&ddlsponsors=&lsr=159"
+            },
+            {
+                "roll_call_id": 1017372,
+                "date": "2021-02-26",
+                "desc": "Reconsider",
+                "yea": 159,
+                "nay": 179,
+                "nv": 31,
+                "absent": 29,
+                "total": 398,
+                "passed": 0,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/HB274/id/1017372",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=25&sy=2021&lb=H&eb=HB0274&sortoption=&txtsessionyear=2021&txtbillnumber=HB274&ddlsponsors=&lsr=159"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-01-27",
+                "time": "11:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Executive Departments and Administration Public Hearing"
+            }
+        ]
+    }
+}

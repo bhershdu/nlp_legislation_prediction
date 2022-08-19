@@ -1,0 +1,556 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1395605,
+        "change_hash": "dbb90081f234c6f9f7ea5abd3b0146b6",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB243/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=241&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB243",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2021-07-26",
+        "progress": [
+            {
+                "date": "2021-01-09",
+                "event": 1
+            },
+            {
+                "date": "2021-01-09",
+                "event": 9
+            },
+            {
+                "date": "2021-03-12",
+                "event": 10
+            },
+            {
+                "date": "2021-03-12",
+                "event": 11
+            },
+            {
+                "date": "2021-04-13",
+                "event": 2
+            },
+            {
+                "date": "2021-04-13",
+                "event": 9
+            },
+            {
+                "date": "2021-05-11",
+                "event": 10
+            },
+            {
+                "date": "2021-07-12",
+                "event": 3
+            },
+            {
+                "date": "2021-07-26",
+                "event": 8
+            },
+            {
+                "date": "2021-07-26",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB243",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to the form of municipal budgets, relative to municipal estimates of expenditures and revenues, and relative to the requirement that certain governing bodies submit recommendations to the budget committee.",
+        "description": "Relative to the form of municipal budgets, relative to municipal estimates of expenditures and revenues, and relative to the requirement that certain governing bodies submit recommendations to the budget committee.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-09",
+                "committee_id": 1257,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Municipal and County Government"
+            },
+            {
+                "date": "2021-04-13",
+                "committee_id": 3825,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Election Law and Municipal Affairs"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-09",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Municipal and County Government House Journal  2 P. 40",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-08",
+                "action": "==RECESSED== Public Hearing: 02/18/2021 09:15 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/94522837794 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-01",
+                "action": "==CANCELLED== Public Hearing: 03/01/2021 12:30 pm Members of the public may attend using the following link: To join the webinar: https://www.zoom.us/j/97119253057 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-03",
+                "action": "==CONTINUED== Public Hearing: 03/03/2021 09:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/98208993032 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-12",
+                "action": "Majority Committee Report: Ought to Pass with Amendment # 2021-0546h (Vote 10-9; Regular Calendar) House Calendar 18 P. 56",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-12",
+                "action": "Minority Committee Report: Inexpedient to Legislate",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-09",
+                "action": "Amendment # 2021-0546h: Amendment Adopted Voice Vote 04/09/2021 House Journal  7 P. 28",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-09",
+                "action": "Ought to Pass with Amendment 2021-0546h: Motion Adopted DV 189-186 04/09/2021 House Journal  7 P. 28",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-09",
+                "action": "Reconsider (Rep. Piemonte): Motion Failed DV 179-194 04/09/2021 House Journal  7 P. 30",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-13",
+                "action": "Introduced 04/08/2021 and Referred to Election Law and Municipal Affairs; Senate Journal 12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-14",
+                "action": "Remote Hearing: 04/19/2021, 10:00 am; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-11",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-1371s, 05/20/2021; Vote 5-0; Consent Calendar; Senate Calendar  24",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-05-20",
+                "action": "Committee Amendment # 2021-1371s, Amendment Adopted, Voice Vote; 05/20/2021; Senate Journal 16",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-20",
+                "action": "Ought to Pass with Amendment 2021-1371s, Motion Adopted, Voice Vote; OT3rdg; 05/20/2021; Senate Journal 16",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-10",
+                "action": "House Concurs with Senate Amendment 2021-1371s (Rep. Dolan): Motion Adopted Voice Vote 06/10/2021 House Journal  10 P. 15",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-12",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 06/24/2021); Senate Journal 20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-12",
+                "action": "Enrolled (in recess of) 06/24/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-07-26",
+                "action": "Signed by Governor Sununu 07/23/2021; Chapter 134; Eff: 09/21/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 19792,
+                "person_hash": "a2u2ftfn",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Tony Piemonte",
+                "first_name": "Tony",
+                "middle_name": "",
+                "last_name": "Piemonte",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-04-ROC",
+                "ftm_eid": 45378892,
+                "votesmart_id": 185304,
+                "opensecrets_id": "",
+                "knowwho_pid": 670610,
+                "ballotpedia": "Tony_Piemonte",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19788,
+                "person_hash": "u64uxl45",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Michael Yakubovich",
+                "first_name": "Michael",
+                "middle_name": "",
+                "last_name": "Yakubovich",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-24-MER",
+                "ftm_eid": 45378987,
+                "votesmart_id": 185288,
+                "opensecrets_id": "",
+                "knowwho_pid": 670727,
+                "ballotpedia": "Michael_Yakubovich",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 5099,
+                "person_hash": "vzldns9c",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Kenneth Weyler",
+                "first_name": "Kenneth",
+                "middle_name": "",
+                "last_name": "Weyler",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-13-ROC",
+                "ftm_eid": 13004260,
+                "votesmart_id": 8607,
+                "opensecrets_id": "",
+                "knowwho_pid": 283733,
+                "ballotpedia": "Ken_Weyler",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 17486,
+                "person_hash": "e864jck9",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Jason Osborne",
+                "first_name": "Jason",
+                "middle_name": "",
+                "last_name": "Osborne",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-04-ROC",
+                "ftm_eid": 25005584,
+                "votesmart_id": 154541,
+                "opensecrets_id": "",
+                "knowwho_pid": 501770,
+                "ballotpedia": "Jason_Osborne_(New_Hampshire)",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18153,
+                "person_hash": "h6wcnlm4",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Jess Edwards",
+                "first_name": "Jess",
+                "middle_name": "",
+                "last_name": "Edwards",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-11-HIL",
+                "ftm_eid": 25005737,
+                "votesmart_id": 172496,
+                "opensecrets_id": "",
+                "knowwho_pid": 587584,
+                "ballotpedia": "Jess_Edwards",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 16885,
+                "person_hash": "wv76xmbo",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Chris True",
+                "first_name": "Chris",
+                "middle_name": "",
+                "last_name": "True",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-04-ROC",
+                "ftm_eid": 25005586,
+                "votesmart_id": 154543,
+                "opensecrets_id": "",
+                "knowwho_pid": 501771,
+                "ballotpedia": "Chris_True",
+                "sponsor_type_id": 2,
+                "sponsor_order": 6,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18810,
+                "person_hash": "jop80o18",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Peter Torosian",
+                "first_name": "Peter",
+                "middle_name": "E.",
+                "last_name": "Torosian",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-14-ROC",
+                "ftm_eid": 41757598,
+                "votesmart_id": 172539,
+                "opensecrets_id": "",
+                "knowwho_pid": 587653,
+                "ballotpedia": "Peter_Torosian",
+                "sponsor_type_id": 2,
+                "sponsor_order": 7,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 15247,
+                "person_hash": "z1he67k0",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Michael Sylvia",
+                "first_name": "Michael",
+                "middle_name": "",
+                "last_name": "Sylvia",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-06-BEL",
+                "ftm_eid": 16072474,
+                "votesmart_id": 143477,
+                "opensecrets_id": "",
+                "knowwho_pid": 436674,
+                "ballotpedia": "Michael_Sylvia",
+                "sponsor_type_id": 2,
+                "sponsor_order": 8,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18157,
+                "person_hash": "ye7258gp",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Kevin Verville",
+                "first_name": "Kevin",
+                "middle_name": "",
+                "last_name": "Verville",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-02-ROC",
+                "ftm_eid": 41757571,
+                "votesmart_id": 172491,
+                "opensecrets_id": "",
+                "knowwho_pid": 587570,
+                "ballotpedia": "Kevin_Verville",
+                "sponsor_type_id": 2,
+                "sponsor_order": 9,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 17477,
+                "person_hash": "1zeltkcr",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "William Gannon",
+                "first_name": "William",
+                "middle_name": "M.",
+                "last_name": "Gannon",
+                "suffix": "",
+                "nickname": "Bill",
+                "district": "SD-023",
+                "ftm_eid": 1161567,
+                "votesmart_id": 154540,
+                "opensecrets_id": "",
+                "knowwho_pid": 502121,
+                "ballotpedia": "William_Gannon",
+                "sponsor_type_id": 2,
+                "sponsor_order": 10,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2235059,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB243/id/2235059",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=234&txtFormat=html",
+                "text_size": 8359,
+                "text_hash": "887fa339ba2e9d081ddc9e757a837754"
+            },
+            {
+                "doc_id": 2362213,
+                "date": "2021-04-09",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB243/id/2362213",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=HA&id=234",
+                "text_size": 12591,
+                "text_hash": "ed4a94c920a171631106a17f2019ea6a"
+            },
+            {
+                "doc_id": 2400955,
+                "date": "2021-05-20",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB243/id/2400955",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=SA&id=234",
+                "text_size": 16627,
+                "text_hash": "45b9996e21bf7b42d0d264585239f76b"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-18",
+                "time": "09:15",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Municipal and County Government Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-01",
+                "time": "12:30",
+                "location": "Members of the public may attend using the following link: To jo",
+                "description": "(CANCELLED) Municipal and County Government Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-03",
+                "time": "09:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Municipal and County Government Public Hearing"
+            }
+        ]
+    }
+}

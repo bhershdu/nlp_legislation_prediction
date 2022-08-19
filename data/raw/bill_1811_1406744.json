@@ -1,0 +1,236 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1406744,
+        "change_hash": "38a6c35987118bef93b336c3192b4ba7",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB622/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=791&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB622",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-14",
+        "progress": [
+            {
+                "date": "2021-01-14",
+                "event": 1
+            },
+            {
+                "date": "2021-01-14",
+                "event": 9
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB622",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Protecting nascent human life as a reasonable and valid state interest.",
+        "description": "Protecting nascent human life as a reasonable and valid state interest.",
+        "pending_committee_id": 1250,
+        "committee": {
+            "committee_id": 1250,
+            "chamber": "H",
+            "chamber_id": 67,
+            "name": "Judiciary"
+        },
+        "referrals": [
+            {
+                "date": "2021-01-14",
+                "committee_id": 1250,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Judiciary"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-14",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Judiciary House Journal  2 P. 57",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-03",
+                "action": "Public Hearing: 02/09/2021 09:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/96805083773 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-18",
+                "action": "Retained in Committee",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-09-08",
+                "action": "Executive Session: 09/28/2021 10:00 am Legislative Office Building 206-208",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 19888,
+                "person_hash": "vk9nhh38",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Walter Stapleton",
+                "first_name": "Walter",
+                "middle_name": "A.",
+                "last_name": "Stapleton",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-05-SUL",
+                "ftm_eid": 19883519,
+                "votesmart_id": 173079,
+                "opensecrets_id": "",
+                "knowwho_pid": 587780,
+                "ballotpedia": "Walter_Stapleton_(New_Hampshire)",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 16753,
+                "person_hash": "kmft1pyd",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Max Abramson",
+                "first_name": "Max",
+                "middle_name": "",
+                "last_name": "Abramson",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-20-ROC",
+                "ftm_eid": 6695475,
+                "votesmart_id": 126615,
+                "opensecrets_id": "",
+                "knowwho_pid": 502128,
+                "ballotpedia": "Max_Abramson",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 15588,
+                "person_hash": "81g8j3t3",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Bill Nelson",
+                "first_name": "Bill",
+                "middle_name": "",
+                "last_name": "Nelson",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-05-CAR",
+                "ftm_eid": 13703551,
+                "votesmart_id": 141862,
+                "opensecrets_id": "",
+                "knowwho_pid": 426021,
+                "ballotpedia": "Bill_Nelson_(New_Hampshire)",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18158,
+                "person_hash": "nplanada",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Mark Pearson",
+                "first_name": "Mark",
+                "middle_name": "A.",
+                "last_name": "Pearson",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-34-ROC",
+                "ftm_eid": 13004253,
+                "votesmart_id": 69095,
+                "opensecrets_id": "",
+                "knowwho_pid": 250178,
+                "ballotpedia": "Mark_A._Pearson",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2241863,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB622/id/2241863",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=761&txtFormat=html",
+                "text_size": 40518,
+                "text_hash": "bda4c66c4ab7bddb53f286ec22013285"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-09",
+                "time": "09:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Judiciary Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-09-28",
+                "time": "10:00",
+                "location": "Legislative Office Building 206-208",
+                "description": "Judiciary Executive Session"
+            }
+        ]
+    }
+}

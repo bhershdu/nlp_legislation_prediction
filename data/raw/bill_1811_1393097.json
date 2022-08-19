@@ -1,0 +1,216 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1393097,
+        "change_hash": "ad3c2eab01db2f0d3ea563c812741209",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB189/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=369&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB189",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-04",
+        "progress": [
+            {
+                "date": "2021-01-04",
+                "event": 1
+            },
+            {
+                "date": "2021-01-04",
+                "event": 9
+            },
+            {
+                "date": "2021-02-18",
+                "event": 11
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB189",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to accessory dwelling units.",
+        "description": "Relative to accessory dwelling units.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-04",
+                "committee_id": 1257,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Municipal and County Government"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-04",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Municipal and County Government House Journal  2 P. 38",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-02",
+                "action": "Public Hearing: 02/09/2021 12:00 pm Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/93215390740 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-18",
+                "action": "Executive Session: 02/18/2021 01:30 pm Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/94522837794",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-18",
+                "action": "Committee Report: Inexpedient to Legislate (Vote 18-0; Consent Calendar) House Calendar 12 P. 10",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-24",
+                "action": "Inexpedient to Legislate: Motion Adopted Voice Vote 02/24/2021 House Journal  3 P. 14",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 17494,
+                "person_hash": "dj0cr8wi",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Ivy Vann",
+                "first_name": "Ivy",
+                "middle_name": "",
+                "last_name": "Vann",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-24-HIL",
+                "ftm_eid": 25005757,
+                "votesmart_id": 154293,
+                "opensecrets_id": "",
+                "knowwho_pid": 502148,
+                "ballotpedia": "Ivy_Vann",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21801,
+                "person_hash": "t6khqt0h",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Tony Caplan",
+                "first_name": "Tony",
+                "middle_name": "",
+                "last_name": "Caplan",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-06-MER",
+                "ftm_eid": 50226759,
+                "votesmart_id": 194923,
+                "opensecrets_id": "",
+                "knowwho_pid": 744582,
+                "ballotpedia": "Tony_Caplan",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19460,
+                "person_hash": "9tstvyhl",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Casey Conley",
+                "first_name": "Casey",
+                "middle_name": "M.",
+                "last_name": "Conley",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-13-STR",
+                "ftm_eid": 43989827,
+                "votesmart_id": 176725,
+                "opensecrets_id": "",
+                "knowwho_pid": 644124,
+                "ballotpedia": "Casey_Conley",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2227395,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB189/id/2227395",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=366&txtFormat=html",
+                "text_size": 9769,
+                "text_hash": "68f28f52395b340d2519d0dc0ccaf935"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-09",
+                "time": "12:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Municipal and County Government Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-18",
+                "time": "13:30",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Municipal and County Government Executive Session"
+            }
+        ]
+    }
+}

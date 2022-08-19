@@ -1,0 +1,214 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1403687,
+        "change_hash": "8ddf24dd7d4cf7785282c7da8dce951b",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB526/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=668&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB526",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-12",
+        "progress": [
+            {
+                "date": "2021-01-12",
+                "event": 1
+            },
+            {
+                "date": "2021-01-12",
+                "event": 9
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB526",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to the fine for the sale or possession of cannabis.",
+        "description": "Relative to the fine for the sale or possession of cannabis.",
+        "pending_committee_id": 1239,
+        "committee": {
+            "committee_id": 1239,
+            "chamber": "H",
+            "chamber_id": 67,
+            "name": "Criminal Justice and Public Safety"
+        },
+        "referrals": [
+            {
+                "date": "2021-01-12",
+                "committee_id": 1239,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Criminal Justice and Public Safety"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-12",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Criminal Justice and Public Safety House Journal  2 P. 52",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-01",
+                "action": "Public Hearing: 03/01/2021 01:30 pm Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/93127871930 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-09",
+                "action": "Retained in Committee",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-09-20",
+                "action": "Subcommittee Work Session: 09/28/2021 01:00 pm Legislative Office Building 201-203",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-09-28",
+                "action": "Full Committee Work Session: 10/05/2021 11:00 am Legislative Office Building 201-203",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-10-13",
+                "action": "Executive Session: 10/20/2021 11:00 am Legislative Office Building 201-203",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 16753,
+                "person_hash": "kmft1pyd",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Max Abramson",
+                "first_name": "Max",
+                "middle_name": "",
+                "last_name": "Abramson",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-20-ROC",
+                "ftm_eid": 6695475,
+                "votesmart_id": 126615,
+                "opensecrets_id": "",
+                "knowwho_pid": 502128,
+                "ballotpedia": "Max_Abramson",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21788,
+                "person_hash": "rck7hb4b",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Aidan Ankarberg",
+                "first_name": "Aidan",
+                "middle_name": "K.",
+                "last_name": "Ankarberg",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-10-STR",
+                "ftm_eid": 50226920,
+                "votesmart_id": 143473,
+                "opensecrets_id": "",
+                "knowwho_pid": 439246,
+                "ballotpedia": "Aidan_K._Ankarberg",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2238296,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB526/id/2238296",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=682&txtFormat=html",
+                "text_size": 13541,
+                "text_hash": "20453894e9945554c28ee77f9bcba17c"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-01",
+                "time": "13:30",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Criminal Justice and Public Safety Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-09-28",
+                "time": "13:00",
+                "location": "Legislative Office Building 201-203",
+                "description": "Criminal Justice and Public Safety Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-10-05",
+                "time": "11:00",
+                "location": "Legislative Office Building 201-203",
+                "description": "Criminal Justice and Public Safety Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-10-20",
+                "time": "11:00",
+                "location": "Legislative Office Building 201-203",
+                "description": "Criminal Justice and Public Safety Executive Session"
+            }
+        ]
+    }
+}

@@ -1,0 +1,367 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1398404,
+        "change_hash": "672a7a5854d85b5793c1a7bf24580591",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB442/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=667&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB442",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2021-05-19",
+        "progress": [
+            {
+                "date": "2021-01-10",
+                "event": 1
+            },
+            {
+                "date": "2021-01-10",
+                "event": 9
+            },
+            {
+                "date": "2021-02-18",
+                "event": 10
+            },
+            {
+                "date": "2021-03-04",
+                "event": 2
+            },
+            {
+                "date": "2021-03-04",
+                "event": 9
+            },
+            {
+                "date": "2021-03-31",
+                "event": 10
+            },
+            {
+                "date": "2021-05-06",
+                "event": 3
+            },
+            {
+                "date": "2021-05-19",
+                "event": 8
+            },
+            {
+                "date": "2021-05-19",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB442",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to penalties for a school's failure to file department of education reports.",
+        "description": "Relative to penalties for a school's failure to file department of education reports.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-10",
+                "committee_id": 1240,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Education"
+            },
+            {
+                "date": "2021-03-04",
+                "committee_id": 1267,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Education"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-10",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Education House Journal  2 P. 48",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-20",
+                "action": "Public Hearing: 01/26/2021 01:00 pm Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/91325381640 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-18",
+                "action": "Executive Session: 02/18/2021 09:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/95029670134",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-18",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-0383h (Vote 20-0; Consent Calendar) House Calendar 12 P. 4",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-24",
+                "action": "Amendment # 2021-0383h: Amendment Adopted Voice Vote 02/24/2021 House Journal  3 P. 6",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-24",
+                "action": "Ought to Pass with Amendment 2021-0383h: Motion Adopted Voice Vote 02/24/2021 House Journal  3 P. 6",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-04",
+                "action": "Introduced 03/04/2021 and Referred to Education; Senate Journal 7",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-17",
+                "action": "Remote Hearing: 03/23/2021, 09:15 am; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  16",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-31",
+                "action": "Committee Report: Ought to Pass, 04/08/2021; Vote 5-0; Consent Calendar; Senate Calendar  18",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-08",
+                "action": "Ought to Pass: Regular Calendar 23Y-1N, Motion Adopted; OT3rdg; 04/08/2021; Senate Journal 11",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-21",
+                "action": "Enrolled Bill Amendment # 2021-1168e Regular Calendar 24Y-0N, Amendment Adopted, (In recess of 04/08/2021); Senate Journal 12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-22",
+                "action": "Enrolled Bill Amendment # 2021-1168e: Amendment Adopted Voice Vote (in recess of) 04/09/2021 House Journal  7 P. 100",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-06",
+                "action": "Enrolled (in recess of) 04/09/2021 House Journal  7 P. 102",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-05-06",
+                "action": "Enrolled Regular Calendar 23Y-0N, Motion Adopted, (In recess of 05/06/2021); Senate Journal 15",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-19",
+                "action": "Signed by Governor Sununu 05/17/2021; Chapter 44; Eff: 05/17/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 14478,
+                "person_hash": "1kegb9fu",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Glenn Cordelli",
+                "first_name": "Glenn",
+                "middle_name": "",
+                "last_name": "Cordelli",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-04-CAR",
+                "ftm_eid": 13703548,
+                "votesmart_id": 143307,
+                "opensecrets_id": "",
+                "knowwho_pid": 427994,
+                "ballotpedia": "Glenn_Cordelli",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4962,
+                "person_hash": "a8w1fmfn",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Roderick Ladd",
+                "first_name": "Roderick",
+                "middle_name": "M.",
+                "last_name": "Ladd",
+                "suffix": "",
+                "nickname": "Rick",
+                "district": "HD-05-GRA",
+                "ftm_eid": 6677856,
+                "votesmart_id": 109958,
+                "opensecrets_id": "",
+                "knowwho_pid": 269203,
+                "ballotpedia": "Rick_Ladd",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21838,
+                "person_hash": "en9fh5dn",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Erica Layon",
+                "first_name": "Erica",
+                "middle_name": "",
+                "last_name": "Layon",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-06-ROC",
+                "ftm_eid": 50226598,
+                "votesmart_id": 195044,
+                "opensecrets_id": "",
+                "knowwho_pid": 744333,
+                "ballotpedia": "Erica_Layon",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 10919,
+                "person_hash": "1v1bugsr",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Joseph Pitre",
+                "first_name": "Joseph",
+                "middle_name": "A.",
+                "last_name": "Pitre",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-03-STR",
+                "ftm_eid": 6695545,
+                "votesmart_id": 122332,
+                "opensecrets_id": "",
+                "knowwho_pid": 296674,
+                "ballotpedia": "Joseph_Pitre_(New_Hampshire)",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2235008,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB442/id/2235008",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=656&txtFormat=html",
+                "text_size": 19968,
+                "text_hash": "4424d0dce9264b36ea533228e2070612"
+            },
+            {
+                "doc_id": 2324147,
+                "date": "2021-02-24",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB442/id/2324147",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=HA&id=656",
+                "text_size": 20115,
+                "text_hash": "3246210e14b8c4daf4c9e1790361c92d"
+            },
+            {
+                "doc_id": 2360641,
+                "date": "2021-02-24",
+                "type": "Enrolled",
+                "type_id": 5,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB442/id/2360641",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&v=SP&id=656",
+                "text_size": 20122,
+                "text_hash": "b658602e2c616a7d9026fa990d6e93f0"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-01-26",
+                "time": "13:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Education Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-18",
+                "time": "09:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Education Executive Session"
+            }
+        ]
+    }
+}

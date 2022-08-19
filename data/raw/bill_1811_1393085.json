@@ -1,0 +1,242 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1393085,
+        "change_hash": "3d182f3c5375853b427e921fc338ac60",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB181/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=345&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB181",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-04",
+        "progress": [
+            {
+                "date": "2021-01-04",
+                "event": 1
+            },
+            {
+                "date": "2021-01-04",
+                "event": 9
+            },
+            {
+                "date": "2021-02-16",
+                "event": 11
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB181",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to the local option for operation of sports book retail locations.",
+        "description": "Relative to the local option for operation of sports book retail locations.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-04",
+                "committee_id": 1264,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Ways and Means"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-04",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Ways and Means House Journal  2 P. 38",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-27",
+                "action": "Public Hearing: 02/04/2021 01:00 pm Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/95843569442 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-04",
+                "action": "Full Committee Work Session: 02/10/2021 09:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/99928276230 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-16",
+                "action": "Committee Report: Inexpedient to Legislate (Vote 23-0; Consent Calendar) House Calendar 12 P. 13",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-24",
+                "action": "Inexpedient to Legislate: Motion Adopted Voice Vote 02/24/2021 House Journal  3 P. 20",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 4908,
+                "person_hash": "gyv6j66v",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Michael O'Brien",
+                "first_name": "Michael",
+                "middle_name": "B.",
+                "last_name": "O'Brien",
+                "suffix": "Sr.",
+                "nickname": "",
+                "district": "HD-36-HIL",
+                "ftm_eid": 6483538,
+                "votesmart_id": 67226,
+                "opensecrets_id": "",
+                "knowwho_pid": 250089,
+                "ballotpedia": "Michael_O%27Brien_Sr._(New_Hampshire)",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19821,
+                "person_hash": "ode299rh",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Laura Telerski",
+                "first_name": "Laura",
+                "middle_name": "Damphousse",
+                "last_name": "Telerski",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-35-HIL",
+                "ftm_eid": 45378964,
+                "votesmart_id": 185590,
+                "opensecrets_id": "",
+                "knowwho_pid": 670642,
+                "ballotpedia": "Laura_Telerski",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4864,
+                "person_hash": "ltigverr",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "David Cote",
+                "first_name": "David",
+                "middle_name": "E.",
+                "last_name": "Cote",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-31-HIL",
+                "ftm_eid": 6394144,
+                "votesmart_id": 4994,
+                "opensecrets_id": "",
+                "knowwho_pid": 197224,
+                "ballotpedia": "David_Cote",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4924,
+                "person_hash": "5p0a0w6s",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Cindy Rosenwald",
+                "first_name": "Lucinda",
+                "middle_name": "",
+                "last_name": "Rosenwald",
+                "suffix": "",
+                "nickname": "Cindy",
+                "district": "SD-013",
+                "ftm_eid": 6463841,
+                "votesmart_id": 42204,
+                "opensecrets_id": "",
+                "knowwho_pid": 228804,
+                "ballotpedia": "Lucinda_Rosenwald",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2227383,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB181/id/2227383",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=340&txtFormat=html",
+                "text_size": 7448,
+                "text_hash": "d5fb249a44753b732b16dca2aa766615"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-04",
+                "time": "13:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Ways and Means Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-10",
+                "time": "09:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Ways and Means Work Session"
+            }
+        ]
+    }
+}

@@ -1,0 +1,178 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1411560,
+        "change_hash": "31a53f5d81c716026fbc1376d3ff55b4",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/SB56/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=897&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=SB56",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-19",
+        "progress": [
+            {
+                "date": "2021-01-19",
+                "event": 1
+            },
+            {
+                "date": "2021-01-19",
+                "event": 9
+            },
+            {
+                "date": "2021-03-03",
+                "event": 9
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "SB56",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "S",
+        "body_id": 68,
+        "current_body": "S",
+        "current_body_id": 68,
+        "title": "Relative to reports by trustees of charitable trusts.",
+        "description": "Relative to reports by trustees of charitable trusts.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-19",
+                "committee_id": 1270,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Executive Departments and Administration"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-19",
+                "action": "Introduced 01/06/2021 and Referred to Executive Departments and Administration; Senate Journal 3",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-20",
+                "action": "Remote Hearing: 01/27/2021, 09:20 am; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  8",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-03",
+                "action": "Committee Report: Rereferred to Committee, 03/11/2021; Senate Calendar  14",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-11",
+                "action": "Sen. Carson Moved Laid on Table, Regular Calendar 14Y-10N, Motion Adopted; 03/11/2021; Senate Journal 7",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-11",
+                "action": "Pending Motion Rerefer to Committee; 03/11/2021; Senate Journal 7",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 19063,
+                "person_hash": "9vbummg1",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Jay Kahn",
+                "first_name": "Jay",
+                "middle_name": "",
+                "last_name": "Kahn",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-010",
+                "ftm_eid": 14796214,
+                "votesmart_id": 172406,
+                "opensecrets_id": "",
+                "knowwho_pid": 586828,
+                "ballotpedia": "Jay_Kahn",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2247042,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB56/id/2247042",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=888&txtFormat=html",
+                "text_size": 8269,
+                "text_hash": "95c51ba7411c105dc5fc27c6a386bf08"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1028205,
+                "date": "2021-03-11",
+                "desc": "Laid on Table",
+                "yea": 14,
+                "nay": 10,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB56/id/1028205",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=119&sy=2021&lb=S&eb=SB0056&sortoption=&txtsessionyear=2021&txtbillnumber=SB56&ddlsponsors=&lsr=897"
+            },
+            {
+                "roll_call_id": 1037028,
+                "date": "2021-03-11",
+                "desc": "Laid on Table",
+                "yea": 14,
+                "nay": 10,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB56/id/1037028",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=119&sy=2021&lb=S&eb=SB0056&sortoption=&txtsessionyear=2021&txtbillnumber=SB56&ddlsponsors=&lsr=0897"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": []
+    }
+}

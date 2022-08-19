@@ -1,0 +1,240 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1405766,
+        "change_hash": "dbfe3526917aef2d4896f590adf6e513",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB601/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=724&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB601",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-13",
+        "progress": [
+            {
+                "date": "2021-01-13",
+                "event": 1
+            },
+            {
+                "date": "2021-01-13",
+                "event": 9
+            },
+            {
+                "date": "2021-03-11",
+                "event": 11
+            },
+            {
+                "date": "2021-03-11",
+                "event": 10
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB601",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to the privacy of personal information retained by a health or social service agency and prohibiting the sharing of such information between such agencies.",
+        "description": "Relative to the privacy of personal information retained by a health or social service agency and prohibiting the sharing of such information between such agencies.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-13",
+                "committee_id": 1249,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Health, Human Services & Elderly Affairs"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-13",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Health, Human Services and Elderly Affairs House Journal  2 P. 56",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-27",
+                "action": "Public Hearing: 02/08/2021 11:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/92769044991 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-11",
+                "action": "Majority Committee Report: Inexpedient to Legislate (Vote 14-5; Regular Calendar) House Calendar 18 P. 74",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-11",
+                "action": "Minority Committee Report: Ought to Pass with Amendment # 2021-0648h",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 17101,
+                "person_hash": "mgtaphqs",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Keith Ammon",
+                "first_name": "Keith",
+                "middle_name": "",
+                "last_name": "Ammon",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-40-HIL",
+                "ftm_eid": 16391636,
+                "votesmart_id": 154517,
+                "opensecrets_id": "",
+                "knowwho_pid": 502116,
+                "ballotpedia": "Keith_Ammon",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 15247,
+                "person_hash": "z1he67k0",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Michael Sylvia",
+                "first_name": "Michael",
+                "middle_name": "",
+                "last_name": "Sylvia",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-06-BEL",
+                "ftm_eid": 16072474,
+                "votesmart_id": 143477,
+                "opensecrets_id": "",
+                "knowwho_pid": 436674,
+                "ballotpedia": "Michael_Sylvia",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 10920,
+                "person_hash": "ocox7vyt",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Jeanine Notter",
+                "first_name": "Jeanine",
+                "middle_name": "M.",
+                "last_name": "Notter",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-21-HIL",
+                "ftm_eid": 13004224,
+                "votesmart_id": 122804,
+                "opensecrets_id": "",
+                "knowwho_pid": 296536,
+                "ballotpedia": "Jeanine_Notter",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4953,
+                "person_hash": "q2fztrlr",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Gary Daniels",
+                "first_name": "Gary",
+                "middle_name": "L.",
+                "last_name": "Daniels",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-011",
+                "ftm_eid": 6593963,
+                "votesmart_id": 5006,
+                "opensecrets_id": "",
+                "knowwho_pid": 249979,
+                "ballotpedia": "Gary_Daniels",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2240695,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB601/id/2240695",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=722&txtFormat=html",
+                "text_size": 18171,
+                "text_hash": "cf5337dd8573ac3dcf65ac97f349622e"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-08",
+                "time": "11:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Health, Human Services and Elderly Affairs Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-08",
+                "time": "11:00",
+                "location": "Members of the public may attend using the following link: To jo",
+                "description": "Health, Human Services and Elderly Affairs Public Hearing"
+            }
+        ],
+        "full_text": "new subdivision health or social service agency personal information privacy amend rsa by inserting after section the following new subdivision health or social service agency personal information privacy health or social service agency personal information privacy when an individual consents to receive assistance from any health or social service agency in the state of new hampshire the consent given to the initial health or social service agency to use the individual s personal information shall not be transferred to or retained by any other health or social service agency network or entity no health or social service agency in the state of new hampshire shall require a individual s consent to share personal information with another health or social service agency in this state or another state as a prerequisite for such individual to receive services from such health or social service agency including consent to share details regarding which health or social service agency the individual has received help from in the past and associated information related to that interaction a health or social service agency shall explicitly and in writing inform any individual seeking such assistance that lack of consent shall not affect the individual s ability to receive health or social services from the agency and that the individual shall not be otherwise penalized the consent to the release of personal information to any health or social service agency in the state shall not include consent to release personal information to other health or social service agency or a network of such agencies to which the initial agency may belong unless the individual grants additional informed consent to the release of his or her personal information consent to the release of personal information to a specific health or social service agency shall not include consent to participate in a network of health or social service agency unless the individual explicitly grants such consent consent to the release of personal information to any health or social service agency in the state shall not include the release of such information to a health or social service agency or a network of such agencies that merged after the individual consented to the initial release of personal information no health or social service agency in this state shall develop or implement a searchable database of an individual s personal information relating to the individual s interactions with another health or social service agency in this or another state other than the personal information stored within the database of the health or social service agency providing the services to the individual no searchable database shall be accessible by any health or social service agency or network of such agencies or other individual unless the individual who is the subject of the personal information provides explicit informed consent to such release in this subdivision a consent and informed consent shall mean the signature of the individual and the date on which the signature was placed on a piece of paper that states verbatim in type or larger the following consent to share personal information please choose what you want to happen to any personal information you provide to here insert the name of a health or social service agency choose one of options listed below you will get the same services regardless of your choice i give my consent to here insert the name of a health or social service agency to share my personal information with another health social service agency in this or any other state but not to have it included in a searchable database that may be accessed by another health or social service agency signature ______________________ date ______________ or i give my consent to here insert the name of a health or social service agency to share my personal information with another health or social service agency in this or any other state and to have it included in a searchable database that may be accessed by another health or social service agency signature ______________________ date _______________ or i do not give my consent to here insert the name of a health or social service agency to share my personal information with another social service agency or to have it included in any searchable database signature ______________________ date ________________ b health or social service agency means an agency that offers a range of social services funded by the government or a private for profit or nonprofit organization that promotes the of individuals families and communities c personal information shall include an individual s image location name address or telephone number social security health insurance policy bank account credit card or any other identification number finger prints voice prints dna and any other unique biological identification information and any other data that would alone or in combination with other data enable the individual to be identified lba hb fiscal note as introduced agencies contacted department of health and human services"
+    }
+}

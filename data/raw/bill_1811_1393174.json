@@ -1,0 +1,376 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1393174,
+        "change_hash": "48f31943369df967f17356ca5b70c752",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB184/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=48&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB184",
+        "completed": 0,
+        "status": 5,
+        "status_date": "2021-05-27",
+        "progress": [
+            {
+                "date": "2021-01-04",
+                "event": 1
+            },
+            {
+                "date": "2021-01-04",
+                "event": 9
+            },
+            {
+                "date": "2021-03-10",
+                "event": 10
+            },
+            {
+                "date": "2021-04-07",
+                "event": 2
+            },
+            {
+                "date": "2021-04-07",
+                "event": 9
+            },
+            {
+                "date": "2021-04-15",
+                "event": 10
+            },
+            {
+                "date": "2021-05-17",
+                "event": 3
+            },
+            {
+                "date": "2021-05-27",
+                "event": 5
+            },
+            {
+                "date": "2021-06-24",
+                "event": 5
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB184",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to the operation of personal water craft around the marshlands or flats of the Rye estuary and the New Castle back channel.",
+        "description": "Relative to the operation of personal water craft around the marshlands or flats of the Rye estuary and the New Castle back channel.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-04",
+                "committee_id": 1259,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Resources, Recreation and Development"
+            },
+            {
+                "date": "2021-04-07",
+                "committee_id": 1736,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Energy and Natural Resources"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-04",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Resources, Recreation and Development House Journal  2 P. 38",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-21",
+                "action": "==RECESSED== Public Hearing: 01/27/2021 11:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/99531020872 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-01-29",
+                "action": "==CANCELLED== Public Hearing: 02/17/2021 09:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/93611943701 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-01-29",
+                "action": "==CANCELLED== Full Committee Work Session: 02/17/2021 09:30 am Remote info same as above",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-16",
+                "action": "Full Committee Work Session: 03/03/2021 09:30 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/94760331850 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-03",
+                "action": "==CONTINUED== Public Hearing: 03/03/2021 09:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/94760331850 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-10",
+                "action": "Committee Report: Ought to Pass (Vote 21-0; Consent Calendar) House Calendar 18 P. 21",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Ought to Pass: Motion Adopted Voice Vote 04/07/2021 House Journal  5 P. 45",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Reconsider (Rep. Osborne): Motion Failed Voice Vote 04/07/2021 House Journal  5 P. 50",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Introduced 04/01/2021 and Referred to Energy and Natural Resources; Senate Journal 11",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Remote Hearing: 04/12/2021, 01:30 pm; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  19",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-15",
+                "action": "Committee Report: Ought to Pass, 04/22/2021; Senate Calendar  20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-22",
+                "action": "Ought to Pass: Regular Calendar 24Y-0N, Motion Adopted; OT3rdg; 04/22/2021; Senate Journal 12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-17",
+                "action": "Enrolled (in recess of) 04/09/2021 House Journal  7 P. 104",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-05-17",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 05/13/2021); Senate Journal 16",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-27",
+                "action": "Vetoed by Governor Sununu 05/25/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-06-24",
+                "action": "Veto Sustained 06/24/2021: Regular Calendar 173-182 Lacking Necessary Two-Thirds Vote",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 18445,
+                "person_hash": "u7g5blau",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Kate Murray",
+                "first_name": "Kate",
+                "middle_name": "",
+                "last_name": "Murray",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-24-ROC",
+                "ftm_eid": 9724127,
+                "votesmart_id": 172694,
+                "opensecrets_id": "",
+                "knowwho_pid": 587707,
+                "ballotpedia": "Kate_Murray",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2227470,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB184/id/2227470",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=44&txtFormat=html",
+                "text_size": 8374,
+                "text_hash": "a7e3656d044182b0563347050fb4473d"
+            },
+            {
+                "doc_id": 2380088,
+                "date": "2021-04-22",
+                "type": "Enrolled",
+                "type_id": 5,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB184/id/2380088",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&v=SP&id=44",
+                "text_size": 8385,
+                "text_hash": "ddf5e00cbd2df655597f49c1d7215e91"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1060622,
+                "date": "2021-04-22",
+                "desc": "Ought to Pass",
+                "yea": 24,
+                "nay": 0,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/HB184/id/1060622",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=314&sy=2021&lb=S&eb=HB0184&sortoption=&txtsessionyear=2021&txtbillnumber=HB184&ddlsponsors=&lsr=48"
+            },
+            {
+                "roll_call_id": 1102343,
+                "date": "2021-06-24",
+                "desc": "Veto Override",
+                "yea": 173,
+                "nay": 182,
+                "nv": 21,
+                "absent": 22,
+                "total": 398,
+                "passed": 0,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/HB184/id/1102343",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=196&sy=2021&lb=H&eb=HB0184&sortoption=&txtsessionyear=2021&txtbillnumber=HB184&ddlsponsors=&lsr=0048"
+            },
+            {
+                "roll_call_id": 1102344,
+                "date": "2021-04-22",
+                "desc": "Ought to Pass",
+                "yea": 24,
+                "nay": 0,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/HB184/id/1102344",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=314&sy=2021&lb=S&eb=HB0184&sortoption=&txtsessionyear=2021&txtbillnumber=HB184&ddlsponsors=&lsr=0048"
+            },
+            {
+                "roll_call_id": 1102419,
+                "date": "2021-06-24",
+                "desc": "Veto Override",
+                "yea": 173,
+                "nay": 182,
+                "nv": 21,
+                "absent": 22,
+                "total": 398,
+                "passed": 0,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/HB184/id/1102419",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=196&sy=2021&lb=H&eb=HB0184&sortoption=&txtsessionyear=2021&txtbillnumber=HB184&ddlsponsors=&lsr=48"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-01-27",
+                "time": "11:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Resources, Recreation and Development Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-17",
+                "time": "09:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "(CANCELLED) Resources, Recreation and Development Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-17",
+                "time": "09:30",
+                "location": "Remote info same as above",
+                "description": "(CANCELLED) Resources, Recreation and Development Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-03",
+                "time": "09:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Resources, Recreation and Development Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-03",
+                "time": "09:30",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Resources, Recreation and Development Work Session"
+            }
+        ]
+    }
+}

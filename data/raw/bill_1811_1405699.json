@@ -1,0 +1,382 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1405699,
+        "change_hash": "396bb067ca0a256580d3f593e96e8c53",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB593/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=818&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB593",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2021-07-26",
+        "progress": [
+            {
+                "date": "2021-01-13",
+                "event": 1
+            },
+            {
+                "date": "2021-01-13",
+                "event": 9
+            },
+            {
+                "date": "2021-03-15",
+                "event": 10
+            },
+            {
+                "date": "2021-04-13",
+                "event": 2
+            },
+            {
+                "date": "2021-04-13",
+                "event": 9
+            },
+            {
+                "date": "2021-05-05",
+                "event": 10
+            },
+            {
+                "date": "2021-07-12",
+                "event": 3
+            },
+            {
+                "date": "2021-07-26",
+                "event": 8
+            },
+            {
+                "date": "2021-07-26",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB593",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Requiring a food delivery service to enter into an agreement with a food service establishment or food retail store before offering delivery service from that restaurant.",
+        "description": "Requiring a food delivery service to enter into an agreement with a food service establishment or food retail store before offering delivery service from that restaurant.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-13",
+                "committee_id": 1238,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Commerce and Consumer Affairs"
+            },
+            {
+                "date": "2021-04-13",
+                "committee_id": 1780,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Commerce"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-13",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Commerce and Consumer Affairs House Journal  2 P. 55",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-16",
+                "action": "Public Hearing: 02/16/2021 09:00 am Members of the public may attend using the following link: To join the webinar: https://www.zoom.us/j/95175123874 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-02",
+                "action": "Executive Session: 03/02/2021 09:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/95215897452",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-03",
+                "action": "==CONTINUED== Executive Session: 03/03/2021 01:30 pm Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/98917516497 (if necessary)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-15",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-0582h (Vote 18-1; Regular Calendar) House Calendar 18 P. 33",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Amendment # 2021-0582h: Amendment Adopted Voice Vote 04/07/2021 House Journal  5 P. 134",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Ought to Pass with Amendment 2021-0582h: Motion Adopted Voice Vote 04/07/2021 House Journal  5 P. 134",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-13",
+                "action": "Introduced 04/08/2021 and Referred to Commerce; Senate Journal 12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-15",
+                "action": "Remote Hearing: 04/27/2021, 10:00 am; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-05",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-1297s, 05/13/2021; Vote 5-0; Consent Calendar; Senate Calendar  23",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-05-13",
+                "action": "Committee Amendment # 2021-1297s, Amendment Adopted, Voice Vote; 05/13/2021; Senate Journal 15",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-13",
+                "action": "Ought to Pass with Amendment 2021-1297s, Motion Adopted, Voice Vote; OT3rdg; 05/13/2021; Senate Journal 15",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-10",
+                "action": "House Concurs with Senate Amendment 2021-1297s (Rep. Hunt): Motion Adopted Voice Vote 06/10/2021 House Journal  10 P. 2",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-12",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 06/24/2021); Senate Journal 20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-12",
+                "action": "Enrolled (in recess of) 06/24/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-07-26",
+                "action": "Signed by Governor Sununu 07/23/2021; Chapter 144; I. Sec. 2 Eff: 12/31/2023 II. Rem. Eff: 09/01/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 19891,
+                "person_hash": "865n4e99",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Matthew Wilhelm",
+                "first_name": "Matthew",
+                "middle_name": "B.",
+                "last_name": "Wilhelm",
+                "suffix": "",
+                "nickname": "Matt",
+                "district": "HD-42-HIL",
+                "ftm_eid": 42048257,
+                "votesmart_id": 185372,
+                "opensecrets_id": "",
+                "knowwho_pid": 670679,
+                "ballotpedia": "Matt_Wilhelm",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19829,
+                "person_hash": "2ajjrn2j",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Jacqueline Chretien",
+                "first_name": "Jacqueline",
+                "middle_name": "",
+                "last_name": "Chretien",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-42-HIL",
+                "ftm_eid": 45378663,
+                "votesmart_id": 185371,
+                "opensecrets_id": "",
+                "knowwho_pid": 670677,
+                "ballotpedia": "Jacqueline_Chretien",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21852,
+                "person_hash": "ukrm5num",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Ariel Oxaal",
+                "first_name": "Ariel",
+                "middle_name": "",
+                "last_name": "Oxaal",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-15-STR",
+                "ftm_eid": 49505552,
+                "votesmart_id": 194848,
+                "opensecrets_id": "",
+                "knowwho_pid": 744661,
+                "ballotpedia": "Ariel_Oxaal",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21847,
+                "person_hash": "xpplg1d5",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Melbourne Moran",
+                "first_name": "Melbourne",
+                "middle_name": "",
+                "last_name": "Moran",
+                "suffix": "Jr.",
+                "nickname": "",
+                "district": "HD-34-HIL",
+                "ftm_eid": 50226649,
+                "votesmart_id": 194957,
+                "opensecrets_id": "",
+                "knowwho_pid": 744561,
+                "ballotpedia": "Melbourne_Moran_Jr.",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2240627,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB593/id/2240627",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=809&txtFormat=html",
+                "text_size": 12707,
+                "text_hash": "633b27df34e562bc57d4503bc03486cc"
+            },
+            {
+                "doc_id": 2359343,
+                "date": "2021-04-07",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB593/id/2359343",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=HA&id=809",
+                "text_size": 15142,
+                "text_hash": "9c2f9c613b8ed6b97e7658de38a8aca2"
+            },
+            {
+                "doc_id": 2395521,
+                "date": "2021-05-13",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB593/id/2395521",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=SA&id=809",
+                "text_size": 15345,
+                "text_hash": "c25bf7a073fdc9b01f207aea08c205b7"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-16",
+                "time": "09:00",
+                "location": "Members of the public may attend using the following link: To jo",
+                "description": "Commerce and Consumer Affairs Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-02",
+                "time": "09:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Commerce and Consumer Affairs Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-03",
+                "time": "13:30",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Commerce and Consumer Affairs Executive Session"
+            }
+        ]
+    }
+}

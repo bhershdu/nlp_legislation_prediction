@@ -1,0 +1,453 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1393063,
+        "change_hash": "1f00a764057763cfa28bae045aee4da9",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB180/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=125&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB180",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2021-08-03",
+        "progress": [
+            {
+                "date": "2021-01-04",
+                "event": 1
+            },
+            {
+                "date": "2021-01-04",
+                "event": 9
+            },
+            {
+                "date": "2021-03-02",
+                "event": 10
+            },
+            {
+                "date": "2021-04-07",
+                "event": 2
+            },
+            {
+                "date": "2021-04-07",
+                "event": 9
+            },
+            {
+                "date": "2021-05-25",
+                "event": 10
+            },
+            {
+                "date": "2021-07-15",
+                "event": 3
+            },
+            {
+                "date": "2021-08-03",
+                "event": 8
+            },
+            {
+                "date": "2021-08-03",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB180",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Increasing the penalty for buyers under the law regarding trafficking in persons.",
+        "description": "Increasing the penalty for buyers under the law regarding trafficking in persons.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-04",
+                "committee_id": 1239,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Criminal Justice and Public Safety"
+            },
+            {
+                "date": "2021-04-07",
+                "committee_id": 1273,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Judiciary"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-04",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Criminal Justice and Public Safety House Journal  2 P. 38",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-17",
+                "action": "Public Hearing: 02/17/2021 02:00 pm Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/98063742762 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-02",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-0397h (Vote 20-0; Consent Calendar) House Calendar 18 P. 5",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Amendment # 2021-0397h: Amendment Adopted Voice Vote 04/07/2021 House Journal  5 P. 6",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Ought to Pass with Amendment 2021-0397h: Motion Adopted Voice Vote 04/07/2021 House Journal  5 P. 6",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Reconsider (Rep. Osborne): Motion Failed Voice Vote 04/07/2021 House Journal  5 P. 50",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Introduced 04/01/2021 and Referred to Judiciary; Senate Journal 11",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-08",
+                "action": "Remote Hearing: 04/15/2021, 01:45 pm; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  19",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-25",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-1693s, 05/27/2021; Vote 5-0; Consent Calendar; Senate Calendar  25A",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-05-27",
+                "action": "Committee Amendment # 2021-1693s, Amendment Adopted, Voice Vote; 05/27/2021; Senate Journal 17",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-27",
+                "action": "Ought to Pass with Amendment 2021-1693s, Motion Adopted, Voice Vote; OT3rdg; 05/27/2021; Senate Journal 17",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-08",
+                "action": "House Non-Concurs with Senate Amendment 2021-1693s and Requests CofC (Reps. Abbas, Rhodes, Wallace, Massimilla): Motion Adopted Voice Vote 06/04/2021 House Journal  9 P. 52",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-10",
+                "action": "Sen. Carson Accedes to House Request for Committee of Conference, Motion Adopted, Voice Vote; 06/10/2021; Senate Journal 19",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-10",
+                "action": "President Appoints: Senators Carson, French, Whitley; 06/10/2021; Senate Journal 19",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-16",
+                "action": "Conference Committee Meeting: 06/16/2021 09:30 am Legislative Office Building 201-203",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-17",
+                "action": "Conference Committee Report Filed, # 2021-2016c; 06/24/2021",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-24",
+                "action": "Conference Committee Report # 2021-2016c, Adopted, Voice Vote; 06/24/2021; Senate Journal 20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-24",
+                "action": "Conference Committee Report 2021-2016c: Adopted, Voice Vote 06/24/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-15",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 06/24/2021); Senate Journal 20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-15",
+                "action": "Enrolled (in recess of) 06/24/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-08-03",
+                "action": "Signed by Governor Sununu 07/30/2021; Chapter 165; Eff: 01/01/2022",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 15580,
+                "person_hash": "wrup7d7d",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Linda Massimilla",
+                "first_name": "Linda",
+                "middle_name": "",
+                "last_name": "Massimilla",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-01-GRA",
+                "ftm_eid": 9753448,
+                "votesmart_id": 143257,
+                "opensecrets_id": "",
+                "knowwho_pid": 428009,
+                "ballotpedia": "Linda_Massimilla",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4898,
+                "person_hash": "gmx7bjun",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Phyllis Katsakiores",
+                "first_name": "Phyllis",
+                "middle_name": "M.",
+                "last_name": "Katsakiores",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-06-ROC",
+                "ftm_eid": 6594932,
+                "votesmart_id": 8198,
+                "opensecrets_id": "",
+                "knowwho_pid": 197087,
+                "ballotpedia": "Phyllis_Katsakiores",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 15305,
+                "person_hash": "seh7y46p",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Karen Ebel",
+                "first_name": "Karen",
+                "middle_name": "",
+                "last_name": "Ebel",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-05-MER",
+                "ftm_eid": 13703636,
+                "votesmart_id": 141759,
+                "opensecrets_id": "",
+                "knowwho_pid": 426640,
+                "ballotpedia": "Karen_Ebel",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19114,
+                "person_hash": "7ey3y8d0",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Patricia Klee",
+                "first_name": "Patricia",
+                "middle_name": "S.",
+                "last_name": "Klee",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-30-HIL",
+                "ftm_eid": 41757342,
+                "votesmart_id": 172628,
+                "opensecrets_id": "",
+                "knowwho_pid": 587460,
+                "ballotpedia": "Patricia_Klee",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 16060,
+                "person_hash": "78xprz0j",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Latha Mangipudi",
+                "first_name": "Latha",
+                "middle_name": "",
+                "last_name": "Mangipudi",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-35-HIL",
+                "ftm_eid": 9697845,
+                "votesmart_id": 145406,
+                "opensecrets_id": "",
+                "knowwho_pid": 475422,
+                "ballotpedia": "Latha_Mangipudi",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19767,
+                "person_hash": "a19uke2q",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Timothy Egan",
+                "first_name": "Timothy",
+                "middle_name": "T.",
+                "last_name": "Egan",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-02-GRA",
+                "ftm_eid": 16515483,
+                "votesmart_id": 185842,
+                "opensecrets_id": "",
+                "knowwho_pid": 680827,
+                "ballotpedia": "Timothy_Egan",
+                "sponsor_type_id": 2,
+                "sponsor_order": 6,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2227362,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB180/id/2227362",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=120&txtFormat=html",
+                "text_size": 8539,
+                "text_hash": "f86cfd437fa9adffa04cb34a47c75650"
+            },
+            {
+                "doc_id": 2359204,
+                "date": "2021-04-07",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB180/id/2359204",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=HA&id=120",
+                "text_size": 9622,
+                "text_hash": "6a03d0fe4ab803ce34259548f051997c"
+            },
+            {
+                "doc_id": 2405923,
+                "date": "2021-05-27",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB180/id/2405923",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=SA&id=120",
+                "text_size": 30749,
+                "text_hash": "5c96bf9dfa474c58d3cbb1d03445ea58"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-17",
+                "time": "14:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Criminal Justice and Public Safety Public Hearing"
+            }
+        ]
+    }
+}

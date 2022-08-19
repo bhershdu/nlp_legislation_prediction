@@ -1,0 +1,384 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1424105,
+        "change_hash": "00de7dd383d7f278e287160baa3188d8",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/SB100/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=1075&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=SB100",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2021-08-30",
+        "progress": [
+            {
+                "date": "2021-01-26",
+                "event": 1
+            },
+            {
+                "date": "2021-01-26",
+                "event": 9
+            },
+            {
+                "date": "2021-03-16",
+                "event": 10
+            },
+            {
+                "date": "2021-03-31",
+                "event": 2
+            },
+            {
+                "date": "2021-03-31",
+                "event": 9
+            },
+            {
+                "date": "2021-05-26",
+                "event": 10
+            },
+            {
+                "date": "2021-07-23",
+                "event": 3
+            },
+            {
+                "date": "2021-08-30",
+                "event": 8
+            },
+            {
+                "date": "2021-08-30",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "SB100",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "S",
+        "body_id": 68,
+        "current_body": "S",
+        "current_body_id": 68,
+        "title": "Establishing legislative committees to study charitable gaming and to study building a pier over the jetty at Hampton Beach state park for disability access",
+        "description": "Establishing legislative committees to study charitable gaming and to study building a pier over the jetty at Hampton Beach state park for disability access",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-26",
+                "committee_id": 1277,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Ways and Means"
+            },
+            {
+                "date": "2021-03-31",
+                "committee_id": 1255,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Legislative Administration"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-26",
+                "action": "Introduced 01/06/2021 and Referred to Ways and Means; Senate Journal 3",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-09",
+                "action": "Remote Hearing: 03/15/2021, 09:15 am; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  15",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-16",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-0853s, 03/25/2021; Senate Calendar  16",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-25",
+                "action": "Committee Amendment # 2021-0853s, Regular Calendar 24Y-0N, Amendment Adopted; 03/25/2021; Senate Journal 9",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-25",
+                "action": "Ought to Pass with Amendment 2021-0853s, Regular Calendar 24Y-0N, Motion Adopted; OT3rdg; 03/25/2021; Senate Journal 9",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-31",
+                "action": "Introduced (in recess of) 02/25/2021 and referred to Legislative Administration House Journal  4 P. 51",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-28",
+                "action": "Public Hearing: 05/11/2021 09:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/99990261785 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-11",
+                "action": "Executive Session: 05/20/2021 09:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/94943238342",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-26",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-1554h (Vote 14-0; Consent Calendar) House Calendar 26 P. 10",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-06-03",
+                "action": "Amendment # 2021-1554h: Amendment Adopted Voice Vote 06/03/2021 House Journal  8 P. 78",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-03",
+                "action": "Ought to Pass with Amendment 2021-1554h: Motion Adopted Voice Vote 06/03/2021 House Journal  8 P. 78",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-10",
+                "action": "Sen. Giuda Moved Nonconcur with the House Amendment; Requests C of C, Motion Adopted, Voice Vote; 06/10/2021; Senate Journal 19",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-10",
+                "action": "President Appoints: Senators Giuda, Hennessey, Rosenwald; 06/10/2021; Senate Journal 19",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-10",
+                "action": "House Accedes to Senate Request for CofC (Rep. Hill): Motion Adopted Voice Vote 06/10/2021 House Journal  10 P. 16",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-10",
+                "action": "Speaker Appoints: Reps. Hill, Greene, Simon, Sheehan 06/10/2021 House Journal  10 P. 16",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-11",
+                "action": "Committee of Conference Meeting: 06/14/2021, 1:00 p.m., Room 103, State House",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-16",
+                "action": "Conference Committee Report # 2021-1956c Filed 06/10/2021; House Amendment + New Amendment",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-24",
+                "action": "Conference Committee Report 2021-1956c: Adopted, Voice Vote 06/24/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-24",
+                "action": "Conference Committee Report # 2021-1956c, Adopted, Voice Vote; 06/24/2021; Senate Journal 20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-12",
+                "action": "Enrolled Bill Amendment # 2021-2058e: Amendment Adopted Voice Vote (in recess of) 06/24/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-13",
+                "action": "Enrolled Bill Amendment # 2021-2058e Adopted, Voice Vote, (In recess of 06/24/2021); Senate Journal 20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-21",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 06/24/2021); Senate Journal 20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-23",
+                "action": "Enrolled (in recess of) 06/24/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-08-30",
+                "action": "Signed by the Governor on 08/23/2021; Chapter 0221; Effective 08/23/2021",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 4958,
+                "person_hash": "2po1aje7",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "David Watters",
+                "first_name": "David",
+                "middle_name": "H.",
+                "last_name": "Watters",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-004",
+                "ftm_eid": 6494743,
+                "votesmart_id": 110047,
+                "opensecrets_id": "",
+                "knowwho_pid": 269494,
+                "ballotpedia": "David_Watters",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2259803,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB100/id/2259803",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=1072&txtFormat=html",
+                "text_size": 44860,
+                "text_hash": "f8a7dfef661e6b7926a1187cfe2b76aa"
+            },
+            {
+                "doc_id": 2347740,
+                "date": "2021-03-25",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB100/id/2347740",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=SA&id=1072",
+                "text_size": 45012,
+                "text_hash": "d793f52c9b27c7ced75a581d11662ac4"
+            },
+            {
+                "doc_id": 2411556,
+                "date": "2021-03-25",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB100/id/2411556",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=HA&id=1072",
+                "text_size": 15415,
+                "text_hash": "138ab15fc12a1683b63cb4a2df5e6f08"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1038808,
+                "date": "2021-03-25",
+                "desc": "Committee Amendment",
+                "yea": 24,
+                "nay": 0,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB100/id/1038808",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=229&sy=2021&lb=S&eb=SB0100&sortoption=&txtsessionyear=2021&txtbillnumber=SB100&ddlsponsors=&lsr=1075"
+            },
+            {
+                "roll_call_id": 1038809,
+                "date": "2021-03-25",
+                "desc": "Ought to Pass w/Amendment",
+                "yea": 24,
+                "nay": 0,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB100/id/1038809",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=230&sy=2021&lb=S&eb=SB0100&sortoption=&txtsessionyear=2021&txtbillnumber=SB100&ddlsponsors=&lsr=1075"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-05-11",
+                "time": "09:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Legislative Administration Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-05-20",
+                "time": "09:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Legislative Administration Executive Session"
+            }
+        ],
+        "full_text": "committee established there is established a committee to study the regulatory structure of charitable gaming membership and compensation the members of the committee shall be as follows a two members of the senate one of whom shall be from the ways and means committee and one of whom shall be from the finance committee appointed by the president of the senate b four members of the house of representatives serving on the ways and means committee of whom shall be members of the majority party and of whom shall be members of the minority party appointed by the speaker of the house of representatives members of the committee shall receive mileage at the legislative rate when attending to the duties of the committee duties the committee shall study the oversight and enforcement of charitable gaming in new hampshire and how that regulatory structure including staffing levels for auditors inspectors and other oversight positions compares with regulatory standards for the gaming industry and regulatory structures used in other jurisdictions review the recommendations of prior study commissions with respect to the regulatory structure of charitable gaming in new hampshire and determine to what degree those recommendations have been addressed including but not limited to recommendations relating to oversight enforcement control measures technology and staffing study the amounts and distribution of revenues generated by each charitable gaming operator to the state and to the charities served by that operator including all costs borne by the operator and charities study the methods used by charitable gaming operators to select the charities that will be given dates at the operators facilities including the methods used when there is a wait list at the facilities chairperson quorum the members of the study committee shall elect a chairperson from among the members the first meeting of the committee shall be called by the senate member the first meeting of the committee shall be held within days of the effective date of this section four members of the committee shall constitute a quorum report the committee shall report its findings and any recommendations for proposed legislation to the president of the senate the speaker of the house of representatives the senate clerk the house clerk the governor and the state library on or before november committee established there is established a committee to study building a pier over the jetty at hampton beach state park for access for people with disabilities membership and compensation the members of the committee shall be as follows a two members of the senate appointed by the president of the senate b three members of the house of representatives appointed by the speaker of the house of representatives one of whom shall be a majority member of the committee on resources recreation and development and one of whom shall be a minority member of the committee on resources recreation and development members of the committee shall receive mileage at the legislative rate when attending to the duties of the committee duties the committee shall study building a pier over the jetty at hampton beach state park for access for people with disabilities chairperson quorum the members of the study committee shall elect a chairperson from among the members the first meeting of the committee shall be called by the senate member the first meeting of the committee shall be held within days of the effective date of this section four members of the committee shall constitute a quorum report the committee shall report its findings and any recommendations for proposed legislation to the speaker of the house of representatives the president of the senate the house clerk the senate clerk the governor and the state library on or before november"
+    }
+}

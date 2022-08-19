@@ -1,0 +1,316 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1408339,
+        "change_hash": "7843ebfce386536323747e542b7052b3",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB632/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=59&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB632",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-15",
+        "progress": [
+            {
+                "date": "2021-01-15",
+                "event": 1
+            },
+            {
+                "date": "2021-01-15",
+                "event": 9
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB632",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Banning a sentence of life imprisonment without parole for a juvenile convicted of homicide.",
+        "description": "Banning a sentence of life imprisonment without parole for a juvenile convicted of homicide.",
+        "pending_committee_id": 1239,
+        "committee": {
+            "committee_id": 1239,
+            "chamber": "H",
+            "chamber_id": 67,
+            "name": "Criminal Justice and Public Safety"
+        },
+        "referrals": [
+            {
+                "date": "2021-01-15",
+                "committee_id": 1239,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Criminal Justice and Public Safety"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-15",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Criminal Justice and Public Safety House Journal  2 P. 57",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-10",
+                "action": "Public Hearing: 03/10/2021 11:45 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/92387218591 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-31",
+                "action": "Retained in Committee",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-08-25",
+                "action": "Subcommittee Work Session: 09/07/2021 10:00 am Legislative Office Building 204",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-08-25",
+                "action": "==CANCELLED== Subcommittee Work Session: 09/14/2021 10:00 am Legislative Office Building 201-203",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-09-28",
+                "action": "Full Committee Work Session: 10/05/2021 11:00 am Legislative Office Building 201-203",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-10-13",
+                "action": "Executive Session: 10/20/2021 11:00 am Legislative Office Building 201-203",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 15308,
+                "person_hash": "aspj993m",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Paul Berch",
+                "first_name": "Paul",
+                "middle_name": "",
+                "last_name": "Berch",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-01-CHE",
+                "ftm_eid": 6510405,
+                "votesmart_id": 122291,
+                "opensecrets_id": "",
+                "knowwho_pid": 296113,
+                "ballotpedia": "Paul_Berch",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19763,
+                "person_hash": "1qkehx22",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Joe Schapiro",
+                "first_name": "Joe",
+                "middle_name": "",
+                "last_name": "Schapiro",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-16-CHE",
+                "ftm_eid": 45378927,
+                "votesmart_id": 185232,
+                "opensecrets_id": "",
+                "knowwho_pid": 670266,
+                "ballotpedia": "Joe_Schapiro",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 5039,
+                "person_hash": "wsg4iz9c",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Mary Walz",
+                "first_name": "Mary",
+                "middle_name": "Beth",
+                "last_name": "Walz",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-23-MER",
+                "ftm_eid": 6464009,
+                "votesmart_id": 42845,
+                "opensecrets_id": "",
+                "knowwho_pid": 228853,
+                "ballotpedia": "Mary_Beth_Walz",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19809,
+                "person_hash": "rh4yysxz",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Wendy Chase",
+                "first_name": "Wendy",
+                "middle_name": "",
+                "last_name": "Chase",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-18-STR",
+                "ftm_eid": 45378661,
+                "votesmart_id": 185394,
+                "opensecrets_id": "",
+                "knowwho_pid": 670925,
+                "ballotpedia": "Wendy_Chase",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19847,
+                "person_hash": "3j7gylbv",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Diane Langley",
+                "first_name": "Diane",
+                "middle_name": "M.",
+                "last_name": "Langley",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-08-HIL",
+                "ftm_eid": 45378791,
+                "votesmart_id": 185331,
+                "opensecrets_id": "",
+                "knowwho_pid": 670402,
+                "ballotpedia": "Diane_Langley",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2243641,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB632/id/2243641",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=63&txtFormat=html",
+                "text_size": 7470,
+                "text_hash": "7f11ad3279c235a889e6b2bbd8e082b9"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-10",
+                "time": "11:45",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Criminal Justice and Public Safety Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-09-07",
+                "time": "10:00",
+                "location": "Legislative Office Building 204",
+                "description": "Criminal Justice and Public Safety Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-09-14",
+                "time": "10:00",
+                "location": "Legislative Office Building 204",
+                "description": "Criminal Justice and Public Safety Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-09-14",
+                "time": "10:00",
+                "location": "Legislative Office Building 201-203",
+                "description": "(CANCELLED) Criminal Justice and Public Safety Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-10-05",
+                "time": "11:00",
+                "location": "Legislative Office Building 201-203",
+                "description": "Criminal Justice and Public Safety Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-10-20",
+                "time": "11:00",
+                "location": "Legislative Office Building 201-203",
+                "description": "Criminal Justice and Public Safety Executive Session"
+            }
+        ],
+        "full_text": "life imprisonment without parole prohibited for juveniles no juvenile convicted as an adult for an offense under this chapter shall be sentenced to life imprisonment without the possibility for parole"
+    }
+}

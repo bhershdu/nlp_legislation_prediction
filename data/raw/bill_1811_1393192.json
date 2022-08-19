@@ -1,0 +1,223 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1393192,
+        "change_hash": "61fa2ed6d31e76ea541cd5ef2ae71270",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB122/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=81&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB122",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-04",
+        "progress": [
+            {
+                "date": "2021-01-04",
+                "event": 1
+            },
+            {
+                "date": "2021-01-04",
+                "event": 9
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB122",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Making an appropriation to the Carroll and Strafford counties freight rail improvements project and making an appropriation for the Coos county freight rail improvement project.",
+        "description": "Making an appropriation to the Carroll and Strafford counties freight rail improvements project and making an appropriation for the Coos county freight rail improvement project.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-04",
+                "committee_id": 1258,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Public Works and Highways"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-04",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Public Works and Highways House Journal  2 P. 36",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-20",
+                "action": "Public Hearing: 01/28/2021 09:30 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/92864158967 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-09",
+                "action": "Retained in Committee",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-09-15",
+                "action": "Public Hearing on non-germane Amendment # 2021-2111h: 10/06/2021 10:00 am Legislative Office Building 201-203",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 4883,
+                "person_hash": "d1gyrn1n",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "John Graham",
+                "first_name": "John",
+                "middle_name": "A.",
+                "last_name": "Graham",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-18-HIL",
+                "ftm_eid": 6594544,
+                "votesmart_id": 42142,
+                "opensecrets_id": "",
+                "knowwho_pid": 208616,
+                "ballotpedia": "John_Graham,_New_Hampshire_Representative",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 14866,
+                "person_hash": "0v39il75",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "David Milz",
+                "first_name": "David",
+                "middle_name": "E.",
+                "last_name": "Milz",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-06-ROC",
+                "ftm_eid": 13703659,
+                "votesmart_id": 132813,
+                "opensecrets_id": "",
+                "knowwho_pid": 426236,
+                "ballotpedia": "David_Milz",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 5024,
+                "person_hash": "pj10rgq1",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "John Cloutier",
+                "first_name": "John",
+                "middle_name": "R.",
+                "last_name": "Cloutier",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-10-SUL",
+                "ftm_eid": 6394097,
+                "votesmart_id": 4985,
+                "opensecrets_id": "",
+                "knowwho_pid": 197011,
+                "ballotpedia": "John_Cloutier",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18804,
+                "person_hash": "lpfa9bf8",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Edith Tucker",
+                "first_name": "Edith",
+                "middle_name": "",
+                "last_name": "Tucker",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-05-COO",
+                "ftm_eid": 6694834,
+                "votesmart_id": 172495,
+                "opensecrets_id": "",
+                "knowwho_pid": 587090,
+                "ballotpedia": "Edith_Tucker",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2227485,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB122/id/2227485",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=79&txtFormat=html",
+                "text_size": 11055,
+                "text_hash": "9b1be43426f95c81551ecc0a98fb59a2"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-01-28",
+                "time": "09:30",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Public Works and Highways Public Hearing"
+            }
+        ]
+    }
+}

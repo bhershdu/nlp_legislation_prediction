@@ -1,0 +1,242 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1393960,
+        "change_hash": "7aba07333500afd9003a17919f6c91bc",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/SB16/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=963&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=SB16",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2021-07-13",
+        "progress": [
+            {
+                "date": "2021-01-05",
+                "event": 1
+            },
+            {
+                "date": "2021-01-05",
+                "event": 9
+            },
+            {
+                "date": "2021-01-14",
+                "event": 10
+            },
+            {
+                "date": "2021-03-10",
+                "event": 2
+            },
+            {
+                "date": "2021-03-10",
+                "event": 9
+            },
+            {
+                "date": "2021-05-11",
+                "event": 10
+            },
+            {
+                "date": "2021-07-01",
+                "event": 3
+            },
+            {
+                "date": "2021-07-13",
+                "event": 8
+            },
+            {
+                "date": "2021-07-13",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "SB16",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "S",
+        "body_id": 68,
+        "current_body": "S",
+        "current_body_id": 68,
+        "title": "Amending the alimony statute due to changes in federal tax law.",
+        "description": "Amending the alimony statute due to changes in federal tax law.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-05",
+                "committee_id": 1273,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Judiciary"
+            },
+            {
+                "date": "2021-03-10",
+                "committee_id": 1237,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Children and Family Law"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-05",
+                "action": "To Be Introduced 01/06/2021 and Referred to Judiciary; Senate Journal 2",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-07",
+                "action": "Remote Hearing: 01/12/2021, 01:00 pm; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  6",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-01-14",
+                "action": "Committee Report: Ought to Pass, 02/04/2021; Vote 5-0; Consent Calendar; Senate Calendar  9",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-04",
+                "action": "Ought to Pass: Regular Calendar 23Y-1N, Motion Adopted; OT3rdg; 02/04/2021; Senate Journal 3",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-10",
+                "action": "Introduced (in recess of) 02/25/2021 and referred to Children and Family Law House Journal  4 P. 48",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-14",
+                "action": "Public Hearing: 04/21/2021 10:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/93446087542 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-11",
+                "action": "Committee Report: Ought to Pass (Vote 14-0; Consent Calendar) House Calendar 26 P. 4",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-06-03",
+                "action": "Ought to Pass: Motion Adopted Voice Vote 06/03/2021 House Journal  8 P. 3",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-01",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 06/24/2021); Senate Journal 20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-01",
+                "action": "Enrolled (in recess of) 06/24/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-07-13",
+                "action": "Signed by the Governor on 07/09/2021; Chapter 0113; Effective 07/09/2021",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 4775,
+                "person_hash": "kswslwpv",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Sharon Carson",
+                "first_name": "Sharon",
+                "middle_name": "",
+                "last_name": "Carson",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-014",
+                "ftm_eid": 6593753,
+                "votesmart_id": 42537,
+                "opensecrets_id": "",
+                "knowwho_pid": 208650,
+                "ballotpedia": "Sharon_Carson",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2228136,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB16/id/2228136",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=954&txtFormat=html",
+                "text_size": 13835,
+                "text_hash": "61441a6e360988c2f617717f6f9053f9"
+            },
+            {
+                "doc_id": 2411637,
+                "date": "2021-06-03",
+                "type": "Enrolled",
+                "type_id": 5,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB16/id/2411637",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&v=HP&id=954",
+                "text_size": 13846,
+                "text_hash": "c75aff6531ed1a8614c78b347d1b0b97"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-04-21",
+                "time": "10:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Children and Family Law Public Hearing"
+            }
+        ],
+        "full_text": "annulment divorce and separation term alimony amend the introductory paragraph of rsa ii a to read as follows a the amount of a term alimony order shall be the lesser of the payee s reasonable need or a formula based on percent of the difference between the parties gross incomes at the time the order is created unless the court finds that justice requires an adjustment in making this calculation gross income as defined in rsa v shall be new subparagraph annulment divorce and separation term alimony formula percentage amend rsa ii to insert after subparagraph b the following new subparagraph c the formula percentage in subparagraph a of percent is based on alimony not being deductible to the payor and taxable to the payee under federal income tax law if alimony becomes deductible to the payor and taxable to the payee under federal income tax law the formula shall be based on percent of the difference between the parties gross incomes annulment divorce and separation term alimony consideration of special circumstances impact of federal tax law amend rsa iv j to read as follows j the impact of federal tax law on the parties including the allocation of applicable benefits k any other reason the court deems material and relevant any modification may be retroactive as the parties may agree if contested an alimony modification shall not be effective prior to the date that the notice of the petition for modification was given to the other party new paragraphs modification of alimony orders applicable law based on filing date of initial petition for divorce or legal separation amend rsa by inserting after paragraph ix the following new paragraphs a the provisions of rsa and as amended or inserted by shall not apply to modifications of orders in cases whose initial petition for divorce or legal separation was filed prior to january unless the court finds that the original order a was based on an agreement of the parties adopting some or all of the provisions of that act or b specified that the court was adopting some or all of the provisions of that act absent such a finding modifications of these orders shall be controlled by the law in effect on the date the initial petition for divorce or legal separation was filed b parties to any case in which the initial petition was filed prior to january may agree to adopt some or all of the provisions of in the original agreement or any modification of it or in modifying any court order an alimony order effective on or after january including one based on an agreement of the parties may be modified in accordance with rsa ii without the need to demonstrate the findings in rsa vi provided that a the alimony order was issued pursuant to rsa and as amended or inserted by b the alimony amount is greater than percent of the difference in the parties gross incomes as defined in rsa ii a and c the petition for modification is filed by july"
+    }
+}

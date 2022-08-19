@@ -1,0 +1,234 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1393038,
+        "change_hash": "e09fc7cccbf11e6eeb11162e1e5288a9",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB82/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=65&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB82",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-04",
+        "progress": [
+            {
+                "date": "2021-01-04",
+                "event": 1
+            },
+            {
+                "date": "2021-01-04",
+                "event": 9
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB82",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to amending a conservation easement between the state and a landowner.",
+        "description": "Relative to amending a conservation easement between the state and a landowner.",
+        "pending_committee_id": 1250,
+        "committee": {
+            "committee_id": 1250,
+            "chamber": "H",
+            "chamber_id": 67,
+            "name": "Judiciary"
+        },
+        "referrals": [
+            {
+                "date": "2021-01-04",
+                "committee_id": 1250,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Judiciary"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-04",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Judiciary House Journal  2 P. 34",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-23",
+                "action": "Public Hearing: 02/23/2021 09:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/91815905671 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-02",
+                "action": "Executive Session: 03/02/2021 09:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/95501229688",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-09",
+                "action": "Retained in Committee",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-09-08",
+                "action": "Executive Session: 09/28/2021 10:00 am Legislative Office Building 206-208",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 15308,
+                "person_hash": "aspj993m",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Paul Berch",
+                "first_name": "Paul",
+                "middle_name": "",
+                "last_name": "Berch",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-01-CHE",
+                "ftm_eid": 6510405,
+                "votesmart_id": 122291,
+                "opensecrets_id": "",
+                "knowwho_pid": 296113,
+                "ballotpedia": "Paul_Berch",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 17463,
+                "person_hash": "xxdfg671",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Michael Abbott",
+                "first_name": "Michael",
+                "middle_name": "D.",
+                "last_name": "Abbott",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-01-CHE",
+                "ftm_eid": 25005698,
+                "votesmart_id": 154243,
+                "opensecrets_id": "",
+                "knowwho_pid": 502139,
+                "ballotpedia": "Michael_Abbott",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19162,
+                "person_hash": "udkcbuzg",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Cathryn Harvey",
+                "first_name": "Cathryn",
+                "middle_name": "A.",
+                "last_name": "Harvey",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-01-CHE",
+                "ftm_eid": 6670949,
+                "votesmart_id": 173114,
+                "opensecrets_id": "",
+                "knowwho_pid": 587055,
+                "ballotpedia": "Cathryn_Harvey",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2227337,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB82/id/2227337",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=64&txtFormat=html",
+                "text_size": 9149,
+                "text_hash": "4bd785460602b18211311f5def0db14b"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-23",
+                "time": "09:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Judiciary Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-02",
+                "time": "09:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Judiciary Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-02",
+                "time": "09:00",
+                "location": "Members of the public may attend using the following links: 1. T",
+                "description": "Judiciary Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-09-28",
+                "time": "10:00",
+                "location": "Legislative Office Building 206-208",
+                "description": "Judiciary Executive Session"
+            }
+        ],
+        "full_text": "conservation easements changes amend rsa to read as follows restrictions enforceable no conservation restriction held by any governmental body or by a charitable educational or other corporation association trust or other entity whose purposes include conservation of land or water areas or of a particular such area no preservation restriction held by any governmental body or by a charitable educational or other corporation association trust or other entity whose purposes include preservation of structures or sites of historical significance or of a particular such structure or site and no agricultural preservation restriction held by any governmental body or charitable corporation trust or other entity whose purposes include preservation of land or water areas predominantly in their agricultural state shall be unenforceable against any owner of the restricted land or structure on account of lack of privity of estate or contract or lack of benefit to particular land or on account of the benefit being assignable or being assigned to any other governmental body or to any entity with like purposes this section shall not be construed to imply that any restriction easement covenant or condition which does not have the benefit of this section shall on account of any provisions hereof be unenforceable any doctrine of law which might otherwise cause the termination of such a restriction shall not be affected by the provisions of this subdivision nothing in this section shall prohibit a governmental body and a landowner from changing the terms of an established conservation easement including but not limited to exchanging another parcel in return for easing current use restrictions if such change is to correct an injustice or for any reason that advances the public good"
+    }
+}

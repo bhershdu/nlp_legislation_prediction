@@ -1,0 +1,264 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1395481,
+        "change_hash": "1d424e9b275e53ae8026bbf2d689b648",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB261/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=188&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB261",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2021-05-19",
+        "progress": [
+            {
+                "date": "2021-01-09",
+                "event": 1
+            },
+            {
+                "date": "2021-01-09",
+                "event": 9
+            },
+            {
+                "date": "2021-03-15",
+                "event": 10
+            },
+            {
+                "date": "2021-04-07",
+                "event": 2
+            },
+            {
+                "date": "2021-04-07",
+                "event": 9
+            },
+            {
+                "date": "2021-04-13",
+                "event": 10
+            },
+            {
+                "date": "2021-05-06",
+                "event": 3
+            },
+            {
+                "date": "2021-05-19",
+                "event": 8
+            },
+            {
+                "date": "2021-05-19",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB261",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to apprenticeship programs in trade and industry.",
+        "description": "Relative to apprenticeship programs in trade and industry.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-09",
+                "committee_id": 1251,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Labor, Industrial and Rehabilitative Services"
+            },
+            {
+                "date": "2021-04-07",
+                "committee_id": 1780,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Commerce"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-09",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Labor, Industrial and Rehabilitative Services House Journal  2 P. 41",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-03",
+                "action": "Public Hearing: 02/11/2021 11:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/98476278055 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-04",
+                "action": "Executive Session: 03/04/2021 09:30 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/92992494588",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-15",
+                "action": "Committee Report: Ought to Pass (Vote 20-0; Consent Calendar) House Calendar 18 P. 18",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Ought to Pass: Motion Adopted Voice Vote 04/07/2021 House Journal  5 P. 40",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Reconsider (Rep. Osborne): Motion Failed Voice Vote 04/07/2021 House Journal  5 P. 50",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Introduced 04/01/2021 and Referred to Commerce; Senate Journal 11",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-08",
+                "action": "Remote Hearing: 04/13/2021, 09:30 am; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  19",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-13",
+                "action": "Committee Report: Ought to Pass, 04/22/2021; Vote 5-0; Consent Calendar; Senate Calendar  20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-22",
+                "action": "Ought to Pass: Regular Calendar 23Y-1N, Motion Adopted; OT3rdg; 04/22/2021; Senate Journal 12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-06",
+                "action": "Enrolled (in recess of) 04/09/2021 House Journal  7 P. 102",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-05-06",
+                "action": "Enrolled Regular Calendar 23Y-0N, Motion Adopted, (In recess of 05/06/2021); Senate Journal 15",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-19",
+                "action": "Signed by Governor Sununu 05/17/2021; Chapter 38; Eff: 07/16/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 11725,
+                "person_hash": "lys03gpw",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Brian Seaworth",
+                "first_name": "Brian",
+                "middle_name": "",
+                "last_name": "Seaworth",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-20-MER",
+                "ftm_eid": 737469,
+                "votesmart_id": 109936,
+                "opensecrets_id": "",
+                "knowwho_pid": 269369,
+                "ballotpedia": "Brian_Seaworth",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2235019,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB261/id/2235019",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=189&txtFormat=html",
+                "text_size": 17708,
+                "text_hash": "81c4bd9fb547a9bcbf1df1d522af20bd"
+            },
+            {
+                "doc_id": 2380051,
+                "date": "2021-04-22",
+                "type": "Enrolled",
+                "type_id": 5,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB261/id/2380051",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&v=SP&id=189",
+                "text_size": 17719,
+                "text_hash": "aac3ca5ee7445bae6f93b7ca2ad1aa4d"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-11",
+                "time": "11:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Labor, Industrial and Rehabilitative Services Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-04",
+                "time": "09:30",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Labor, Industrial and Rehabilitative Services Executive Session"
+            }
+        ],
+        "full_text": "apprenticeship programs in trade and industry purposes amend rsa to read as follows purposes the purposes of this chapter are to encourage employers associations of employers and organizations of employees to voluntarily establish apprenticeship programs and the making of apprenticeship agreements to create opportunities for young people to obtain employment and adequate training in trades and industry with parallel instructions in related and supplementary education under conditions that will equip them for profitable employment and citizenship to cooperate with the promotion and development of apprenticeship programs and systems in other states and with the federal committee on apprenticeship appointed under public law no th u s congress fitzgerald act to recommend to the office of apprenticeship united states department of labor oa encourage the registration and approval of apprenticeship programs and apprenticeship agreements and the issuance of state certificates of completion of apprenticeship by the united states department of labor office of apprenticeship oa apprenticeship programs in trade and industry duties amend rsa to read as follows duties the council shall meet quarterly and as often as may be necessary and in cooperation with the oa and state departments of education and labor establish maintain and review and recommend encourage approval of consistent standards for training programs to be coordinated with related course instruction and included in apprenticeship programs and agreements established in trade or industry by employee organizations joint committees employers or employer groups and may request the services of any state or federal agency or department which may be of assistance in carrying out the purposes of this chapter in addition to the foregoing the council shall encourage and promote the development of apprenticeship programs and the making of apprenticeship agreements assist the oa in bringing about the settlement of differences arising out of an apprenticeship agreement when such differences cannot be adjusted locally or in accordance with established trade procedure supervise the execution of agreements and maintenance of standards recommend to the oa the registration of apprenticeship programs and agreements which provide equal opportunity for training and employment without regard to race color creed or national origin and which incorporate standards consistent with those already established and approved by the council and the oa or terminate or cancel the registration of apprenticeship programs and agreements when said programs or agreements fail to meet or maintain said registration qualifications issue certificates of completion of apprenticeship as shall be authorized by the council keep a record of apprenticeship programs and apprentice agreements and their disposition cooperate with the state department of education and the local school authorities in the organization and establishment of classes of related and supplemental instruction for apprentices employed under approved agreements render such assistance and submit such information and data as may be requested by employers employees and joint apprenticeship committees engaged in the formulation and operation of programs of apprenticeship particularly in regard to work schedules wages conditions of employment apprenticeship records and number of apprentices and review and assist the oa in the adoption of rules and regulations to insure nondiscrimination in all phases of apprenticeship and employment during apprenticeship apprenticeship programs in trade and industry related and supplemental instruction committees amend rsa and rsa to read as follows related and supplemental instruction related and supplemental instruction for apprentices coordination of instruction with work experiences and the selection of teachers and coordinators for such instruction shall be the responsibility of state and local boards of education the state department of education shall be responsible and make provision subject to the department s decision on the allotment of its funds for related and supplementary instruction for apprentices as may be employed under apprenticeship programs registered and approved by the oa and the council local regional and state joint apprenticeship committees local and state joint apprenticeship committees may be approved in any trade or group of trades in cities regions of the state or trade areas by the oa and the council whenever the apprentice training needs of such trade or group of trades or such regions justify such establishment such local regional or state joint apprenticeship committees shall be composed of an equal number of employer and employee representatives selected by the respective local or state employer and employee organizations in such trade or group of trades also such advisory members representing local boards or other agencies as may be deemed advisable in a trade or group of trades in which there is no bona fide employer or employee organization a joint committee may be composed of persons known to represent the interests of employers and of employees respectively or a state joint apprenticeship committee may be approved as or the council may act itself as the joint committee in such trade or group of trades subject to the review of the oa and the council and in accordance with the standards established by the office of apprenticeship and the council oa such committees may devise standards for apprenticeship agreements and give such aid as may be necessary in their operation in their respective trades and localities repeal the following are repealed rsa relative to minimum standards for apprenticeship agreements rsa relative to the definition of apprenticeship agreement"
+    }
+}

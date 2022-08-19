@@ -1,0 +1,512 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1398369,
+        "change_hash": "59820dba21f57109c5353591aaa5a858",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB15/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=670&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB15",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2021-08-03",
+        "progress": [
+            {
+                "date": "2021-01-09",
+                "event": 1
+            },
+            {
+                "date": "2021-01-09",
+                "event": 9
+            },
+            {
+                "date": "2021-03-30",
+                "event": 10
+            },
+            {
+                "date": "2021-03-30",
+                "event": 11
+            },
+            {
+                "date": "2021-04-13",
+                "event": 2
+            },
+            {
+                "date": "2021-04-13",
+                "event": 9
+            },
+            {
+                "date": "2021-05-10",
+                "event": 10
+            },
+            {
+                "date": "2021-05-25",
+                "event": 10
+            },
+            {
+                "date": "2021-05-27",
+                "event": 10
+            },
+            {
+                "date": "2021-07-15",
+                "event": 3
+            },
+            {
+                "date": "2021-08-03",
+                "event": 8
+            },
+            {
+                "date": "2021-08-03",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB15",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to including under the meals and rooms tax facilitators of Internet transactions of motor vehicle rentals and facilitators of Internet transactions of room occupancies.",
+        "description": "Relative to including under the meals and rooms tax facilitators of Internet transactions of motor vehicle rentals and facilitators of Internet transactions of room occupancies.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-09",
+                "committee_id": 1264,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Ways and Means"
+            },
+            {
+                "date": "2021-04-13",
+                "committee_id": 1277,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Ways and Means"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-09",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Ways and Means House Journal  2 P. 47",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-20",
+                "action": "Public Hearing: 01/28/2021 01:30 pm Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/92120368845 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-18",
+                "action": "Full Committee Work Session: 03/02/2021 09:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/94528213728 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-18",
+                "action": "Full Committee Work Session: 03/03/2021 09:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/92309184005 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-03",
+                "action": "Full Committee Work Session: 03/10/2021 01:00 pm Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/99357402693 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-30",
+                "action": "Majority Committee Report: Ought to Pass with Amendment # 2021-0599h (Vote 22-2; Regular Calendar) House Calendar 18 P. 63",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-30",
+                "action": "Minority Committee Report: Inexpedient to Legislate",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-09",
+                "action": "Amendment # 2021-0599h: Amendment Adopted DV 184-175 04/09/2021 House Journal  7 P. 75",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-09",
+                "action": "Ought to Pass with Amendment 2021-0599h: Motion Adopted Regular Calendar 289-78 04/09/2021 House Journal  7 P. 75",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-13",
+                "action": "Introduced 04/08/2021 and Referred to Ways and Means; Senate Journal 12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-14",
+                "action": "Remote Hearing: 04/19/2021, 09:00 am; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-10",
+                "action": "Committee Report: Ought to Pass, 05/20/2021; Senate Calendar  24",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-05-20",
+                "action": "Sen. Rosenwald Floor Amendment # 2021-1488s, Amendment Adopted, Voice Vote; 05/20/2021; Senate Journal 16",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-20",
+                "action": "Ought to Pass with Amendment 2021-1488s, Motion Adopted, Voice Vote; Refer to Finance Rule 4-5; 05/20/2021; Senate Journal 16",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-25",
+                "action": "Committee Report: Ought to Pass, 05/27/2021; Senate Calendar  25A",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-05-27",
+                "action": "Special Order to Next Session, Without Objection, Motion Adopted; 05/27/2021; Senate Journal 17",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-27",
+                "action": "Committee Report: Ought to Pass, 06/03/2021; Senate Calendar  26",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-06-03",
+                "action": "Without Objection, the Clerk is authorized to make technical and administrative corrections which are necessary to reflect the intent of the Senate, Relative to Bills and Amendments Passed Today, Motion Adopted; 06/03/2021; Senate Journal 18",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-03",
+                "action": "Ought to Pass: Regular Calendar 16Y-7N, Motion Adopted; OT3rdg; 06/03/2021; Senate Journal 18",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-10",
+                "action": "House Concurs with Senate Amendment 2021-1488s (Rep. Major): Motion Adopted Voice Vote 06/10/2021 House Journal  10 P. 20",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-15",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 06/24/2021); Senate Journal 20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-15",
+                "action": "Enrolled (in recess of) 06/24/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-08-03",
+                "action": "Signed by Governor Sununu 07/30/2021; Chapter 160; Eff: 10/01/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 5006,
+                "person_hash": "qdqrht6n",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Sherman Packard",
+                "first_name": "Sherman",
+                "middle_name": "A.",
+                "last_name": "Packard",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-05-ROC",
+                "ftm_eid": 6595575,
+                "votesmart_id": 8443,
+                "opensecrets_id": "",
+                "knowwho_pid": 197234,
+                "ballotpedia": "Sherman_Packard",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4853,
+                "person_hash": "iwvtz8vb",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Norman Major",
+                "first_name": "Norman",
+                "middle_name": "L.",
+                "last_name": "Major",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-14-ROC",
+                "ftm_eid": 6595208,
+                "votesmart_id": 15170,
+                "opensecrets_id": "",
+                "knowwho_pid": 197125,
+                "ballotpedia": "Norman_Major",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4829,
+                "person_hash": "p7484y9q",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Susan Almy",
+                "first_name": "Susan",
+                "middle_name": "W.",
+                "last_name": "Almy",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-13-GRA",
+                "ftm_eid": 199534,
+                "votesmart_id": 15165,
+                "opensecrets_id": "",
+                "knowwho_pid": 197099,
+                "ballotpedia": "Susan_Almy",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 11837,
+                "person_hash": "9bfp0ziy",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Patrick Abrami",
+                "first_name": "Patrick",
+                "middle_name": "",
+                "last_name": "Abrami",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-19-ROC",
+                "ftm_eid": 13004265,
+                "votesmart_id": 126608,
+                "opensecrets_id": "",
+                "knowwho_pid": 296219,
+                "ballotpedia": "Patrick_Abrami",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2234613,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB15/id/2234613",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=680&txtFormat=html",
+                "text_size": 28992,
+                "text_hash": "408d1a149694d9fef4f4ea29e06cea4e"
+            },
+            {
+                "doc_id": 2361970,
+                "date": "2021-04-09",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB15/id/2361970",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=HA&id=680",
+                "text_size": 30144,
+                "text_hash": "8d5f8fdfd18925f7657d9ea6848106fe"
+            },
+            {
+                "doc_id": 2400597,
+                "date": "2021-05-20",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB15/id/2400597",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=SA&id=680",
+                "text_size": 30419,
+                "text_hash": "7dd7f2c98e29050f284e87b0ac1c0fb0"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1049821,
+                "date": "2021-04-09",
+                "desc": "OTPA",
+                "yea": 289,
+                "nay": 78,
+                "nv": 31,
+                "absent": 0,
+                "total": 398,
+                "passed": 1,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/HB15/id/1049821",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=143&sy=2021&lb=H&eb=HB0015&sortoption=&txtsessionyear=2021&txtbillnumber=HB15&ddlsponsors=&lsr=670"
+            },
+            {
+                "roll_call_id": 1095785,
+                "date": "2021-06-03",
+                "desc": "Ought to Pass",
+                "yea": 16,
+                "nay": 7,
+                "nv": 0,
+                "absent": 1,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/HB15/id/1095785",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=431&sy=2021&lb=S&eb=HB0015&sortoption=&txtsessionyear=2021&txtbillnumber=HB15&ddlsponsors=&lsr=670"
+            },
+            {
+                "roll_call_id": 1102371,
+                "date": "2021-04-09",
+                "desc": "OTPA",
+                "yea": 289,
+                "nay": 78,
+                "nv": 9,
+                "absent": 22,
+                "total": 398,
+                "passed": 1,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/HB15/id/1102371",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=143&sy=2021&lb=H&eb=HB0015&sortoption=&txtsessionyear=2021&txtbillnumber=HB15&ddlsponsors=&lsr=0670"
+            },
+            {
+                "roll_call_id": 1102372,
+                "date": "2021-06-03",
+                "desc": "Ought to Pass",
+                "yea": 16,
+                "nay": 7,
+                "nv": 0,
+                "absent": 1,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/HB15/id/1102372",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=431&sy=2021&lb=S&eb=HB0015&sortoption=&txtsessionyear=2021&txtbillnumber=HB15&ddlsponsors=&lsr=0670"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-01-28",
+                "time": "13:30",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Ways and Means Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-02",
+                "time": "09:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Ways and Means Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-03",
+                "time": "09:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Ways and Means Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-10",
+                "time": "13:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Ways and Means Work Session"
+            }
+        ]
+    }
+}

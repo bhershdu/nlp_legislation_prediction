@@ -1,0 +1,350 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1393009,
+        "change_hash": "65be7df2d35289c242784c1849cd8709",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB153/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=113&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB153",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-04",
+        "progress": [
+            {
+                "date": "2021-01-04",
+                "event": 1
+            },
+            {
+                "date": "2021-01-04",
+                "event": 9
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB153",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Establishing a committee to study universal Internet access for New Hampshire.",
+        "description": "Establishing a committee to study universal Internet access for New Hampshire.",
+        "pending_committee_id": 1261,
+        "committee": {
+            "committee_id": 1261,
+            "chamber": "H",
+            "chamber_id": 67,
+            "name": "Science, Technology and Energy"
+        },
+        "referrals": [
+            {
+                "date": "2021-01-04",
+                "committee_id": 1261,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Science, Technology and Energy"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-04",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Science, Technology and Energy House Journal  2 P. 37",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-21",
+                "action": "Public Hearing: 02/01/2021 02:00 pm Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/92752912485 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-08",
+                "action": "Executive Session: 03/08/2021 10:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/96232478698",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-10",
+                "action": "Retained in Committee",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-09",
+                "action": "==CANCELLED== Full Committee Work Session: 06/21/2021 10:30 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/98681120846",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-09-10",
+                "action": "Subcommittee Work Session: 09/28/2021 10:00 am Legislative Office Building 302-304",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-10-26",
+                "action": "Executive Session: 10/26/2021 10:00 a.m. Legislative Office Building302-304",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 17051,
+                "person_hash": "6m7d1lcm",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Lee Oxenham",
+                "first_name": "Lee",
+                "middle_name": "Walker",
+                "last_name": "Oxenham",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-01-SUL",
+                "ftm_eid": 20833980,
+                "votesmart_id": 154370,
+                "opensecrets_id": "",
+                "knowwho_pid": 502170,
+                "ballotpedia": "Lee_Walker_Oxenham",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 15601,
+                "person_hash": "0p3lapll",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Suzanne Vail",
+                "first_name": "Suzanne",
+                "middle_name": "Mercier",
+                "last_name": "Vail",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-29-HIL",
+                "ftm_eid": 13703743,
+                "votesmart_id": 141743,
+                "opensecrets_id": "",
+                "knowwho_pid": 426619,
+                "ballotpedia": "Suzanne_Vail",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19743,
+                "person_hash": "ryfcko8x",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Rebecca McWilliams",
+                "first_name": "Rebecca",
+                "middle_name": "",
+                "last_name": "McWilliams",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-27-MER",
+                "ftm_eid": 45378835,
+                "votesmart_id": 185383,
+                "opensecrets_id": "",
+                "knowwho_pid": 670731,
+                "ballotpedia": "Rebecca_McWilliams",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19165,
+                "person_hash": "76icrosj",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Larry Laflamme",
+                "first_name": "Larry",
+                "middle_name": "L.",
+                "last_name": "Laflamme",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-03-COO",
+                "ftm_eid": 6695342,
+                "votesmart_id": 174496,
+                "opensecrets_id": "",
+                "knowwho_pid": 587856,
+                "ballotpedia": "Larry_Laflamme",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18166,
+                "person_hash": "k25p0mqi",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Troy Merner",
+                "first_name": "Troy",
+                "middle_name": "E.",
+                "last_name": "Merner",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-07-COO",
+                "ftm_eid": 6494514,
+                "votesmart_id": 110056,
+                "opensecrets_id": "",
+                "knowwho_pid": 296122,
+                "ballotpedia": "Troy_Merner",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19063,
+                "person_hash": "9vbummg1",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Jay Kahn",
+                "first_name": "Jay",
+                "middle_name": "",
+                "last_name": "Kahn",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-010",
+                "ftm_eid": 14796214,
+                "votesmart_id": 172406,
+                "opensecrets_id": "",
+                "knowwho_pid": 586828,
+                "ballotpedia": "Jay_Kahn",
+                "sponsor_type_id": 2,
+                "sponsor_order": 6,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2227310,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB153/id/2227310",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=111&txtFormat=html",
+                "text_size": 12595,
+                "text_hash": "3f6e38349118a5c66d6969201a3bb643"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-01",
+                "time": "14:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Science, Technology and Energy Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-08",
+                "time": "10:00",
+                "location": "Members of the public may attend using the following link: 1. To",
+                "description": "Science, Technology and Energy Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-08",
+                "time": "10:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Science, Technology and Energy Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-06-21",
+                "time": "10:30",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Science, Technology and Energy Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-06-21",
+                "time": "10:30",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "(CANCELLED) Science, Technology and Energy Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-09-28",
+                "time": "10:00",
+                "location": "Legislative Office Building 302-304",
+                "description": "Science, Technology and Energy Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-10-26",
+                "time": "10:00",
+                "location": "Legislative Office Building302-304",
+                "description": "Science, Technology and Energy Executive Session"
+            }
+        ],
+        "full_text": "findings the day has arrived when ubiquitous internet connectivity is an expectation particularly during the pandemic our immediate need for remote meetings and communication remote learning telehealth and rapid transfer and analysis of such things as crash data and other information has become painfully obvious sadly too many new hampshire households and establishments lack the infrastructure or the means to acquire connectivity of sufficient quality to achieve equitable participation in the digital world many rural areas with low population density have been overlooked by internet service providers who nevertheless claim those areas to be served because a few locations have access urban regions in new hampshire report neighborhoods have too few broadband access points to provide adequate service when demand is high such as during school hours study committee established there is established a committee to study universal internet access for new hampshire the members of the committee shall be as follows a three members of the house of representatives each of whom shall be from a standing committee having jurisdiction over an issue related to internet access and infrastructure appointed by the speaker of the house of representatives b two members of the senate appointed by the president of the senate in addition the legislative members of committee shall seek input and expert advice from each of the following a representatives of the state s regional planning boards b a broadband development expert c a representative of the national collaborative for digital equity d a grant writer e internet service provider isp industry representatives f a representative from the university of new hampshire with relevant expertise g a representative of the office of strategic initiatives and h representatives from the new hampshire department of health and human services and the new hampshire department of education legislative members of the committee shall receive mileage at the legislative rate when attending to the duties of the committee the committee shall study universal internet access for new hampshire the committee shall analyze the recent legislative changes that allow towns and cities to create communication districts and allow bonding for municipalities to finance such infrastructure and shall examine the upcoming report from the commission to study the health effects of emerging g technology as well as additional avenues that may be deemed necessary to achieve the committee s goal the members of the study committee shall elect a chairperson from among the members the first meeting of the committee shall be called by the house member the first meeting of the committee shall be held within days of the effective date of this section three members of the committee shall constitute a quorum the committee shall report its findings and any recommendations for proposed legislation to the speaker of the house of representatives the president of the senate the house clerk the senate clerk the governor and the state library on or before november"
+    }
+}

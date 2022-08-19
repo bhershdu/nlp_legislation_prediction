@@ -1,0 +1,255 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1394033,
+        "change_hash": "9874bae34a798ba791ce04d14ba15e1b",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/SB15/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=1061&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=SB15",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2021-07-26",
+        "progress": [
+            {
+                "date": "2021-01-05",
+                "event": 1
+            },
+            {
+                "date": "2021-01-05",
+                "event": 9
+            },
+            {
+                "date": "2021-01-21",
+                "event": 10
+            },
+            {
+                "date": "2021-03-10",
+                "event": 2
+            },
+            {
+                "date": "2021-03-10",
+                "event": 9
+            },
+            {
+                "date": "2021-05-06",
+                "event": 10
+            },
+            {
+                "date": "2021-07-12",
+                "event": 3
+            },
+            {
+                "date": "2021-07-26",
+                "event": 8
+            },
+            {
+                "date": "2021-07-26",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "SB15",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "S",
+        "body_id": 68,
+        "current_body": "S",
+        "current_body_id": 68,
+        "title": "Relative to ratification of amendments to the state building code and state fire code.",
+        "description": "Relative to ratification of amendments to the state building code and state fire code.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-05",
+                "committee_id": 1270,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Executive Departments and Administration"
+            },
+            {
+                "date": "2021-03-10",
+                "committee_id": 1243,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Executive Departments and Administration"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-05",
+                "action": "To Be Introduced 01/06/2021 and Referred to Executive Departments and Administration; Senate Journal 2",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-07",
+                "action": "Remote Hearing: 01/13/2021, 09:00 am; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  6",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-01-21",
+                "action": "Committee Report: Ought to Pass, 02/04/2021; Vote 5-0; Consent Calendar; Senate Calendar  9",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-04",
+                "action": "Ought to Pass: Regular Calendar 23Y-1N, Motion Adopted; OT3rdg; 02/04/2021; Senate Journal 3",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-10",
+                "action": "Introduced (in recess of) 02/25/2021 and referred to Executive Departments and Administration House Journal  4 P. 48",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-24",
+                "action": "Public Hearing: 03/24/2021 10:45 am Please click the link below to join the webinar:https://zoom.us/j/97152965622Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-06",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-1155h (Vote 17-0; Consent Calendar) House Calendar 26 P. 6",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-06-03",
+                "action": "Amendment # 2021-1155h: Amendment Adopted Voice Vote 06/03/2021 House Journal  8 P. 7",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-03",
+                "action": "Ought to Pass with Amendment 2021-1155h: Motion Adopted Voice Vote 06/03/2021 House Journal  8 P. 7",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-10",
+                "action": "Sen. Carson Moved to Concur with the House Amendment, Motion Adopted, Voice Vote; 06/10/2021; Senate Journal 19",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-12",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 06/24/2021); Senate Journal 20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-12",
+                "action": "Enrolled (in recess of) 06/24/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-07-26",
+                "action": "Signed by the Governor on 07/23/2021; Chapter 0146; Effective 07/23/2021",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 4775,
+                "person_hash": "kswslwpv",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Sharon Carson",
+                "first_name": "Sharon",
+                "middle_name": "",
+                "last_name": "Carson",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-014",
+                "ftm_eid": 6593753,
+                "votesmart_id": 42537,
+                "opensecrets_id": "",
+                "knowwho_pid": 208650,
+                "ballotpedia": "Sharon_Carson",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2228203,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB15/id/2228203",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=1052&txtFormat=html",
+                "text_size": 9435,
+                "text_hash": "c6522a6b9ebc943cc02ac5518dc25735"
+            },
+            {
+                "doc_id": 2411555,
+                "date": "2021-06-03",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB15/id/2411555",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=HA&id=1052",
+                "text_size": 10159,
+                "text_hash": "6b5579b5b0560444f1712ae4688f9f61"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-24",
+                "time": "10:45",
+                "location": "Please click the link below to join the webinar:https://zoom.us/",
+                "description": "Executive Departments and Administration Public Hearing"
+            }
+        ]
+    }
+}

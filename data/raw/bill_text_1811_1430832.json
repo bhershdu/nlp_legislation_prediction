@@ -1,0 +1,312 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1430832,
+        "change_hash": "ecc8b6accb5491ccc73b5500f9dae49b",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/SB109/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=947&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=SB109",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-29",
+        "progress": [
+            {
+                "date": "2021-01-29",
+                "event": 1
+            },
+            {
+                "date": "2021-01-29",
+                "event": 9
+            },
+            {
+                "date": "2021-03-23",
+                "event": 10
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "SB109",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "S",
+        "body_id": 68,
+        "current_body": "S",
+        "current_body_id": 68,
+        "title": "Relative to municipal host customer generators serving political subdivisions.",
+        "description": "Relative to municipal host customer generators serving political subdivisions.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-29",
+                "committee_id": 1736,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Energy and Natural Resources"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-29",
+                "action": "Introduced 01/06/2021 and Referred to Energy and Natural Resources; Senate Journal 3",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-09",
+                "action": "Remote Hearing: 03/15/2021, 01:00 pm; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  15",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-23",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-0970s, 04/01/2021; Vote 5-0; Consent Calendar; Senate Calendar  17",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-01",
+                "action": "Sen. Avard Moved to Remove SB 109 from the Consent Calendar; 04/01/2021; Senate Journal 10",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-01",
+                "action": "Committee Amendment # 2021-0970s, Regular Calendar 24Y-0N, Amendment Adopted; 04/01/2021; Senate Journal 10",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-01",
+                "action": "Ought to Pass with Amendment 2021-0970s, Regular Calendar 24Y-0N, Motion Adopted; OT3rdg; 04/01/2021; Senate Journal 10",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-01",
+                "action": "The Chair rescinded OT3rdg, 04/01/2021; Senate Journal 10",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-01",
+                "action": "Sen. Bradley Moved Laid on Table, Regular Calendar 24Y-0N, Motion Adopted; 04/01/2021; Senate Journal 10",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-01",
+                "action": "Pending Motion OT3rdg; 04/01/2021; Senate Journal 10",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 11579,
+                "person_hash": "xg5ddnit",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Kevin Avard",
+                "first_name": "Kevin",
+                "middle_name": "A.",
+                "last_name": "Avard",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-012",
+                "ftm_eid": 9727190,
+                "votesmart_id": 13431,
+                "opensecrets_id": "",
+                "knowwho_pid": 296158,
+                "ballotpedia": "Kevin_Avard",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4760,
+                "person_hash": "8scgvpbd",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Jeb Bradley",
+                "first_name": "Jeb",
+                "middle_name": "",
+                "last_name": "Bradley",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-003",
+                "ftm_eid": 6636719,
+                "votesmart_id": 4953,
+                "opensecrets_id": "",
+                "knowwho_pid": 197009,
+                "ballotpedia": "Jeb_Bradley",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18168,
+                "person_hash": "wzdy4vye",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Bob Giuda",
+                "first_name": "Robert",
+                "middle_name": "",
+                "last_name": "Giuda",
+                "suffix": "",
+                "nickname": "Bob",
+                "district": "SD-002",
+                "ftm_eid": 6594468,
+                "votesmart_id": 21328,
+                "opensecrets_id": "",
+                "knowwho_pid": 208524,
+                "ballotpedia": "Bob_Giuda",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19166,
+                "person_hash": "nmyh7fie",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Timothy Lang",
+                "first_name": "Timothy",
+                "middle_name": "P.",
+                "last_name": "Lang",
+                "suffix": "Sr.",
+                "nickname": "",
+                "district": "HD-04-BEL",
+                "ftm_eid": 13703536,
+                "votesmart_id": 141853,
+                "opensecrets_id": "",
+                "knowwho_pid": 426007,
+                "ballotpedia": "Timothy_Lang_Sr.",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2267350,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB109/id/2267350",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=938&txtFormat=html",
+                "text_size": 10676,
+                "text_hash": "e35aab535783950f8147770c5ca8777e"
+            },
+            {
+                "doc_id": 2355247,
+                "date": "2021-04-01",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB109/id/2355247",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=SA&id=938",
+                "text_size": 10635,
+                "text_hash": "7631f0875417c6578df1e8fcbd890f23"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1046286,
+                "date": "2021-04-01",
+                "desc": "Committee Amendment 0970s",
+                "yea": 24,
+                "nay": 0,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB109/id/1046286",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=279&sy=2021&lb=S&eb=SB0109&sortoption=&txtsessionyear=2021&txtbillnumber=SB109&ddlsponsors=&lsr=947"
+            },
+            {
+                "roll_call_id": 1046287,
+                "date": "2021-04-01",
+                "desc": "Ought to Pass w/Amendment",
+                "yea": 24,
+                "nay": 0,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB109/id/1046287",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=280&sy=2021&lb=S&eb=SB0109&sortoption=&txtsessionyear=2021&txtbillnumber=SB109&ddlsponsors=&lsr=947"
+            },
+            {
+                "roll_call_id": 1046288,
+                "date": "2021-04-01",
+                "desc": "Laid on Table",
+                "yea": 24,
+                "nay": 0,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB109/id/1046288",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=281&sy=2021&lb=S&eb=SB0109&sortoption=&txtsessionyear=2021&txtbillnumber=SB109&ddlsponsors=&lsr=947"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [],
+        "full_text": "eligible customer generator exception added for municipal hosts amend rsa through to read as follows eligible or means an electric utility customer who owns operates or purchases power from an electrical generating facility either powered by renewable energy or which employs a heat led combined heat and power system with a total peak generating capacity of up to and including one megawatt except as provided for a municipal host as defined in paragraph that is located behind a retail meter on the customer s premises is interconnected and operates in parallel with the electric grid and is used to offset the customer s own electricity requirements incremental generation added to an existing generation facility that does not itself qualify for net metering shall qualify if such incremental generation meets the qualifications of this paragraph and is metered separately from the nonqualifying facility municipal host means a customer generator with a total peak generating capacity of greater than one megawatt and less than megawatts used to offset the electricity requirements of a group consisting exclusively of one or more customers who are political subdivisions provided that all customers are located within the same utility franchise service territory a municipal host shall be located in the same municipality as all group members if the facility began operation after january a municipal host may be owned by either a public or private entity for this definition political subdivision means any city town county school district chartered public school village district school administrative unit or any district or entity created for a special purpose administered or funded by any of the governmental units eligible fuel means natural gas propane wood pellets hydrogen or heating oil when combusted with a burner including air emission standards for the device using the approved fuel heat led means that the combined heat and power system is operated in a manner to satisfy the heat usage needs of the"
+    }
+}

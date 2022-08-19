@@ -1,0 +1,208 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1398362,
+        "change_hash": "9a905eea04d5b8cd259e47296d850eb2",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB419/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=522&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB419",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-10",
+        "progress": [
+            {
+                "date": "2021-01-10",
+                "event": 1
+            },
+            {
+                "date": "2021-01-10",
+                "event": 9
+            },
+            {
+                "date": "2021-03-02",
+                "event": 11
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB419",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to assault of a campaign worker at the polling place.",
+        "description": "Relative to assault of a campaign worker at the polling place.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-10",
+                "committee_id": 1239,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Criminal Justice and Public Safety"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-10",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Criminal Justice and Public Safety House Journal  2 P. 47",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-01",
+                "action": "Public Hearing: 03/01/2021 10:45 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/93127871930 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-02",
+                "action": "Committee Report: Inexpedient to Legislate (Vote 19-0; Consent Calendar) House Calendar 18 P. 6",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Inexpedient to Legislate: Motion Adopted Voice Vote 04/07/2021 House Journal  5 P. 8",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Reconsider (Rep. Osborne): Motion Failed Voice Vote 04/07/2021 House Journal  5 P. 50",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 16622,
+                "person_hash": "k000lozh",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Katherine Prudhomme-O'Brien",
+                "first_name": "Katherine",
+                "middle_name": "",
+                "last_name": "Prudhomme-O'Brien",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-06-ROC",
+                "ftm_eid": 6695401,
+                "votesmart_id": 127368,
+                "opensecrets_id": "",
+                "knowwho_pid": 296206,
+                "ballotpedia": "Katherine_Prudhomme_O%27Brien",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21841,
+                "person_hash": "rfftx3km",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Bob Lynn",
+                "first_name": "Bob",
+                "middle_name": "",
+                "last_name": "Lynn",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-07-ROC",
+                "ftm_eid": 50226683,
+                "votesmart_id": 128464,
+                "opensecrets_id": "",
+                "knowwho_pid": 744345,
+                "ballotpedia": "Bob_Lynn",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19797,
+                "person_hash": "mkwm5wf1",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "David Love",
+                "first_name": "David",
+                "middle_name": "C.",
+                "last_name": "Love",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-06-ROC",
+                "ftm_eid": 41757581,
+                "votesmart_id": 173059,
+                "opensecrets_id": "",
+                "knowwho_pid": 587609,
+                "ballotpedia": "David_Love",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2234650,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB419/id/2234650",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=504&txtFormat=html",
+                "text_size": 30458,
+                "text_hash": "00cc556bd40d17a7df231fbb2b0431da"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-01",
+                "time": "10:45",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Criminal Justice and Public Safety Public Hearing"
+            }
+        ]
+    }
+}

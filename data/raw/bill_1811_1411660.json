@@ -1,0 +1,322 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1411660,
+        "change_hash": "960cfc3dca10a1ab4b9ac0186de96250",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/SB49/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=760&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=SB49",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2021-07-06",
+        "progress": [
+            {
+                "date": "2021-01-19",
+                "event": 1
+            },
+            {
+                "date": "2021-01-19",
+                "event": 9
+            },
+            {
+                "date": "2021-01-28",
+                "event": 10
+            },
+            {
+                "date": "2021-03-10",
+                "event": 2
+            },
+            {
+                "date": "2021-03-10",
+                "event": 9
+            },
+            {
+                "date": "2021-05-26",
+                "event": 10
+            },
+            {
+                "date": "2021-06-25",
+                "event": 3
+            },
+            {
+                "date": "2021-07-06",
+                "event": 8
+            },
+            {
+                "date": "2021-07-06",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "SB49",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "S",
+        "body_id": 68,
+        "current_body": "S",
+        "current_body_id": 68,
+        "title": "Relative to the New Hampshire trust code.",
+        "description": "Relative to the New Hampshire trust code.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-19",
+                "committee_id": 1277,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Ways and Means"
+            },
+            {
+                "date": "2021-03-10",
+                "committee_id": 1238,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Commerce and Consumer Affairs"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-19",
+                "action": "Introduced 01/06/2021 and Referred to Ways and Means; Senate Journal 3",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-21",
+                "action": "Remote Hearing: 01/27/2021, 01:15 pm; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  8",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-01-28",
+                "action": "Committee Report: Ought to Pass, 02/04/2021; Vote 5-0; Consent Calendar; Senate Calendar  10",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-04",
+                "action": "Ought to Pass: Regular Calendar 23Y-1N, Motion Adopted; OT3rdg; 02/04/2021; Senate Journal 3",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-10",
+                "action": "Introduced (in recess of) 02/25/2021 and referred to Commerce and Consumer Affairs House Journal  4 P. 48",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-17",
+                "action": "Public Hearing: 03/30/2021 09:30 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/99157160886 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-05",
+                "action": "Executive Session: 05/13/2021 10:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/93883325643",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-26",
+                "action": "Committee Report: Ought to Pass (Vote 19-0; Consent Calendar) House Calendar 26 P. 4",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-06-03",
+                "action": "Ought to Pass: Motion Adopted Voice Vote 06/03/2021 House Journal  8 P. 3",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-16",
+                "action": "Enrolled Bill Amendment # 2021-1893e: Amendment Adopted Voice Vote (in recess of) 06/10/2021 House Journal  10 P. 23",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-16",
+                "action": "Enrolled Bill Amendment # 2021-1893e Adopted, Voice Vote, (In recess of 06/10/2021); Senate Journal 20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-25",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 06/24/2021); Senate Journal 20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-25",
+                "action": "Enrolled (in recess of) 06/24/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-07-06",
+                "action": "Signed by the Governor on 07/01/2021; Chapter 0103; Effective 08/30/2021",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 4783,
+                "person_hash": "65ugj1s8",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Lou D'Allesandro",
+                "first_name": "Lou",
+                "middle_name": "C.",
+                "last_name": "D'Allesandro",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-020",
+                "ftm_eid": 13012859,
+                "votesmart_id": 14808,
+                "opensecrets_id": "",
+                "knowwho_pid": 196895,
+                "ballotpedia": "Lou_D%27Allesandro",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4760,
+                "person_hash": "8scgvpbd",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Jeb Bradley",
+                "first_name": "Jeb",
+                "middle_name": "",
+                "last_name": "Bradley",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-003",
+                "ftm_eid": 6636719,
+                "votesmart_id": 4953,
+                "opensecrets_id": "",
+                "knowwho_pid": 197009,
+                "ballotpedia": "Jeb_Bradley",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4896,
+                "person_hash": "mtn0aneh",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "John Hunt",
+                "first_name": "John",
+                "middle_name": "B.",
+                "last_name": "Hunt",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-11-CHE",
+                "ftm_eid": 6594796,
+                "votesmart_id": 8051,
+                "opensecrets_id": "",
+                "knowwho_pid": 197041,
+                "ballotpedia": "John_Hunt_(New_Hampshire)",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2247134,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB49/id/2247134",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=744&txtFormat=html",
+                "text_size": 14324,
+                "text_hash": "edb18a11f6df8fe269bd761e5efdbf87"
+            },
+            {
+                "doc_id": 2411470,
+                "date": "2021-06-03",
+                "type": "Enrolled",
+                "type_id": 5,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB49/id/2411470",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&v=HP&id=744",
+                "text_size": 14335,
+                "text_hash": "32ff34c8d6b5a9233419d11dd45d253c"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-30",
+                "time": "09:30",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Commerce and Consumer Affairs Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-05-13",
+                "time": "10:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Commerce and Consumer Affairs Executive Session"
+            }
+        ]
+    }
+}

@@ -1,0 +1,288 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1398399,
+        "change_hash": "3e5b43721f7ea8ee516ee9f468dac547",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB428/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=572&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB428",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-10",
+        "progress": [
+            {
+                "date": "2021-01-10",
+                "event": 1
+            },
+            {
+                "date": "2021-01-10",
+                "event": 9
+            },
+            {
+                "date": "2021-03-29",
+                "event": 11
+            },
+            {
+                "date": "2021-03-29",
+                "event": 10
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB428",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to the procedures for apportioning electoral districts.",
+        "description": "Relative to the procedures for apportioning electoral districts.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-10",
+                "committee_id": 1241,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Election Law"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-10",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Election Law House Journal  2 P. 48",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-17",
+                "action": "Public Hearing: 02/17/2021 11:30 am Please click the link below to join the webinar:https://zoom.us/j/95842759377Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-03",
+                "action": "==CONTINUED== Executive Session: 03/10/2021 10:10 am Members of the public may attend using the following link:To join the webinar: https://zoom.us/j/95087806399 (if necessary)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-05",
+                "action": "Executive Session: 03/05/2021 12:00 pm Please click the link below to join the webinar:https://zoom.us/j/99327579520",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-29",
+                "action": "Majority Committee Report: Inexpedient to Legislate (Vote 11-9; Regular Calendar) House Calendar 18 P. 70",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-29",
+                "action": "Minority Committee Report: Ought to Pass",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 18149,
+                "person_hash": "itr43jxq",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Dan Wolf",
+                "first_name": "Dan",
+                "middle_name": "",
+                "last_name": "Wolf",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-07-HIL",
+                "ftm_eid": 9697983,
+                "votesmart_id": 172477,
+                "opensecrets_id": "",
+                "knowwho_pid": 587510,
+                "ballotpedia": "Dan_Wolf_(New_Hampshire)",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 15305,
+                "person_hash": "seh7y46p",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Karen Ebel",
+                "first_name": "Karen",
+                "middle_name": "",
+                "last_name": "Ebel",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-05-MER",
+                "ftm_eid": 13703636,
+                "votesmart_id": 141759,
+                "opensecrets_id": "",
+                "knowwho_pid": 426640,
+                "ballotpedia": "Karen_Ebel",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4845,
+                "person_hash": "0rmbg8t7",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Marjorie Smith",
+                "first_name": "Marjorie",
+                "middle_name": "",
+                "last_name": "Smith",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-07-STR",
+                "ftm_eid": 6395309,
+                "votesmart_id": 14725,
+                "opensecrets_id": "",
+                "knowwho_pid": 197019,
+                "ballotpedia": "Marjorie_Smith",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19833,
+                "person_hash": "oksr8u28",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Edward Gordon",
+                "first_name": "Edward",
+                "middle_name": "",
+                "last_name": "Gordon",
+                "suffix": "",
+                "nickname": "Ned",
+                "district": "HD-09-GRA",
+                "ftm_eid": 45972179,
+                "votesmart_id": 8649,
+                "opensecrets_id": "",
+                "knowwho_pid": 670369,
+                "ballotpedia": "Edward_M._Gordon",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19158,
+                "person_hash": "w1hs0gt8",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Betty Gay",
+                "first_name": "Betty",
+                "middle_name": "I.",
+                "last_name": "Gay",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-08-ROC",
+                "ftm_eid": 41757586,
+                "votesmart_id": 172527,
+                "opensecrets_id": "",
+                "knowwho_pid": 587625,
+                "ballotpedia": "Betty_Gay",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2235003,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB428/id/2235003",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=560&txtFormat=html",
+                "text_size": 12788,
+                "text_hash": "cc9746588ce4621c73c6f88dd68e28f0"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-17",
+                "time": "11:30",
+                "location": "Please click the link below to join the webinar:https://zoom.us/",
+                "description": "Election Law Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-05",
+                "time": "12:00",
+                "location": "Please click the link below to join the webinar:https://zoom.us/",
+                "description": "Election Law Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-10",
+                "time": "10:10",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Election Law Executive Session"
+            }
+        ],
+        "full_text": "new chapter procedures for apportioning electoral districts amend rsa by inserting after chapter the following new chapter chapter procedures for apportioning electoral districts map drawing preparations any legislative committee appointed to consider redistricting after the decennial census shall establish an internet website which shall at a minimum post audio and video recordings of any meeting held by such committee provide advance notice of any public forms post meeting agendas and minutes and solicit public comment such website shall be hosted by the secretary of state prior to drawing any maps any legislative committee appointed to consider redistricting shall publish a report which shall detail such committee s general priorities and intentions for balancing map drawing requirements any legislative committee appointed to consider redistricting may employ staff for assistance with communications information technology and language access any legislative committee appointed to consider redistricting shall solicit testimony from county and municipal election officials on local demographics and communities of interest within days of being established such a committee may hold public hearings to solicit such information public input and community participation upon releasing any preliminary redistricting plans any legislative committee appointed to consider redistricting shall hold at least public meetings including at least one in each county of state to gather public input on the preliminary plans any legislative committee appointed to consider redistricting shall provide at least days notice prior to holding any public meeting pursuant to paragraph i and shall make reasonable efforts to schedule meetings outside of regular working hours in venues and to provide virtual attendance opportunities members of the public submitting oral or written testimony at any public meeting held pursuant to this section shall disclose whether they are required to register as a lobbyist pursuant to rsa preliminary and final plans any legislative committee appointed to consider redistricting shall release a preliminary plan at least days prior to holding a public hearing on such plan such plan shall include maps that can be viewed by the public on the committee s website any legislative committee appointed to consider redistricting shall release any proposed final plan at least days prior to holding any vote on such plan any final plan shall include maps that can be viewed by the public on the committee s website any legislative committee appointed to consider redistricting shall include in its final report a summary of all public input all draft plans and data considered and used by the committee an analysis of the plan s adherence to map drawing criteria and any additional information used by the committee during map drawing if any committee member votes against adoption of a final plan the committee report described in paragraph iii shall include a dissenting report explaining such decision any legislative committee appointed to consider redistricting shall submit its final plan to the state legislature for final adoption pursuant to state law"
+    }
+}

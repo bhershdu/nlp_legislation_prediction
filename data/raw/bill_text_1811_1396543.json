@@ -1,0 +1,200 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1396543,
+        "change_hash": "73e102e29b9f537b1e3891afdd5daedf",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB410/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=458&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB410",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-10",
+        "progress": [
+            {
+                "date": "2021-01-10",
+                "event": 1
+            },
+            {
+                "date": "2021-01-10",
+                "event": 9
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB410",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Establishing a committee to study the requirements of reporting by utility companies of information required for valuation of certain utility property for purposes of RSA 72.",
+        "description": "Establishing a committee to study the requirements of reporting by utility companies of information required for valuation of certain utility property for purposes of RSA 72.",
+        "pending_committee_id": 1261,
+        "committee": {
+            "committee_id": 1261,
+            "chamber": "H",
+            "chamber_id": 67,
+            "name": "Science, Technology and Energy"
+        },
+        "referrals": [
+            {
+                "date": "2021-01-10",
+                "committee_id": 1261,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Science, Technology and Energy"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-10",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Science, Technology and Energy House Journal  2 P. 46",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-21",
+                "action": "Public Hearing: 02/01/2021 11:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/92752912485 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-23",
+                "action": "Retained in Committee",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-09-07",
+                "action": "Subcommittee Work Session: 09/15/2021 10:00 am Legislative Office Building 302-304",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-10-26",
+                "action": "Executive Session: 10/26/2021 10:00 a.m. Legislative Office Building302-304",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 18166,
+                "person_hash": "k25p0mqi",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Troy Merner",
+                "first_name": "Troy",
+                "middle_name": "E.",
+                "last_name": "Merner",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-07-COO",
+                "ftm_eid": 6494514,
+                "votesmart_id": 110056,
+                "opensecrets_id": "",
+                "knowwho_pid": 296122,
+                "ballotpedia": "Troy_Merner",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 11837,
+                "person_hash": "9bfp0ziy",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Patrick Abrami",
+                "first_name": "Patrick",
+                "middle_name": "",
+                "last_name": "Abrami",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-19-ROC",
+                "ftm_eid": 13004265,
+                "votesmart_id": 126608,
+                "opensecrets_id": "",
+                "knowwho_pid": 296219,
+                "ballotpedia": "Patrick_Abrami",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2234606,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB410/id/2234606",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=463&txtFormat=html",
+                "text_size": 10350,
+                "text_hash": "7bad2b6d66e32c4130036f5df7554e9a"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-01",
+                "time": "11:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Science, Technology and Energy Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-09-15",
+                "time": "10:00",
+                "location": "Legislative Office Building 302-304",
+                "description": "Science, Technology and Energy Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-10-26",
+                "time": "10:00",
+                "location": "Legislative Office Building302-304",
+                "description": "Science, Technology and Energy Executive Session"
+            }
+        ],
+        "full_text": "committee established there is established a committee to study the requirements of reporting by utility companies of information required for valuation of utility transmission and generation property for purposes of rsa membership and compensation the members of the committee shall be as follows a three members of the house of representatives one of whom shall be a member of the science technology and energy committee one of whom shall be a member of the ways and means committee and one of whom shall be from the minority party appointed by the speaker of the house of representatives b one member of the senate appointed by the president of the senate members of the committee shall receive mileage at the legislative rate when attending to the duties of the committee duties the committee shall study and report as to whether legislation is recommended regarding the form and content of reporting by utility companies of the value of utility transmission and generation property for purposes of rsa chairperson quorum the members of the study committee shall elect a chairperson from among the members the first meeting of the committee shall be called by the house member the first meeting of the committee shall be held within days of the effective date of this section three members of the committee shall constitute a quorum report the committee shall report its findings and any recommendations for proposed legislation to the speaker of the house of representatives the president of the senate the house clerk the senate clerk the governor and the state library on or before november"
+    }
+}

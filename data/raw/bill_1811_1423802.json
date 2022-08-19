@@ -1,0 +1,383 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1423802,
+        "change_hash": "55b2456f433b75e7b878c872e57a42fb",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/SB97/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=407&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=SB97",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2021-07-26",
+        "progress": [
+            {
+                "date": "2021-01-26",
+                "event": 1
+            },
+            {
+                "date": "2021-01-26",
+                "event": 9
+            },
+            {
+                "date": "2021-02-11",
+                "event": 10
+            },
+            {
+                "date": "2021-03-10",
+                "event": 2
+            },
+            {
+                "date": "2021-03-10",
+                "event": 9
+            },
+            {
+                "date": "2021-03-10",
+                "event": 9
+            },
+            {
+                "date": "2021-05-25",
+                "event": 10
+            },
+            {
+                "date": "2021-07-12",
+                "event": 3
+            },
+            {
+                "date": "2021-07-26",
+                "event": 8
+            },
+            {
+                "date": "2021-07-26",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "SB97",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "S",
+        "body_id": 68,
+        "current_body": "S",
+        "current_body_id": 68,
+        "title": "Relative to in-network retail pharmacies.",
+        "description": "Relative to in-network retail pharmacies.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-26",
+                "committee_id": 1272,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Health and Human Services"
+            },
+            {
+                "date": "2021-03-10",
+                "committee_id": 1249,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Health, Human Services & Elderly Affairs"
+            },
+            {
+                "date": "2021-03-17",
+                "committee_id": 1238,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Commerce and Consumer Affairs"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-26",
+                "action": "Introduced 01/06/2021 and Referred to Health and Human Services; Senate Journal 3",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-28",
+                "action": "Remote Hearing: 02/03/2021, 09:15 am; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  9",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-11",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-0326s, 02/18/2021; Senate Calendar  11",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-18",
+                "action": "Committee Amendment # 2021-0326s, Regular Calendar 23Y-1N, Amendment Adopted; 02/18/2021; Senate Journal 5",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-18",
+                "action": "Ought to Pass with Amendment 2021-0326s, Regular Calendar 23Y-1N, Motion Adopted; OT3rdg; 02/18/2021; Senate Journal 5",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-10",
+                "action": "Introduced (in recess of) 02/25/2021 and referred to Health, Human Services and Elderly Affairs House Journal  4 P. 48",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-10",
+                "action": "Vacated and Referred to Commerce and Consumer Affairs (Rep. Steven Smith): Motion Adopted Voice Vote (in recess of) 02/25/2021 House Journal  4 P. 49",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-17",
+                "action": "Public Hearing: 03/24/2021 11:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/97709851457 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-05",
+                "action": "==RECESSED== Executive Session: 05/13/2021 10:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/93883325643",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-18",
+                "action": "==CONTINUED== Executive Session: 05/25/2021 10:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/94122935505",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-25",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-1606h (Vote 17-0; Consent Calendar) House Calendar 26 P. 5",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-06-03",
+                "action": "Amendment # 2021-1606h: Amendment Adopted Voice Vote 06/03/2021 House Journal  8 P. 4",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-03",
+                "action": "Ought to Pass with Amendment 2021-1606h: Motion Adopted Voice Vote 06/03/2021 House Journal  8 P. 4",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-10",
+                "action": "Sen. Bradley Moved to Concur with the House Amendment, Motion Adopted, Voice Vote; 06/10/2021; Senate Journal 19",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-12",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 06/24/2021); Senate Journal 20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-12",
+                "action": "Enrolled (in recess of) 06/24/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-07-26",
+                "action": "Signed by the Governor on 07/23/2021; Chapter 0149; Effective 09/21/2021",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 17481,
+                "person_hash": "ghibvwim",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Erin Hennessey",
+                "first_name": "Erin",
+                "middle_name": "Tapper",
+                "last_name": "Hennessey",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-001",
+                "ftm_eid": 25005445,
+                "votesmart_id": 154433,
+                "opensecrets_id": "",
+                "knowwho_pid": 501701,
+                "ballotpedia": "Erin_Hennessey",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2259520,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB97/id/2259520",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=411&txtFormat=html",
+                "text_size": 14244,
+                "text_hash": "fc483704e30aa868aaad5cc84898fec4"
+            },
+            {
+                "doc_id": 2299438,
+                "date": "2021-02-18",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB97/id/2299438",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=SA&id=411",
+                "text_size": 16249,
+                "text_hash": "0ffb2cb003619c85542b51f1094e30b2"
+            },
+            {
+                "doc_id": 2411639,
+                "date": "2021-02-18",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB97/id/2411639",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=HA&id=411",
+                "text_size": 12592,
+                "text_hash": "802f32096cd953815f263a4d54e3efe3"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1010221,
+                "date": "2021-02-18",
+                "desc": "Committee Amendment 0326s",
+                "yea": 23,
+                "nay": 1,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB97/id/1010221",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=65&sy=2021&lb=S&eb=SB0097&sortoption=&txtsessionyear=2021&txtbillnumber=SB97&ddlsponsors=&lsr=407"
+            },
+            {
+                "roll_call_id": 1010222,
+                "date": "2021-02-18",
+                "desc": "Ought to Pass w/Amendment",
+                "yea": 23,
+                "nay": 1,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB97/id/1010222",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=66&sy=2021&lb=S&eb=SB0097&sortoption=&txtsessionyear=2021&txtbillnumber=SB97&ddlsponsors=&lsr=407"
+            },
+            {
+                "roll_call_id": 1014011,
+                "date": "2021-02-18",
+                "desc": "Committee Amendment 0326s",
+                "yea": 23,
+                "nay": 1,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB97/id/1014011",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=65&sy=2021&lb=S&eb=SB0097&sortoption=&txtsessionyear=2021&txtbillnumber=SB97&ddlsponsors=&lsr=0407"
+            },
+            {
+                "roll_call_id": 1014012,
+                "date": "2021-02-18",
+                "desc": "Ought to Pass w/Amendment",
+                "yea": 23,
+                "nay": 1,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB97/id/1014012",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=66&sy=2021&lb=S&eb=SB0097&sortoption=&txtsessionyear=2021&txtbillnumber=SB97&ddlsponsors=&lsr=0407"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-24",
+                "time": "11:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Commerce and Consumer Affairs Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-05-13",
+                "time": "10:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Commerce and Consumer Affairs Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-05-25",
+                "time": "10:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Commerce and Consumer Affairs Executive Session"
+            }
+        ]
+    }
+}

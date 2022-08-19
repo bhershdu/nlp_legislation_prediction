@@ -1,0 +1,412 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1393052,
+        "change_hash": "0eff064cc4df576ed629911b5256e0cf",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB154/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=116&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB154",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2021-06-21",
+        "progress": [
+            {
+                "date": "2021-01-04",
+                "event": 1
+            },
+            {
+                "date": "2021-01-04",
+                "event": 9
+            },
+            {
+                "date": "2021-01-15",
+                "event": 9
+            },
+            {
+                "date": "2021-02-25",
+                "event": 10
+            },
+            {
+                "date": "2021-04-07",
+                "event": 2
+            },
+            {
+                "date": "2021-04-07",
+                "event": 9
+            },
+            {
+                "date": "2021-05-11",
+                "event": 10
+            },
+            {
+                "date": "2021-06-11",
+                "event": 3
+            },
+            {
+                "date": "2021-06-21",
+                "event": 8
+            },
+            {
+                "date": "2021-06-21",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB154",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to community revitalization tax relief incentives.",
+        "description": "Relative to community revitalization tax relief incentives.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-04",
+                "committee_id": 1264,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Ways and Means"
+            },
+            {
+                "date": "2021-01-15",
+                "committee_id": 1257,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Municipal and County Government"
+            },
+            {
+                "date": "2021-04-07",
+                "committee_id": 1277,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Ways and Means"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-04",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Ways and Means House Journal  2 P. 37",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-15",
+                "action": "Vacated and Referred to Municipal and County Government (Rep. Steven Smith): Motion Adopted Voice Vote (in recess of) 01/06/2021 House Journal  2 P. 58",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-02",
+                "action": "Public Hearing: 02/09/2021 11:30 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/93215390740 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-18",
+                "action": "Executive Session: 02/18/2021 01:30 pm Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/94522837794",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-25",
+                "action": "Committee Report: Ought to Pass (Vote 19-0; Consent Calendar) House Calendar 18 P. 20",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Ought to Pass: Motion Adopted Voice Vote 04/07/2021 House Journal  5 P. 43",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Reconsider (Rep. Osborne): Motion Failed Voice Vote 04/07/2021 House Journal  5 P. 50",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Introduced 04/01/2021 and Referred to Ways and Means; Senate Journal 11",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-08",
+                "action": "Remote Hearing: 04/12/2021, 09:00 am; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  19",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-11",
+                "action": "Committee Report: Ought to Pass, 05/20/2021; Vote 5-0; Consent Calendar; Senate Calendar  24",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-05-20",
+                "action": "Ought to Pass: Motion Adopted, Voice Vote; OT3rdg; 05/20/2021; Senate Journal 16",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-11",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 06/10/2021); Senate Journal 19",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-11",
+                "action": "Enrolled (in recess of) 06/10/2021 House Journal  10 P. 21",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-06-21",
+                "action": "Signed by Governor Sununu 06/18/2021; Chapter 81; Eff: 04/01/2022",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 19460,
+                "person_hash": "9tstvyhl",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Casey Conley",
+                "first_name": "Casey",
+                "middle_name": "M.",
+                "last_name": "Conley",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-13-STR",
+                "ftm_eid": 43989827,
+                "votesmart_id": 176725,
+                "opensecrets_id": "",
+                "knowwho_pid": 644124,
+                "ballotpedia": "Casey_Conley",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 17494,
+                "person_hash": "dj0cr8wi",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Ivy Vann",
+                "first_name": "Ivy",
+                "middle_name": "",
+                "last_name": "Vann",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-24-HIL",
+                "ftm_eid": 25005757,
+                "votesmart_id": 154293,
+                "opensecrets_id": "",
+                "knowwho_pid": 502148,
+                "ballotpedia": "Ivy_Vann",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19110,
+                "person_hash": "8d67mr4c",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Chuck Grassie",
+                "first_name": "Chuck",
+                "middle_name": "",
+                "last_name": "Grassie",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-11-STR",
+                "ftm_eid": 6394424,
+                "votesmart_id": 111940,
+                "opensecrets_id": "",
+                "knowwho_pid": 603174,
+                "ballotpedia": "Chuck_Grassie",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19883,
+                "person_hash": "2tjp2hjv",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Andrew Bouldin",
+                "first_name": "Andrew",
+                "middle_name": "",
+                "last_name": "Bouldin",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-12-HIL",
+                "ftm_eid": 45378645,
+                "votesmart_id": 185553,
+                "opensecrets_id": "",
+                "knowwho_pid": 670551,
+                "ballotpedia": "Andrew_Bouldin",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19147,
+                "person_hash": "itiyyoxm",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Skip Cleaver",
+                "first_name": "Skip",
+                "middle_name": "",
+                "last_name": "Cleaver",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-35-HIL",
+                "ftm_eid": 41757347,
+                "votesmart_id": 172654,
+                "opensecrets_id": "",
+                "knowwho_pid": 587473,
+                "ballotpedia": "Skip_Cleaver",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4958,
+                "person_hash": "2po1aje7",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "David Watters",
+                "first_name": "David",
+                "middle_name": "H.",
+                "last_name": "Watters",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-004",
+                "ftm_eid": 6494743,
+                "votesmart_id": 110047,
+                "opensecrets_id": "",
+                "knowwho_pid": 269494,
+                "ballotpedia": "David_Watters",
+                "sponsor_type_id": 2,
+                "sponsor_order": 6,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2227351,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB154/id/2227351",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=116&txtFormat=html",
+                "text_size": 14283,
+                "text_hash": "1d162132b79602027d9bc12bf57e17ae"
+            },
+            {
+                "doc_id": 2400963,
+                "date": "2021-05-20",
+                "type": "Enrolled",
+                "type_id": 5,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB154/id/2400963",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&v=SP&id=116",
+                "text_size": 14300,
+                "text_hash": "e91193bdeccdab7481a6380e961410c7"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-09",
+                "time": "11:30",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Municipal and County Government Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-18",
+                "time": "13:30",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Municipal and County Government Executive Session"
+            }
+        ],
+        "full_text": "definition of qualifying structure amend rsa ii to read as follows qualifying structure means a building located in a district officially designated in a municipality s master plan or by zoning ordinance as a downtown town center central business district or village center or where no such designation has been made in a geographic area which as a result of its compact development patterns and uses is identified by the governing body as the downtown town center or village center for purposes of this chapter qualifying structure shall also mean historic structures in a municipality whose preservation and reuse would conserve the embodied energy in existing building stock cities or towns may further limit qualifying structure according to the procedure in rsa as meaning only a structure located within such districts that meet certain age occupancy condition size or other similar criteria consistent with local economic conditions community character and local planning and development goals cities or towns may further modify qualifying structure to include buildings that have been destroyed by fire or act of nature including where such destruction occurred within years prior to the adoption of the provisions of this chapter by the city or town in a city or town that has adopted the provisions of rsa qualifying structure also means potentially impacted structures identified by the municipality within the coastal resilience incentive zone established under rsa in a city or town that has adopted the provisions of rsa qualifying structure also means a housing unit or units constructed in a housing opportunity zone established under rsa housing opportunity zone a city or town may adopt the provisions of this section by vote of its legislative body in accordance with the procedures described in rsa to establish a housing opportunity zone to be eligible for tax relief under this section the qualifying structure and property shall be located within the housing opportunity zone established by the municipality no less than of the housing units constructed shall be designated for households with an income of percent or less of the area median income as measured by the united states department of housing and urban development or the housing units in a qualifying structure shall be designated for households with incomes as provided in rsa a qualifying structure under this section shall be eligible for tax assessment relief for a period of up to years beginning upon issuance of the certification of occupancy affordable housing fund definitions of person of low income person of moderate income and person of very low income amend rsa iv and v to read as follows person of low income means any single individual or any family whose gross income is less than greater than percent and less than or equal to percent of the median income of respectively all single persons or all families adjusted for number of members residing in the applicable geographical area of the state person of moderate income means any single individual or any family whose gross income is between and greater than percent and less than or equal to percent of the median income of respectively all single persons or all families adjusted for the number of members residing in the applicable geographical area of the state person of very low income means any single individual or any family whose gross income is less than or equal to percent of the median income of respectively all single persons or all families adjusted for the number of members residing in the applicable geographical area of the state affordable housing fund rsa iv is repealed and reenacted to read as follows the authority shall only provide financial assistance under this subdivision for projects that meet one of the following criteria a at least percent of the units shall be affordable to persons of very low low or moderate income b at least percent of the units shall be affordable to persons of very low or low income or c at least percent of the units shall be affordable to persons of very low income"
+    }
+}

@@ -1,0 +1,387 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1399732,
+        "change_hash": "26ab6ea2989fdf2974fadb2c7f5d0909",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB513/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=788&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB513",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2021-08-03",
+        "progress": [
+            {
+                "date": "2021-01-11",
+                "event": 1
+            },
+            {
+                "date": "2021-01-11",
+                "event": 9
+            },
+            {
+                "date": "2021-02-10",
+                "event": 10
+            },
+            {
+                "date": "2021-02-10",
+                "event": 11
+            },
+            {
+                "date": "2021-03-04",
+                "event": 2
+            },
+            {
+                "date": "2021-03-04",
+                "event": 9
+            },
+            {
+                "date": "2021-03-17",
+                "event": 10
+            },
+            {
+                "date": "2021-04-12",
+                "event": 3
+            },
+            {
+                "date": "2021-08-03",
+                "event": 8
+            },
+            {
+                "date": "2021-08-03",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB513",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to the degree granting authority of Signum university and relative to the authority of the higher education commission.",
+        "description": "Relative to the degree granting authority of Signum university and relative to the authority of the higher education commission.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-11",
+                "committee_id": 1240,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Education"
+            },
+            {
+                "date": "2021-03-04",
+                "committee_id": 1267,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Education"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-11",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Education House Journal  2 P. 51",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-20",
+                "action": "Public Hearing: 01/26/2021 11:30 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/91325381640 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-10",
+                "action": "Majority Committee Report: Ought to Pass (Vote 11-8; Regular Calendar) House Calendar 12 P. 28",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-10",
+                "action": "Minority Committee Report: Inexpedient to Legislate",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-25",
+                "action": "Ought to Pass: Motion Adopted Regular Calendar 190-155 02/25/2021 House Journal  4 P. 28",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-04",
+                "action": "Introduced 03/04/2021 and Referred to Education; Senate Journal 7",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-10",
+                "action": "Remote Hearing: 03/16/2021, 09:45 am; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  15",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-17",
+                "action": "Committee Report: Ought to Pass, 03/25/2021; Senate Calendar  16",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-25",
+                "action": "Ought to Pass: Regular Calendar 21Y-3N, Motion Adopted; OT3rdg; 03/25/2021; Senate Journal 9",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-12",
+                "action": "Enrolled (in recess of) 04/09/2021 House Journal  7 P. 99",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-12",
+                "action": "Enrolled Regular Calendar 24Y-0N, Motion Adopted, (In recess of 04/08/2021); Senate Journal 12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-08-03",
+                "action": "Signed by Governor Sununu 07/29/2021; Chapter 159; Eff: 07/29/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 19784,
+                "person_hash": "swul5611",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "James Allard",
+                "first_name": "James",
+                "middle_name": "C.",
+                "last_name": "Allard",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-21-MER",
+                "ftm_eid": 45378622,
+                "votesmart_id": 185505,
+                "opensecrets_id": "",
+                "knowwho_pid": 670709,
+                "ballotpedia": "James_Allard",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4962,
+                "person_hash": "a8w1fmfn",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Roderick Ladd",
+                "first_name": "Roderick",
+                "middle_name": "M.",
+                "last_name": "Ladd",
+                "suffix": "",
+                "nickname": "Rick",
+                "district": "HD-05-GRA",
+                "ftm_eid": 6677856,
+                "votesmart_id": 109958,
+                "opensecrets_id": "",
+                "knowwho_pid": 269203,
+                "ballotpedia": "Rick_Ladd",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 14478,
+                "person_hash": "1kegb9fu",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Glenn Cordelli",
+                "first_name": "Glenn",
+                "middle_name": "",
+                "last_name": "Cordelli",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-04-CAR",
+                "ftm_eid": 13703548,
+                "votesmart_id": 143307,
+                "opensecrets_id": "",
+                "knowwho_pid": 427994,
+                "ballotpedia": "Glenn_Cordelli",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19823,
+                "person_hash": "dc1z3223",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Alicia Lekas",
+                "first_name": "Alicia",
+                "middle_name": "",
+                "last_name": "Lekas",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-37-HIL",
+                "ftm_eid": 45378800,
+                "votesmart_id": 185263,
+                "opensecrets_id": "",
+                "knowwho_pid": 670661,
+                "ballotpedia": "Alicia_Lekas",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4972,
+                "person_hash": "9f0oovab",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Ralph Boehm",
+                "first_name": "Ralph",
+                "middle_name": "G.",
+                "last_name": "Boehm",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-27-HIL",
+                "ftm_eid": 6593575,
+                "votesmart_id": 42443,
+                "opensecrets_id": "",
+                "knowwho_pid": 228819,
+                "ballotpedia": "Ralph_Boehm",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2234045,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB513/id/2234045",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=764&txtFormat=html",
+                "text_size": 8275,
+                "text_hash": "80c926d148fe5a00531733a3ffc96e13"
+            },
+            {
+                "doc_id": 2348032,
+                "date": "2021-03-25",
+                "type": "Enrolled",
+                "type_id": 5,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB513/id/2348032",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&v=SP&id=764",
+                "text_size": 8286,
+                "text_hash": "b2708e80653f0e31eb596018fb359aab"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1017275,
+                "date": "2021-02-26",
+                "desc": "OTP",
+                "yea": 190,
+                "nay": 155,
+                "nv": 17,
+                "absent": 36,
+                "total": 398,
+                "passed": 1,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/HB513/id/1017275",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=50&sy=2021&lb=H&eb=HB0513&sortoption=&txtsessionyear=2021&txtbillnumber=HB513&ddlsponsors=&lsr=788"
+            },
+            {
+                "roll_call_id": 1038851,
+                "date": "2021-03-25",
+                "desc": "Ought to Pass",
+                "yea": 21,
+                "nay": 3,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/HB513/id/1038851",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=207&sy=2021&lb=S&eb=HB0513&sortoption=&txtsessionyear=2021&txtbillnumber=HB513&ddlsponsors=&lsr=788"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-01-26",
+                "time": "11:30",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Education Public Hearing"
+            }
+        ]
+    }
+}

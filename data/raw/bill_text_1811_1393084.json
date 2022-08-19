@@ -1,0 +1,284 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1393084,
+        "change_hash": "ecee4d2d774d01973c563c90078e38bf",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB131/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=83&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB131",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2021-06-21",
+        "progress": [
+            {
+                "date": "2021-01-04",
+                "event": 1
+            },
+            {
+                "date": "2021-01-04",
+                "event": 9
+            },
+            {
+                "date": "2021-03-04",
+                "event": 10
+            },
+            {
+                "date": "2021-03-04",
+                "event": 11
+            },
+            {
+                "date": "2021-04-13",
+                "event": 2
+            },
+            {
+                "date": "2021-04-13",
+                "event": 9
+            },
+            {
+                "date": "2021-05-12",
+                "event": 10
+            },
+            {
+                "date": "2021-06-11",
+                "event": 3
+            },
+            {
+                "date": "2021-06-21",
+                "event": 8
+            },
+            {
+                "date": "2021-06-21",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB131",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to reporting of health care associated infections.",
+        "description": "Relative to reporting of health care associated infections.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-04",
+                "committee_id": 1249,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Health, Human Services & Elderly Affairs"
+            },
+            {
+                "date": "2021-04-13",
+                "committee_id": 1272,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Health and Human Services"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-04",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Health, Human Services and Elderly Affairs House Journal  2 P. 36",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-20",
+                "action": "Public Hearing: 01/26/2021 10:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/94852322897 / Executive session on pending legislation may be held throughout the day (time permitting) from the time thecommittee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-02",
+                "action": "Executive Session: 03/02/2021 12:30 pm Members of the public may attend using the following links:To join the webinar: https://www.zoom.us/j/99282187833",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-04",
+                "action": "Majority Committee Report: Ought to Pass (Vote 17-3; Regular Calendar) House Calendar 18 P. 47",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-04",
+                "action": "Minority Committee Report: Inexpedient to Legislate",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-08",
+                "action": "Ought to Pass: Motion Adopted Regular Calendar 230-130 04/08/2021 House Journal  6 P. 73",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-13",
+                "action": "Introduced 04/08/2021 and Referred to Health and Human Services; Senate Journal 12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-21",
+                "action": "Remote Hearing: 04/28/2021, 09:30 am; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  21",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-12",
+                "action": "Committee Report: Ought to Pass, 05/20/2021; Vote 5-0; Consent Calendar; Senate Calendar  24",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-05-20",
+                "action": "Ought to Pass: Motion Adopted, Voice Vote; OT3rdg; 05/20/2021; Senate Journal 16",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-11",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 06/10/2021); Senate Journal 19",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-11",
+                "action": "Enrolled (in recess of) 06/10/2021 House Journal  10 P. 21",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-06-21",
+                "action": "Signed by Governor Sununu 06/18/2021; Chapter 79; Eff: 08/17/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 19787,
+                "person_hash": "bjj3jam7",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Gary Woods",
+                "first_name": "Gary",
+                "middle_name": "L.",
+                "last_name": "Woods",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-23-MER",
+                "ftm_eid": 45378986,
+                "votesmart_id": 185380,
+                "opensecrets_id": "",
+                "knowwho_pid": 670713,
+                "ballotpedia": "Gary_Woods_(New_Hampshire)",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2227382,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB131/id/2227382",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=84&txtFormat=html",
+                "text_size": 11365,
+                "text_hash": "ee6b8fa3620e44c565db4a230e360d23"
+            },
+            {
+                "doc_id": 2401313,
+                "date": "2021-05-20",
+                "type": "Enrolled",
+                "type_id": 5,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB131/id/2401313",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&v=SP&id=84",
+                "text_size": 11376,
+                "text_hash": "e7c534bcad63d8a593427f181a1c30fb"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1049524,
+                "date": "2021-04-08",
+                "desc": "OTP",
+                "yea": 230,
+                "nay": 130,
+                "nv": 38,
+                "absent": 0,
+                "total": 398,
+                "passed": 1,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/HB131/id/1049524",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=110&sy=2021&lb=H&eb=HB0131&sortoption=&txtsessionyear=2021&txtbillnumber=HB131&ddlsponsors=&lsr=83"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-01-26",
+                "time": "10:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Health, Human Services and Elderly Affairs Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-02",
+                "time": "12:30",
+                "location": "Members of the public may attend using the following links:To jo",
+                "description": "Health, Human Services and Elderly Affairs Executive Session"
+            }
+        ],
+        "full_text": "residential care and health facility licensing reporting of health care associated infections amend rsa ii b to read as follows b hospitals shall also initially identify track and report process measures including adherence rates of central line insertion practices surgical antimicrobial prophylaxis and coverage rates of influenza vaccination for health care personnel and patients residents residential care and health facility licensing reporting of health care associated infections amend rsa iii and iv to read as follows subsequent to the initial requirements identified in paragraphs ii or the department shall from time to time require the tracking and reporting of other types of infections and measures when reporting protocols are identified by the department that occur in hospitals renal dialysis centers and ambulatory surgical facilities in consultation with technical advisors which shall include the centers for disease control and prevention cdc centers for medicare and medicaid services cms hospital inpatient quality reporting program and the national quality forum who are regionally or experts in the prevention identification and control of health care associated infections and the reporting of performance data all required tracking and reporting of other types of infections and measures shall be consistent with the requirements supported by the cdc cms hospital inpatient quality reporting program or the national quality forum the commissioner of the department shall adopt rules pursuant to rsa for hospital renal dialysis center nursing and residential care facility the new hampshire veterans home assisted living residence and ambulatory surgical facility identification tracking and reporting of infections measures and or coverage rates of influenza vaccinations as required in this section which shall be consistent with the recommendations of recognized centers of expertise in the identification and prevention of infections including but not limited to the national healthcare safety network and the healthcare infection control practices advisory committee of the centers for disease control and prevention or its successor the joint commission on the accreditation of healthcare organizations the centers for medicare and medicaid services the hospital quality alliance the national quality forum and the new hampshire health care quality assurance and safety commission under rsa"
+    }
+}

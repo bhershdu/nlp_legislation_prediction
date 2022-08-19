@@ -1,0 +1,426 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1403571,
+        "change_hash": "a52a25cd9af72da41e9067991f24db96",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB533/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=531&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB533",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2021-08-16",
+        "progress": [
+            {
+                "date": "2021-01-12",
+                "event": 1
+            },
+            {
+                "date": "2021-01-12",
+                "event": 9
+            },
+            {
+                "date": "2021-02-09",
+                "event": 10
+            },
+            {
+                "date": "2021-02-24",
+                "event": 9
+            },
+            {
+                "date": "2021-03-24",
+                "event": 10
+            },
+            {
+                "date": "2021-04-07",
+                "event": 2
+            },
+            {
+                "date": "2021-04-07",
+                "event": 9
+            },
+            {
+                "date": "2021-04-28",
+                "event": 10
+            },
+            {
+                "date": "2021-07-23",
+                "event": 3
+            },
+            {
+                "date": "2021-08-16",
+                "event": 8
+            },
+            {
+                "date": "2021-08-16",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB533",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Establishing a division of investigation and compliance in the lottery commission.",
+        "description": "Establishing a division of investigation and compliance in the lottery commission.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-12",
+                "committee_id": 1264,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Ways and Means"
+            },
+            {
+                "date": "2021-02-24",
+                "committee_id": 1243,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Executive Departments and Administration"
+            },
+            {
+                "date": "2021-04-07",
+                "committee_id": 1277,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Ways and Means"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-12",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Ways and Means House Journal  2 P. 52",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-20",
+                "action": "Public Hearing: 01/28/2021 09:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/92120368845 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-09",
+                "action": "Committee Report: Ought to Pass (Vote 22-0; Consent Calendar) House Calendar 12 P. 15",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-24",
+                "action": "Ought to Pass: Motion Adopted Voice Vote 02/24/2021 House Journal  3 P. 21",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-24",
+                "action": "Referred to Executive Departments and Administration 02/24/2021 House Journal  3 P. 21",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-15",
+                "action": "Public Hearing: 03/15/2021 10:45 am Please click the link below to join the webinar:https://zoom.us/j/94033090497 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-24",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-0906h (Vote 18-0; Consent Calendar) House Calendar 18 P. 14",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Amendment # 2021-0906h: Amendment Adopted Voice Vote 04/07/2021 House Journal  5 P. 26",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Ought to Pass with Amendment 2021-0906h: Motion Adopted Voice Vote 04/07/2021 House Journal  5 P. 26",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Reconsider (Rep. Osborne): Motion Failed Voice Vote 04/07/2021 House Journal  5 P. 50",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Introduced 04/01/2021 and Referred to Ways and Means; Senate Journal 11",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-08",
+                "action": "Remote Hearing: 04/12/2021, 09:30 am; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  19",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-28",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-1200s, 05/06/2021; Vote 5-0; Consent Calendar; Senate Calendar  22",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-05-06",
+                "action": "Committee Amendment # 2021-1200s, Regular Calendar 23Y-0N, Amendment Adopted; 05/06/2021; Senate Journal 14",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-06",
+                "action": "Ought to Pass with Amendment 2021-1200s, Regular Calendar 23Y-0N, Motion Adopted; OT3rdg; 05/06/2021; Senate Journal 14",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-07",
+                "action": "House Non-Concurs with Senate Amendment 2021-1200s and Requests CofC (Reps. Major, McGuire, Abrami, Ames): Motion Adopted Voice Vote 06/04/2021 House Journal  9 P. 52",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-10",
+                "action": "Sen. Giuda Accedes to House Request for Committee of Conference, Motion Adopted, Voice Vote; 06/10/2021; Senate Journal 19",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-10",
+                "action": "President Appoints: Senators Giuda, French, D'Allesandro; 06/10/2021; Senate Journal 19",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-15",
+                "action": "Conference Committee Meeting: 06/15/2021 08:30 am Legislative Office Building 206-208",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-17",
+                "action": "Conference Committee Report Filed, # 2021-1978c; 06/24/2021",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-24",
+                "action": "Conference Committee Report # 2021-1978c, Adopted, Voice Vote; 06/24/2021; Senate Journal 20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-24",
+                "action": "Conference Committee Report 2021-1978c: Adopted, Voice Vote 06/24/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-21",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 06/24/2021); Senate Journal 20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-23",
+                "action": "Enrolled (in recess of) 06/24/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-08-16",
+                "action": "Signed by Governor Sununu 08/10/2021; Chapter 190; Eff: 01/01/2022",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 11837,
+                "person_hash": "9bfp0ziy",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Patrick Abrami",
+                "first_name": "Patrick",
+                "middle_name": "",
+                "last_name": "Abrami",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-19-ROC",
+                "ftm_eid": 13004265,
+                "votesmart_id": 126608,
+                "opensecrets_id": "",
+                "knowwho_pid": 296219,
+                "ballotpedia": "Patrick_Abrami",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19846,
+                "person_hash": "o5k0dfka",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Daryl Abbas",
+                "first_name": "Daryl",
+                "middle_name": "A.",
+                "last_name": "Abbas",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-08-ROC",
+                "ftm_eid": 45378616,
+                "votesmart_id": 185319,
+                "opensecrets_id": "",
+                "knowwho_pid": 670640,
+                "ballotpedia": "Daryl_Abbas",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 17302,
+                "person_hash": "xh0ul6ms",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Fred Doucette",
+                "first_name": "Fred",
+                "middle_name": "",
+                "last_name": "Doucette",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-08-ROC",
+                "ftm_eid": 25005600,
+                "votesmart_id": 154566,
+                "opensecrets_id": "",
+                "knowwho_pid": 502645,
+                "ballotpedia": "Fred_Doucette",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2238184,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB533/id/2238184",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=529&txtFormat=html",
+                "text_size": 14596,
+                "text_hash": "d3fb9b4bc06c75a4cf4e5f82378fef9a"
+            },
+            {
+                "doc_id": 2359714,
+                "date": "2021-04-07",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB533/id/2359714",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=HA&id=529",
+                "text_size": 16063,
+                "text_hash": "5fbb5a7a9f232ddd90349120fd61f6d5"
+            },
+            {
+                "doc_id": 2391464,
+                "date": "2021-05-06",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB533/id/2391464",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=SA&id=529",
+                "text_size": 20339,
+                "text_hash": "4641c16862e758ee92f2a69ff4de2b75"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-01-28",
+                "time": "09:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Ways and Means Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-15",
+                "time": "10:45",
+                "location": "Please click the link below to join the webinar:https://zoom.us/",
+                "description": "Executive Departments and Administration Public Hearing"
+            }
+        ]
+    }
+}

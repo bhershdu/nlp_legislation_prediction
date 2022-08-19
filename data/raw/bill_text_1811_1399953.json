@@ -1,0 +1,210 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1399953,
+        "change_hash": "6bfa1afbe10c11ff3ebe50c4b8200ca3",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB491/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=804&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB491",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-11",
+        "progress": [
+            {
+                "date": "2021-01-11",
+                "event": 1
+            },
+            {
+                "date": "2021-01-11",
+                "event": 9
+            },
+            {
+                "date": "2021-03-29",
+                "event": 11
+            },
+            {
+                "date": "2021-03-29",
+                "event": 10
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB491",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to over voted ballots.",
+        "description": "Relative to over voted ballots.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-11",
+                "committee_id": 1241,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Election Law"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-11",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Election Law House Journal  2 P. 51",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-03",
+                "action": "==CONTINUED== Executive Session: 03/10/2021 10:20 am Members of the public may attend using the following link:To join the webinar: https://zoom.us/j/95087806399 (if necessary)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-05",
+                "action": "Public Hearing: 03/05/2021 10:00 am Please click the link below to join the webinar:https://zoom.us/j/99327579520 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-08",
+                "action": "Executive Session: 03/08/2021 01:00 pm Please click the link below to join the webinar:https://zoom.us/j/91394352757",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-29",
+                "action": "Majority Committee Report: Inexpedient to Legislate (Vote 11-9; Regular Calendar) House Calendar 18 P. 71",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-29",
+                "action": "Minority Committee Report: Ought to Pass",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 12886,
+                "person_hash": "2bsgot9r",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Marjorie Porter",
+                "first_name": "Marjorie",
+                "middle_name": "",
+                "last_name": "Porter",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-01-HIL",
+                "ftm_eid": 6510482,
+                "votesmart_id": 14523,
+                "opensecrets_id": "",
+                "knowwho_pid": 296493,
+                "ballotpedia": "Marjorie_Porter",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 14475,
+                "person_hash": "pfvkzcgx",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Douglas Ley",
+                "first_name": "Douglas",
+                "middle_name": "A.",
+                "last_name": "Ley",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-09-CHE",
+                "ftm_eid": 13703720,
+                "votesmart_id": 141704,
+                "opensecrets_id": "",
+                "knowwho_pid": 426517,
+                "ballotpedia": "Douglas_Ley",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2234257,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB491/id/2234257",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=796&txtFormat=html",
+                "text_size": 8979,
+                "text_hash": "b32bdcc6ed6bc27bc56c623c2a94023d"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-05",
+                "time": "10:00",
+                "location": "Please click the link below to join the webinar:https://zoom.us/",
+                "description": "Election Law Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-08",
+                "time": "13:00",
+                "location": "Please click the link below to join the webinar:https://zoom.us/",
+                "description": "Election Law Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-10",
+                "time": "10:20",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Election Law Executive Session"
+            }
+        ],
+        "full_text": "new paragraph electronic ballot counting devices rules over voted ballots amend rsa by inserting after paragraph ix the following new paragraph to comply with section a of the help america vote act of public law and rsa the vendor programming the electronic ballot counting device shall require that a ballot that includes a federal office and which contains more than the allowable number of votes for an office on the ballot known as an over voted ballot be returned to the election day voter for possible correction before the ballot is counted the secretary of state shall establish protocols for local election officials to ensure that voters have the opportunity in a private and independent manner to change the ballot or correct any error before the ballot is counted including the opportunity to correct the error through the issuance of a replacement ballot ballots of absentee voters and those who choose not to correct or replace the ballot shall be placed in an auxiliary compartment and counted by election officials new subparagraph elections general content of returns over voted ballots amend rsa iv by inserting after subparagraph j the following new subparagraph k for each election that includes a federal office the number of over voted ballots"
+    }
+}

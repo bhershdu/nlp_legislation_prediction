@@ -1,0 +1,299 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1396314,
+        "change_hash": "214457c288cd5a01ecdcf6b752cea87a",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB279/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=450&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB279",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-09",
+        "progress": [
+            {
+                "date": "2021-01-09",
+                "event": 1
+            },
+            {
+                "date": "2021-01-09",
+                "event": 9
+            },
+            {
+                "date": "2021-03-26",
+                "event": 10
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB279",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to the maximum allowable vehicle gross weight for a combination of truck-tractor and single semi-trailer with 4 or more axles.",
+        "description": "Relative to the maximum allowable vehicle gross weight for a combination of truck-tractor and single semi-trailer with 4 or more axles.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-09",
+                "committee_id": 1263,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Transportation"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-09",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Transportation House Journal  2 P. 42",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-03",
+                "action": "Public Hearing: 02/12/2021 10:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/98796113084 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-19",
+                "action": "Executive Session: 02/19/2021 02:00 pm Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/98257633759",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-26",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-0319h (Vote 13-6; Regular Calendar) House Calendar 18 P. 61",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-09",
+                "action": "Amendment # 2021-0319h: Amendment Adopted Voice Vote 04/09/2021 House Journal  7 P. 65",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-09",
+                "action": "Ought to Pass with Amendment 2021-0319h: Motion Failed DV 181-188 04/09/2021 House Journal  7 P. 65",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-09",
+                "action": "Lay on Table (Rep. Aron): Motion Adopted Regular Calendar 200-173 04/09/2021 House Journal  7 P. 65",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 18152,
+                "person_hash": "gx7i067p",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Howard Pearl",
+                "first_name": "Howard",
+                "middle_name": "",
+                "last_name": "Pearl",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-26-MER",
+                "ftm_eid": 13703940,
+                "votesmart_id": 141848,
+                "opensecrets_id": "",
+                "knowwho_pid": 425998,
+                "ballotpedia": "Howard_Pearl",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19166,
+                "person_hash": "nmyh7fie",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Timothy Lang",
+                "first_name": "Timothy",
+                "middle_name": "P.",
+                "last_name": "Lang",
+                "suffix": "Sr.",
+                "nickname": "",
+                "district": "HD-04-BEL",
+                "ftm_eid": 13703536,
+                "votesmart_id": 141853,
+                "opensecrets_id": "",
+                "knowwho_pid": 426007,
+                "ballotpedia": "Timothy_Lang_Sr.",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18809,
+                "person_hash": "dgedzigb",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Michael Moffett",
+                "first_name": "Michael",
+                "middle_name": "Irving",
+                "last_name": "Moffett",
+                "suffix": "",
+                "nickname": "Mike",
+                "district": "HD-09-MER",
+                "ftm_eid": 6595378,
+                "votesmart_id": 42035,
+                "opensecrets_id": "",
+                "knowwho_pid": 501767,
+                "ballotpedia": "Michael_Moffett",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 15544,
+                "person_hash": "c25fk7m0",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Karel Crawford",
+                "first_name": "Karel",
+                "middle_name": "A.",
+                "last_name": "Crawford",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-04-CAR",
+                "ftm_eid": 13703549,
+                "votesmart_id": 141860,
+                "opensecrets_id": "",
+                "knowwho_pid": 426019,
+                "ballotpedia": "Karel_Crawford",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 17481,
+                "person_hash": "ghibvwim",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Erin Hennessey",
+                "first_name": "Erin",
+                "middle_name": "Tapper",
+                "last_name": "Hennessey",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-001",
+                "ftm_eid": 25005445,
+                "votesmart_id": 154433,
+                "opensecrets_id": "",
+                "knowwho_pid": 501701,
+                "ballotpedia": "Erin_Hennessey",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2232772,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB279/id/2232772",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=444&txtFormat=html",
+                "text_size": 7946,
+                "text_hash": "7ff0fb8f7e2ef8cc8c68569d9661c2bb"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1049744,
+                "date": "2021-04-09",
+                "desc": "Table",
+                "yea": 200,
+                "nay": 173,
+                "nv": 25,
+                "absent": 0,
+                "total": 398,
+                "passed": 1,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/HB279/id/1049744",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=140&sy=2021&lb=H&eb=HB0279&sortoption=&txtsessionyear=2021&txtbillnumber=HB279&ddlsponsors=&lsr=450"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-12",
+                "time": "10:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Transportation Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-19",
+                "time": "14:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Transportation Executive Session"
+            }
+        ],
+        "full_text": "motor vehicles maximum gross weight amend rsa iii g to read as follows g for a combination of and single with or more axles the weight on any single axle shall not exceed pounds and the weight on any tandem axle shall not exceed pounds and the weight of any shall not exceed pounds for a combination of and single with or more axles that is carrying forest products the weight on any tandem axle shall not exceed pounds"
+    }
+}

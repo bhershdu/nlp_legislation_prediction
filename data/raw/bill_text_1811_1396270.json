@@ -1,0 +1,424 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1396270,
+        "change_hash": "a3672f6bec157cd59cf87cf5fde40470",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/SB28/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=984&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=SB28",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2021-06-23",
+        "progress": [
+            {
+                "date": "2021-01-07",
+                "event": 1
+            },
+            {
+                "date": "2021-01-07",
+                "event": 9
+            },
+            {
+                "date": "2021-01-14",
+                "event": 10
+            },
+            {
+                "date": "2021-03-10",
+                "event": 2
+            },
+            {
+                "date": "2021-03-10",
+                "event": 9
+            },
+            {
+                "date": "2021-05-18",
+                "event": 10
+            },
+            {
+                "date": "2021-06-22",
+                "event": 3
+            },
+            {
+                "date": "2021-06-23",
+                "event": 8
+            },
+            {
+                "date": "2021-06-23",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "SB28",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "S",
+        "body_id": 68,
+        "current_body": "S",
+        "current_body_id": 68,
+        "title": "Naming a courtroom in the second circuit courthouse in Plymouth in honor of Judge Edwin W. Kelly and naming a roundabout in New London in honor of Jessie Levine.",
+        "description": "Naming a courtroom in the second circuit courthouse in Plymouth in honor of Judge Edwin W. Kelly and naming a roundabout in New London in honor of Jessie Levine.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-07",
+                "committee_id": 1273,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Judiciary"
+            },
+            {
+                "date": "2021-03-10",
+                "committee_id": 1258,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Public Works and Highways"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-07",
+                "action": "Introduced 01/06/2021 and Referred to Judiciary; Senate Journal 3",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-07",
+                "action": "Remote Hearing: 01/12/2021, 01:15 pm; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  6",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-01-14",
+                "action": "Committee Report: Ought to Pass, 02/04/2021; Senate Calendar  9",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-04",
+                "action": "Ought to Pass: Regular Calendar 24Y-0N, Motion Adopted; OT3rdg; 02/04/2021; Senate Journal 3",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-10",
+                "action": "Introduced (in recess of) 02/25/2021 and referred to Public Works and Highways House Journal  4 P. 48",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-21",
+                "action": "Public Hearing: 05/05/2021 10:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/94154238304 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-21",
+                "action": "Public Hearing on non-germane Amendment # 2021-1112h: 05/05/2021 10:15 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/94154238304 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-18",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-1112h (Vote 20-0; Consent Calendar) House Calendar 26 P. 10",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-06-03",
+                "action": "Amendment # 2021-1112h: Amendment Adopted Voice Vote 06/03/2021 House Journal  8 P. 82",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-03",
+                "action": "Ought to Pass with Amendment 2021-1112h: Motion Adopted Voice Vote 06/03/2021 House Journal  8 P. 82",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-10",
+                "action": "Sen. Carson Moved to Concur with the House Amendment, Motion Adopted, Voice Vote; 06/10/2021; Senate Journal 19",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-22",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 06/10/2021); Senate Journal 20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-22",
+                "action": "Enrolled (in recess of) 06/10/2021 House Journal  10 P. 23",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-06-23",
+                "action": "Signed by the Governor on 06/23/2021; Chapter 0089; Effective 08/22/2021",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 18168,
+                "person_hash": "wzdy4vye",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Bob Giuda",
+                "first_name": "Robert",
+                "middle_name": "",
+                "last_name": "Giuda",
+                "suffix": "",
+                "nickname": "Bob",
+                "district": "SD-002",
+                "ftm_eid": 6594468,
+                "votesmart_id": 21328,
+                "opensecrets_id": "",
+                "knowwho_pid": 208524,
+                "ballotpedia": "Bob_Giuda",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 5010,
+                "person_hash": "zlw1guie",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Suzanne Smith",
+                "first_name": "Suzanne",
+                "middle_name": "",
+                "last_name": "Smith",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-08-GRA",
+                "ftm_eid": 6494669,
+                "votesmart_id": 110098,
+                "opensecrets_id": "",
+                "knowwho_pid": 237442,
+                "ballotpedia": "Suzanne_Smith_(New_Hampshire)",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19774,
+                "person_hash": "tec8l4b3",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Joyce Weston",
+                "first_name": "Joyce",
+                "middle_name": "",
+                "last_name": "Weston",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-08-GRA",
+                "ftm_eid": 9723374,
+                "votesmart_id": 185235,
+                "opensecrets_id": "",
+                "knowwho_pid": 670357,
+                "ballotpedia": "Joyce_Weston",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19833,
+                "person_hash": "oksr8u28",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Edward Gordon",
+                "first_name": "Edward",
+                "middle_name": "",
+                "last_name": "Gordon",
+                "suffix": "",
+                "nickname": "Ned",
+                "district": "HD-09-GRA",
+                "ftm_eid": 45972179,
+                "votesmart_id": 8649,
+                "opensecrets_id": "",
+                "knowwho_pid": 670369,
+                "ballotpedia": "Edward_M._Gordon",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19745,
+                "person_hash": "zq58vlv6",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Sallie Fellows",
+                "first_name": "Sallie",
+                "middle_name": "",
+                "last_name": "Fellows",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-08-GRA",
+                "ftm_eid": 16289651,
+                "votesmart_id": 185234,
+                "opensecrets_id": "",
+                "knowwho_pid": 670356,
+                "ballotpedia": "Sallie_Fellows",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21841,
+                "person_hash": "rfftx3km",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Bob Lynn",
+                "first_name": "Bob",
+                "middle_name": "",
+                "last_name": "Lynn",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-07-ROC",
+                "ftm_eid": 50226683,
+                "votesmart_id": 128464,
+                "opensecrets_id": "",
+                "knowwho_pid": 744345,
+                "ballotpedia": "Bob_Lynn",
+                "sponsor_type_id": 2,
+                "sponsor_order": 6,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2230574,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB28/id/2230574",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=975&txtFormat=html",
+                "text_size": 7514,
+                "text_hash": "2149bec3d2fdf64d31abfc7eb918946f"
+            },
+            {
+                "doc_id": 2412111,
+                "date": "2021-06-03",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB28/id/2412111",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=HA&id=975",
+                "text_size": 9087,
+                "text_hash": "5d64dc861f54a7220676089a9d9722f5"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 998714,
+                "date": "2021-02-04",
+                "desc": "Ought to Pass",
+                "yea": 24,
+                "nay": 0,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB28/id/998714",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=23&sy=2021&lb=S&eb=SB0028&sortoption=&txtsessionyear=2021&txtbillnumber=SB28&ddlsponsors=&lsr=984"
+            },
+            {
+                "roll_call_id": 1015797,
+                "date": "2021-02-04",
+                "desc": "Ought to Pass",
+                "yea": 24,
+                "nay": 0,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB28/id/1015797",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=23&sy=2021&lb=S&eb=SB0028&sortoption=&txtsessionyear=2021&txtbillnumber=SB28&ddlsponsors=&lsr=0984"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-05-05",
+                "time": "10:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Public Works and Highways Public Hearing"
+            }
+        ],
+        "full_text": "second circuit courthouse courtroom named in honor of judge edwin w kelly courtroom at the second circuit courthouse in the town of plymouth is hereby renamed the edwin w kelly courtroom in honor of judge edwin w kelly who is retiring after years of service to the new hampshire judicial system most of which was as an administrative justice in the district and circuit courts judge kelly has worked diligently throughout his career to ensure fair and efficient access to justice to all people jessie levine roundabout pursuant to rsa the roundabout located at n h route also known as the intersection of newport road and county road in the town of new london is hereby named the jessie levine roundabout in honor of municipal and county government leader and new london resident jessie w levine among her many career achievements in the pursuit of good local government ms levine advocated for and oversaw the roundabout construction while serving as new london s town administrator an appropriate marker may be placed on the center island of the roundabout signage the cost of design construction maintenance and installation of any signage replacement signage or other markers authorized under section of this act shall not be a charge to the state however the design construction and installation of any signage or other markers authorized shall be approved by the department of transportation"
+    }
+}

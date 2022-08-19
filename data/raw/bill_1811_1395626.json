@@ -1,0 +1,265 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1395626,
+        "change_hash": "64b0fda66e9dc321fa79ac659744bf53",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB246/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=143&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB246",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-09",
+        "progress": [
+            {
+                "date": "2021-01-09",
+                "event": 1
+            },
+            {
+                "date": "2021-01-09",
+                "event": 9
+            },
+            {
+                "date": "2021-02-17",
+                "event": 11
+            },
+            {
+                "date": "2021-02-17",
+                "event": 10
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB246",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Establishing a protective order for vulnerable adults.",
+        "description": "Establishing a protective order for vulnerable adults.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-09",
+                "committee_id": 1249,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Health, Human Services & Elderly Affairs"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-09",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Health, Human Services and Elderly Affairs House Journal  2 P. 40",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-20",
+                "action": "==RECESSED== Public Hearing: 01/26/2021 01:45 pm Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/94852322897 / Executive session on pending legislation may be held throughout the day (time permitting) from the time thecommittee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-01-27",
+                "action": "==CONTINUED== Public Hearing: 02/08/2021 01:00 pm Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/92769044991 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-16",
+                "action": "Executive Session: 02/16/2021 01:30 pm",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-17",
+                "action": "Majority Committee Report: Inexpedient to Legislate (Vote 14-7; Regular Calendar) House Calendar 12 P. 21",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-17",
+                "action": "Minority Committee Report: Ought to Pass",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-24",
+                "action": "Indefinitely Postpone (Rep. Burt): Motion Adopted Regular Calendar 195-158 02/24/2021 House Journal  3 P. 69",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 5026,
+                "person_hash": "fenlx6qz",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Robert Cushing",
+                "first_name": "Robert",
+                "middle_name": "Reynolds",
+                "last_name": "Cushing",
+                "suffix": "",
+                "nickname": "Renny",
+                "district": "HD-21-ROC",
+                "ftm_eid": 6433716,
+                "votesmart_id": 14688,
+                "opensecrets_id": "",
+                "knowwho_pid": 233889,
+                "ballotpedia": "Robert_Cushing",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 16060,
+                "person_hash": "78xprz0j",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Latha Mangipudi",
+                "first_name": "Latha",
+                "middle_name": "",
+                "last_name": "Mangipudi",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-35-HIL",
+                "ftm_eid": 9697845,
+                "votesmart_id": 145406,
+                "opensecrets_id": "",
+                "knowwho_pid": 475422,
+                "ballotpedia": "Latha_Mangipudi",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19809,
+                "person_hash": "rh4yysxz",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Wendy Chase",
+                "first_name": "Wendy",
+                "middle_name": "",
+                "last_name": "Chase",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-18-STR",
+                "ftm_eid": 45378661,
+                "votesmart_id": 185394,
+                "opensecrets_id": "",
+                "knowwho_pid": 670925,
+                "ballotpedia": "Wendy_Chase",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2234687,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB246/id/2234687",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=146&txtFormat=html",
+                "text_size": 57420,
+                "text_hash": "8eaf1f2f0e576fa3e0aeba0836527a94"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1017298,
+                "date": "2021-02-26",
+                "desc": "Indefinitely Postpone",
+                "yea": 195,
+                "nay": 158,
+                "nv": 15,
+                "absent": 30,
+                "total": 398,
+                "passed": 1,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/HB246/id/1017298",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=29&sy=2021&lb=H&eb=HB0246&sortoption=&txtsessionyear=2021&txtbillnumber=HB246&ddlsponsors=&lsr=143"
+            },
+            {
+                "roll_call_id": 1036969,
+                "date": "2021-02-26",
+                "desc": "Indefinitely Postpone",
+                "yea": 195,
+                "nay": 158,
+                "nv": 10,
+                "absent": 35,
+                "total": 398,
+                "passed": 1,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/HB246/id/1036969",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=29&sy=2021&lb=H&eb=HB0246&sortoption=&txtsessionyear=2021&txtbillnumber=HB246&ddlsponsors=&lsr=0143"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-01-26",
+                "time": "13:45",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Health, Human Services and Elderly Affairs Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-08",
+                "time": "13:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Health, Human Services and Elderly Affairs Public Hearing"
+            }
+        ]
+    }
+}

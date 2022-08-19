@@ -1,0 +1,373 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1392995,
+        "change_hash": "4bf74667740c000bc09f622c2656fa90",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB206/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=278&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB206",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-04",
+        "progress": [
+            {
+                "date": "2021-01-04",
+                "event": 1
+            },
+            {
+                "date": "2021-01-04",
+                "event": 9
+            },
+            {
+                "date": "2021-03-09",
+                "event": 10
+            },
+            {
+                "date": "2021-03-09",
+                "event": 11
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB206",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to collective bargaining agreement strategy discussions under the right-to-know law.",
+        "description": "Relative to collective bargaining agreement strategy discussions under the right-to-know law.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-04",
+                "committee_id": 1250,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Judiciary"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-04",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Judiciary House Journal  2 P. 39",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-19",
+                "action": "Public Hearing: 02/19/2021 09:30 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/92168223794 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-02",
+                "action": "Executive Session: 03/02/2021 09:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/95501229688",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-09",
+                "action": "Majority Committee Report: Ought to Pass (Vote 11-10; Regular Calendar) House Calendar 18 P. 50",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-09",
+                "action": "Minority Committee Report: Inexpedient to Legislate",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-08",
+                "action": "Ought to Pass: Motion Failed Regular Calendar 168-187 04/08/2021 House Journal  6 P. 93",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-08",
+                "action": "Lay on Table (Rep. Spillane): Motion Failed DV 174-178 04/08/2021 House Journal  6 P. 95",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-08",
+                "action": "Inexpedient to Legislate: Motion Adopted Regular Calendar 189-163 04/08/2021 House Journal  6 P. 96",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-08",
+                "action": "Reconsider (Rep. Baldasaro): Motion Failed Regular Calendar 162-192 04/08/2021 House Journal  6 P. 98",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 17493,
+                "person_hash": "upw2sr1e",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Leonard Turcotte",
+                "first_name": "Leonard",
+                "middle_name": "",
+                "last_name": "Turcotte",
+                "suffix": "",
+                "nickname": "Len",
+                "district": "HD-04-STR",
+                "ftm_eid": 13703851,
+                "votesmart_id": 141973,
+                "opensecrets_id": "",
+                "knowwho_pid": 436666,
+                "ballotpedia": "Len_Turcotte",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19825,
+                "person_hash": "rsi244to",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Rene Nunez",
+                "first_name": "Rene",
+                "middle_name": "Hershel",
+                "last_name": "Nunez",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-37-HIL",
+                "ftm_eid": 45378867,
+                "votesmart_id": 128075,
+                "opensecrets_id": "",
+                "knowwho_pid": 670663,
+                "ballotpedia": "Hershel_Nunez",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 14478,
+                "person_hash": "1kegb9fu",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Glenn Cordelli",
+                "first_name": "Glenn",
+                "middle_name": "",
+                "last_name": "Cordelli",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-04-CAR",
+                "ftm_eid": 13703548,
+                "votesmart_id": 143307,
+                "opensecrets_id": "",
+                "knowwho_pid": 427994,
+                "ballotpedia": "Glenn_Cordelli",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18809,
+                "person_hash": "dgedzigb",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Michael Moffett",
+                "first_name": "Michael",
+                "middle_name": "Irving",
+                "last_name": "Moffett",
+                "suffix": "",
+                "nickname": "Mike",
+                "district": "HD-09-MER",
+                "ftm_eid": 6595378,
+                "votesmart_id": 42035,
+                "opensecrets_id": "",
+                "knowwho_pid": 501767,
+                "ballotpedia": "Michael_Moffett",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2227298,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB206/id/2227298",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=287&txtFormat=html",
+                "text_size": 8014,
+                "text_hash": "9f3007c31885930491664ffa7f579fa9"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1049415,
+                "date": "2021-04-08",
+                "desc": "OTP",
+                "yea": 168,
+                "nay": 187,
+                "nv": 43,
+                "absent": 0,
+                "total": 398,
+                "passed": 0,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/HB206/id/1049415",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=116&sy=2021&lb=H&eb=HB0206&sortoption=&txtsessionyear=2021&txtbillnumber=HB206&ddlsponsors=&lsr=278"
+            },
+            {
+                "roll_call_id": 1049416,
+                "date": "2021-04-08",
+                "desc": "ITL",
+                "yea": 189,
+                "nay": 163,
+                "nv": 46,
+                "absent": 0,
+                "total": 398,
+                "passed": 1,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/HB206/id/1049416",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=117&sy=2021&lb=H&eb=HB0206&sortoption=&txtsessionyear=2021&txtbillnumber=HB206&ddlsponsors=&lsr=278"
+            },
+            {
+                "roll_call_id": 1049417,
+                "date": "2021-04-08",
+                "desc": "Reconsider",
+                "yea": 162,
+                "nay": 192,
+                "nv": 44,
+                "absent": 0,
+                "total": 398,
+                "passed": 0,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/HB206/id/1049417",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=118&sy=2021&lb=H&eb=HB0206&sortoption=&txtsessionyear=2021&txtbillnumber=HB206&ddlsponsors=&lsr=278"
+            },
+            {
+                "roll_call_id": 1102347,
+                "date": "2021-04-08",
+                "desc": "OTP",
+                "yea": 168,
+                "nay": 186,
+                "nv": 7,
+                "absent": 35,
+                "total": 396,
+                "passed": 0,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/HB206/id/1102347",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=116&sy=2021&lb=H&eb=HB0206&sortoption=&txtsessionyear=2021&txtbillnumber=HB206&ddlsponsors=&lsr=0278"
+            },
+            {
+                "roll_call_id": 1102348,
+                "date": "2021-04-08",
+                "desc": "ITL",
+                "yea": 188,
+                "nay": 163,
+                "nv": 10,
+                "absent": 35,
+                "total": 396,
+                "passed": 1,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/HB206/id/1102348",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=117&sy=2021&lb=H&eb=HB0206&sortoption=&txtsessionyear=2021&txtbillnumber=HB206&ddlsponsors=&lsr=0278"
+            },
+            {
+                "roll_call_id": 1102349,
+                "date": "2021-04-08",
+                "desc": "Reconsider",
+                "yea": 162,
+                "nay": 191,
+                "nv": 8,
+                "absent": 35,
+                "total": 396,
+                "passed": 0,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/HB206/id/1102349",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=118&sy=2021&lb=H&eb=HB0206&sortoption=&txtsessionyear=2021&txtbillnumber=HB206&ddlsponsors=&lsr=0278"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-19",
+                "time": "09:30",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Judiciary Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-02",
+                "time": "09:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Judiciary Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-02",
+                "time": "09:00",
+                "location": "Members of the public may attend using the following links: 1. T",
+                "description": "Judiciary Executive Session"
+            }
+        ]
+    }
+}

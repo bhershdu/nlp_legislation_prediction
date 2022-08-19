@@ -1,0 +1,296 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1424023,
+        "change_hash": "54507581f271a208968786213c90e950",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/SB88/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=924&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=SB88",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2021-08-16",
+        "progress": [
+            {
+                "date": "2021-01-27",
+                "event": 1
+            },
+            {
+                "date": "2021-01-27",
+                "event": 9
+            },
+            {
+                "date": "2021-03-10",
+                "event": 10
+            },
+            {
+                "date": "2021-03-31",
+                "event": 2
+            },
+            {
+                "date": "2021-03-31",
+                "event": 9
+            },
+            {
+                "date": "2021-05-25",
+                "event": 10
+            },
+            {
+                "date": "2021-07-23",
+                "event": 3
+            },
+            {
+                "date": "2021-08-16",
+                "event": 8
+            },
+            {
+                "date": "2021-08-16",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "SB88",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "S",
+        "body_id": 68,
+        "current_body": "S",
+        "current_body_id": 68,
+        "title": "Adopting omnibus legislation relative to broadband.",
+        "description": "Adopting omnibus legislation relative to broadband.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-27",
+                "committee_id": 3825,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Election Law and Municipal Affairs"
+            },
+            {
+                "date": "2021-03-31",
+                "committee_id": 1257,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Municipal and County Government"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-27",
+                "action": "Introduced 01/06/2021 and Referred to Election Law and Municipal Affairs; Senate Journal 3",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-09",
+                "action": "Remote Hearing: 02/01/2021, 10:00 am; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  9",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-10",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-0742s, 03/18/2021; Vote 5-0; Consent Calendar; Senate Calendar  15",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-18",
+                "action": "Committee Amendment # 2021-0742s, Regular Calendar 23Y-1N, Amendment Adopted; 03/18/2021; Senate Journal 8",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-18",
+                "action": "Ought to Pass with Amendment 2021-0742s, Regular Calendar 23Y-1N, Motion Adopted; OT3rdg; 03/18/2021; Senate Journal 8",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-31",
+                "action": "Introduced (in recess of) 02/25/2021 and referred to Municipal and County Government House Journal  4 P. 50",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-05-10",
+                "action": "Public Hearing: 05/10/2021 10:45 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/93597701647 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-25",
+                "action": "Committee Report: Ought to Pass (Vote 19-0; Consent Calendar) House Calendar 26 P. 10",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-06-03",
+                "action": "Ought to Pass: Motion Adopted Voice Vote 06/03/2021 House Journal  8 P. 82",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-12",
+                "action": "Enrolled Bill Amendment # 2021-2054e: Amendment Adopted Voice Vote (in recess of) 06/24/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-13",
+                "action": "Enrolled Bill Amendment # 2021-2054e Adopted, Voice Vote, (In recess of 06/24/2021); Senate Journal 20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-21",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 06/24/2021); Senate Journal 20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-23",
+                "action": "Enrolled (in recess of) 06/24/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-08-16",
+                "action": "Signed by the Governor on 08/10/2021; Chapter 0198",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-08-16",
+                "action": "Part I Effective 10/09/2021",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-08-16",
+                "action": "Part II Effective 10/09/2021",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-08-16",
+                "action": "Part III Effective 10/09/2021",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 19063,
+                "person_hash": "9vbummg1",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Jay Kahn",
+                "first_name": "Jay",
+                "middle_name": "",
+                "last_name": "Kahn",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-010",
+                "ftm_eid": 14796214,
+                "votesmart_id": 172406,
+                "opensecrets_id": "",
+                "knowwho_pid": 586828,
+                "ballotpedia": "Jay_Kahn",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2259723,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB88/id/2259723",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=915&txtFormat=html",
+                "text_size": 16343,
+                "text_hash": "ff8578b8cf8fcfa0924e3970302474d5"
+            },
+            {
+                "doc_id": 2340850,
+                "date": "2021-03-18",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB88/id/2340850",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=SA&id=915",
+                "text_size": 19011,
+                "text_hash": "616b692f04f7ed2a3596d88d24a831fb"
+            },
+            {
+                "doc_id": 2424163,
+                "date": "2021-03-18",
+                "type": "Enrolled",
+                "type_id": 5,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB88/id/2424163",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&v=HP&id=915",
+                "text_size": 19017,
+                "text_hash": "50c339447b57b75fb5378b9dbfd440ef"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-05-10",
+                "time": "10:45",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Municipal and County Government Public Hearing"
+            }
+        ],
+        "full_text": "sponsorship this act consists of the following proposed legislation part i lsr relative to the creation of communications district planning committees sponsored by sen kahn prime dist sen prentiss dist part ii lsr relative to public utility regulation of utility pole attachments sponsored by sen bradley prime dist rep mcconkey carr rep umberger carr rep marsh carr rep deshaies carr part iii lsr relative to the issuance of bonds for financing broadband infrastructure sponsored by sen ward prime dist legislation enacted the general court hereby enacts the following legislation part i relative to the creation of communications district planning committees communications district planning committee formation and responsibilities amend rsa i to read as follows the governing bodies of or more municipalities may at their discretion and shall upon a vote of their respective legislative bodies create a special unpaid committee to be known as a communications district planning committee consisting of at least persons from each municipality appointed by the respective governing bodies the committee shall elect a chairperson clerk and treasurer members may be reimbursed by the committee for costs of performing duties directly related to the committee part ii relative to public utility regulation of utility pole attachments public utilities pole attachments amend rsa to read as follows the commission shall adopt rules under rsa to carry out the provisions of this section including appropriate formula or formulae for apportioning costs and shall adopt rules under rsa implementing the provisions of one touch make ready otmr as adopted by the federal communications commission in cfr j in exercising its authority under this subdivision the commission shall consider the interests of the subscribers and users of the services offered via such attachments as well as the interests of the consumers of any pole owner providing such attachments nothing in this subdivision shall prevent parties from entering into pole attachment agreements voluntarily without commission approval in entering into pole attachment agreements all parties shall abide by the timelines established by the commission in rules adopted pursuant to rsa for negotiating and implementing pole attachments the failure of any party to do so may be considered a lack of good faith negotiation unless each party agrees to following alternate timelines part iii relative to the issuance of bonds for financing broadband infrastructure broadband infrastructure bonds amend rsa iii and iv to read as follows a municipality county or communications district shall not issue bonds for the purpose of financing the development construction reconstruction renovation improvement and acquisition of broadband infrastructure in any location within a municipality county or communications district unserved by broadband as defined in rsa i c unless a request for information has been issued at a minimum to all providers serving the issuing community in accordance with rsa iv and such providers have been given months days to respond to the request the request for information may shall include but is not limited to information identifying locations addresses within a municipality county or communications district served by broadband as defined in rsa i c a response shall meet the requirements of this paragraph if it includes in either map or spreadsheet form street level information identifying the first and last serviceable address after completing issuing and receiving responses to such request for information a municipality county or communications district may issue a request for proposals for the purpose of engaging in a partnership pursuant to rsa or rsa for the deployment of broadband infrastructure as defined in rsa i e and the provision of broadband service as defined in rsa i f a municipality county or communications district may select a proposal based on criteria including but not limited to provider ability to deploy manage and maintain a broadband network requests for proposals shall include in either map or spreadsheet form street level information identifying the first and last serviceable address a municipality county or communications district may determine that no provider has met the criteria included in the request for proposals and may issue bonds for purposes pursuant to rsa and rsa including but not limited to open networks if a broadband provider does not respond to a request for information pursuant to this paragraph the locations served by that broadband provider shall be considered unserved unless those locations are served by a broadband provider who responded to that municipality s request for information any request for information issued pursuant to this section after december shall conform with a model request for information issued by the new hampshire department of business and economic affairs the office of strategic initiatives shall maintain a list by town of all providers interested in receiving requests for information the list shall include physical and electronic address information for interested providers and shall be updated as needed but at least annually for purposes of issuing requests for information pursuant to paragraph iii a municipality county or communications district shall reference the interested provider list maintained by the office of strategic initiatives and shall issue requests for information to all interested providers in that municipality county or communications district both electronically and by united states mail"
+    }
+}

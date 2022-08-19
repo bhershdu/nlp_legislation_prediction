@@ -1,0 +1,241 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1396452,
+        "change_hash": "098b0741349c6a916fcd8aba66576a72",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB351/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=410&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB351",
+        "completed": 0,
+        "status": 2,
+        "status_date": "2021-04-13",
+        "progress": [
+            {
+                "date": "2021-01-09",
+                "event": 1
+            },
+            {
+                "date": "2021-01-09",
+                "event": 9
+            },
+            {
+                "date": "2021-03-23",
+                "event": 10
+            },
+            {
+                "date": "2021-03-23",
+                "event": 11
+            },
+            {
+                "date": "2021-04-13",
+                "event": 2
+            },
+            {
+                "date": "2021-04-13",
+                "event": 9
+            },
+            {
+                "date": "2021-05-03",
+                "event": 9
+            },
+            {
+                "date": "2021-05-13",
+                "event": 9
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB351",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "S",
+        "current_body_id": 68,
+        "title": "Relative to the system benefits charge.",
+        "description": "Relative to the system benefits charge.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-09",
+                "committee_id": 1261,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Science, Technology and Energy"
+            },
+            {
+                "date": "2021-04-13",
+                "committee_id": 1736,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Energy and Natural Resources"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-09",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Science, Technology and Energy House Journal  2 P. 44",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-21",
+                "action": "Public Hearing: 02/01/2021 04:00 pm Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/92752912485 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-23",
+                "action": "Majority Committee Report: Ought to Pass (Vote 11-9; Regular Calendar) House Calendar 18 P. 59",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-23",
+                "action": "Minority Committee Report: Inexpedient to Legislate",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-09",
+                "action": "Ought to Pass: Motion Adopted Regular Calendar 198-179 04/09/2021 House Journal  7 P. 45",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-13",
+                "action": "Introduced 04/08/2021 and Referred to Energy and Natural Resources; Senate Journal 12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-20",
+                "action": "Remote Hearing: 04/26/2021, 01:20 pm; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  21",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-03",
+                "action": "Committee Report: Rereferred to Committee, 05/13/2021; Senate Calendar  23",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-05-13",
+                "action": "Rereferred to Committee, Motion Failed, Voice Vote; 05/13/2021; Senate Journal 15",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-05-13",
+                "action": "Sen. Avard Moved Inexpedient to Legislate; 05/13/2021; Senate Journal 15",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-13",
+                "action": "Inexpedient to Legislate, Motion Adopted, Voice Vote === BILL KILLED ===; 05/13/2021; Senate Journal 15",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 18160,
+                "person_hash": "hp88brg1",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Michael Harrington",
+                "first_name": "Michael",
+                "middle_name": "D.",
+                "last_name": "Harrington",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-03-STR",
+                "ftm_eid": 6594659,
+                "votesmart_id": 14569,
+                "opensecrets_id": "",
+                "knowwho_pid": 208531,
+                "ballotpedia": "Michael_Harrington_(New_Hampshire)",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2232757,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB351/id/2232757",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=408&txtFormat=html",
+                "text_size": 10483,
+                "text_hash": "a74e7d4af112d5aafd9d29a168ad8606"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1049898,
+                "date": "2021-04-09",
+                "desc": "OTP",
+                "yea": 198,
+                "nay": 179,
+                "nv": 21,
+                "absent": 0,
+                "total": 398,
+                "passed": 1,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/HB351/id/1049898",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=133&sy=2021&lb=H&eb=HB0351&sortoption=&txtsessionyear=2021&txtbillnumber=HB351&ddlsponsors=&lsr=410"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-01",
+                "time": "16:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Science, Technology and Energy Public Hearing"
+            }
+        ]
+    }
+}

@@ -1,0 +1,312 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1393059,
+        "change_hash": "f16f94fce8d1745e8ebec79ef6044348",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB226/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=296&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB226",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2021-05-10",
+        "progress": [
+            {
+                "date": "2021-01-04",
+                "event": 1
+            },
+            {
+                "date": "2021-01-04",
+                "event": 9
+            },
+            {
+                "date": "2021-02-10",
+                "event": 10
+            },
+            {
+                "date": "2021-03-04",
+                "event": 2
+            },
+            {
+                "date": "2021-03-04",
+                "event": 9
+            },
+            {
+                "date": "2021-03-23",
+                "event": 10
+            },
+            {
+                "date": "2021-04-29",
+                "event": 3
+            },
+            {
+                "date": "2021-05-10",
+                "event": 8
+            },
+            {
+                "date": "2021-05-10",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB226",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to the repeal of laws on produce safety.",
+        "description": "Relative to the repeal of laws on produce safety.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-04",
+                "committee_id": 1242,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Environment and Agriculture"
+            },
+            {
+                "date": "2021-03-04",
+                "committee_id": 1736,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Energy and Natural Resources"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-04",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Environment and Agriculture House Journal  2 P. 40",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-20",
+                "action": "Public Hearing: 01/27/2021 11:30 am Members of the public may attend using the following links:To join the webinar: https://www.zoom.us/j/92887623403 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-10",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-0046h (Vote 18-0; Consent Calendar) House Calendar 12 P. 5",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-24",
+                "action": "Amendment # 2021-0046h: Amendment Adopted Voice Vote 02/24/2021 House Journal  3 P. 7",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-24",
+                "action": "Ought to Pass with Amendment 2021-0046h: Motion Adopted Voice Vote 02/24/2021 House Journal  3 P. 7",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-04",
+                "action": "Introduced 03/04/2021 and Referred to Energy and Natural Resources; Senate Journal 7",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-17",
+                "action": "Remote Hearing: 03/22/2021, 01:45 pm; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  16",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-23",
+                "action": "Committee Report: Ought to Pass, 04/01/2021; Vote 5-0; Consent Calendar; Senate Calendar  17",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-01",
+                "action": "Ought to Pass: Regular Calendar 23Y-1N, Motion Adopted; OT3rdg; 04/01/2021; Senate Journal 10",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-29",
+                "action": "Enrolled (in recess of) 04/09/2021 House Journal  7 P. 101",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-29",
+                "action": "Enrolled Regular Calendar 24Y-0N, Motion Adopted, (In recess of 04/22/2021); Senate Journal 13",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-10",
+                "action": "Signed by Governor Sununu 05/06/2021; Chapter 21; Eff: 05/06/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 18152,
+                "person_hash": "gx7i067p",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Howard Pearl",
+                "first_name": "Howard",
+                "middle_name": "",
+                "last_name": "Pearl",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-26-MER",
+                "ftm_eid": 13703940,
+                "votesmart_id": 141848,
+                "opensecrets_id": "",
+                "knowwho_pid": 425998,
+                "ballotpedia": "Howard_Pearl",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19166,
+                "person_hash": "nmyh7fie",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Timothy Lang",
+                "first_name": "Timothy",
+                "middle_name": "P.",
+                "last_name": "Lang",
+                "suffix": "Sr.",
+                "nickname": "",
+                "district": "HD-04-BEL",
+                "ftm_eid": 13703536,
+                "votesmart_id": 141853,
+                "opensecrets_id": "",
+                "knowwho_pid": 426007,
+                "ballotpedia": "Timothy_Lang_Sr.",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18809,
+                "person_hash": "dgedzigb",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Michael Moffett",
+                "first_name": "Michael",
+                "middle_name": "Irving",
+                "last_name": "Moffett",
+                "suffix": "",
+                "nickname": "Mike",
+                "district": "HD-09-MER",
+                "ftm_eid": 6595378,
+                "votesmart_id": 42035,
+                "opensecrets_id": "",
+                "knowwho_pid": 501767,
+                "ballotpedia": "Michael_Moffett",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2227358,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB226/id/2227358",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=295&txtFormat=html",
+                "text_size": 8219,
+                "text_hash": "082b1d33002137a84f677072be148eb8"
+            },
+            {
+                "doc_id": 2324206,
+                "date": "2021-02-24",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB226/id/2324206",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=HA&id=295",
+                "text_size": 9736,
+                "text_hash": "d7f2a1811dc1dfd1771249c38a9b813a"
+            },
+            {
+                "doc_id": 2355220,
+                "date": "2021-02-24",
+                "type": "Enrolled",
+                "type_id": 5,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB226/id/2355220",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&v=SP&id=295",
+                "text_size": 9743,
+                "text_hash": "733a8e4e09cda85e56d13f11c6f989f2"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-01-27",
+                "time": "11:30",
+                "location": "Members of the public may attend using the following links:To jo",
+                "description": "Environment and Agriculture Public Hearing"
+            }
+        ]
+    }
+}

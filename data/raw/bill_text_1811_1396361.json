@@ -1,0 +1,256 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1396361,
+        "change_hash": "04d55da39235992ddb7fa4a29fe0d0ae",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB367/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=299&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB367",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-09",
+        "progress": [
+            {
+                "date": "2021-01-09",
+                "event": 1
+            },
+            {
+                "date": "2021-01-09",
+                "event": 9
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB367",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to animal health certificates and quarantine requirements for animals imported into the state.",
+        "description": "Relative to animal health certificates and quarantine requirements for animals imported into the state.",
+        "pending_committee_id": 1242,
+        "committee": {
+            "committee_id": 1242,
+            "chamber": "H",
+            "chamber_id": 67,
+            "name": "Environment and Agriculture"
+        },
+        "referrals": [
+            {
+                "date": "2021-01-09",
+                "committee_id": 1242,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Environment and Agriculture"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-09",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Environment and Agriculture House Journal  2 P. 45",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-08",
+                "action": "Public Hearing: 02/17/2021 01:30 pm Members of the public may attend using the following link: To join the webinar: https://www.zoom.us/j/97165419816 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-11",
+                "action": "Retained in Committee",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-28",
+                "action": "Full Committee Work Session: 05/06/2021 10:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/94919879599",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-08-09",
+                "action": "Full Committee Work Session: 09/14/2021 02:00 pm Legislative Office Building 303",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-10-06",
+                "action": "Executive Session: 10/19/2021 11:00 am Legislative Office Building 301-303",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-10-19",
+                "action": "Executive Session: 10/19/2021 11:00 a.m. Legislative Office Building301-303",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 18152,
+                "person_hash": "gx7i067p",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Howard Pearl",
+                "first_name": "Howard",
+                "middle_name": "",
+                "last_name": "Pearl",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-26-MER",
+                "ftm_eid": 13703940,
+                "votesmart_id": 141848,
+                "opensecrets_id": "",
+                "knowwho_pid": 425998,
+                "ballotpedia": "Howard_Pearl",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19166,
+                "person_hash": "nmyh7fie",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Timothy Lang",
+                "first_name": "Timothy",
+                "middle_name": "P.",
+                "last_name": "Lang",
+                "suffix": "Sr.",
+                "nickname": "",
+                "district": "HD-04-BEL",
+                "ftm_eid": 13703536,
+                "votesmart_id": 141853,
+                "opensecrets_id": "",
+                "knowwho_pid": 426007,
+                "ballotpedia": "Timothy_Lang_Sr.",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18809,
+                "person_hash": "dgedzigb",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Michael Moffett",
+                "first_name": "Michael",
+                "middle_name": "Irving",
+                "last_name": "Moffett",
+                "suffix": "",
+                "nickname": "Mike",
+                "district": "HD-09-MER",
+                "ftm_eid": 6595378,
+                "votesmart_id": 42035,
+                "opensecrets_id": "",
+                "knowwho_pid": 501767,
+                "ballotpedia": "Michael_Moffett",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2236504,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB367/id/2236504",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=292&txtFormat=html",
+                "text_size": 11645,
+                "text_hash": "959a5a23bb6bf51df5cdda92fa944d48"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-17",
+                "time": "13:30",
+                "location": "Members of the public may attend using the following link: To jo",
+                "description": "Environment and Agriculture Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-05-06",
+                "time": "10:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Environment and Agriculture Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-09-14",
+                "time": "14:00",
+                "location": "Legislative Office Building 303",
+                "description": "Environment and Agriculture Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-10-19",
+                "time": "11:00",
+                "location": "Legislative Office Building 301-303",
+                "description": "Environment and Agriculture Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-10-19",
+                "time": "11:00",
+                "location": "Legislative Office Building301-303",
+                "description": "Environment and Agriculture Executive Session"
+            }
+        ],
+        "full_text": "health certificates amend rsa i to read as follows for purposes of this chapter an official health certificate means a certificate signed by a licensed veterinarian containing the name and address of the entity transferring ownership of the dog cat or ferret the name and address of the issuing veterinarian the age gender breed microchip number tattoo number ear tag number or physical description of the dog cat or ferret and the certification of the veterinarian that the dog cat or ferret is free from evidence of communicable diseases or internal or external parasites a list of all vaccines and medication administered to the dog cat or ferret shall be included on or attached to the certificate health certificates amend rsa iv to read as follows once a dog cat or ferret intended for transfer has entered the state it shall be held at least hours days at a facility licensed under rsa or at a facility operated by a licensed veterinarian separated from contact with other animals on the premises and shall receive a health certificate from a licensed veterinarian before being offered for transfer new paragraphs health certificates for dogs cats and ferrets rabies vaccinations amend rsa by inserting after paragraph vi the following new paragraphs no dog or cat shall be imported into new hampshire with intent to transfer without first receiving a negative test for intestinal parasites heartworm if the dog or cat is over months of age and proof of deworming issued by a licensed veterinarian within days previous to the transfer the commissioner of the department of agriculture markets and food shall adopt rules under rsa relative to what tests are sufficient for such diseases a dog cat or ferret months old or older shall be vaccinated against rabies at least days before entering new hampshire in order to receive a health certificate under this section puppies and kittens shall not be vaccinated against rabies before months of age a dog cat or ferret months old or older shall be vaccinated against rabies at least days before entering new hampshire in order to receive a health certificate under this section puppies and kittens shall not be vaccinated against rabies before months of age for puppies and kittens under weeks old proof that the dam s rabies vaccination is current shall be required in order to receive a health certificate"
+    }
+}

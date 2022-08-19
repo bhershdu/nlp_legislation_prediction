@@ -1,0 +1,404 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1423829,
+        "change_hash": "18c0338a12d4efc457bbd6b38a078834",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/SB93/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=941&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=SB93",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2021-08-30",
+        "progress": [
+            {
+                "date": "2021-01-26",
+                "event": 1
+            },
+            {
+                "date": "2021-01-26",
+                "event": 9
+            },
+            {
+                "date": "2021-03-10",
+                "event": 10
+            },
+            {
+                "date": "2021-03-31",
+                "event": 2
+            },
+            {
+                "date": "2021-03-31",
+                "event": 9
+            },
+            {
+                "date": "2021-05-11",
+                "event": 10
+            },
+            {
+                "date": "2021-07-23",
+                "event": 3
+            },
+            {
+                "date": "2021-08-30",
+                "event": 8
+            },
+            {
+                "date": "2021-08-30",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "SB93",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "S",
+        "body_id": 68,
+        "current_body": "S",
+        "current_body_id": 68,
+        "title": "Relative to permanency planning under the child protection act.",
+        "description": "Relative to permanency planning under the child protection act.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-26",
+                "committee_id": 1273,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Judiciary"
+            },
+            {
+                "date": "2021-03-31",
+                "committee_id": 1237,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Children and Family Law"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-26",
+                "action": "Introduced 01/06/2021 and Referred to Judiciary; Senate Journal 3",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-27",
+                "action": "Remote Hearing: 02/02/2021, 01:00 pm; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  9",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-10",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-0763s, 03/18/2021; Vote 5-0; Consent Calendar; Senate Calendar  15",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-18",
+                "action": "Committee Amendment # 2021-0763s, Regular Calendar 23Y-1N, Amendment Adopted; 03/18/2021; Senate Journal 8",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-18",
+                "action": "Ought to Pass with Amendment 2021-0763s, Regular Calendar 23Y-1N, Motion Adopted; OT3rdg; 03/18/2021; Senate Journal 8",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-31",
+                "action": "Introduced (in recess of) 02/25/2021 and referred to Children and Family Law House Journal  4 P. 50",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-14",
+                "action": "Public Hearing: 04/21/2021 10:30 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/93446087542 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-11",
+                "action": "Committee Report: Ought to Pass (Vote 14-0; Regular Calendar) House Calendar 26 P. 15",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-06-03",
+                "action": "Ought to Pass: Motion Adopted Voice Vote 06/03/2021 House Journal  8 P. 84",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-12",
+                "action": "Enrolled Bill Amendment # 2021-2055e: Amendment Adopted Voice Vote (in recess of) 06/24/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-13",
+                "action": "Enrolled Bill Amendment # 2021-2055e Adopted, Voice Vote, (In recess of 06/24/2021); Senate Journal 20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-21",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 06/24/2021); Senate Journal 20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-23",
+                "action": "Enrolled (in recess of) 06/24/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-08-30",
+                "action": "Signed by the Governor on 08/23/2021; Chapter 0219; Effective 01/01/2022",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 4775,
+                "person_hash": "kswslwpv",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Sharon Carson",
+                "first_name": "Sharon",
+                "middle_name": "",
+                "last_name": "Carson",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-014",
+                "ftm_eid": 6593753,
+                "votesmart_id": 42537,
+                "opensecrets_id": "",
+                "knowwho_pid": 208650,
+                "ballotpedia": "Sharon_Carson",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 11579,
+                "person_hash": "xg5ddnit",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Kevin Avard",
+                "first_name": "Kevin",
+                "middle_name": "A.",
+                "last_name": "Avard",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-012",
+                "ftm_eid": 9727190,
+                "votesmart_id": 13431,
+                "opensecrets_id": "",
+                "knowwho_pid": 296158,
+                "ballotpedia": "Kevin_Avard",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4760,
+                "person_hash": "8scgvpbd",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Jeb Bradley",
+                "first_name": "Jeb",
+                "middle_name": "",
+                "last_name": "Bradley",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-003",
+                "ftm_eid": 6636719,
+                "votesmart_id": 4953,
+                "opensecrets_id": "",
+                "knowwho_pid": 197009,
+                "ballotpedia": "Jeb_Bradley",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4783,
+                "person_hash": "65ugj1s8",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Lou D'Allesandro",
+                "first_name": "Lou",
+                "middle_name": "C.",
+                "last_name": "D'Allesandro",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-020",
+                "ftm_eid": 13012859,
+                "votesmart_id": 14808,
+                "opensecrets_id": "",
+                "knowwho_pid": 196895,
+                "ballotpedia": "Lou_D%27Allesandro",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 15125,
+                "person_hash": "g54db31d",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Donna Soucy",
+                "first_name": "Donna",
+                "middle_name": "M.",
+                "last_name": "Soucy",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-018",
+                "ftm_eid": 9862727,
+                "votesmart_id": 8532,
+                "opensecrets_id": "",
+                "knowwho_pid": 425979,
+                "ballotpedia": "Donna_Soucy",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 16797,
+                "person_hash": "3wdxrmgx",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Kimberly Rice",
+                "first_name": "Kimberly",
+                "middle_name": "",
+                "last_name": "Rice",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-37-HIL",
+                "ftm_eid": 25005534,
+                "votesmart_id": 154512,
+                "opensecrets_id": "",
+                "knowwho_pid": 502112,
+                "ballotpedia": "Kimberly_Rice",
+                "sponsor_type_id": 2,
+                "sponsor_order": 6,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2259543,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB93/id/2259543",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=932&txtFormat=html",
+                "text_size": 35692,
+                "text_hash": "ba30576671346eb4ec91848da6ff7724"
+            },
+            {
+                "doc_id": 2340797,
+                "date": "2021-03-18",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB93/id/2340797",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=SA&id=932",
+                "text_size": 35754,
+                "text_hash": "6edf15cf3c8cbc30a5ad987d7985659a"
+            },
+            {
+                "doc_id": 2424280,
+                "date": "2021-03-18",
+                "type": "Enrolled",
+                "type_id": 5,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB93/id/2424280",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&v=HP&id=932",
+                "text_size": 35574,
+                "text_hash": "a9ff94ae6d3e93a447d1274186b27d8b"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-04-21",
+                "time": "10:30",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Children and Family Law Public Hearing"
+            }
+        ]
+    }
+}

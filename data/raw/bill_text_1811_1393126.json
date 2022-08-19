@@ -1,0 +1,294 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1393126,
+        "change_hash": "38a6369685478398573effec2ff7bfba",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB73/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=45&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB73",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2021-05-10",
+        "progress": [
+            {
+                "date": "2021-01-04",
+                "event": 1
+            },
+            {
+                "date": "2021-01-04",
+                "event": 9
+            },
+            {
+                "date": "2021-02-10",
+                "event": 10
+            },
+            {
+                "date": "2021-03-04",
+                "event": 2
+            },
+            {
+                "date": "2021-03-04",
+                "event": 9
+            },
+            {
+                "date": "2021-03-30",
+                "event": 10
+            },
+            {
+                "date": "2021-04-29",
+                "event": 3
+            },
+            {
+                "date": "2021-05-10",
+                "event": 8
+            },
+            {
+                "date": "2021-05-10",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB73",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to public notice requirements for certain permits issued by the department of environmental services.",
+        "description": "Relative to public notice requirements for certain permits issued by the department of environmental services.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-04",
+                "committee_id": 1242,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Environment and Agriculture"
+            },
+            {
+                "date": "2021-03-04",
+                "committee_id": 1736,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Energy and Natural Resources"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-04",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Environment and Agriculture House Journal  2 P. 34",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-20",
+                "action": "Public Hearing: 01/27/2021 03:15 pm Members of the public may attend using the following links:To join the webinar: https://www.zoom.us/j/92887623403 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-10",
+                "action": "Committee Report: Ought to Pass (Vote 18-0; Consent Calendar) House Calendar 12 P. 4",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-24",
+                "action": "Ought to Pass: Motion Adopted Voice Vote 02/24/2021 House Journal  3 P. 7",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-04",
+                "action": "Introduced 03/04/2021 and Referred to Energy and Natural Resources; Senate Journal 7",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-23",
+                "action": "Remote Hearing: 03/29/2021, 01:15 pm; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  17",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-30",
+                "action": "Committee Report: Ought to Pass, 04/08/2021; Vote 5-0; Consent Calendar; Senate Calendar  18",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-08",
+                "action": "Ought to Pass: Regular Calendar 23Y-1N, Motion Adopted; OT3rdg; 04/08/2021; Senate Journal 11",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-29",
+                "action": "Enrolled (in recess of) 04/09/2021 House Journal  7 P. 101",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-29",
+                "action": "Enrolled Regular Calendar 24Y-0N, Motion Adopted, (In recess of 04/22/2021); Senate Journal 13",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-10",
+                "action": "Signed by Governor Sununu 05/06/2021; Chapter 17; Eff: 07/05/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 19819,
+                "person_hash": "8zx0v085",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Judy Aron",
+                "first_name": "Judy",
+                "middle_name": "",
+                "last_name": "Aron",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-07-SUL",
+                "ftm_eid": 45378624,
+                "votesmart_id": 185539,
+                "opensecrets_id": "",
+                "knowwho_pid": 670808,
+                "ballotpedia": "Judy_Aron",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18152,
+                "person_hash": "gx7i067p",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Howard Pearl",
+                "first_name": "Howard",
+                "middle_name": "",
+                "last_name": "Pearl",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-26-MER",
+                "ftm_eid": 13703940,
+                "votesmart_id": 141848,
+                "opensecrets_id": "",
+                "knowwho_pid": 425998,
+                "ballotpedia": "Howard_Pearl",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 16889,
+                "person_hash": "nqhihhjo",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "John Potucek",
+                "first_name": "John",
+                "middle_name": "",
+                "last_name": "Potucek",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-06-ROC",
+                "ftm_eid": 9891524,
+                "votesmart_id": 154553,
+                "opensecrets_id": "",
+                "knowwho_pid": 501775,
+                "ballotpedia": "John_Potucek",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2227424,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB73/id/2227424",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=47&txtFormat=html",
+                "text_size": 9872,
+                "text_hash": "71263713a73a16a47b46d79ee900b04f"
+            },
+            {
+                "doc_id": 2360516,
+                "date": "2021-04-08",
+                "type": "Enrolled",
+                "type_id": 5,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB73/id/2360516",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&v=SP&id=47",
+                "text_size": 9883,
+                "text_hash": "b318694f5765de452cfbb6e20df1b704"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-01-27",
+                "time": "15:15",
+                "location": "Members of the public may attend using the following links:To jo",
+                "description": "Environment and Agriculture Public Hearing"
+            }
+        ],
+        "full_text": "department of environmental services solid waste division rulemaking notice requirements amend rsa iii to read as follows administration of a permit system including the terms conditions and time frames under which the department shall issue modify suspend revoke deny approve or transfer permits required by this chapter and means of noticing the public about such permits including but not limited to using electronic means via notice on the department s internet website and communicating permitting information with affected municipalities department of environmental services solid waste division permit required electronic notice required amend rsa viii to read as follows the department shall act upon each permit application within the time periods specified in rules adopted under rsa for permits requiring a public hearing under rules adopted under rsa once the department determines that an application is complete in no case without prior written agreement regarding an extension with the applicant shall the department take longer than days to issue or deny the permit for permits that do not require a public hearing under rules adopted under rsa once the department determines that the application is complete in no case without the prior written agreement regarding an extension with the applicant shall the department take longer than days to issue or deny the permit prior to such action the department shall provide notice of the application by publication in at least one newspaper of general circulation in the community and on the department s internet website and an opportunity for hearing to interested persons the applicant shall notify abutters of the public hearing in writing by certified mail return receipt requested the requirement of public notice and hearing shall apply at the discretion of the department to facilities or activities that will have an insignificant effect on environmental quality as defined by rule under rsa"
+    }
+}

@@ -1,0 +1,405 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1398334,
+        "change_hash": "4048dbc98f776ea2975afaf5ac14e30f",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB423/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=566&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB423",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2021-07-26",
+        "progress": [
+            {
+                "date": "2021-01-10",
+                "event": 1
+            },
+            {
+                "date": "2021-01-10",
+                "event": 9
+            },
+            {
+                "date": "2021-02-17",
+                "event": 10
+            },
+            {
+                "date": "2021-03-04",
+                "event": 2
+            },
+            {
+                "date": "2021-03-04",
+                "event": 9
+            },
+            {
+                "date": "2021-03-17",
+                "event": 10
+            },
+            {
+                "date": "2021-07-12",
+                "event": 3
+            },
+            {
+                "date": "2021-07-26",
+                "event": 8
+            },
+            {
+                "date": "2021-07-26",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB423",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Establishing a commission to study the implementation of enhanced automation of traffic lights.",
+        "description": "Establishing a commission to study the implementation of enhanced automation of traffic lights.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-10",
+                "committee_id": 1263,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Transportation"
+            },
+            {
+                "date": "2021-03-04",
+                "committee_id": 1779,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Transportation"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-10",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Transportation House Journal  2 P. 47",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-21",
+                "action": "Public Hearing: 01/29/2021 02:00 pm Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/99305477189 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-01-27",
+                "action": "Executive Session: 02/05/2021 02:15 pm Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/92807074926",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-17",
+                "action": "Committee Report: Ought to Pass (Vote 18-1; Consent Calendar) House Calendar 12 P. 13",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-24",
+                "action": "Ought to Pass: Motion Adopted Voice Vote 02/24/2021 House Journal  3 P. 19",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-04",
+                "action": "Introduced 03/04/2021 and Referred to Transportation; Senate Journal 7",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-11",
+                "action": "Remote Hearing: 03/16/2021, 02:00 pm; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  15",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-17",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-0865s, 03/25/2021; Senate Calendar  16",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-25",
+                "action": "Committee Amendment # 2021-0865s, Regular Calendar 24Y-0N, Amendment Adopted; 03/25/2021; Senate Journal 9",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-25",
+                "action": "Ought to Pass with Amendment 2021-0865s, Regular Calendar 24Y-0N, Motion Adopted; OT3rdg; 03/25/2021; Senate Journal 9",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-10",
+                "action": "House Concurs with Senate Amendment 2021-0865s (Rep. Walsh): Motion Adopted Voice Vote 06/10/2021 House Journal  10 P. 20",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-12",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 06/24/2021); Senate Journal 20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-12",
+                "action": "Enrolled (in recess of) 06/24/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-07-26",
+                "action": "Signed by Governor Sununu 07/23/2021; Chapter 141; I. Sec. 2 Eff: 11/01/2021 II. Rem. Eff: 07/23/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 18810,
+                "person_hash": "jop80o18",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Peter Torosian",
+                "first_name": "Peter",
+                "middle_name": "E.",
+                "last_name": "Torosian",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-14-ROC",
+                "ftm_eid": 41757598,
+                "votesmart_id": 172539,
+                "opensecrets_id": "",
+                "knowwho_pid": 587653,
+                "ballotpedia": "Peter_Torosian",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19160,
+                "person_hash": "tsvwjqxp",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "John Janigian",
+                "first_name": "John",
+                "middle_name": "",
+                "last_name": "Janigian",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-08-ROC",
+                "ftm_eid": 40527566,
+                "votesmart_id": 173063,
+                "opensecrets_id": "",
+                "knowwho_pid": 587626,
+                "ballotpedia": "John_Janigian",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 16885,
+                "person_hash": "wv76xmbo",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Chris True",
+                "first_name": "Chris",
+                "middle_name": "",
+                "last_name": "True",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-04-ROC",
+                "ftm_eid": 25005586,
+                "votesmart_id": 154543,
+                "opensecrets_id": "",
+                "knowwho_pid": 501771,
+                "ballotpedia": "Chris_True",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 16677,
+                "person_hash": "ybgdem4d",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "James Spillane",
+                "first_name": "James",
+                "middle_name": "",
+                "last_name": "Spillane",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-02-ROC",
+                "ftm_eid": 25005580,
+                "votesmart_id": 154538,
+                "opensecrets_id": "",
+                "knowwho_pid": 502120,
+                "ballotpedia": "James_Spillane",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 16624,
+                "person_hash": "5ydai6qf",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Linda Gould",
+                "first_name": "Linda",
+                "middle_name": "",
+                "last_name": "Gould",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-07-HIL",
+                "ftm_eid": 9711345,
+                "votesmart_id": 154475,
+                "opensecrets_id": "",
+                "knowwho_pid": 502379,
+                "ballotpedia": "Linda_Gould",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2234010,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB423/id/2234010",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=553&txtFormat=html",
+                "text_size": 10983,
+                "text_hash": "e4be950951707cb24f61a09714a8860a"
+            },
+            {
+                "doc_id": 2348454,
+                "date": "2021-03-25",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB423/id/2348454",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=SA&id=553",
+                "text_size": 11322,
+                "text_hash": "747f5d349df9f9c803e7b053f52c2968"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1038838,
+                "date": "2021-03-25",
+                "desc": "Committee Amendment",
+                "yea": 24,
+                "nay": 0,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/HB423/id/1038838",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=227&sy=2021&lb=S&eb=HB0423&sortoption=&txtsessionyear=2021&txtbillnumber=HB423&ddlsponsors=&lsr=566"
+            },
+            {
+                "roll_call_id": 1038839,
+                "date": "2021-03-25",
+                "desc": "Ought to Pass w/Amendment",
+                "yea": 24,
+                "nay": 0,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/HB423/id/1038839",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=228&sy=2021&lb=S&eb=HB0423&sortoption=&txtsessionyear=2021&txtbillnumber=HB423&ddlsponsors=&lsr=566"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-01-29",
+                "time": "14:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Transportation Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-05",
+                "time": "14:15",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Transportation Executive Session"
+            }
+        ]
+    }
+}

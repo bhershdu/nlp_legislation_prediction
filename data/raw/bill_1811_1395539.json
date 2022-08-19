@@ -1,0 +1,407 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1395539,
+        "change_hash": "1865a091e254d9332b28ca63ff2da74b",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB251/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=308&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB251",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2021-07-26",
+        "progress": [
+            {
+                "date": "2021-01-09",
+                "event": 1
+            },
+            {
+                "date": "2021-01-09",
+                "event": 9
+            },
+            {
+                "date": "2021-03-29",
+                "event": 10
+            },
+            {
+                "date": "2021-03-29",
+                "event": 11
+            },
+            {
+                "date": "2021-04-13",
+                "event": 2
+            },
+            {
+                "date": "2021-04-13",
+                "event": 9
+            },
+            {
+                "date": "2021-04-28",
+                "event": 10
+            },
+            {
+                "date": "2021-05-06",
+                "event": 10
+            },
+            {
+                "date": "2021-07-12",
+                "event": 3
+            },
+            {
+                "date": "2021-07-26",
+                "event": 8
+            },
+            {
+                "date": "2021-07-26",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB251",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Establishing a committee to study requiring New Hampshire children to be placed in rear facing restraints in motor vehicles.",
+        "description": "Establishing a committee to study requiring New Hampshire children to be placed in rear facing restraints in motor vehicles.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-09",
+                "committee_id": 1263,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Transportation"
+            },
+            {
+                "date": "2021-04-13",
+                "committee_id": 1779,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Transportation"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-09",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Transportation House Journal  2 P. 40",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-03",
+                "action": "Public Hearing: 02/12/2021 02:30 pm Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/98796113084 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-05",
+                "action": "Executive Session: 03/05/2021 11:30 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/99182085994",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-29",
+                "action": "Majority Committee Report: Ought to Pass with Amendment # 2021-0652h (Vote 13-6; Regular Calendar) House Calendar 18 P. 61",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-29",
+                "action": "Minority Committee Report: Inexpedient to Legislate",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-09",
+                "action": "Lay on Table (Rep. Osborne): Motion Failed DV 181-188 04/09/2021 House Journal  7 P. 55",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-09",
+                "action": "Amendment # 2021-0652h: Amendment Adopted DV 232-137 04/09/2021 House Journal  7 P. 55",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-09",
+                "action": "Lay on Table (Rep. Spillane): Motion Failed Regular Calendar 179-197 04/09/2021 House Journal  7 P. 56",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-09",
+                "action": "Indefinitely Postpone (Rep. Belanger): Motion Failed DV 180-195 04/09/2021 House Journal  7 P. 58",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-09",
+                "action": "Ought to Pass with Amendment 2021-0652h: Motion Adopted Regular Calendar 198-176 04/09/2021 House Journal  7 P. 60",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-09",
+                "action": "Reconsider (Rep. T. Smith): Motion Failed DV 143-227 04/09/2021 House Journal  7 P. 62",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-13",
+                "action": "Introduced 04/08/2021 and Referred to Transportation; Senate Journal 12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-15",
+                "action": "Remote Hearing: 04/20/2021, 02:00 pm; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-28",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-1229s, 05/06/2021; Vote 5-0; Consent Calendar; Senate Calendar  22",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-05-06",
+                "action": "Sen. Sherman Moved to Remove HB 251 from the Consent Calendar; 05/06/2021; Senate Journal 14",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-06",
+                "action": "Sen. Bradley Moved to Special Order to 05/13/21, Regular Calendar 23Y-0N, Motion Adopted; 05/06/2021; Senate Journal 14",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-06",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-1229s, 05/13/2021; Senate Calendar  23",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-05-13",
+                "action": "Committee Amendment # 2021-1229s, Amendment Adopted, Voice Vote; 05/13/2021; Senate Journal 15",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-13",
+                "action": "Ought to Pass with Amendment 2021-1229s, Motion Adopted, Voice Vote; OT3rdg; 05/13/2021; Senate Journal 15",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-10",
+                "action": "House Concurs with Senate Amendment 2021-1229s (Rep. Walsh): Motion Adopted Voice Vote 06/10/2021 House Journal  10 P. 19",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-12",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 06/24/2021); Senate Journal 20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-12",
+                "action": "Enrolled (in recess of) 06/24/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-07-26",
+                "action": "Signed by Governor Sununu 07/23/2021; Chapter 135; Eff: 07/23/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 19156,
+                "person_hash": "7u1ok0y1",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Donovan Fenton",
+                "first_name": "Donovan",
+                "middle_name": "",
+                "last_name": "Fenton",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-08-CHE",
+                "ftm_eid": 41757291,
+                "votesmart_id": 172485,
+                "opensecrets_id": "",
+                "knowwho_pid": 587062,
+                "ballotpedia": "Donovan_Fenton",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2235043,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB251/id/2235043",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=306&txtFormat=html",
+                "text_size": 18417,
+                "text_hash": "79ae91e88e6e5d8b4abdeb1c25b64b78"
+            },
+            {
+                "doc_id": 2361775,
+                "date": "2021-04-09",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB251/id/2361775",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=HA&id=306",
+                "text_size": 18409,
+                "text_hash": "c7dc7da283516a4ca2c27e3e6a02aa0a"
+            },
+            {
+                "doc_id": 2400579,
+                "date": "2021-05-13",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB251/id/2400579",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=SA&id=306",
+                "text_size": 20589,
+                "text_hash": "caf02c74ba4a4140c549fa9eb21d57aa"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1049899,
+                "date": "2021-04-09",
+                "desc": "Table Two",
+                "yea": 179,
+                "nay": 197,
+                "nv": 22,
+                "absent": 0,
+                "total": 398,
+                "passed": 0,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/HB251/id/1049899",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=136&sy=2021&lb=H&eb=HB0251&sortoption=&txtsessionyear=2021&txtbillnumber=HB251&ddlsponsors=&lsr=308"
+            },
+            {
+                "roll_call_id": 1049900,
+                "date": "2021-04-09",
+                "desc": "OTPA",
+                "yea": 198,
+                "nay": 176,
+                "nv": 24,
+                "absent": 0,
+                "total": 398,
+                "passed": 1,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/HB251/id/1049900",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=138&sy=2021&lb=H&eb=HB0251&sortoption=&txtsessionyear=2021&txtbillnumber=HB251&ddlsponsors=&lsr=308"
+            },
+            {
+                "roll_call_id": 1074838,
+                "date": "2021-05-06",
+                "desc": "Special Order",
+                "yea": 23,
+                "nay": 0,
+                "nv": 0,
+                "absent": 1,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/HB251/id/1074838",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=366&sy=2021&lb=S&eb=HB0251&sortoption=&txtsessionyear=2021&txtbillnumber=HB251&ddlsponsors=&lsr=308"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-12",
+                "time": "14:30",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Transportation Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-05",
+                "time": "11:30",
+                "location": "Members of the public may attend using the following links: 1. T",
+                "description": "Transportation Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-05",
+                "time": "11:30",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Transportation Executive Session"
+            }
+        ]
+    }
+}

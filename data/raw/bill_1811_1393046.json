@@ -1,0 +1,188 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1393046,
+        "change_hash": "275ccc82d3ea33befec061b00739cd4f",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB97/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=107&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB97",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-04",
+        "progress": [
+            {
+                "date": "2021-01-04",
+                "event": 1
+            },
+            {
+                "date": "2021-01-04",
+                "event": 9
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB97",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Modifying the dates of the state primary and associated filing deadline.",
+        "description": "Modifying the dates of the state primary and associated filing deadline.",
+        "pending_committee_id": 1241,
+        "committee": {
+            "committee_id": 1241,
+            "chamber": "H",
+            "chamber_id": 67,
+            "name": "Election Law"
+        },
+        "referrals": [
+            {
+                "date": "2021-01-04",
+                "committee_id": 1241,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Election Law"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-04",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Election Law House Journal  2 P. 35",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-20",
+                "action": "Public Hearing: 01/29/2021 09:30 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/93706238627 / Executive session on pending legislation may be held throughout the day ( time permitting) fromthe time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-03",
+                "action": "==CONTINUED== Executive Session: 03/10/2021 10:10 am Members of the public may attend using the following link:To join the webinar: https://zoom.us/j/95087806399 (if necessary)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-05",
+                "action": "Executive Session: 03/05/2021 12:00 pm Please click the link below to join the webinar:https://zoom.us/j/99327579520",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-11",
+                "action": "Retained in Committee",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-09-22",
+                "action": "Executive Session: 10/06/2021 10:00 am Legislative Office Building 306-308",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 4972,
+                "person_hash": "9f0oovab",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Ralph Boehm",
+                "first_name": "Ralph",
+                "middle_name": "G.",
+                "last_name": "Boehm",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-27-HIL",
+                "ftm_eid": 6593575,
+                "votesmart_id": 42443,
+                "opensecrets_id": "",
+                "knowwho_pid": 228819,
+                "ballotpedia": "Ralph_Boehm",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2227345,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB97/id/2227345",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=107&txtFormat=html",
+                "text_size": 18758,
+                "text_hash": "ee7db2134c3d00646fec9520b74d4f9d"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-01-29",
+                "time": "09:30",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Election Law Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-05",
+                "time": "12:00",
+                "location": "Please click the link below to join the webinar:https://zoom.us/",
+                "description": "Election Law Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-10",
+                "time": "10:10",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Election Law Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-10-06",
+                "time": "10:00",
+                "location": "Legislative Office Building 306-308",
+                "description": "Election Law Executive Session"
+            }
+        ]
+    }
+}

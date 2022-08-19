@@ -1,0 +1,453 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1403682,
+        "change_hash": "5c17facee5afb6628d92e090a3738a73",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/SB36/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=563&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=SB36",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2021-07-26",
+        "progress": [
+            {
+                "date": "2021-01-12",
+                "event": 1
+            },
+            {
+                "date": "2021-01-12",
+                "event": 9
+            },
+            {
+                "date": "2021-01-20",
+                "event": 10
+            },
+            {
+                "date": "2021-03-10",
+                "event": 2
+            },
+            {
+                "date": "2021-03-10",
+                "event": 9
+            },
+            {
+                "date": "2021-05-25",
+                "event": 10
+            },
+            {
+                "date": "2021-07-12",
+                "event": 3
+            },
+            {
+                "date": "2021-07-26",
+                "event": 8
+            },
+            {
+                "date": "2021-07-26",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "SB36",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "S",
+        "body_id": 68,
+        "current_body": "S",
+        "current_body_id": 68,
+        "title": "Relative to residency under auto insurance policies.",
+        "description": "Relative to residency under auto insurance policies.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-12",
+                "committee_id": 1780,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Commerce"
+            },
+            {
+                "date": "2021-03-10",
+                "committee_id": 1238,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Commerce and Consumer Affairs"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-12",
+                "action": "Introduced 01/06/2021 and Referred to Commerce; Senate Journal 3",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-13",
+                "action": "Remote Hearing: 01/19/2021, 09:10 am; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  7",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-01-20",
+                "action": "Committee Report: Ought to Pass, 02/04/2021; Vote 5-0; Consent Calendar; Senate Calendar  9",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-04",
+                "action": "Ought to Pass: Regular Calendar 23Y-1N, Motion Adopted; OT3rdg; 02/04/2021; Senate Journal 3",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-10",
+                "action": "Introduced (in recess of) 02/25/2021 and referred to Commerce and Consumer Affairs House Journal  4 P. 48",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-17",
+                "action": "Public Hearing: 03/30/2021 09:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/99157160886 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-05",
+                "action": "Executive Session: 05/13/2021 10:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/93883325643",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-25",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-1303h (Vote 19-0; Consent Calendar) House Calendar 26 P. 4",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-06-03",
+                "action": "Amendment # 2021-1303h: Amendment Adopted Voice Vote 06/03/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-03",
+                "action": "Ought to Pass with Amendment 2021-1303h: Motion Adopted Voice Vote 06/03/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-10",
+                "action": "Sen. French Moved to Concur with the House Amendment, Motion Adopted, Voice Vote; 06/10/2021; Senate Journal 19",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-12",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 06/24/2021); Senate Journal 20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-12",
+                "action": "Enrolled (in recess of) 06/24/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-07-26",
+                "action": "Signed by the Governor on 07/23/2021; Chapter 0147; Effective 09/21/2021",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 16752,
+                "person_hash": "10ajy4x5",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Harold French",
+                "first_name": "Harold",
+                "middle_name": "F.",
+                "last_name": "French",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-007",
+                "ftm_eid": 6594361,
+                "votesmart_id": 42444,
+                "opensecrets_id": "",
+                "knowwho_pid": 426133,
+                "ballotpedia": "Harold_French",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 17481,
+                "person_hash": "ghibvwim",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Erin Hennessey",
+                "first_name": "Erin",
+                "middle_name": "Tapper",
+                "last_name": "Hennessey",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-001",
+                "ftm_eid": 25005445,
+                "votesmart_id": 154433,
+                "opensecrets_id": "",
+                "knowwho_pid": 501701,
+                "ballotpedia": "Erin_Hennessey",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21864,
+                "person_hash": "f53ogink",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Denise Ricciardi",
+                "first_name": "Denise",
+                "middle_name": "",
+                "last_name": "Ricciardi",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-009",
+                "ftm_eid": 50226734,
+                "votesmart_id": 194274,
+                "opensecrets_id": "",
+                "knowwho_pid": 743987,
+                "ballotpedia": "Denise_Ricciardi",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18168,
+                "person_hash": "wzdy4vye",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Bob Giuda",
+                "first_name": "Robert",
+                "middle_name": "",
+                "last_name": "Giuda",
+                "suffix": "",
+                "nickname": "Bob",
+                "district": "SD-002",
+                "ftm_eid": 6594468,
+                "votesmart_id": 21328,
+                "opensecrets_id": "",
+                "knowwho_pid": 208524,
+                "ballotpedia": "Bob_Giuda",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 14488,
+                "person_hash": "elsfgcmi",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Thomas Sherman",
+                "first_name": "Thomas",
+                "middle_name": "",
+                "last_name": "Sherman",
+                "suffix": "",
+                "nickname": "Tom",
+                "district": "SD-024",
+                "ftm_eid": 13703813,
+                "votesmart_id": 141784,
+                "opensecrets_id": "",
+                "knowwho_pid": 426683,
+                "ballotpedia": "Tom_Sherman",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 15125,
+                "person_hash": "g54db31d",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Donna Soucy",
+                "first_name": "Donna",
+                "middle_name": "M.",
+                "last_name": "Soucy",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-018",
+                "ftm_eid": 9862727,
+                "votesmart_id": 8532,
+                "opensecrets_id": "",
+                "knowwho_pid": 425979,
+                "ballotpedia": "Donna_Soucy",
+                "sponsor_type_id": 2,
+                "sponsor_order": 6,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4871,
+                "person_hash": "w5q7sakl",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "John Reagan",
+                "first_name": "John",
+                "middle_name": "",
+                "last_name": "Reagan",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-017",
+                "ftm_eid": 737365,
+                "votesmart_id": 65169,
+                "opensecrets_id": "",
+                "knowwho_pid": 250155,
+                "ballotpedia": "John_Reagan",
+                "sponsor_type_id": 2,
+                "sponsor_order": 7,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18152,
+                "person_hash": "gx7i067p",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Howard Pearl",
+                "first_name": "Howard",
+                "middle_name": "",
+                "last_name": "Pearl",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-26-MER",
+                "ftm_eid": 13703940,
+                "votesmart_id": 141848,
+                "opensecrets_id": "",
+                "knowwho_pid": 425998,
+                "ballotpedia": "Howard_Pearl",
+                "sponsor_type_id": 2,
+                "sponsor_order": 8,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2238291,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB36/id/2238291",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=556&txtFormat=html",
+                "text_size": 10090,
+                "text_hash": "e22f353e2504d359ade59ca675b98fea"
+            },
+            {
+                "doc_id": 2411571,
+                "date": "2021-06-03",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB36/id/2411571",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=HA&id=556",
+                "text_size": 10147,
+                "text_hash": "f825618c6baa5e04e8f3ab26179efc7d"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-30",
+                "time": "09:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Commerce and Consumer Affairs Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-05-13",
+                "time": "10:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Commerce and Consumer Affairs Executive Session"
+            }
+        ],
+        "full_text": "prohibition on nonresident automobile insurance rsa is repealed and reenacted to read as follows prohibition on nonresident automobile insurance policies of automobile insurance as defined in rsa shall only be issued and renewed to residents of the state of new hampshire except that such policies shall also be permitted to be sold to any person if the vehicle insured is exclusively garaged in new hampshire notwithstanding any other provision of law to the contrary no individual shall be provided coverage under a policy of automobile insurance as defined in rsa if such applicant or applicants have been determined by the insurer to have intentionally misrepresented their residency status or exclusive garaging status at the time of initial application or renewal payment shall be made by the insurer with respect to accidents for all valid bodily injury and property damage liability claims and all valid uninsured motorist claims by individuals other than the applicant or applicants who made the intentional misrepresentation however the insurer shall be legally entitled to reimbursement by the policyholder for all such paid claims automobile insurance cancellation grounds amend rsa iv to read as follows failure to sign the new hampshire residency form as required by rsa named insured was not a resident of the state of new hampshire at the time the policy was issued or renewed unless the insured vehicle at issue was exclusively garaged in new hampshire when the policy was issued or renewed repeal the following are repealed rsa relative to the exclusion of certain claims in calculation of premium rates rsa relative to statements of residency for automobile insurance policies"
+    }
+}

@@ -1,0 +1,202 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1395849,
+        "change_hash": "d4e5546a0f11670f10de268eb7281c00",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/CACR7/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=355&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=CACR7",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-09",
+        "progress": [
+            {
+                "date": "2021-01-09",
+                "event": 1
+            },
+            {
+                "date": "2021-01-09",
+                "event": 9
+            },
+            {
+                "date": "2021-02-16",
+                "event": 11
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "CACR7",
+        "bill_type": "CA",
+        "bill_type_id": "7",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relating to the governor.  Providing that there be a lieutenant governor who shall assume the duties of the governor if the governor is incapacitated.",
+        "description": "Relating to the governor.  Providing that there be a lieutenant governor who shall assume the duties of the governor if the governor is incapacitated.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-09",
+                "committee_id": 1243,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Executive Departments and Administration"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-09",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Executive Departments and Administration House Journal  2 P. 47",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-28",
+                "action": "Public Hearing: 02/08/2021 09:30 am Members of the public may attend using the following link:To join the webinar: https://zoom.us/j/99308877767 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-16",
+                "action": "Committee Report: Inexpedient to Legislate (Vote 16-3; Regular Calendar) House Calendar 12 P. 29",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-25",
+                "action": "Special Order to Regular Calendar of next Session day Without Objection House Journal  4 P. 46",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 18809,
+                "person_hash": "dgedzigb",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Michael Moffett",
+                "first_name": "Michael",
+                "middle_name": "Irving",
+                "last_name": "Moffett",
+                "suffix": "",
+                "nickname": "Mike",
+                "district": "HD-09-MER",
+                "ftm_eid": 6595378,
+                "votesmart_id": 42035,
+                "opensecrets_id": "",
+                "knowwho_pid": 501767,
+                "ballotpedia": "Michael_Moffett",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18152,
+                "person_hash": "gx7i067p",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Howard Pearl",
+                "first_name": "Howard",
+                "middle_name": "",
+                "last_name": "Pearl",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-26-MER",
+                "ftm_eid": 13703940,
+                "votesmart_id": 141848,
+                "opensecrets_id": "",
+                "knowwho_pid": 425998,
+                "ballotpedia": "Howard_Pearl",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19166,
+                "person_hash": "nmyh7fie",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Timothy Lang",
+                "first_name": "Timothy",
+                "middle_name": "P.",
+                "last_name": "Lang",
+                "suffix": "Sr.",
+                "nickname": "",
+                "district": "HD-04-BEL",
+                "ftm_eid": 13703536,
+                "votesmart_id": 141853,
+                "opensecrets_id": "",
+                "knowwho_pid": 426007,
+                "ballotpedia": "Timothy_Lang_Sr.",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2232826,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/CACR7/id/2232826",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=361&txtFormat=html",
+                "text_size": 33892,
+                "text_hash": "9e2314881e25f402a649905c6977acac"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-08",
+                "time": "09:30",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Executive Departments and Administration Public Hearing"
+            }
+        ],
+        "full_text": "the governor providing that providing that there be a lieutenant governor who shall assume the duties of the governor if the governor is incapacitated that articles and of the second part of the constitution be amended to read as follows art governor supreme executive magistrate lieutenant governor there shall be a supreme executive magistrate who shall be styled the governor of the state of new hampshire and whose title shall be his excellency there shall be a chosen at the same time and for the same term as the governor the executive power of the state is vested in the governor the governor shall be responsible for the faithful execution of the laws he may by appropriate court action or proceeding brought in the name of the state enforce compliance with any constitutional or legislative mandate or restrain violation of any constitutional or legislative power duty or right by any officer department or agency of the state this authority shall not be construed to authorize any action or proceedings against the legislative or judicial branches art election of governor and return of votes electors if no choice legislature to elect one of two highest candidates qualifications for governor the governor and shall be chosen biennially in the month of november and they shall be chosen jointly by the casting by each voter of a single vote applicable to both offices the votes for governor and shall be received sorted counted certified and returned in the same manner as the votes for senators and the secretary shall lay the same before the senate and house of representatives on the first wednesday following the first tuesday of january to be by them examined and in case of an election by a plurality of votes through the state the choice shall be by them declared and published and the qualifications of electors of the governor shall be the same as those for senators and if no person persons shall have a plurality of votes the senate and house of representatives shall by joint ballot elect one of the two respective persons having the highest number of votes who shall be declared governor and and no person shall be eligible to this either office unless at the time of his election he shall have been an inhabitant of this state for years next preceding and unless he shall be of the age of years art president of senate lieutenant governor etc to act as governor when office vacant speaker of house president of senate to act when office of lieutenant governor is also vacant in the event of the death resignation removal from office failure to qualify physical or mental incapacity absence from the state or other incapacity of the governor the president of the senate for the time being shall act as governor until the vacancy is filled or the incapacity is removed and if the president of the senate for any of the above named causes shall become incapable of performing the duties of governor the same shall devolve upon the speaker of the house of representatives president of the senate for the time being or in the case of the like incapacity of the speaker president upon the secretary of state speaker of the house of representatives or in case of his like incapacity upon the state treasurer secretary of state each of whom in that order shall act as governor as hereinabove provided until the vacancy is filled or the incapacity removed whenever a vacancy for the duration or remainder of the governor s term of office occurs before the commencement of the last year of such term a special election for governor shall take place to fill the vacancy as provided by law whenever the speaker of the house president of the senate acts as governor he shall act as such only until such time as the vacancy is filled or the incapacity removed in either the office of governor or of president of the senate whichever occurs first whenever either the secretary of state speaker of the house of representatives or the treasurer secretary of state acts as governor he shall act as such only until such time as the vacancy is filled or the incapacity removed in the offices of governor of president of the senate l or of speaker of the house president of the senate whichever occurs first while acting as governor under this article the president of the senate speaker of the house or secretary of state or state treasurer as the case may be shall be styled acting governor shall not be required to take an additional oath of office shall have and exercise all the powers duties and authorities of and receive compensation equal to that of the office of governor and the capacity of each such officer to serve as president of the senate as well as senator speaker of the house of representatives as well as representative or secretary of state or state treasurer as the case may be or to receive the compensation of such office shall be suspended only while the governor or an acting governor is absent from the state on official business he shall have the power and authority to transact such business art prolonged failure to qualify vacancy in office of governor due to physical or mental incapacity etc whenever the governor transmits to the secretary of state and president of the senate his written declaration that he is unable to discharge the powers and duties of his office by reason of physical or mental incapacity and until he transmits to them a written declaration to the contrary the president of the senate for the time being shall act as governor as provided in article subject to the succession provisions therein set forth whenever it reasonably appears to the attorney general and a majority of the council that the governor is unable to discharge the powers and duties of his office by reason of physical or mental incapacity but the governor is unwilling or unable to transmit his written declaration to such effect as above provided the attorney general shall file a petition for declaratory judgment in the supreme court requesting a judicial determination of the ability of the governor to discharge the powers and duties of his office after notice and hearing the justices of the supreme court shall render such judgment as they find warranted by a preponderance of the evidence and if the court holds that the governor is unable to discharge the powers and duties of his office the president of the senate for the time being shall act as governor as provided in article subject to the succession provisions therein set forth until such time as the disability of the governor is removed or a newly elected governor is inaugurated such disability once determined by the supreme court may be removed upon petition for declaratory judgment to the supreme court by the governor if the court finds after notice and hearing by a preponderance of the evidence that the governor is able to discharge the powers and duties of his office whenever such disability of the governor as determined by his written declaration or by judgment of the supreme court has continued for a period of months the general court may by concurrent resolution adopted by both houses declare the office of governor vacant whenever the governor elect fails to qualify by reason of physical or mental incapacity or any cause other than death or resignation for a period of months following the inauguration date established by this constitution the general court may by concurrent resolution adopted by both houses declare the office of governor vacant the provisions of article shall govern the filling of such vacancy either by special election or continued service of an acting governor if the general court is not in session when any such period expires the acting governor upon written request of at least of the members of each house shall convene the general court in special session for the sole purpose of considering and acting on the question whether to declare a vacancy in the office of governor under this article that the above amendment proposed to the constitution be submitted to the qualified voters of the state at the state general election to be held in november that the selectmen of all towns cities wards and places in the state are directed to insert in their warrants for the said election an article to the following effect to decide whether the amendments of the constitution proposed by the session of the general court shall be approved that the wording of the question put to the qualified voters shall be are you in favor of amending articles and of the second part of the constitution to read as follows art governor supreme executive magistrate lieutenant governor there shall be a supreme executive magistrate who shall be styled the governor of the state of new hampshire and whose title shall be his excellency there shall be a chosen at the same time and for the same term as the governor the executive power of the state is vested in the governor the governor shall be responsible for the faithful execution of the laws he may by appropriate court action or proceeding brought in the name of the state enforce compliance with any constitutional or legislative mandate or restrain violation of any constitutional or legislative power duty or right by any officer department or agency of the state this authority shall not be construed to authorize any action or proceedings against the legislative or judicial branches art election of governor and return of votes electors if no choice legislature to elect one of two highest candidates qualifications for governor the governor and shall be chosen biennially in the month of november they shall be chosen jointly by the casting by each voter of a single vote applicable to both offices the votes for governor and shall be received sorted counted certified and returned in the same manner as the votes for senators and the secretary shall lay the same before the senate and house of representatives on the first wednesday following the first tuesday of january to be by them examined and in case of an election by a plurality of votes through the state the choice shall be by them declared and published and the qualifications of electors of the governor shall be the same as those for senators and if no persons shall have a plurality of votes the senate and house of representatives shall by joint ballot elect the respective persons having the highest number of votes who shall be declared governor and and no person shall be eligible to either office unless at the time of his election he shall have been an inhabitant of this state for years next preceding and unless he shall be of the age of years art lieutenant governor etc to act as governor when office vacant president of senate to act when office of lieutenant governor is also vacant in the event of the death resignation removal from office failure to qualify physical or mental incapacity absence from the state or other incapacity of the governor the for the time being shall act as governor until the vacancy is filled or the incapacity is removed and if the for any of the above named causes shall become incapable of performing the duties of governor the same shall devolve upon the president of the senate for the time being or in the case of the like incapacity of the president upon the speaker of the house of representatives or in case of his like incapacity upon the secretary of state each of whom in that order shall act as governor as hereinabove provided until the vacancy is filled or the incapacity removed whenever a vacancy for the duration or remainder of the governor s term of office occurs before the commencement of the last year of such term a special election for governor shall take place to fill the vacancy as provided by law whenever the president of the senate acts as governor he shall act as such only until such time as the vacancy is filled or the incapacity removed in either the office of governor or of whichever occurs first whenever either the speaker of the house of representatives or the secretary of state acts as governor he shall act as such only until such time as the vacancy is filled or the incapacity removed in the offices of governor of or of president of the senate whichever occurs first while acting as governor under this article the president of the senate speaker of the house or secretary of state as the case may be shall be styled acting governor shall not be required to take an additional oath of office shall have and exercise all the powers duties and authorities of and receive compensation equal to that of the office of governor and the capacity of each such officer to serve as president of the senate as well as senator speaker of the house of representatives as well as representative or secretary of state as the case may be or to receive the compensation of such office shall be suspended only while the governor or an acting governor is absent from the state on official business he shall have the power and authority to transact such business art prolonged failure to qualify vacancy in office of governor due to physical or mental incapacity etc whenever the governor transmits to the secretary of state and president of the senate his written declaration that he is unable to discharge the powers and duties of his office by reason of physical or mental incapacity and until he transmits to them a written declaration to the contrary the for the time being shall act as governor as provided in article subject to the succession provisions therein set forth whenever it reasonably appears to the attorney general and a majority of the council that the governor is unable to discharge the powers and duties of his office by reason of physical or mental incapacity but the governor is unwilling or unable to transmit his written declaration to such effect as above provided the attorney general shall file a petition for declaratory judgment in the supreme court requesting a judicial determination of the ability of the governor to discharge the powers and duties of his office after notice and hearing the justices of the supreme court shall render such judgment as they find warranted by a preponderance of the evidence and if the court holds that the governor is unable to discharge the powers and duties of his office the for the time being shall act as governor as provided in article subject to the succession provisions therein set forth until such time as the disability of the governor is removed or a newly elected governor is inaugurated such disability once determined by the supreme court may be removed upon petition for declaratory judgment to the supreme court by the governor if the court finds after notice and hearing by a preponderance of the evidence that the governor is able to discharge the powers and duties of his office whenever such disability of the governor as determined by his written declaration or by judgment of the supreme court has continued for a period of months the general court may by concurrent resolution adopted by both houses declare the office of governor vacant whenever the governor elect fails to qualify by reason of physical or mental incapacity or any cause other than death or resignation for a period of months following the inauguration date established by this constitution the general court may by concurrent resolution adopted by both houses declare the office of governor vacant the provisions of article shall govern the filling of such vacancy either by special election or continued service of an acting governor if the general court is not in session when any such period expires the acting governor upon written request of at least of the members of each house shall convene the general court in special session for the sole purpose of considering and acting on the question whether to declare a vacancy in the office of governor under this article that the secretary of state shall print the question to be submitted on a separate ballot or on the same ballot with other constitutional questions the ballot containing the question shall include squares next to the question allowing the voter to vote yes or no if no cross is made in either of the squares the ballot shall not be counted on the question the outside of the ballot shall be the same as the regular official ballot except that the words questions relating to constitutional amendments proposed by the general court shall be printed in bold type at the top of the ballot that if the proposed amendment is approved by of those voting on the amendment it becomes effective when the governor proclaims its adoption voters guide at the present time there is no office of lieutenant governor in new hampshire in the event a governor is incapacitated or otherwise unable to perform the duties of the office the constitution provides that the president of the senate shall assume the duties of the governor if the president of the senate is unable to assume or perform the duties of the governor the constitution provides that speaker of the house of representatives the secretary of state or the state treasurer would act as governor in that order if the amendment is adopted there will be a elected jointly with the governor if the governor were to become incapacitated or otherwise unable to perform the duties of the office the would be the first in order of succession to assume the duties of governor followed by the president of the senate the speaker of the house of representatives and the secretary of state"
+    }
+}

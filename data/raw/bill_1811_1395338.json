@@ -1,0 +1,378 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1395338,
+        "change_hash": "52d5b6b0e6674702e53f4d3805446e92",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/SB27/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=827&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=SB27",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2021-08-03",
+        "progress": [
+            {
+                "date": "2021-01-06",
+                "event": 1
+            },
+            {
+                "date": "2021-01-06",
+                "event": 9
+            },
+            {
+                "date": "2021-01-28",
+                "event": 10
+            },
+            {
+                "date": "2021-03-10",
+                "event": 2
+            },
+            {
+                "date": "2021-03-10",
+                "event": 9
+            },
+            {
+                "date": "2021-05-20",
+                "event": 10
+            },
+            {
+                "date": "2021-05-20",
+                "event": 11
+            },
+            {
+                "date": "2021-07-15",
+                "event": 3
+            },
+            {
+                "date": "2021-08-03",
+                "event": 8
+            },
+            {
+                "date": "2021-08-03",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "SB27",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "S",
+        "body_id": 68,
+        "current_body": "S",
+        "current_body_id": 68,
+        "title": "Relative to the sale of lucky 7 tickets.",
+        "description": "Relative to the sale of lucky 7 tickets.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-06",
+                "committee_id": 1277,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Ways and Means"
+            },
+            {
+                "date": "2021-03-10",
+                "committee_id": 1264,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Ways and Means"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-06",
+                "action": "Introduced 01/06/2021 and Referred to Ways and Means; Senate Journal 3",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-07",
+                "action": "Remote Hearing: 01/13/2021, 01:45 pm; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  6",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-01-28",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-0152s, 02/04/2021; Vote 5-0; Consent Calendar; Senate Calendar  9",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-04",
+                "action": "Committee Amendment # 2021-0152s, Regular Calendar 23Y-1N, Amendment Adopted; 02/04/2021; Senate Journal 3",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-04",
+                "action": "Ought to Pass with Amendment 2021-0152s, Regular Calendar 23Y-1N, Motion Adopted; OT3rdg; 02/04/2021; Senate Journal 3",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-10",
+                "action": "Introduced (in recess of) 02/25/2021 and referred to Ways and Means House Journal  4 P. 48",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-16",
+                "action": "Public Hearing: 03/16/2021 09:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/97636968924 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-28",
+                "action": "Full Committee Work Session: 05/04/2021 09:45 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/92340576130 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-05",
+                "action": "Executive Session: 05/11/2021 09:30 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/91063233087 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-20",
+                "action": "Majority Committee Report: Ought to Pass with Amendment # 2021-1236h (Vote 23-1; Regular Calendar) House Calendar 26 P. 30",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-05-20",
+                "action": "Minority Committee Report: Inexpedient to Legislate",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-06-04",
+                "action": "Amendment # 2021-1236h: Amendment Adopted Voice Vote 06/04/2021 House Journal  9 P. 34",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-04",
+                "action": "Ought to Pass with Amendment 2021-1236h: Motion Adopted Voice Vote 06/04/2021 House Journal  9 P. 34",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-10",
+                "action": "Sen. Giuda Moved Nonconcur with the House Amendment; Requests C of C, Motion Adopted, Voice Vote; 06/10/2021; Senate Journal 19",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-10",
+                "action": "President Appoints: Senators Giuda, Hennessey, D'Allesandro; 06/10/2021; Senate Journal 19",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-10",
+                "action": "House Accedes to Senate Request for CofC (Rep. Major): Motion Adopted Voice Vote 06/10/2021 House Journal  10 P. 17",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-10",
+                "action": "Speaker Appoints: Reps. Abrami, Doucette, Spilsbury, Almy 06/10/2021 House Journal  10 P. 17",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-11",
+                "action": "Committee of Conference Meeting: 06/14/2021, 12:30 p.m., Room 103, State House",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-11",
+                "action": "Conferee Change: Rep. Ames Replaces Rep. Almy 06/10/2021 House Journal  10 P. 22",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-14",
+                "action": "Conferee Change: Rep. Pearl Replaces Rep. Doucette 06/10/2021 House Journal  10 P. 22",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-17",
+                "action": "Conference Committee Report # 2021-1979c Filed 06/10/2021; As Amended by Senate",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-24",
+                "action": "Conference Committee Report 2021-1979c: Adopted, Voice Vote 06/24/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-24",
+                "action": "Conference Committee Report # 2021-1979c, Adopted, Voice Vote; 06/24/2021; Senate Journal 20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-15",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 06/24/2021); Senate Journal 20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-15",
+                "action": "Enrolled (in recess of) 06/24/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-08-03",
+                "action": "Signed by the Governor on 07/30/2021; Chapter 0174; Effective 09/28/2021",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 18168,
+                "person_hash": "wzdy4vye",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Bob Giuda",
+                "first_name": "Robert",
+                "middle_name": "",
+                "last_name": "Giuda",
+                "suffix": "",
+                "nickname": "Bob",
+                "district": "SD-002",
+                "ftm_eid": 6594468,
+                "votesmart_id": 21328,
+                "opensecrets_id": "",
+                "knowwho_pid": 208524,
+                "ballotpedia": "Bob_Giuda",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2229733,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB27/id/2229733",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=822&txtFormat=html",
+                "text_size": 23888,
+                "text_hash": "9c67da80755796a8bfb5e29d1ea088c4"
+            },
+            {
+                "doc_id": 2276491,
+                "date": "2021-02-04",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB27/id/2276491",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=SA&id=822",
+                "text_size": 24114,
+                "text_hash": "4e94d9546e6e5b977d8c062716870e86"
+            },
+            {
+                "doc_id": 2412304,
+                "date": "2021-02-04",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB27/id/2412304",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=HA&id=822",
+                "text_size": 25772,
+                "text_hash": "b85b51298825c5951348290f694f9bbf"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-16",
+                "time": "09:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Ways and Means Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-05-04",
+                "time": "09:45",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Ways and Means Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-05-11",
+                "time": "09:30",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Ways and Means Executive Session"
+            }
+        ]
+    }
+}

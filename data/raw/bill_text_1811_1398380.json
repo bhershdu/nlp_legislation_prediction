@@ -1,0 +1,174 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1398380,
+        "change_hash": "5fd2b715a079955514a1eadcb3ac3871",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB418/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=650&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB418",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-10",
+        "progress": [
+            {
+                "date": "2021-01-10",
+                "event": 1
+            },
+            {
+                "date": "2021-01-10",
+                "event": 9
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB418",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to supreme court reporting.",
+        "description": "Relative to supreme court reporting.",
+        "pending_committee_id": 1250,
+        "committee": {
+            "committee_id": 1250,
+            "chamber": "H",
+            "chamber_id": 67,
+            "name": "Judiciary"
+        },
+        "referrals": [
+            {
+                "date": "2021-01-10",
+                "committee_id": 1250,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Judiciary"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-10",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Judiciary House Journal  2 P. 47",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-26",
+                "action": "Public Hearing: 02/26/2021 02:00 pm Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/91679735236 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-10",
+                "action": "Executive Session: 03/10/2021 09:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/95164452682",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-16",
+                "action": "Retained in Committee",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-09-08",
+                "action": "Executive Session: 09/28/2021 10:00 am Legislative Office Building 206-208",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 4845,
+                "person_hash": "0rmbg8t7",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Marjorie Smith",
+                "first_name": "Marjorie",
+                "middle_name": "",
+                "last_name": "Smith",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-07-STR",
+                "ftm_eid": 6395309,
+                "votesmart_id": 14725,
+                "opensecrets_id": "",
+                "knowwho_pid": 197019,
+                "ballotpedia": "Marjorie_Smith",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2234710,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB418/id/2234710",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=651&txtFormat=html",
+                "text_size": 13688,
+                "text_hash": "715b8bf60bb8cc778293e7c747bd7e54"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-26",
+                "time": "14:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Judiciary Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-10",
+                "time": "09:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Judiciary Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-09-28",
+                "time": "10:00",
+                "location": "Legislative Office Building 206-208",
+                "description": "Judiciary Executive Session"
+            }
+        ],
+        "full_text": "the state reporter and reports appointment amend rsa to read as follows appointment the supreme court shall appoint a suitable person to be reporter of its decisions and may remove him at pleasure before entering upon his duties he shall be sworn the reporter shall be sworn before assuming the duties of the office the reporter may be removed from office pursuant to procedures established by the supreme court the state reporter and reports amend rsa through rsa to read as follows publication the reporter shall as soon as practicable after a decision is announced publish a report of each case in which an opinion is furnished by the court the report shall include the opinion furnished by the court style etc of reports the reports shall be published in volumes entitled new hampshire reports and shall give the extreme dates of the decisions on the title page the size style and price of the volumes shall be prescribed by the justices of the court may be published either in volumes entitled new hampshire reports the size style and price of the volumes shall be prescribed by the justices of the court or on the supreme court website or in volumes as described in paragraph i and on the supreme court website sale of reports and disposal of copyright the reporter shall publish the reports and may provide for the sale thereof of the reports and may dispose of the copyright as he the reporter shall deem expedient disposal of proceeds the reporter shall pay each month to the state treasurer all money received from such sales and from subscriptions the sale of reports or from any subscription service developed for delivery of the reports distribution of court reports at the direction of the chief justice of the supreme court the reporter shall unless otherwise directed by the chief justice of the supreme court may send one copy of the court reports to each of the following officers and bodies justices and clerks of the supreme and superior courts the office of clerk in each county state reporter each free public library established under the laws of the state the department of justice the clerk of the supreme court of the united states the library of congress at washington the judge judges and clerk of the district court of the united states for the district of new hampshire and the state library of each state of the united states with which the new hampshire law library or state library maintains an exchange agreement covering court reports the residue may be drawn upon by the law library or the state library for their own use or for additional exchange agreements the law library or state library may recover all sets and or partial sets of court reports located within those towns closing their free public libraries or desiring to dispose of court reports furnished under this section the law library or state library may establish full sets in public libraries open daily agreeing to make them available to all the people in the geographic area the reclaimed sets shall may be placed in the stock held by the reporter repeal rsa relative to the annual salary of the supreme court reporter"
+    }
+}

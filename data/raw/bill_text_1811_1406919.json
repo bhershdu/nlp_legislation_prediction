@@ -1,0 +1,552 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1406919,
+        "change_hash": "8350f71bca8524c02f006a403d924c25",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB605/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=14&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB605",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2021-08-16",
+        "progress": [
+            {
+                "date": "2021-01-14",
+                "event": 1
+            },
+            {
+                "date": "2021-01-14",
+                "event": 9
+            },
+            {
+                "date": "2021-03-16",
+                "event": 10
+            },
+            {
+                "date": "2021-03-16",
+                "event": 10
+            },
+            {
+                "date": "2021-04-13",
+                "event": 2
+            },
+            {
+                "date": "2021-04-13",
+                "event": 9
+            },
+            {
+                "date": "2021-04-28",
+                "event": 10
+            },
+            {
+                "date": "2021-05-25",
+                "event": 10
+            },
+            {
+                "date": "2021-07-23",
+                "event": 3
+            },
+            {
+                "date": "2021-08-16",
+                "event": 8
+            },
+            {
+                "date": "2021-08-16",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB605",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to the therapeutic cannabis program.",
+        "description": "Relative to the therapeutic cannabis program.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-14",
+                "committee_id": 1249,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Health, Human Services & Elderly Affairs"
+            },
+            {
+                "date": "2021-04-13",
+                "committee_id": 1272,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Health and Human Services"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-14",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Health, Human Services and Elderly Affairs House Journal  2 P. 56",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-23",
+                "action": "Public Hearing: 02/23/2021 01:00 pm Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/95885653389 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-02",
+                "action": "Executive Session: 03/02/2021 12:30 pm Members of the public may attend using the following links:To join the webinar: https://www.zoom.us/j/99282187833",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-16",
+                "action": "Majority Committee Report: Ought to Pass with Amendment # 2021-0646h (Vote 17-3; Regular Calendar) House Calendar 18",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-16",
+                "action": "Minority Committee Report: Ought to Pass with Amendment # 2021-0645h",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-08",
+                "action": "Amendment # 2021-0646h: Amendment Adopted Voice Vote 04/08/2021 House Journal  6 P. 91",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-08",
+                "action": "Ought to Pass with Amendment 2021-0646h: Motion Adopted Voice Vote 04/08/2021 House Journal  6 P. 91",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-13",
+                "action": "Introduced 04/08/2021 and Referred to Health and Human Services; Senate Journal 12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-15",
+                "action": "Remote Hearing: 04/21/2021, 09:00 am; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-28",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-1234s, 05/06/2021; Senate Calendar  22",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-05-06",
+                "action": "Committee Amendment # 2021-1234s, Regular Calendar 10Y-13N, Amendment Failed; 05/06/2021; Senate Journal 14",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-06",
+                "action": "Sen. Bradley Moved Laid on Table, Regular Calendar 18Y-5N, Motion Adopted; 05/06/2021; Senate Journal 14",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-06",
+                "action": "Pending Motion Ought to Pass; 05/06/2021; Senate Journal 14",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-20",
+                "action": "Sen. Sherman Moved to Remove From Table, Motion Adopted, Voice Vote; 05/20/2021; Senate Journal 16",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-20",
+                "action": "Sen. Sherman Floor Amendment # 2021-1603s, Amendment Adopted, Voice Vote; 05/20/2021; Senate Journal 16",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-20",
+                "action": "Ought to Pass with Amendment 2021-1603s, Motion Adopted, Voice Vote; Refer to Finance Rule 4-5; 05/20/2021; Senate Journal 16",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-25",
+                "action": "Committee Report: Ought to Pass, 05/27/2021; Senate Calendar  25A",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-05-27",
+                "action": "Ought to Pass: Regular Calendar 17Y-7N, Motion Adopted; OT3rdg; 05/27/2021; Senate Journal 17",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-10",
+                "action": "House Concurs with Senate Amendment 2021-1603s (Rep. M. Pearson): Motion Adopted Voice Vote 06/10/2021 House Journal  10 P. 12",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-08",
+                "action": "Enrolled Bill Amendment # 2021-2052e Adopted, Voice Vote, (In recess of 06/24/2021); Senate Journal 20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-12",
+                "action": "Enrolled Bill Amendment # 2021-2052e: Amendment Adopted Voice Vote (in recess of) 06/24/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-21",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 06/24/2021); Senate Journal 20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-23",
+                "action": "Enrolled (in recess of) 06/24/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-08-16",
+                "action": "Signed by Governor Sununu 08/10/2021; Chapter 193; I. Sec. 2 & 9 Eff: as provided in Sec. 10 II. Sec. 7/8/11/12 Eff: as provided in Sec. 13 III. Rem. Eff: 10/09/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 19460,
+                "person_hash": "9tstvyhl",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Casey Conley",
+                "first_name": "Casey",
+                "middle_name": "M.",
+                "last_name": "Conley",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-13-STR",
+                "ftm_eid": 43989827,
+                "votesmart_id": 176725,
+                "opensecrets_id": "",
+                "knowwho_pid": 644124,
+                "ballotpedia": "Casey_Conley",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19809,
+                "person_hash": "rh4yysxz",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Wendy Chase",
+                "first_name": "Wendy",
+                "middle_name": "",
+                "last_name": "Chase",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-18-STR",
+                "ftm_eid": 45378661,
+                "votesmart_id": 185394,
+                "opensecrets_id": "",
+                "knowwho_pid": 670925,
+                "ballotpedia": "Wendy_Chase",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19854,
+                "person_hash": "0q2zo1or",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Dennis Acton",
+                "first_name": "Dennis",
+                "middle_name": "",
+                "last_name": "Acton",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-10-ROC",
+                "ftm_eid": 13703943,
+                "votesmart_id": 141850,
+                "opensecrets_id": "",
+                "knowwho_pid": 425999,
+                "ballotpedia": "Dennis_Acton",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21847,
+                "person_hash": "xpplg1d5",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Melbourne Moran",
+                "first_name": "Melbourne",
+                "middle_name": "",
+                "last_name": "Moran",
+                "suffix": "Jr.",
+                "nickname": "",
+                "district": "HD-34-HIL",
+                "ftm_eid": 50226649,
+                "votesmart_id": 194957,
+                "opensecrets_id": "",
+                "knowwho_pid": 744561,
+                "ballotpedia": "Melbourne_Moran_Jr.",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19743,
+                "person_hash": "ryfcko8x",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Rebecca McWilliams",
+                "first_name": "Rebecca",
+                "middle_name": "",
+                "last_name": "McWilliams",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-27-MER",
+                "ftm_eid": 45378835,
+                "votesmart_id": 185383,
+                "opensecrets_id": "",
+                "knowwho_pid": 670731,
+                "ballotpedia": "Rebecca_McWilliams",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 5026,
+                "person_hash": "fenlx6qz",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Robert Cushing",
+                "first_name": "Robert",
+                "middle_name": "Reynolds",
+                "last_name": "Cushing",
+                "suffix": "",
+                "nickname": "Renny",
+                "district": "HD-21-ROC",
+                "ftm_eid": 6433716,
+                "votesmart_id": 14688,
+                "opensecrets_id": "",
+                "knowwho_pid": 233889,
+                "ballotpedia": "Robert_Cushing",
+                "sponsor_type_id": 2,
+                "sponsor_order": 6,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2242030,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB605/id/2242030",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=8&txtFormat=html",
+                "text_size": 67919,
+                "text_hash": "5454341b14041c93364018e8756118ea"
+            },
+            {
+                "doc_id": 2360678,
+                "date": "2021-04-08",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB605/id/2360678",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=HA&id=8",
+                "text_size": 18454,
+                "text_hash": "5da19057c87d15205c699ace8745cf61"
+            },
+            {
+                "doc_id": 2400917,
+                "date": "2021-05-20",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB605/id/2400917",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=SA&id=8",
+                "text_size": 21603,
+                "text_hash": "9b50bb8c913b515dd9c1e982783877c2"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1074817,
+                "date": "2021-05-06",
+                "desc": "Committee Amendment 1234s",
+                "yea": 10,
+                "nay": 13,
+                "nv": 0,
+                "absent": 1,
+                "total": 24,
+                "passed": 0,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/HB605/id/1074817",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=363&sy=2021&lb=S&eb=HB0605&sortoption=&txtsessionyear=2021&txtbillnumber=HB605&ddlsponsors=&lsr=14"
+            },
+            {
+                "roll_call_id": 1074818,
+                "date": "2021-05-06",
+                "desc": "Laid on Table",
+                "yea": 18,
+                "nay": 5,
+                "nv": 0,
+                "absent": 1,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/HB605/id/1074818",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=364&sy=2021&lb=S&eb=HB0605&sortoption=&txtsessionyear=2021&txtbillnumber=HB605&ddlsponsors=&lsr=14"
+            },
+            {
+                "roll_call_id": 1087332,
+                "date": "2021-05-27",
+                "desc": "Ought to Pass",
+                "yea": 17,
+                "nay": 7,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/HB605/id/1087332",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=394&sy=2021&lb=S&eb=HB0605&sortoption=&txtsessionyear=2021&txtbillnumber=HB605&ddlsponsors=&lsr=14"
+            },
+            {
+                "roll_call_id": 1092013,
+                "date": "2021-05-27",
+                "desc": "Ought to Pass",
+                "yea": 17,
+                "nay": 7,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/HB605/id/1092013",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=390&sy=2021&lb=S&eb=HB0605&sortoption=&txtsessionyear=2021&txtbillnumber=HB605&ddlsponsors=&lsr=14"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-23",
+                "time": "13:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Health, Human Services and Elderly Affairs Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-02",
+                "time": "12:30",
+                "location": "Members of the public may attend using the following links:To jo",
+                "description": "Health, Human Services and Elderly Affairs Executive Session"
+            }
+        ],
+        "full_text": "new subparagraph use of cannabis for therapeutic purposes definitions amend rsa ix b by inserting after subparagraph the following new subparagraph opioid use disorder with the following restrictions a when certified only by a board certified addiction medicine or addiction psychiatry provider who is actively treating the patient for opioid use disorder and b with associated symptoms of cravings and or withdrawal use of cannabis for therapeutic purposes definitions amend rsa i to read as follows alternative treatment center means a entity registered under rsa that acquires possesses cultivates manufactures delivers transfers transports sells supplies and dispenses cannabis and related supplies and educational materials to qualifying patients and designated caregivers other alternative treatment centers and visiting qualifying patients use of cannabis for therapeutic purposes definitions amend rsa xiii b to read as follows b cultivation or purchase by a visiting qualifying patient from a qualifying patient or designated caregiver or use of cannabis for therapeutic purposes definitions amend rsa xvi to read as follows visiting qualifying patient means a patient with a qualifying medical condition who is not a resident of new hampshire or who has been a resident of new hampshire for fewer than days and is not eligible to purchase therapeutic cannabis in new hampshire or receive cannabis from a qualifying new hampshire patient person who is not a resident of new hampshire or who has been a resident of new hampshire for fewer than days who has been issued a valid registry identification card or its equivalent under the laws of another state district territory commonwealth or insular possession of the united states or under the laws of canada that allows in the jurisdiction of issuance that person to possess cannabis for therapeutic purposes use of cannabis for therapeutic purposes therapeutic use of cannabis protections amend rsa v to read as follows a valid registry identification card or its equivalent that is issued under the laws of another state district territory commonwealth or insular possession of the united states or under the laws of canada that allows in the jurisdiction of issuance a visiting qualifying patient to possess cannabis for therapeutic purposes shall have the same force and effect and be subject to the same restrictions as a valid registry identification card issued by the department in this state provided that a the visiting qualifying patient shall also produce a statement from his or her provider stating that the visiting qualifying patient has a qualifying medical condition as defined in rsa a visiting qualifying patient shall not purchase cannabis at an alternative treatment center more than times in a period unless the visiting qualifying patient produces a statement from his or her health care provider stating that the visiting qualifying patient has a qualifying medical condition as defined in rsa and b a visiting qualifying patient shall not cultivate or purchase cannabis in new hampshire or obtain or purchase cannabis from alternative treatment centers or from a qualifying new hampshire qualifying patient or designated caregiver new paragraph use of cannabis for therapeutic purposes departmental rules amend rsa by inserting after paragraph v the following new paragraph the department shall adopt rules pursuant to rsa regarding an alternative treatment center s verification of a visiting qualifying patient s registry identification card or its equivalent use of cannabis for therapeutic purposes protections amend rsa ix c to read as follows c deliver transfer supply sell or dispense cannabis and related supplies and educational materials to qualifying patients who have designated the alternative treatment center to provide for them to designated caregivers on behalf of the qualifying patients who have designated the alternative treatment center to visiting qualifying patients or to other alternative treatment centers use of cannabis for therapeutic purposes alternative treatment centers amend rsa xv b to read as follows b an alternative treatment center or alternative treatment center agent shall not dispense deliver or otherwise transfer cannabis to any person or entity other than a qualifying patient who has designated the relevant alternative treatment center or such patient s designated caregiver or another alternative treatment center or a visiting qualifying patient lba hb fiscal note as introduced agencies contacted department of health and human services"
+    }
+}

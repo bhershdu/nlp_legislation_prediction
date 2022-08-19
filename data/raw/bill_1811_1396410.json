@@ -1,0 +1,613 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1396410,
+        "change_hash": "82ee45664ff8160cc478b382acd26988",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB334/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=354&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB334",
+        "completed": 0,
+        "status": 5,
+        "status_date": "2021-08-11",
+        "progress": [
+            {
+                "date": "2021-01-09",
+                "event": 1
+            },
+            {
+                "date": "2021-01-09",
+                "event": 9
+            },
+            {
+                "date": "2021-03-02",
+                "event": 10
+            },
+            {
+                "date": "2021-03-02",
+                "event": 11
+            },
+            {
+                "date": "2021-04-13",
+                "event": 2
+            },
+            {
+                "date": "2021-04-13",
+                "event": 9
+            },
+            {
+                "date": "2021-05-25",
+                "event": 10
+            },
+            {
+                "date": "2021-07-23",
+                "event": 3
+            },
+            {
+                "date": "2021-08-11",
+                "event": 5
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB334",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to prohibitions on carrying a loaded firearm on an OHRV or snowmobile and relative to the procedure for conducting firearm background checks.",
+        "description": "Relative to prohibitions on carrying a loaded firearm on an OHRV or snowmobile and relative to the procedure for conducting firearm background checks.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-09",
+                "committee_id": 1239,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Criminal Justice and Public Safety"
+            },
+            {
+                "date": "2021-04-13",
+                "committee_id": 1273,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Judiciary"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-09",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Criminal Justice and Public Safety House Journal  2 P. 44",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-28",
+                "action": "Public Hearing: 02/10/2021 11:45 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/99588247178 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-02",
+                "action": "Majority Committee Report: Ought to Pass (Vote 11-10; Regular Calendar) House Calendar 18 P. 36",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-02",
+                "action": "Minority Committee Report: Inexpedient to Legislate",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-08",
+                "action": "Ought to Pass: Motion Adopted Regular Calendar 223-145 04/08/2021 House Journal  6 P. 1",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-13",
+                "action": "Introduced 04/08/2021 and Referred to Judiciary; Senate Journal 12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-05-06",
+                "action": "Remote Hearing: 05/10/2021, 01:45 pm; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  23",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-25",
+                "action": "Committee Report: Ought to Pass, 05/27/2021; Senate Calendar  25A",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-05-27",
+                "action": "Sen. Giuda Floor Amendment # 2021-1769s, Regular Calendar 14Y-10N, Amendment Adopted; 05/27/2021; Senate Journal 17",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-27",
+                "action": "Ought to Pass with Amendment 2021-1769s, Motion Adopted, Voice Vote; OT3rdg; 05/27/2021; Senate Journal 17",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-08",
+                "action": "House Non-Concurs with Senate Amendment 2021-1769s and Requests CofC (Reps. Abbas, Wallace, Burt, Rhodes): Motion Adopted Voice Vote 06/04/2021 House Journal  9 P. 53",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-10",
+                "action": "Sen. Carson Accedes to House Request for Committee of Conference, Motion Adopted, Voice Vote; 06/10/2021; Senate Journal 19",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-10",
+                "action": "President Appoints: Senators Carson, Giuda, Kahn; 06/10/2021; Senate Journal 19",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-16",
+                "action": "Conference Committee Meeting: 06/16/2021 11:00 am Legislative Office Building 201-203",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-16",
+                "action": "Conferee Change: Rep. Roy Replaces Rep. Burt 06/10/2021 House Journal  10 P. 23",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-17",
+                "action": "Conferee Change; Senator Bradley Replaces Senator Kahn; Senate Journal 20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-17",
+                "action": "Conference Committee Report Filed, # 2021-2030c; 06/24/2021",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-24",
+                "action": "Conference Committee Report # 2021-2030c, Adopted, Voice Vote; 06/24/2021; Senate Journal 20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-24",
+                "action": "Conference Committee Report 2021-2030c: Adopted, Regular Calendar 212-159 06/24/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-21",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 06/24/2021); Senate Journal 20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-23",
+                "action": "Enrolled (in recess of) 06/24/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-08-11",
+                "action": "Vetoed by Governor Sununu 08/10/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 11732,
+                "person_hash": "td463xk2",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "John Burt",
+                "first_name": "John",
+                "middle_name": "A.",
+                "last_name": "Burt",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-39-HIL",
+                "ftm_eid": 13004208,
+                "votesmart_id": 122389,
+                "opensecrets_id": "",
+                "knowwho_pid": 297081,
+                "ballotpedia": "John_Burt",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19825,
+                "person_hash": "rsi244to",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Rene Nunez",
+                "first_name": "Rene",
+                "middle_name": "Hershel",
+                "last_name": "Nunez",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-37-HIL",
+                "ftm_eid": 45378867,
+                "votesmart_id": 128075,
+                "opensecrets_id": "",
+                "knowwho_pid": 670663,
+                "ballotpedia": "Hershel_Nunez",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21829,
+                "person_hash": "3wryyk1h",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Niki Kelsey",
+                "first_name": "Niki",
+                "middle_name": "",
+                "last_name": "Kelsey",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-07-HIL",
+                "ftm_eid": 50226732,
+                "votesmart_id": 194996,
+                "opensecrets_id": "",
+                "knowwho_pid": 744124,
+                "ballotpedia": "Niki_Kelsey",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18162,
+                "person_hash": "69syqij2",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Norman Silber",
+                "first_name": "Norman",
+                "middle_name": "",
+                "last_name": "Silber",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-02-BEL",
+                "ftm_eid": 17005721,
+                "votesmart_id": 172402,
+                "opensecrets_id": "",
+                "knowwho_pid": 586968,
+                "ballotpedia": "Norman_Silber",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21863,
+                "person_hash": "xojju4ii",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Jennifer Rhodes",
+                "first_name": "Jennifer",
+                "middle_name": "",
+                "last_name": "Rhodes",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-15-CHE",
+                "ftm_eid": 50226849,
+                "votesmart_id": 194753,
+                "opensecrets_id": "",
+                "knowwho_pid": 744159,
+                "ballotpedia": "Jennifer_Rhodes",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21815,
+                "person_hash": "li8c4scq",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Ted Gorski",
+                "first_name": "Ted",
+                "middle_name": "",
+                "last_name": "Gorski",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-07-HIL",
+                "ftm_eid": 16014704,
+                "votesmart_id": 194995,
+                "opensecrets_id": "",
+                "knowwho_pid": 744116,
+                "ballotpedia": "Ted_Gorski",
+                "sponsor_type_id": 2,
+                "sponsor_order": 6,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21834,
+                "person_hash": "a7xybcbd",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Jim Kofalt",
+                "first_name": "Jim",
+                "middle_name": "",
+                "last_name": "Kofalt",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-04-HIL",
+                "ftm_eid": 25005537,
+                "votesmart_id": 154516,
+                "opensecrets_id": "",
+                "knowwho_pid": 502600,
+                "ballotpedia": "Jim_Kofalt",
+                "sponsor_type_id": 2,
+                "sponsor_order": 7,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19877,
+                "person_hash": "fuqaltb9",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Terry Roy",
+                "first_name": "Terry",
+                "middle_name": "",
+                "last_name": "Roy",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-32-ROC",
+                "ftm_eid": 45378923,
+                "votesmart_id": 185521,
+                "opensecrets_id": "",
+                "knowwho_pid": 670768,
+                "ballotpedia": "Terry_Roy",
+                "sponsor_type_id": 2,
+                "sponsor_order": 8,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4953,
+                "person_hash": "q2fztrlr",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Gary Daniels",
+                "first_name": "Gary",
+                "middle_name": "L.",
+                "last_name": "Daniels",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-011",
+                "ftm_eid": 6593963,
+                "votesmart_id": 5006,
+                "opensecrets_id": "",
+                "knowwho_pid": 249979,
+                "ballotpedia": "Gary_Daniels",
+                "sponsor_type_id": 2,
+                "sponsor_order": 9,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18168,
+                "person_hash": "wzdy4vye",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Bob Giuda",
+                "first_name": "Robert",
+                "middle_name": "",
+                "last_name": "Giuda",
+                "suffix": "",
+                "nickname": "Bob",
+                "district": "SD-002",
+                "ftm_eid": 6594468,
+                "votesmart_id": 21328,
+                "opensecrets_id": "",
+                "knowwho_pid": 208524,
+                "ballotpedia": "Bob_Giuda",
+                "sponsor_type_id": 2,
+                "sponsor_order": 10,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2232774,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB334/id/2232774",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=344&txtFormat=html",
+                "text_size": 9300,
+                "text_hash": "7e7865ed1e448d2152248074b09bfa51"
+            },
+            {
+                "doc_id": 2406848,
+                "date": "2021-05-27",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB334/id/2406848",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=SA&id=344",
+                "text_size": 27672,
+                "text_hash": "9b118543dd008d7d61e52cfd58ccaae2"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1049555,
+                "date": "2021-04-08",
+                "desc": "OTP",
+                "yea": 223,
+                "nay": 145,
+                "nv": 30,
+                "absent": 0,
+                "total": 398,
+                "passed": 1,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/HB334/id/1049555",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=90&sy=2021&lb=H&eb=HB0334&sortoption=&txtsessionyear=2021&txtbillnumber=HB334&ddlsponsors=&lsr=354"
+            },
+            {
+                "roll_call_id": 1087350,
+                "date": "2021-05-27",
+                "desc": "Floor Amendment",
+                "yea": 14,
+                "nay": 10,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/HB334/id/1087350",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=389&sy=2021&lb=S&eb=HB0334&sortoption=&txtsessionyear=2021&txtbillnumber=HB334&ddlsponsors=&lsr=354"
+            },
+            {
+                "roll_call_id": 1091996,
+                "date": "2021-05-27",
+                "desc": "Floor Amendment",
+                "yea": 14,
+                "nay": 10,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/HB334/id/1091996",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=395&sy=2021&lb=S&eb=HB0334&sortoption=&txtsessionyear=2021&txtbillnumber=HB334&ddlsponsors=&lsr=354"
+            },
+            {
+                "roll_call_id": 1102402,
+                "date": "2021-06-24",
+                "desc": "Adopt CofC Report",
+                "yea": 212,
+                "nay": 159,
+                "nv": 7,
+                "absent": 20,
+                "total": 398,
+                "passed": 1,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/HB334/id/1102402",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=194&sy=2021&lb=H&eb=HB0334&sortoption=&txtsessionyear=2021&txtbillnumber=HB334&ddlsponsors=&lsr=354"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-10",
+                "time": "11:45",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Criminal Justice and Public Safety Public Hearing"
+            }
+        ]
+    }
+}

@@ -1,0 +1,236 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1398336,
+        "change_hash": "46ff486bb76bc2e0870b2e43902c10b6",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB460/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=660&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB460",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-10",
+        "progress": [
+            {
+                "date": "2021-01-10",
+                "event": 1
+            },
+            {
+                "date": "2021-01-10",
+                "event": 9
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB460",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Establishing a committee to study cases involving the determination of parental rights and responsibilities.",
+        "description": "Establishing a committee to study cases involving the determination of parental rights and responsibilities.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-10",
+                "committee_id": 1237,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Children and Family Law"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-10",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Children and Family Law House Journal  2 P. 49",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-03",
+                "action": "Public Hearing: 03/03/2021 02:00 pm Members of the public may attend using the following links:To join the webinar: https://www.zoom.us/j/99169761614 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-11",
+                "action": "Executive Session: 03/11/2021 09:30 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/91927749754",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-15",
+                "action": "Retained in Committee",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-08-18",
+                "action": "Full Committee Work Session: 09/15/2021 10:00 am Legislative Office Building 206 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-09-22",
+                "action": "Committee Report: Refer for Interim Study (Vote 15-0; Consent Calendar)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 4809,
+                "person_hash": "zt8tlk1e",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Patrick Long",
+                "first_name": "Patrick",
+                "middle_name": "T.",
+                "last_name": "Long",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-42-HIL",
+                "ftm_eid": 6478714,
+                "votesmart_id": 66257,
+                "opensecrets_id": "",
+                "knowwho_pid": 250010,
+                "ballotpedia": "Patrick_Long",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 10924,
+                "person_hash": "n896l4e6",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Debra DeSimone",
+                "first_name": "Debra",
+                "middle_name": "L.",
+                "last_name": "DeSimone",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-14-ROC",
+                "ftm_eid": 6677758,
+                "votesmart_id": 110064,
+                "opensecrets_id": "",
+                "knowwho_pid": 269435,
+                "ballotpedia": "Debra_DeSimone",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19779,
+                "person_hash": "68858t2b",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Safiya Wazir",
+                "first_name": "Safiya",
+                "middle_name": "",
+                "last_name": "Wazir",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-17-MER",
+                "ftm_eid": 45378979,
+                "votesmart_id": 185377,
+                "opensecrets_id": "",
+                "knowwho_pid": 670704,
+                "ballotpedia": "Safiya_Wazir",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2234577,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB460/id/2234577",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=641&txtFormat=html",
+                "text_size": 11916,
+                "text_hash": "99527eea8a0b339bc10d16623cee8c10"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-03",
+                "time": "14:00",
+                "location": "Members of the public may attend using the following links:To jo",
+                "description": "Children and Family Law Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-11",
+                "time": "09:30",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Children and Family Law Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-09-15",
+                "time": "10:00",
+                "location": "Legislative Office Building 206",
+                "description": "Children and Family Law Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-09-15",
+                "time": "10:00",
+                "location": "Legislative Office Building 206 / Executive session on pending l",
+                "description": "Children and Family Law Work Session"
+            }
+        ],
+        "full_text": "committee established there is established a committee to study cases involving the determination of parental rights and responsibilities membership and compensation the members of the committee shall be as follows a three members of the house of representatives appointed by the speaker of the house of representatives b two members of the senate appointed by the president of the senate members of the committee shall receive mileage at the legislative rate when attending to the duties of the committee duties the committee shall review the provisions of rsa regarding parental rights and responsibilities the applicable court rules and procedures in parenting cases and how the statute and rules are implemented in practice the review shall include consideration of a the percentage of cases in which residential responsibility is awarded to one or both parents the gender of the parent with primary residential responsibility and commonly identified reasons for those decisions b financial costs to the parent assuming greater parenting responsibility c similarities in divorce decrees in the determination of parental rights and responsibilities d differences if any between and contested divorce decrees in the determination of parental rights and responsibilities the committee shall consider changes to make the practice more equitable to minimize incentives for unnecessary adversarial proceeding between parents and to promote better outcomes for children and families the committee may solicit information and testimony from any individual or entity the committee deems relevant to the study including the judicial branch family division and attorneys with expertise in family law chairperson quorum the members of the study committee shall elect a chairperson from among the members the first meeting of the committee shall be called by the house member the first meeting of the committee shall be held within days of the effective date of this section three members of the committee shall constitute a quorum report the committee shall report its findings and any recommendations for proposed legislation to the speaker of the house of representatives the president of the senate the house clerk the senate clerk the governor and the state library on or before november"
+    }
+}

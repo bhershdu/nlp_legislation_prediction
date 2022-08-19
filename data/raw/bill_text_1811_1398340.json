@@ -1,0 +1,200 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1398340,
+        "change_hash": "47b271f293ad97060b555d8fe6874e7b",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB480/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=653&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB480",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-10",
+        "progress": [
+            {
+                "date": "2021-01-10",
+                "event": 1
+            },
+            {
+                "date": "2021-01-10",
+                "event": 9
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB480",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to verification of ballots cast in an election.",
+        "description": "Relative to verification of ballots cast in an election.",
+        "pending_committee_id": 1241,
+        "committee": {
+            "committee_id": 1241,
+            "chamber": "H",
+            "chamber_id": 67,
+            "name": "Election Law"
+        },
+        "referrals": [
+            {
+                "date": "2021-01-10",
+                "committee_id": 1241,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Election Law"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-10",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Election Law House Journal  2 P. 49",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-03",
+                "action": "==CONTINUED== Executive Session: 03/10/2021 10:20 am Members of the public may attend using the following link:To join the webinar: https://zoom.us/j/95087806399 (if necessary)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-05",
+                "action": "Public Hearing: 03/05/2021 09:30 am Please click the link below to join the webinar:https://zoom.us/j/99327579520 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-08",
+                "action": "Executive Session: 03/08/2021 01:00 pm Please click the link below to join the webinar:https://zoom.us/j/91394352757",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-11",
+                "action": "Retained in Committee",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 18153,
+                "person_hash": "h6wcnlm4",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Jess Edwards",
+                "first_name": "Jess",
+                "middle_name": "",
+                "last_name": "Edwards",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-11-HIL",
+                "ftm_eid": 25005737,
+                "votesmart_id": 172496,
+                "opensecrets_id": "",
+                "knowwho_pid": 587584,
+                "ballotpedia": "Jess_Edwards",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21851,
+                "person_hash": "4lb8srij",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Travis O'Hara",
+                "first_name": "Travis",
+                "middle_name": "J.",
+                "last_name": "O'Hara",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-09-BEL",
+                "ftm_eid": 50226741,
+                "votesmart_id": 194692,
+                "opensecrets_id": "",
+                "knowwho_pid": 744046,
+                "ballotpedia": "Travis_O%27Hara",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2235056,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB480/id/2235056",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=648&txtFormat=html",
+                "text_size": 17982,
+                "text_hash": "99417bc76376efd3305398711a4745db"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-05",
+                "time": "09:30",
+                "location": "Please click the link below to join the webinar:https://zoom.us/",
+                "description": "Election Law Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-08",
+                "time": "13:00",
+                "location": "Please click the link below to join the webinar:https://zoom.us/",
+                "description": "Election Law Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-10",
+                "time": "10:20",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Election Law Executive Session"
+            }
+        ],
+        "full_text": "sealing and certifying ballots amend rsa ii to read as follows ballots including cast canceled and uncast ballots and successfully challenged and rejected absentee ballots still contained in their envelopes prepared or preserved in accordance with the election laws shall be exempt from the provisions of rsa this exemption shall apply to any ballots or absentee voter affidavits prepared for or used in any election conducted by the state or any political subdivision including federal elections disposal of ballots amend rsa to read as follows ballots including cast canceled and uncast ballots and successfully challenged absentee ballots still contained in their envelopes prepared or preserved in accordance with the election laws shall be exempt from the provisions of rsa this exemption shall apply to any ballots or absentee voter affidavit envelopes prepared for or used in any election conducted by the state or any political subdivision including federal elections new subdivision public review of ballots amend rsa by inserting after section the following new subdivision public review of ballots statement of purpose the state of new hampshire recognizes that the fundamental right to vote includes the right for voters to have their votes counted and reported accurately as provided in part i articles and and part ii articles and of the state constitution therefore registered new hampshire voters who were not candidates on election ballots they ask to review may view cast ballots after the recount period is over to ensure accuracy of the vote count and evaluate the performance of election officials review of ballots shall be in a manner that is least restrictive to the public and that is efficient and least cumbersome to the ballot custodian or designee custody of ballot town and city clerks shall retain custody of the ballots until the retention period has ended months for all federal offices days for all other offices in the case where custody is transferred for a recount the secretary of state shall remain the custodian until the retention period has ended application and timing of access review of ballots shall only be allowed after the recount period for that election has ended application for ballot review shall be made in writing to the custodian of the ballots stating specific times of availability or unavailability if applicable the ballots shall be made available for inspection in a timely manner however responding to applications for inspection shall not take priority over the previously scheduled work activities of the town or city clerks the custodian shall schedule the appointment within business days to accommodate those wishing to review ballots and the individual supervising the review citizens requesting the review may recruit counters if needed additional appointments may be necessary to complete the review or answer new questions that may arise towns and cities may request reimbursement of additional expenses from the secretary of state from the election fund established under rsa supervision of ballot review and box contents it is the duty of the custodian or designee to ensure the integrity of the ballots and contents of the sealed boxes the custodian shall remove the seal from boxes in the presence of those requesting the review and those who will supervise reviewers shall witness the identification of seals removed and new seals applied after review depending on the number of boxes involved and time allowed for initial review the supervisor and reviewer may agree whether one or more boxes shall be opened at one time no person shall in any manner nor for any reason make any mark upon either the face or reverse side of any ballots during the counting process all notes shall be done in pencil upon separate pieces of paper ballots shall not be traceable to a voter if there are or fewer absentee ballots cast in a location those ballots may be excluded from the review to maintain the confidentiality of the secret ballot absentee ballot envelopes shall be excluded from review if the reviewer or supervisor witnesses any identifying marks on a ballot that would allow it to be traced to a voter the witness shall report the violation to the moderator who shall report it to the attorney general reasonable administrative regulations designed to ensure the integrity of the ballots may be established by the clerks in conjunction with the secretary of state such regulations if required shall be limited to requiring the individual seeking access to provide identification and sign his or her name and the keeping of bags briefcases or other items off the table where ballots are placed supervisors at the local level may include members of the board of recount other election officials a designated town employee or a law enforcement official right to copy the right to public access shall include compliance with the provisions of rsa denial of access in extraordinary circumstances the custodian of the ballots after consultation with the attorney general and the secretary of state may deny access to ballots to certain individuals for good cause and give the reasons in writing good cause shall be limited to previous conviction for theft or fraud or prior destruction of defacement of or tampering with public records denial of access may be appealed to the superior court with rsa remedies available if the denial was not based on good cause fraud or error the custodian of the ballots shall request that any person reviewing ballots under this subdivision report to the state political parties and to the moderator any evidence of fraud or error in any vote count of one percent or more the moderator shall forward any such report to the secretary of state the attorney general and if applicable local law enforcement authorities preservation of challenged absentee ballots amend rsa ii to read as follows ballots including cast canceled and uncast ballots and successfully challenged absentee ballots still contained in their envelopes prepared or preserved in accordance with the election laws shall be exempt from the provisions of rsa this exemption shall apply to any ballots or absentee voter affidavit envelopes prepared for or used in any election conducted by the state or any political subdivision including federal elections"
+    }
+}

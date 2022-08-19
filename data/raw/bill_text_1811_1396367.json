@@ -1,0 +1,172 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1396367,
+        "change_hash": "976b7ec3d1b8617ee6e7db4cf1c036db",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB393/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=484&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB393",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-10",
+        "progress": [
+            {
+                "date": "2021-01-10",
+                "event": 1
+            },
+            {
+                "date": "2021-01-10",
+                "event": 9
+            },
+            {
+                "date": "2021-03-26",
+                "event": 11
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB393",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to the indication of blood type on drivers' licenses and nondrivers' picture identification cards.",
+        "description": "Relative to the indication of blood type on drivers' licenses and nondrivers' picture identification cards.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-10",
+                "committee_id": 1263,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Transportation"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-10",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Transportation House Journal  2 P. 46",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-27",
+                "action": "Public Hearing: 02/05/2021 09:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/92807074926 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-19",
+                "action": "Executive Session: 02/19/2021 02:00 pm Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/98257633759",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-26",
+                "action": "Committee Report: Inexpedient to Legislate (Vote 19-0; Consent Calendar) House Calendar 18 P. 24",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Inexpedient to Legislate: Motion Adopted Voice Vote 04/07/2021 House Journal  5 P. 48",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Reconsider (Rep. Osborne): Motion Failed Voice Vote 04/07/2021 House Journal  5 P. 50",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 19748,
+                "person_hash": "ymvqgpsq",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Harry Bean",
+                "first_name": "Harry",
+                "middle_name": "H.",
+                "last_name": "Bean",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-02-BEL",
+                "ftm_eid": 42686168,
+                "votesmart_id": 185219,
+                "opensecrets_id": "",
+                "knowwho_pid": 670226,
+                "ballotpedia": "Harry_Bean",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2234599,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB393/id/2234599",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=473&txtFormat=html",
+                "text_size": 13387,
+                "text_hash": "8af24f1e860dcd2eb5881c4214ed827b"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-05",
+                "time": "09:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Transportation Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-19",
+                "time": "14:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Transportation Executive Session"
+            }
+        ],
+        "full_text": "motor vehicles administration of motor vehicle laws powers and duties public law compliant identification card amend rsa ii to read as follows the identification card shall bear the name address date of birth blood type optional gender indicated as m for male f for female or x for other veteran s status for the purposes of identification for receiving benefits and services under new hampshire law optional organ donor status optional picture and signature of the applicant motor vehicles administration of motor vehicle laws powers and duties enhanced identification card amend rsa ii to read as follows the identification card shall bear the name address date of birth blood type optional gender indicated as m for male f for female or x for other veteran s status for the purposes of identification for receiving benefits and services under new hampshire law optional organ donor status optional picture and signature of the applicant motor vehicles drivers licenses application amend rsa ii b to read as follows b a physical description of the applicant including gender indicated by checking either m for male f for female or x for other height weight eye and hair color and blood type optional motor vehicles drivers licenses form of license amend rsa ii and iii to read as follows drivers licenses compliant with public law issued pursuant to rsa shall bear the name address date of birth blood type optional gender indicated as m for male f for female or x for other veteran s status for the purposes of identification for receiving benefits and services under new hampshire law optional organ donor status optional picture and signature of the applicant the driver s license card shall bear an approved security marking indicating that it was issued in compliance with public law and is therefore acceptable for federal identification purposes enhanced drivers licenses issued pursuant to rsa shall bear the name address date of birth blood type optional gender indicated as m for male f for female or x for other veteran s status for the purposes of identification for receiving benefits and services under new hampshire law optional organ donor status optional picture and signature of the applicant the driver s license card shall bear an approved security marking indicating that it is an enhanced driver s license motor vehicles drivers licenses commercial licensing application for license amend rsa i b to read as follows b a physical description of the applicant including gender indicated by checking either m for male f for female or x for other height weight eye and hair color and blood type optional motor vehicles drivers licenses commercial driver license amend rsa i c to read as follows c a physical description of the licensee including gender indicated as m for male f for female or x for other height weight eye and hair color and blood type optional"
+    }
+}

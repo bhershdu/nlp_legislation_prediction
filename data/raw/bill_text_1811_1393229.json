@@ -1,0 +1,323 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1393229,
+        "change_hash": "0eeca64440e24af68f750ecc0d350f93",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB65/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=41&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB65",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-04",
+        "progress": [
+            {
+                "date": "2021-01-04",
+                "event": 1
+            },
+            {
+                "date": "2021-01-04",
+                "event": 9
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB65",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Requiring food service establishments to establish food allergy awareness procedures.",
+        "description": "Requiring food service establishments to establish food allergy awareness procedures.",
+        "pending_committee_id": 1238,
+        "committee": {
+            "committee_id": 1238,
+            "chamber": "H",
+            "chamber_id": 67,
+            "name": "Commerce and Consumer Affairs"
+        },
+        "referrals": [
+            {
+                "date": "2021-01-04",
+                "committee_id": 1238,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Commerce and Consumer Affairs"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-04",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Commerce and Consumer Affairs House Journal  2 P. 34",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-16",
+                "action": "Public Hearing: 02/16/2021 09:30 am Members of the public may attend using the following link: To join the webinar: https://www.zoom.us/j/95175123874 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-02",
+                "action": "Executive Session: 03/02/2021 09:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/95215897452",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-03",
+                "action": "Executive Session: 03/03/2021 01:30 pm Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/98917516497 (if necessary)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-09",
+                "action": "Retained in Committee",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-08-17",
+                "action": "Subcommittee Work Session: 09/07/2021 10:00 am Legislative Office Building 302-304",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-10-06",
+                "action": "Subcommittee Work Session: 10/13/2021 09:30 am Legislative Office Building302-304",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-10-26",
+                "action": "Executive Session: 10/26/2021 10:00 a.m. Legislative Office Building306-308",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 19868,
+                "person_hash": "wfj6hb0c",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Rosemarie Rung",
+                "first_name": "Rosemarie",
+                "middle_name": "",
+                "last_name": "Rung",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-21-HIL",
+                "ftm_eid": 9805733,
+                "votesmart_id": 185559,
+                "opensecrets_id": "",
+                "knowwho_pid": 670584,
+                "ballotpedia": "Rosemarie_Rung",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 17478,
+                "person_hash": "ytplmgmi",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Joseph Guthrie",
+                "first_name": "Joseph",
+                "middle_name": "",
+                "last_name": "Guthrie",
+                "suffix": "",
+                "nickname": "Joe",
+                "district": "HD-13-ROC",
+                "ftm_eid": 6670939,
+                "votesmart_id": 14506,
+                "opensecrets_id": "",
+                "knowwho_pid": 250191,
+                "ballotpedia": "Joe_Guthrie",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 14867,
+                "person_hash": "qwjoaz9j",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Janice Schmidt",
+                "first_name": "Janice",
+                "middle_name": "",
+                "last_name": "Schmidt",
+                "suffix": "",
+                "nickname": "Jan",
+                "district": "HD-28-HIL",
+                "ftm_eid": 12160184,
+                "votesmart_id": 173126,
+                "opensecrets_id": "",
+                "knowwho_pid": 426617,
+                "ballotpedia": "Jan_Schmidt",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18167,
+                "person_hash": "gbz9mi50",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "William Marsh",
+                "first_name": "William",
+                "middle_name": "M.",
+                "last_name": "Marsh",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-17-ROC",
+                "ftm_eid": 6483516,
+                "votesmart_id": 65293,
+                "opensecrets_id": "",
+                "knowwho_pid": 587047,
+                "ballotpedia": "William_Marsh",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19804,
+                "person_hash": "myrvs7s3",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Bruce Cohen",
+                "first_name": "Bruce",
+                "middle_name": "",
+                "last_name": "Cohen",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-28-HIL",
+                "ftm_eid": 45378666,
+                "votesmart_id": 185579,
+                "opensecrets_id": "",
+                "knowwho_pid": 670617,
+                "ballotpedia": "Bruce_Cohen_(New_Hampshire)",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2227521,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB65/id/2227521",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=41&txtFormat=html",
+                "text_size": 11330,
+                "text_hash": "aaac5830a7d53cff131567b4d9104ed2"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-16",
+                "time": "09:30",
+                "location": "Members of the public may attend using the following link: To jo",
+                "description": "Commerce and Consumer Affairs Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-02",
+                "time": "09:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Commerce and Consumer Affairs Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-03",
+                "time": "13:30",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Commerce and Consumer Affairs Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-09-07",
+                "time": "10:00",
+                "location": "Legislative Office Building 302-304",
+                "description": "Commerce and Consumer Affairs Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-10-13",
+                "time": "09:30",
+                "location": "Legislative Office Building302-304",
+                "description": "Commerce and Consumer Affairs Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-10-26",
+                "time": "10:00",
+                "location": "Legislative Office Building306-308",
+                "description": "Commerce and Consumer Affairs Executive Session"
+            }
+        ],
+        "full_text": "short title rachel s law this act shall be known as rachel s law food allergy awareness each food service establishment licensed by the state under rsa or by the municipality in which it operates shall a include on all menus and menu boards a notice to customers of the customer s obligation to inform the server of his or her food allergies b have a person in charge during all hours of operation trained and certified as a food protection manager by a program approved by the department which includes training regarding food allergens such person shall ensure that employees are properly informed of food safety issues including awareness of food allergies as it is related to the employees assigned duties a food service establishment that violates this section shall be subject to enforcement in accordance with rules adopted under rsa xi or local ordinance relative to food service licensure this section shall not apply to any food service establishment exempt from licensure or inspection under rsa nothing in this section shall establish or affect any private cause of action this section shall not affect any other right or remedy available by statute exemption for food service establishments regulated by municipalities limited amend rsa to read as follows food service establishments and retail food stores licensed by city health officers under rsa except with regard to the food allergy provisions of rsa food service establishments and retail food stores licensed by town health officers under rsa except with regard to the food allergy provisions of rsa new paragraph food service licensure rulemaking amend rsa by inserting after paragraph x the following new paragraph requirements for food allergy awareness under rsa"
+    }
+}

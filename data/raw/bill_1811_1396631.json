@@ -1,0 +1,412 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1396631,
+        "change_hash": "7343de089bcf8488835d8020cde73ceb",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB384/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=478&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB384",
+        "completed": 0,
+        "status": 2,
+        "status_date": "2021-04-13",
+        "progress": [
+            {
+                "date": "2021-01-10",
+                "event": 1
+            },
+            {
+                "date": "2021-01-10",
+                "event": 9
+            },
+            {
+                "date": "2021-03-09",
+                "event": 10
+            },
+            {
+                "date": "2021-03-09",
+                "event": 11
+            },
+            {
+                "date": "2021-04-13",
+                "event": 2
+            },
+            {
+                "date": "2021-04-13",
+                "event": 9
+            },
+            {
+                "date": "2021-05-05",
+                "event": 11
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB384",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "S",
+        "current_body_id": 68,
+        "title": "Prohibiting the sharing of location data.",
+        "description": "Prohibiting the sharing of location data.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-10",
+                "committee_id": 1250,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Judiciary"
+            },
+            {
+                "date": "2021-04-13",
+                "committee_id": 1780,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Commerce"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-10",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Judiciary House Journal  2 P. 45",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-19",
+                "action": "Public Hearing: 02/19/2021 01:00 pm Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/92168223794 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-02",
+                "action": "Executive Session: 03/02/2021 09:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/95501229688",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-09",
+                "action": "Majority Committee Report: Ought to Pass with Amendment # 2021-0155h (Vote 16-4; Regular Calendar) House Calendar 18 P. 52",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-09",
+                "action": "Minority Committee Report: Inexpedient to Legislate",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-08",
+                "action": "Amendment # 2021-0155h: Amendment Adopted Voice Vote 04/08/2021 House Journal  6 P. 109",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-08",
+                "action": "FLAM # 2021-1097h (Rep. Yokela): Amendment Failed Voice Vote 04/08/2021 House Journal  6 P. 109",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-08",
+                "action": "Ought to Pass with Amendment 2021-0155h: Motion Adopted DV 327-12 04/08/2021 House Journal  6 P. 109",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-13",
+                "action": "Introduced 04/08/2021 and Referred to Commerce; Senate Journal 12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-15",
+                "action": "Remote Hearing: 04/27/2021, 09:15 am; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-05",
+                "action": "Committee Report: Inexpedient to Legislate; Vote 5-0; Consent Calendar; 05/13/2021; Senate Calendar  23",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-05-13",
+                "action": "Inexpedient to Legislate, Motion Adopted, Voice Vote === BILL KILLED ===; 05/13/2021; Senate Journal 15",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 16623,
+                "person_hash": "3v4nz7y6",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Kurt Wuelper",
+                "first_name": "Kurt",
+                "middle_name": "",
+                "last_name": "Wuelper",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-03-STR",
+                "ftm_eid": 9793079,
+                "votesmart_id": 141952,
+                "opensecrets_id": "",
+                "knowwho_pid": 426261,
+                "ballotpedia": "Kurt_Wuelper",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4845,
+                "person_hash": "0rmbg8t7",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Marjorie Smith",
+                "first_name": "Marjorie",
+                "middle_name": "",
+                "last_name": "Smith",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-07-STR",
+                "ftm_eid": 6395309,
+                "votesmart_id": 14725,
+                "opensecrets_id": "",
+                "knowwho_pid": 197019,
+                "ballotpedia": "Marjorie_Smith",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18157,
+                "person_hash": "ye7258gp",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Kevin Verville",
+                "first_name": "Kevin",
+                "middle_name": "",
+                "last_name": "Verville",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-02-ROC",
+                "ftm_eid": 41757571,
+                "votesmart_id": 172491,
+                "opensecrets_id": "",
+                "knowwho_pid": 587570,
+                "ballotpedia": "Kevin_Verville",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 16624,
+                "person_hash": "5ydai6qf",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Linda Gould",
+                "first_name": "Linda",
+                "middle_name": "",
+                "last_name": "Gould",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-07-HIL",
+                "ftm_eid": 9711345,
+                "votesmart_id": 154475,
+                "opensecrets_id": "",
+                "knowwho_pid": 502379,
+                "ballotpedia": "Linda_Gould",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19824,
+                "person_hash": "8ya6utb2",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Tony Lekas",
+                "first_name": "Tony",
+                "middle_name": "",
+                "last_name": "Lekas",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-37-HIL",
+                "ftm_eid": 9794125,
+                "votesmart_id": 54877,
+                "opensecrets_id": "",
+                "knowwho_pid": 670662,
+                "ballotpedia": "Tony_Lekas",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18165,
+                "person_hash": "wtjaued5",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Scott Wallace",
+                "first_name": "Scott",
+                "middle_name": "",
+                "last_name": "Wallace",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-33-ROC",
+                "ftm_eid": 18325251,
+                "votesmart_id": 173073,
+                "opensecrets_id": "",
+                "knowwho_pid": 587716,
+                "ballotpedia": "Scott_Wallace_(New_Hampshire)",
+                "sponsor_type_id": 2,
+                "sponsor_order": 6,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18802,
+                "person_hash": "mzg77iv9",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Dave Testerman",
+                "first_name": "Dave",
+                "middle_name": "",
+                "last_name": "Testerman",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-02-MER",
+                "ftm_eid": 41757550,
+                "votesmart_id": 172475,
+                "opensecrets_id": "",
+                "knowwho_pid": 587505,
+                "ballotpedia": "Dave_Testerman",
+                "sponsor_type_id": 2,
+                "sponsor_order": 7,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2234669,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB384/id/2234669",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=479&txtFormat=html",
+                "text_size": 27876,
+                "text_hash": "b50834175c7f873d2fe2a63c361a6fa6"
+            },
+            {
+                "doc_id": 2360886,
+                "date": "2021-04-08",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB384/id/2360886",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=HA&id=479",
+                "text_size": 28047,
+                "text_hash": "df564c829953d7bbbf049e1d1770e365"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-19",
+                "time": "13:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Judiciary Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-02",
+                "time": "09:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Judiciary Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-02",
+                "time": "09:00",
+                "location": "Members of the public may attend using the following links: 1. T",
+                "description": "Judiciary Executive Session"
+            }
+        ]
+    }
+}

@@ -1,0 +1,191 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1399842,
+        "change_hash": "b1039b47f8eade14f6532ade18798913",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB505/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=321&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB505",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-11",
+        "progress": [
+            {
+                "date": "2021-01-11",
+                "event": 1
+            },
+            {
+                "date": "2021-01-11",
+                "event": 9
+            },
+            {
+                "date": "2021-02-16",
+                "event": 11
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB505",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Allowing voters to vote for multiple candidates for an office.",
+        "description": "Allowing voters to vote for multiple candidates for an office.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-11",
+                "committee_id": 1241,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Election Law"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-11",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Election Law House Journal  2 P. 51",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-20",
+                "action": "Public Hearing: 01/29/2021 11:30 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/93706238627 / Executive session on pending legislation may be held throughout the day ( time permitting) fromthe time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-03",
+                "action": "Executive Session: 02/12/2021 01:30 pm Members of the public may attend using the following link:To join the webinar: https://zoom.us/j/95709405955",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-16",
+                "action": "Committee Report: Inexpedient to Legislate (Vote 20-0; Consent Calendar) House Calendar 12 P. 4",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-24",
+                "action": "Inexpedient to Legislate: Motion Adopted Voice Vote 02/24/2021 House Journal  3 P. 6",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 16753,
+                "person_hash": "kmft1pyd",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Max Abramson",
+                "first_name": "Max",
+                "middle_name": "",
+                "last_name": "Abramson",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-20-ROC",
+                "ftm_eid": 6695475,
+                "votesmart_id": 126615,
+                "opensecrets_id": "",
+                "knowwho_pid": 502128,
+                "ballotpedia": "Max_Abramson",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21788,
+                "person_hash": "rck7hb4b",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Aidan Ankarberg",
+                "first_name": "Aidan",
+                "middle_name": "K.",
+                "last_name": "Ankarberg",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-10-STR",
+                "ftm_eid": 50226920,
+                "votesmart_id": 143473,
+                "opensecrets_id": "",
+                "knowwho_pid": 439246,
+                "ballotpedia": "Aidan_K._Ankarberg",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2234151,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB505/id/2234151",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=275&txtFormat=html",
+                "text_size": 13165,
+                "text_hash": "e73683d4b7e45646b25356cf20c88f29"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-01-29",
+                "time": "11:30",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Election Law Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-12",
+                "time": "13:30",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Election Law Executive Session"
+            }
+        ],
+        "full_text": "designation of office amend rsa to read as follows designation of office immediately to the left of the set of party columns shall be an offices column which shall list the offices each preceded by the word for for which the candidates whose names are listed in the party columns have been nominated as in for governor below each such phrase shall be printed in small but easily legible letters vote for not more than ____ here insert a number designating how many persons are to be voted for one or more electronic ballot counting device testing amend rsa viii e to read as follows the town or city clerk shall mark the test ballots in such a way as to demonstrate a vote for each candidate on at least one test ballot as well as votes for less than and more than the number of candidates that may be voted for elected to an office multiple votes for a candidate who appears in more than one party column for the same office on a general election ballot and ballots on which there are no votes the clerk shall mark as many as possible of the combinations of choices that a voter may indicate on the ballot instructions to voters amend rsa to read as follows marking the ballot instructions to voters the secretary of state shall provide on the top of the general election ballot the following voting instructions the secretary of state is authorized to replace the phrase make the appropriate mark with an appropriate description and example of the mark to be made for the type of ballot in use such as make a cross x in the box completely fill in the oval or complete the arrow to vote make the appropriate mark to the right of your choice or choices for each office vote for not more than the number of candidates stated in the sentence vote for not more than ___ if you vote for more than the stated number of candidates your vote for that office will not be counted to vote by to vote for a person whose name is not printed on the ballot write in the name of the person in the space make the appropriate mark to the right of your choice town elections preparation of voting materials amend rsa to read as follows preparation of voting materials the town clerk shall prepare the official ballots for the town and shall arrange the names of candidates upon said ballots in parallel columns immediately above the names of each block of candidates shall be printed the title of the office for which they are candidates such as for selectman below the title of each office shall be printed in small but easily legible type the words vote for not more than here insert a number designating how many persons are to be voted for one or more directly to the right of the name of each candidate there shall be a square whenever there are or more candidates for the same office the names shall be printed upon the ballot in the alphabetical order of their surnames according to the alphabetization procedure established in rsa following the names printed on the ballot under the title of each office there shall be as many blank lines as there are persons to be elected to that office"
+    }
+}

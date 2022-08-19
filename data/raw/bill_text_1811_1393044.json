@@ -1,0 +1,180 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1393044,
+        "change_hash": "67961f172dac7baf612f2f2277d2bda4",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB156/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=145&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB156",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-04",
+        "progress": [
+            {
+                "date": "2021-01-04",
+                "event": 1
+            },
+            {
+                "date": "2021-01-04",
+                "event": 9
+            },
+            {
+                "date": "2021-02-25",
+                "event": 11
+            },
+            {
+                "date": "2021-02-25",
+                "event": 10
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB156",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to posting legislative amendments on the New Hampshire legislative website.",
+        "description": "Relative to posting legislative amendments on the New Hampshire legislative website.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-04",
+                "committee_id": 1255,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Legislative Administration"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-04",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Legislative Administration House Journal  2 P. 37",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-22",
+                "action": "Public Hearing: 02/22/2021 09:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/91906391213 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-25",
+                "action": "Majority Committee Report: Inexpedient to Legislate (Vote 8-7; Regular Calendar) House Calendar 18 P. 78",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-25",
+                "action": "Minority Committee Report: Ought to Pass",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 19743,
+                "person_hash": "ryfcko8x",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Rebecca McWilliams",
+                "first_name": "Rebecca",
+                "middle_name": "",
+                "last_name": "McWilliams",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-27-MER",
+                "ftm_eid": 45378835,
+                "votesmart_id": 185383,
+                "opensecrets_id": "",
+                "knowwho_pid": 670731,
+                "ballotpedia": "Rebecca_McWilliams",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19878,
+                "person_hash": "n0xfc702",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Josh Yokela",
+                "first_name": "Josh",
+                "middle_name": "",
+                "last_name": "Yokela",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-33-ROC",
+                "ftm_eid": 45378989,
+                "votesmart_id": 185522,
+                "opensecrets_id": "",
+                "knowwho_pid": 670769,
+                "ballotpedia": "Josh_Yokela",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2227343,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB156/id/2227343",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=144&txtFormat=html",
+                "text_size": 7689,
+                "text_hash": "3c920c06e972002b2cbee8c949bdc174"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-22",
+                "time": "09:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Legislative Administration Public Hearing"
+            }
+        ],
+        "full_text": "legislative amendments available on the general court website the general court shall post each legislative amendment on the general court s website within hours of the amendment being made public or presented to a legislative policy committee by the amendment s sponsor"
+    }
+}

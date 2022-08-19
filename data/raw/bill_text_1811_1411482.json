@@ -1,0 +1,287 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1411482,
+        "change_hash": "9c9b24cfcf9667a3b29afa03ab693219",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/SB51/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=905&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=SB51",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2021-07-13",
+        "progress": [
+            {
+                "date": "2021-01-19",
+                "event": 1
+            },
+            {
+                "date": "2021-01-19",
+                "event": 9
+            },
+            {
+                "date": "2021-03-10",
+                "event": 10
+            },
+            {
+                "date": "2021-03-31",
+                "event": 2
+            },
+            {
+                "date": "2021-03-31",
+                "event": 9
+            },
+            {
+                "date": "2021-05-11",
+                "event": 10
+            },
+            {
+                "date": "2021-07-01",
+                "event": 3
+            },
+            {
+                "date": "2021-07-13",
+                "event": 8
+            },
+            {
+                "date": "2021-07-13",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "SB51",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "S",
+        "body_id": 68,
+        "current_body": "S",
+        "current_body_id": 68,
+        "title": "Relative to the sale of lobster meat.",
+        "description": "Relative to the sale of lobster meat.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-19",
+                "committee_id": 1736,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Energy and Natural Resources"
+            },
+            {
+                "date": "2021-03-31",
+                "committee_id": 1248,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Fish and Game and Marine Resources"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-19",
+                "action": "Introduced 01/06/2021 and Referred to Energy and Natural Resources; Senate Journal 3",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-21",
+                "action": "Remote Hearing: 01/26/2021, 01:45 pm; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  8",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-10",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-0715s, 03/18/2021; Vote 5-0; Consent Calendar; Senate Calendar  15",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-18",
+                "action": "Committee Amendment # 2021-0715s, Regular Calendar 23Y-1N, Amendment Adopted; 03/18/2021; Senate Journal 8",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-18",
+                "action": "Ought to Pass with Amendment 2021-0715s, Regular Calendar 23Y-1N, Motion Adopted; OT3rdg; 03/18/2021; Senate Journal 8",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-31",
+                "action": "Introduced (in recess of) 02/25/2021 and referred to Fish and Game and Marine Resources House Journal  4 P. 50",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-28",
+                "action": "Public Hearing: 04/28/2021 09:30 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/97783276704 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-11",
+                "action": "Committee Report: Ought to Pass (Vote 18-0; Consent Calendar) House Calendar 26 P. 8",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-06-03",
+                "action": "Ought to Pass: Motion Adopted Voice Vote 06/03/2021 House Journal  8 P. 70",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-01",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 06/24/2021); Senate Journal 20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-01",
+                "action": "Enrolled (in recess of) 06/24/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-07-13",
+                "action": "Signed by the Governor on 07/09/2021; Chapter 0116; Effective 09/07/2021",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 21864,
+                "person_hash": "f53ogink",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Denise Ricciardi",
+                "first_name": "Denise",
+                "middle_name": "",
+                "last_name": "Ricciardi",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-009",
+                "ftm_eid": 50226734,
+                "votesmart_id": 194274,
+                "opensecrets_id": "",
+                "knowwho_pid": 743987,
+                "ballotpedia": "Denise_Ricciardi",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19166,
+                "person_hash": "nmyh7fie",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Timothy Lang",
+                "first_name": "Timothy",
+                "middle_name": "P.",
+                "last_name": "Lang",
+                "suffix": "Sr.",
+                "nickname": "",
+                "district": "HD-04-BEL",
+                "ftm_eid": 13703536,
+                "votesmart_id": 141853,
+                "opensecrets_id": "",
+                "knowwho_pid": 426007,
+                "ballotpedia": "Timothy_Lang_Sr.",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2246972,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB51/id/2246972",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=896&txtFormat=html",
+                "text_size": 7967,
+                "text_hash": "5cab13eb49eabb4e54013104ed85ba75"
+            },
+            {
+                "doc_id": 2340740,
+                "date": "2021-03-18",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB51/id/2340740",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=SA&id=896",
+                "text_size": 7995,
+                "text_hash": "542e34ba940cad9b7306900cbb9665b0"
+            },
+            {
+                "doc_id": 2422812,
+                "date": "2021-03-18",
+                "type": "Enrolled",
+                "type_id": 5,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB51/id/2422812",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&v=HP&id=896",
+                "text_size": 8001,
+                "text_hash": "cea720b699ed960dabcc16981e9f1038"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-04-28",
+                "time": "09:30",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Fish and Game and Marine Resources Public Hearing"
+            }
+        ],
+        "full_text": "lobsters and crabs lobster meat amend rsa to read as follows lobster meat no person shall sell lobster meat which has not been processed and sealed within containers which do not require refrigeration without first procuring a license to do so such license shall not be required for food service establishments licensed under rsa which purchase and sell processed and packaged lobster meat from a licensed wholesaler or processor the executive director shall issue such license for a period of one calendar year pursuant to the provisions of rsa rsa and rsa the license shall expire on december of each year"
+    }
+}

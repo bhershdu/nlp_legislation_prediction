@@ -1,0 +1,336 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1393067,
+        "change_hash": "b5f0e592e6cdf02af13b28cbd0c13353",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/CACR2/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=22&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=CACR2",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-04",
+        "progress": [
+            {
+                "date": "2021-01-04",
+                "event": 1
+            },
+            {
+                "date": "2021-01-04",
+                "event": 9
+            },
+            {
+                "date": "2021-03-24",
+                "event": 10
+            },
+            {
+                "date": "2021-03-24",
+                "event": 11
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "CACR2",
+        "bill_type": "CA",
+        "bill_type_id": "7",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Taxes.  Providing that any broad-based sales tax shall be prohibited.",
+        "description": "Taxes.  Providing that any broad-based sales tax shall be prohibited.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-04",
+                "committee_id": 1264,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Ways and Means"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-04",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Ways and Means House Journal  2 P. 46",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-27",
+                "action": "Public Hearing: 02/11/2021 02:30 pm Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/99381153388 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-18",
+                "action": "Full Committee Work Session: 03/02/2021 09:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/94528213728 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-18",
+                "action": "Full Committee Work Session: 03/03/2021 09:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/92309184005 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-24",
+                "action": "Majority Committee Report: Ought to Pass (Vote 13-10; Regular Calendar) House Calendar 18 P. 62",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-24",
+                "action": "Minority Committee Report: Inexpedient to Legislate",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-09",
+                "action": "Ought to Pass: Motion Failed Regular Calendar 201-170 Lacking Necessary Three-Fifths Vote 04/09/2021 House Journal  7 P. 70",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 18160,
+                "person_hash": "hp88brg1",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Michael Harrington",
+                "first_name": "Michael",
+                "middle_name": "D.",
+                "last_name": "Harrington",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-03-STR",
+                "ftm_eid": 6594659,
+                "votesmart_id": 14569,
+                "opensecrets_id": "",
+                "knowwho_pid": 208531,
+                "ballotpedia": "Michael_Harrington_(New_Hampshire)",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 16889,
+                "person_hash": "nqhihhjo",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "John Potucek",
+                "first_name": "John",
+                "middle_name": "",
+                "last_name": "Potucek",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-06-ROC",
+                "ftm_eid": 9891524,
+                "votesmart_id": 154553,
+                "opensecrets_id": "",
+                "knowwho_pid": 501775,
+                "ballotpedia": "John_Potucek",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19822,
+                "person_hash": "cxfke49i",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Bob Greene",
+                "first_name": "Bob",
+                "middle_name": "",
+                "last_name": "Greene",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-37-HIL",
+                "ftm_eid": 45378745,
+                "votesmart_id": 185261,
+                "opensecrets_id": "",
+                "knowwho_pid": 670660,
+                "ballotpedia": "Bob_Greene",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18810,
+                "person_hash": "jop80o18",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Peter Torosian",
+                "first_name": "Peter",
+                "middle_name": "E.",
+                "last_name": "Torosian",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-14-ROC",
+                "ftm_eid": 41757598,
+                "votesmart_id": 172539,
+                "opensecrets_id": "",
+                "knowwho_pid": 587653,
+                "ballotpedia": "Peter_Torosian",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 16623,
+                "person_hash": "3v4nz7y6",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Kurt Wuelper",
+                "first_name": "Kurt",
+                "middle_name": "",
+                "last_name": "Wuelper",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-03-STR",
+                "ftm_eid": 9793079,
+                "votesmart_id": 141952,
+                "opensecrets_id": "",
+                "knowwho_pid": 426261,
+                "ballotpedia": "Kurt_Wuelper",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19819,
+                "person_hash": "8zx0v085",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Judy Aron",
+                "first_name": "Judy",
+                "middle_name": "",
+                "last_name": "Aron",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-07-SUL",
+                "ftm_eid": 45378624,
+                "votesmart_id": 185539,
+                "opensecrets_id": "",
+                "knowwho_pid": 670808,
+                "ballotpedia": "Judy_Aron",
+                "sponsor_type_id": 2,
+                "sponsor_order": 6,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2227366,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/CACR2/id/2227366",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=24&txtFormat=html",
+                "text_size": 11347,
+                "text_hash": "c0a663315676fd77af598a6d5553545a"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1049801,
+                "date": "2021-04-09",
+                "desc": "OTP",
+                "yea": 201,
+                "nay": 170,
+                "nv": 27,
+                "absent": 0,
+                "total": 398,
+                "passed": 1,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/CACR2/id/1049801",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=142&sy=2021&lb=H&eb=HCA0002&sortoption=&txtsessionyear=2021&txtbillnumber=CACR2&ddlsponsors=&lsr=22"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-11",
+                "time": "14:30",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Ways and Means Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-02",
+                "time": "09:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Ways and Means Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-03",
+                "time": "09:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Ways and Means Work Session"
+            }
+        ]
+    }
+}

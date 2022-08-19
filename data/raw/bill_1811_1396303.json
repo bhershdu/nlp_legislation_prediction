@@ -1,0 +1,367 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1396303,
+        "change_hash": "3c67f5c3c96cf58a3083577e7d3b4a2f",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB296/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=473&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB296",
+        "completed": 0,
+        "status": 2,
+        "status_date": "2021-04-07",
+        "progress": [
+            {
+                "date": "2021-01-09",
+                "event": 1
+            },
+            {
+                "date": "2021-01-09",
+                "event": 9
+            },
+            {
+                "date": "2021-03-09",
+                "event": 10
+            },
+            {
+                "date": "2021-04-07",
+                "event": 2
+            },
+            {
+                "date": "2021-04-07",
+                "event": 9
+            },
+            {
+                "date": "2021-04-16",
+                "event": 10
+            },
+            {
+                "date": "2021-04-22",
+                "event": 10
+            },
+            {
+                "date": "2021-04-29",
+                "event": 10
+            },
+            {
+                "date": "2021-05-06",
+                "event": 10
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB296",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "S",
+        "current_body_id": 68,
+        "title": "Establishing the crime of unsolicited disclosure of an intimate image.",
+        "description": "Establishing the crime of unsolicited disclosure of an intimate image.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-09",
+                "committee_id": 1239,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Criminal Justice and Public Safety"
+            },
+            {
+                "date": "2021-04-07",
+                "committee_id": 1273,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Judiciary"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-09",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Criminal Justice and Public Safety House Journal  2 P. 42",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-26",
+                "action": "Public Hearing: 02/26/2021 02:30 pm Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/92701022260 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-09",
+                "action": "Committee Report: Ought to Pass (Vote 18-1; Consent Calendar) House Calendar 18 P. 6",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Ought to Pass: Motion Adopted Voice Vote 04/07/2021 House Journal  5 P. 7",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Reconsider (Rep. Osborne): Motion Failed Voice Vote 04/07/2021 House Journal  5 P. 50",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Introduced 04/01/2021 and Referred to Judiciary; Senate Journal 11",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-08",
+                "action": "Remote Hearing: 04/13/2021, 02:00 pm; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  19",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-16",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-1147s, 04/22/2021; Vote 5-0; Consent Calendar; Senate Calendar  20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-22",
+                "action": "Sen. Giuda Moved to Remove HB 296 from the Consent Calendar; 04/22/2021; Senate Journal 12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-22",
+                "action": "Sen. Bradley Moved to Special Order to 04/29/2021, Regular Calendar 24Y-0N, Motion Adopted; 04/22/2021; Senate Journal 12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-22",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-1147s, 04/29/2021; Senate Calendar  21",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-29",
+                "action": "Sen. Bradley Moved to Special Order to 05/06/2021, Regular Calendar 24Y-0N, Motion Adopted; 04/29/2021; Senate Journal 13",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-29",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-1147s, 05/06/2021; Senate Calendar  22",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-05-06",
+                "action": "Sen. Bradley Moved to Special Order to 05/13/21, Regular Calendar 23Y-0N, Motion Adopted; 05/06/2021; Senate Journal 14",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-06",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-1147s, 05/13/2021; Senate Journal 14",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-05-13",
+                "action": "Committee Amendment # 2021-1147s, Amendment Adopted, Voice Vote; 05/13/2021; Senate Journal 15",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-13",
+                "action": "Sen. Hennessey Floor Amendment # 2021-1470s, Amendment Adopted, Voice Vote; 05/13/2021; Senate Journal 15",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-13",
+                "action": "Ought to Pass with Amendments 2021-1147s and 2021-1470s, Motion Adopted, Voice Vote; OT3rdg; 05/13/2021; Senate Journal 15",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-08",
+                "action": "House Non-Concurs with Senate Amendment 2021-1147s and 2021-1470s and Requests CofC (Reps. Abbas, Rhodes, Wallace, Nutting-Wong): Motion Adopted Voice Vote 06/04/2021 House Journal  9 P. 53",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-10",
+                "action": "Sen. Carson Accedes to House Request for Committee of Conference, Motion Adopted, Voice Vote; 06/10/2021; Senate Journal 19",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-10",
+                "action": "President Appoints: Senators Carson, Gannon, Kahn; 06/10/2021; Senate Journal 19",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-16",
+                "action": "Conference Committee Meeting: 06/16/2021 10:30 am Legislative Office Building 201-203",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-23",
+                "action": "Conference Committee Report; Not Signed Off; Senate Journal 20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 19172,
+                "person_hash": "m1yswrtd",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Allison Nutting",
+                "first_name": "Allison",
+                "middle_name": "",
+                "last_name": "Nutting",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-34-HIL",
+                "ftm_eid": 25005768,
+                "votesmart_id": 154304,
+                "opensecrets_id": "",
+                "knowwho_pid": 502275,
+                "ballotpedia": "Allison_Nutting-Wong",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18140,
+                "person_hash": "6h6iwnwo",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Sherry Frost",
+                "first_name": "Sherry",
+                "middle_name": "",
+                "last_name": "Frost",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-16-STR",
+                "ftm_eid": 9903733,
+                "votesmart_id": 174510,
+                "opensecrets_id": "",
+                "knowwho_pid": 587889,
+                "ballotpedia": "Sherry_Frost",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2234686,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB296/id/2234686",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=448&txtFormat=html",
+                "text_size": 31944,
+                "text_hash": "5ff79a99d7803f4efb723c49ad6c6bf1"
+            },
+            {
+                "doc_id": 2401262,
+                "date": "2021-05-13",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB296/id/2401262",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=SA&id=448",
+                "text_size": 32324,
+                "text_hash": "bfcec965c902294b09020f7bf166c33a"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1060337,
+                "date": "2021-04-22",
+                "desc": "Special Order",
+                "yea": 24,
+                "nay": 0,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/HB296/id/1060337",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=310&sy=2021&lb=S&eb=HB0296&sortoption=&txtsessionyear=2021&txtbillnumber=HB296&ddlsponsors=&lsr=473"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-26",
+                "time": "14:30",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Criminal Justice and Public Safety Public Hearing"
+            }
+        ]
+    }
+}

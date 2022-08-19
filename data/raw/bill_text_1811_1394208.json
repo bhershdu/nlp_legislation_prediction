@@ -1,0 +1,370 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1394208,
+        "change_hash": "6f90a1e5f2012f587a34539360235079",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/SB23/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=611&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=SB23",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2021-07-06",
+        "progress": [
+            {
+                "date": "2021-01-05",
+                "event": 1
+            },
+            {
+                "date": "2021-01-05",
+                "event": 9
+            },
+            {
+                "date": "2021-01-07",
+                "event": 10
+            },
+            {
+                "date": "2021-03-10",
+                "event": 2
+            },
+            {
+                "date": "2021-03-10",
+                "event": 9
+            },
+            {
+                "date": "2021-05-20",
+                "event": 10
+            },
+            {
+                "date": "2021-06-22",
+                "event": 3
+            },
+            {
+                "date": "2021-07-06",
+                "event": 8
+            },
+            {
+                "date": "2021-07-06",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "SB23",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "S",
+        "body_id": 68,
+        "current_body": "S",
+        "current_body_id": 68,
+        "title": "Changing the requirement that a member of the sponsoring charitable organization be present during certain games of chance.",
+        "description": "Changing the requirement that a member of the sponsoring charitable organization be present during certain games of chance.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-05",
+                "committee_id": 1277,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Ways and Means"
+            },
+            {
+                "date": "2021-03-10",
+                "committee_id": 1264,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Ways and Means"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-05",
+                "action": "To Be Introduced 01/06/2021 and Referred to Ways and Means; Senate Journal 2",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-07",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-0033s, 02/04/2021; Senate Calendar  9",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-27",
+                "action": "Remote Hearing: 01/13/2021, 01:15 pm; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  6",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-04",
+                "action": "Committee Amendment # 2021-0033s, Regular Calendar 24Y-0N, Amendment Adopted; 02/04/2021; Senate Journal 3",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-04",
+                "action": "Ought to Pass with Amendment 2021-0033s, Regular Calendar 24Y-0N, Motion Adopted; OT3rdg; 02/04/2021; Senate Journal 3",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-10",
+                "action": "Introduced (in recess of) 02/25/2021 and referred to Ways and Means House Journal  4 P. 48",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-16",
+                "action": "Public Hearing: 03/16/2021 09:30 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/97636968924 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-20",
+                "action": "Committee Report: Ought to Pass (Vote 24-0; Consent Calendar) House Calendar 26 P. 13",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-06-03",
+                "action": "Ought to Pass: Motion Adopted Voice Vote 06/03/2021 House Journal  8 P. 84",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-22",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 06/10/2021); Senate Journal 20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-22",
+                "action": "Enrolled (in recess of) 06/10/2021 House Journal  10 P. 23",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-07-06",
+                "action": "Signed by the Governor on 07/01/2021; Chapter 0099; Effective 08/30/2021",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 14488,
+                "person_hash": "elsfgcmi",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Thomas Sherman",
+                "first_name": "Thomas",
+                "middle_name": "",
+                "last_name": "Sherman",
+                "suffix": "",
+                "nickname": "Tom",
+                "district": "SD-024",
+                "ftm_eid": 13703813,
+                "votesmart_id": 141784,
+                "opensecrets_id": "",
+                "knowwho_pid": 426683,
+                "ballotpedia": "Tom_Sherman",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 16752,
+                "person_hash": "10ajy4x5",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Harold French",
+                "first_name": "Harold",
+                "middle_name": "F.",
+                "last_name": "French",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-007",
+                "ftm_eid": 6594361,
+                "votesmart_id": 42444,
+                "opensecrets_id": "",
+                "knowwho_pid": 426133,
+                "ballotpedia": "Harold_French",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4783,
+                "person_hash": "65ugj1s8",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Lou D'Allesandro",
+                "first_name": "Lou",
+                "middle_name": "C.",
+                "last_name": "D'Allesandro",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-020",
+                "ftm_eid": 13012859,
+                "votesmart_id": 14808,
+                "opensecrets_id": "",
+                "knowwho_pid": 196895,
+                "ballotpedia": "Lou_D%27Allesandro",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4889,
+                "person_hash": "spc57l5j",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Peter Leishman",
+                "first_name": "Peter",
+                "middle_name": "R.",
+                "last_name": "Leishman",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-24-HIL",
+                "ftm_eid": 6466019,
+                "votesmart_id": 14252,
+                "opensecrets_id": "",
+                "knowwho_pid": 249975,
+                "ballotpedia": "Peter_Leishman",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2228368,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB23/id/2228368",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=630&txtFormat=html",
+                "text_size": 8389,
+                "text_hash": "70bd31aa90ed5c90c98f7f842758331c"
+            },
+            {
+                "doc_id": 2276526,
+                "date": "2021-02-04",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB23/id/2276526",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=SA&id=630",
+                "text_size": 8969,
+                "text_hash": "af99e329e4eb5c48d12d73035683efc2"
+            },
+            {
+                "doc_id": 2422868,
+                "date": "2021-02-04",
+                "type": "Enrolled",
+                "type_id": 5,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB23/id/2422868",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&v=HP&id=630",
+                "text_size": 8975,
+                "text_hash": "83559f7a49e8cdfcdf5787facf8a1e3d"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 998562,
+                "date": "2021-02-04",
+                "desc": "Committee Amendment 0033s",
+                "yea": 24,
+                "nay": 0,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB23/id/998562",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=24&sy=2021&lb=S&eb=SB0023&sortoption=&txtsessionyear=2021&txtbillnumber=SB23&ddlsponsors=&lsr=611"
+            },
+            {
+                "roll_call_id": 998563,
+                "date": "2021-02-04",
+                "desc": "Ought to Pass w/Amendment",
+                "yea": 24,
+                "nay": 0,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB23/id/998563",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=25&sy=2021&lb=S&eb=SB0023&sortoption=&txtsessionyear=2021&txtbillnumber=SB23&ddlsponsors=&lsr=611"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-16",
+                "time": "09:30",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Ways and Means Public Hearing"
+            }
+        ],
+        "full_text": "presence of charitable organization members cross reference removed amend rsa ix b to read as follows operating a game on a different date than licensed without approval of the lottery commission or committing or more minor violations within years or knowingly operating a game of chance without a representative of the charitable organization present as specified in rsa xi repeal rsa xi relative to the requirement that a member of the sponsoring charitable organization be present during certain games of chance is repealed"
+    }
+}

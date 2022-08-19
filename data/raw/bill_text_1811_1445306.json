@@ -1,0 +1,179 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1445306,
+        "change_hash": "79a0fd777ed6e2f4eb6b8f33863e25bb",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/SB159/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=971&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=SB159",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-02-09",
+        "progress": [
+            {
+                "date": "2021-02-09",
+                "event": 1
+            },
+            {
+                "date": "2021-02-09",
+                "event": 9
+            },
+            {
+                "date": "2021-03-10",
+                "event": 10
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "SB159",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "S",
+        "body_id": 68,
+        "current_body": "S",
+        "current_body_id": 68,
+        "title": "Establishing the department of children's services and juvenile justice.",
+        "description": "Establishing the department of children's services and juvenile justice.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-02-09",
+                "committee_id": 1272,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Health and Human Services"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-02-09",
+                "action": "Introduced 02/04/2021 and Referred to Health and Human Services; Senate Journal 4",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-17",
+                "action": "Remote Hearing: 03/03/2021, 08:45 am; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-10",
+                "action": "Committee Report: Ought to Pass, 03/18/2021; Senate Calendar  15",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-18",
+                "action": "Sen. Bradley Moved Laid on Table, Regular Calendar 24Y-0N, Motion Adopted; 03/18/2021; Senate Journal 8",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-18",
+                "action": "Pending Motion Ought to Pass; 03/18/2021; Senate Journal 8",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 4775,
+                "person_hash": "kswslwpv",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Sharon Carson",
+                "first_name": "Sharon",
+                "middle_name": "",
+                "last_name": "Carson",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-014",
+                "ftm_eid": 6593753,
+                "votesmart_id": 42537,
+                "opensecrets_id": "",
+                "knowwho_pid": 208650,
+                "ballotpedia": "Sharon_Carson",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2285010,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB159/id/2285010",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=962&txtFormat=html",
+                "text_size": 60775,
+                "text_hash": "8d341a4c41000023acbc61c6b4e5517b"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1036545,
+                "date": "2021-03-18",
+                "desc": "Laid on Table",
+                "yea": 24,
+                "nay": 0,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB159/id/1036545",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=183&sy=2021&lb=S&eb=SB0159&sortoption=&txtsessionyear=2021&txtbillnumber=SB159&ddlsponsors=&lsr=971"
+            },
+            {
+                "roll_call_id": 1102390,
+                "date": "2021-03-18",
+                "desc": "Laid on Table",
+                "yea": 24,
+                "nay": 0,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB159/id/1102390",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=183&sy=2021&lb=S&eb=SB0159&sortoption=&txtsessionyear=2021&txtbillnumber=SB159&ddlsponsors=&lsr=0971"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [],
+        "full_text": "transfer of functions powers and duties from the department of health and human services division for children youth and families to the department of children s services and juvenile justice all the functions powers duties personnel records property programs operations and funds of the department of health and human services division for children youth and families relative to children s services and juvenile justice provided under rsa xii xvii and are hereby transferred to the department of children s services and juvenile justice established in this act and vested in the commissioner of that department new chapter department of children s services and juvenile justice amend rsa by inserting after chapter the following new chapter chapter department of children s servces and juvenile justice purpose intent the purpose of this chapter is to provide a unified statewide administration of programs and services for children and youth including child protection foster care adoption children in need of services juvenile justice residential services residential care and all related administrative functions definitions in this chapter commissioner means the commissioner of the department of children s services and juvenile justice department means the department of children s services and juvenile justice department established general functions there is hereby established the department of children s services and juvenile justice an agency of the state under the executive direction of a commissioner of the department of children s services and juvenile justice the department of children s services and juvenile justice through its officials shall be responsible for the following functions a statewide administration and enforcement of programs and services for children and youth such programs and services shall be organized into the following functional areas administration support including program certification rate setting rate review and quality assurance child protection including adoption foster care and child day care licensing juvenile justice and children in need of services residential services including secure facilities and residential care programs b administration and oversight of the juvenile parole board pursuant to rsa the child welfare advisory board the interstate compact for juveniles pursuant to rsa the interstate compact on the placement of children pursuant to rsa and the compact for hard to place children pursuant to rsa commissioner compensation the commissioner of the department of children s services and juvenile justice shall be appointed by the governor with the consent of the council and shall serve a term of years the commissioner shall be qualified to hold the position by reason of education and experience any vacancy shall be filled for the unexpired term the compensation of the commissioner shall be as specified in rsa powers and duties of the commissioner in addition to the powers duties and functions otherwise vested by law the commissioner of the department of children s services and juvenile justice shall establish clear comprehensive and unified departmental objectives including the development and implementation of a departmental mission statement promoting the efficient statewide delivery of programs and services to children and youths represent the public interest and the best interest of the children and youths served in the administration of the programs and services within the department of children s services and juvenile justice and be responsible to the governor the general court the public and the children and youths being served through such administration represent the interests of the department by serving on boards commissions committees and professional associations or specify a designee have the authority subject to the approval of the governor and council to accept gifts contributions and bequests of funds from individuals foundations corporations institutions and other organizations for the purpose of furthering the mission of the department of children s services and juvenile justice have the authority to apply for receive and expend federal funding grants subsidies or other moneys on a basis have general supervision of all neglected or dependent children and see that they receive suitable education training and support assist in the enforcement of all laws for the protection of children and investigate charges that may be brought to the department s attention and if a crime allegedly has been committed report to the county attorney supervise all foster family homes and child placing agencies develop a broad range of social and related services aimed at preventing dependency and family breakdown promoting child development and child care protecting vulnerable children and enabling them to live in their own homes or foster homes rather than in institutions assisting individuals to attain and maintain and strengthen family life develop and operate social service programs within the department of children s services and juvenile justice receive and distribute such federal funds which are allocated specifically to the state for day care for children and adults and purchase or contract with other agencies or individuals to provide direct grants from sums appropriated for such purpose to other agencies upon submission of approvable plans within the objectives of this paragraph review annually the rates established for the purchase of child day care services on behalf of eligible persons this annual review shall consider the effects of the established rates on current costs quality and availability of services adopt rules pursuant to rsa implementing procedures for state registry and criminal background investigations of all new department staff who have regular contact with children according to the provisions of rsa a upon request publicly disclose the information in subparagraphs c c regarding the abuse or neglect of a child if there has been a fatality or near fatality resulting from abuse or neglect of a child information included in subparagraphs c and c shall also be disclosed if it is determined that such disclosure shall not be contrary to the best interests of the child the child s siblings or other children in the household and there has been a fatality or near fatality resulting from abuse or neglect of a child in addition the same disclosure shall be made when there has been a fatality to include suicide or near fatality of a child under the legal supervision or legal custody of the department in determining whether disclosure will be contrary to the best interests of the child the child s siblings or other children in the household the commissioner shall consider the privacy interests of the child and the child s family and the effects which disclosure may have on efforts to reunite and provide services for the family if the commissioner determines not to release the information the commissioner shall provide written findings in support of the decision to the requestor as used in this section near fatality means an act or event that places a child in serious or critical condition as certified by a physician b information may be disclosed as follows information released prior to the completion of the investigation of a report shall be limited to a statement that a report is under investigation when there has been a prior disclosure pursuant to subparagraph b information released in a case in which the report has been unfounded shall be limited to the statement that the investigation has been completed and the report has been determined unfounded if the report has been founded then information may be released pursuant to subparagraph c c for the purposes of this paragraph the following information shall be disclosed the name of the abused or neglected child provided that the name shall not be disclosed in a case of a near fatality unless the name has otherwise previously been disclosed the name of the parent or other person legally responsible for the child or the foster family home group home child care institution or child placing agency where the child is placed the date of any report to the department of suspected abuse or neglect to include any prior reports on file provided that the identity of the person making the report shall not be made public the statutory basis and supporting allegations of any such report provided that the identity of the person making the report shall not be made public whether any such report was referred to the department for assessment and if so the priority assigned by the department the date any such report was referred to the department for assessment for each report the date and means by which the department made contact with the family regarding the assessment for each report the date and means of any collateral contact made as part of the investigation provided that the identity of an individual so contacted shall not be made public for each report the date the assessment was completed for each report the fact that the department s investigation resulted in a finding of either abuse or neglect and the basis for the finding identification of services and actions taken if any by the department regarding the child named in the report and his or her family or substitute caregiver as a result of any such report or reports any extraordinary or pertinent information concerning the circumstances of the abuse or maltreatment of the child and the investigation of such abuse or maltreatment where the commissioner determines such disclosure is consistent with the public interest d any disclosure of information pursuant to this paragraph shall be consistent with the provisions of subparagraph c such disclosure shall not identify or provide an identifying description of the source of the report and shall not identify the name of the abused or neglected child s siblings or any other members of the child s household other than the subject of the report establish a quality early learning opportunity initiative which shall be available on a basis to families whose income is between percent and percent of the federal poverty guidelines and whose children are enrolled in a child care program licensed under rsa and who otherwise meet all other eligibility requirements for child care assistance the amount of support provided to eligible families shall be calculated annually by the department and shall reflect the estimated average difference between the cost of licensed child care and unlicensed child care rulemaking the commissioner shall adopt rules pursuant to rsa relative to the administration and enforcement of the following a the interstate compact for juveniles under rsa b delinquent children under rsa c child protection under rsa d children in need of services under rsa e missing children under rsa f court ordered placements under rsa g review of dispositional orders in juvenile cases under rsa h the interstate compact on the placement of children under rsa i adoption under rsa j termination of parental rights under rsa k child day care residential care and agencies under rsa l services for children youth and families under rsa m parole of delinquents under rsa n the compact for hard to place children under rsa o family support services under rsa p educationally disabled children at the youth development center the state prisons county correctional facilities and the youth services center under rsa q special education programs of the youth services center under rsa r the youth development center under rsa s the youth services center under rsa upon the abolition of each agency department division bureau or other administrative unit whose functions powers and duties are transferred in accordance with this chapter the existing rules of such agency department division bureau or other administrative unit shall continue in full effect without interruption as the rules of the department of children s services and juvenile justice rules so continued shall be effective for the remainder of the period established under rsa the commissioner shall send copies of all rules proposed under this section to the chairperson of the house children and family law committee and the chairperson of the senate health and human services committee or their successor committees for review transfer of authority from the department of health and human services division for children youth and families to the department for children s services and juvenile justice the department of health and human services division for children youth and families is hereby abolished and all of the functions powers and duties and responsibilities of the division and the officials of that division are hereby transferred to the department of children s services and juvenile justice established in section of this act the transfer provided for in paragraph i of this section shall include all of the personnel books papers records equipment unexpended appropriations or other funds actions and other property or obligations of any kind of the division for children youth and families the state employees of the division for children youth and families shall be transferred to the department of children s services and juvenile justice when the duties functions and responsibilities of the division for children youth and families are transfered to the department any person employed in such a position at the time of such transfer or at any subsequent time thereto shall be deemed an employee of the department all classified employees of the department shall be classified employees of the state of new hampshire within the meaning of rsa and shall be subject to all requirements and be entitled to all benefits and emoluments of the state personnel system nothing in this paragraph shall preclude the general court from increasing or decreasing the number of positions within the department office of the child advocate reference change rsa v is repealed and reenacted to read as follows department means the department of children s services and juvenile justice office of the child advocate reference change amend rsa iii a to read as follows a investigate the actions of any agency and make appropriate referrals provided that department of health and human services specific complaints shall be handled by the ombudsman pursuant to rsa iii children s services and juvenile justice specific complaints shall be handled by that agency department of health and human services educational expenses liability amended amend rsa ii to read as follows rates for private providers of special education services shall be set as provided in rsa iii by the departments of health and human services children s services and juvenile justice education and administrative services department of health and human services child welfare services amended amend rsa ii to read as follows child welfare services develop and administer state responsibilities for child welfare and may administer directly such child welfare activities child welfare activities shall include protection and care of homeless dependent and neglected children and children in danger of becoming delinquent cooperation with any court and with state and other institutions for children including investigation and services services and care of children in foster homes and all other child welfare activities authorized by law administration and enforcement of child support as defined in this section administration of federal and state family support and assistance programs pursuant to rsa and assistance to developmentally disabled children pursuant to rsa provided however that nothing in this chapter or rsa shall be construed as authorizing any public official agent or representative in carrying out any of the provisions of this chapter or rsa to take charge of any child over the objection of either of the parents of such child or of the person standing in loco parentis to such child except pursuant to a proper court order parole of delinquents purpose of juvenile parole amended amend rsa to read as follows purpose of juvenile parole it is the intent of the general court that the juvenile parole system provide a means of rehabilitating delinquents who have been committed to the custody of the department of health and human services children s services and juvenile justice without continued incarceration it is also the intent of the general court that the juvenile parole board and the department of health and human services children s services and juvenile justice when administering this system demonstrate recognition of the need to protect the public from criminal acts by juvenile parolees finance commission amend rsa ii to read as follows review and provide recommendations prior to any rate setting and adjustments regarding a department of health and human services rate setting and adjustments including but not limited to those for care services for elderly and adult clients by the division of elderly and adult services and volunteer services by the division for children youth and families and the division of juvenile justice services prior to any rate setting or adjustments b department of children s services and juvenile justice rate setting and adjustments including those for and volunteer services department of health and human services memorandum amend rsa xxi a to read as follows a the commissioners of the departments of health and human services children s services and juvenile justice and corrections and the attorney general shall enter into a memorandum of understanding establishing an team to address responsibilities associated with the most challenging cases of individuals years of age or older with developmental disabilities or acquired brain disorders who present a substantial risk to community safety as determined by a comprehensive risk assessment appropriate to the individual the memorandum of understanding shall include a requirement for participation by the department of health and human services including the bureau of developmental services the bureau of behavioral health the division for children youth and families the bureau of drug and alcohol services the new hampshire hospital the department of justice the department of children s services and juvenile justice and the department of corrections the purpose of the memorandum of understanding is to promote collaboration and cooperation across all services systems to determine and recommend system responsibility for providing and or funding specific services and supports to effectively meet the needs of the individual and the public safety of the community in accordance with the rules of the respective departments surrogate parents amend rsa iii a to read as follows a when a child with a disability as defined in rsa needs special education and the parent or guardian of the child is unknown or after reasonable efforts cannot be located or the child is in the legal custody of the division of children youth and families the department of children s services and juvenile justice the commissioner or designee may appoint a surrogate parent who shall represent the child in the educational process provided that for a child in the legal custody of the division of children youth and families department of children s services and juvenile justice a judge overseeing the child s case pursuant to the individuals with disabilities education act u s section b a i may appoint a surrogate parent tuition waiver for children in state foster care or guardianship amend rsa iii b to read as follows b beginning november and no later than november each year thereafter the division of children youth and families department of children s services and juvenile justice shall submit a report to the health and human services oversight committee established in rsa and the house children and family law committee or their successor committees detailing the status of the tuition waiver program guardian ad litem board membership reference change amend rsa i f to read as follows f one member representing the division of children youth and families department of children s services or juvenile justice or casey family services or another child protection agency in the state appointed by the governor release of a defendant pending trial reference change amend rsa ii to read as follows the court or justice shall order the prearraignment or pretrial release of the person on his or her personal recognizance or upon execution of an unsecured appearance bond in an amount specified by the court subject to the condition that the person not commit a crime during the period of his or her release and subject to such further condition or combination of conditions that the court may require unless the court determines that such release will not reasonably assure the appearance of the person as required or will endanger the safety of the person or of any other person or the community the court may also consider as a factor in its determination under this paragraph or paragraph iii that a person who is detained as a result of his or her inability to meet the required conditions or post the required bond is the parent and sole caretaker of a child and whether as a result such child would become the responsibility of the division of children youth and families department of children s services and juvenile justice trust and agency funds reference change amend rsa ii c to read as follows c the matthew elliot memorial trust fund of the division of juvenile justice services department of health and human services duties of the juvenile justice advisory board amend rsa to read as follows the advisory board shall act in an advisory capacity to assist the commissioner of the department of health and human services children s services and juvenile justice relative to juvenile justice programs and services provided to children at the youth development center and other juvenile justice facilities the board may also provide advice and input on fiscal and budgetary matters related to such facilities the availability of state and federal grants business partnerships and other funding sources available to the department for such facilities the board shall seek information from the director of the division of juvenile justice services in the department of health and human services children s services and juvenile justice concerning the successes and challenges relative to the state s juvenile justice programs and services the board shall be available to address emergent issues identified by the commissioner of health and human services children s services and juvenile justice the director of the division of juvenile justice services the chair chairperson of the advisory board or any board member in furtherance of this paragraph the board may solicit comments from the public or any other entities as it deems appropriate interbranch criminal and juvenile justice council amend rsa i i to read as follows i the director of the division of juvenile justice services commissioner of the department of health and human services children s services and juvenile justice or designee powers of city councils group homes reference change amend rsa to read as follows group homes the city councils may appropriate money to support or aid group homes for the purposes of this section a group home is an institution or home which is supervised and licensed pursuant to the provisions of rsa iv and provides residential and counseling services to persons under the age of services for children youth and families powers and duties of the department amend rsa xiii to read as follows assume and administer all the responsibilities and duties of the department of health and human services children s services and juvenile justice relative to child welfare services provided under rsa ii and xii relative to child welfare services funded through the social services block grant rsa and and and provided under title and title of the social security act reference changes amend the following rsa provisions by replacing commissioner of health and human services or commissioner of the department of health and human services with commissioner of the department of children s services and juvenile justice rsa i v iv vi x and xviii i i and reference changes amend the following rsa provisions by replacing department of health and human services with department of children s services and juvenile justice rsa i iii e ii and i b iii i c and i e iii i a c and vi i a and i f xii the introductory paragraph of iii the introductory paragraph of i i a the section heading of i i e v ii c i c iii i i i a i vi and viii iii vii i ii iv and vi iii iv h v and vii the introductory paragraph of ii c iii a and iii c i and ii v vii and x i and iv i vi the introductory paragraph of and v i ii a and iii i a and reference changes amend the following rsa provisions by replacing division with department rsa iii and iv iii ii and i h repeal the following are repealed rsa xi and xii relative to duties of the department of health and human services transfered to the department of children s services and juvenile justice rsa iii relative to general supervision of all neglected or dependent children by the department of health and human services rsa iv relative to supervision and licensing of foster family homes and child placing agencies by the department of health and human services rsa xii relative to social service programs for children and families rsa xvii relative to review of rates for child day care services by the department of health and human services rsa iii relative to rulemaking authority of the department of health and human services under rsa lba sb fiscal note as introduced agencies contacted department of health and human services and department of administrative services"
+    }
+}

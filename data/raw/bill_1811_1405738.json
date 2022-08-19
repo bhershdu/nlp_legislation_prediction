@@ -1,0 +1,387 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1405738,
+        "change_hash": "d8c93634b9fe3c10a3717fe3a2fc9f4e",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB591/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=840&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB591",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-13",
+        "progress": [
+            {
+                "date": "2021-01-13",
+                "event": 1
+            },
+            {
+                "date": "2021-01-13",
+                "event": 9
+            },
+            {
+                "date": "2021-02-16",
+                "event": 10
+            },
+            {
+                "date": "2021-02-24",
+                "event": 9
+            },
+            {
+                "date": "2021-10-29",
+                "event": 10
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB591",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to certain liquor license fees.",
+        "description": "Relative to certain liquor license fees.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-13",
+                "committee_id": 1243,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Executive Departments and Administration"
+            },
+            {
+                "date": "2021-02-24",
+                "committee_id": 1244,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Finance"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-13",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Executive Departments and Administration House Journal  2 P. 55",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-21",
+                "action": "Public Hearing: 02/01/2021 09:30 am Members of the public may attend using the following link:To join the webinar: https://zoom.us/j/94106022547 / Executive session on pending legislation may be held throughout the day (time permitting) from thetime the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-16",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-0269h (Vote 11-8; Regular Calendar) House Calendar 12 P. 20",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-24",
+                "action": "Amendment # 2021-0269h: Amendment Adopted DV 205-145 02/24/2021 House Journal  3 P. 60",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-24",
+                "action": "Ought to Pass with Amendment 2021-0269h: Motion Adopted Voice Vote 02/24/2021 House Journal  3 P. 60",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-24",
+                "action": "Reconsider (Rep. Wuelper): Motion Adopted Regular Calendar 203-137 02/24/2021 House Journal  3 P. 61",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-24",
+                "action": "Ought to Pass with Amendment : Motion Adopted Regular Calendar 203-147 02/24/2021 House Journal  3 P. 61",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-24",
+                "action": "Referred to Finance 02/24/2021 House Journal  3 P. 65",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-04",
+                "action": "Division I Work Session: 03/09/2021 09:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/94444579237",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-25",
+                "action": "Executive Session: 03/29/2021 09:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/92166004660",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-30",
+                "action": "Retained in Committee",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-08-31",
+                "action": "Division I Work Session: 09/14/2021 03:45 pm Legislative Office Building 212",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-10-06",
+                "action": "Executive Session: 10/26/2021 10:00 am Legislative Office Building 210-211",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-10-29",
+                "action": "Committee Report: Ought to Pass 10/28/2021 (Vote ; 17-4)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 11837,
+                "person_hash": "9bfp0ziy",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Patrick Abrami",
+                "first_name": "Patrick",
+                "middle_name": "",
+                "last_name": "Abrami",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-19-ROC",
+                "ftm_eid": 13004265,
+                "votesmart_id": 126608,
+                "opensecrets_id": "",
+                "knowwho_pid": 296219,
+                "ballotpedia": "Patrick_Abrami",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 17302,
+                "person_hash": "xh0ul6ms",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Fred Doucette",
+                "first_name": "Fred",
+                "middle_name": "",
+                "last_name": "Doucette",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-08-ROC",
+                "ftm_eid": 25005600,
+                "votesmart_id": 154566,
+                "opensecrets_id": "",
+                "knowwho_pid": 502645,
+                "ballotpedia": "Fred_Doucette",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 5099,
+                "person_hash": "vzldns9c",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Kenneth Weyler",
+                "first_name": "Kenneth",
+                "middle_name": "",
+                "last_name": "Weyler",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-13-ROC",
+                "ftm_eid": 13004260,
+                "votesmart_id": 8607,
+                "opensecrets_id": "",
+                "knowwho_pid": 283733,
+                "ballotpedia": "Ken_Weyler",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4760,
+                "person_hash": "8scgvpbd",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Jeb Bradley",
+                "first_name": "Jeb",
+                "middle_name": "",
+                "last_name": "Bradley",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-003",
+                "ftm_eid": 6636719,
+                "votesmart_id": 4953,
+                "opensecrets_id": "",
+                "knowwho_pid": 197009,
+                "ballotpedia": "Jeb_Bradley",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2240666,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB591/id/2240666",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=831&txtFormat=html",
+                "text_size": 20856,
+                "text_hash": "0cc0e345255e072ae74e440425696764"
+            },
+            {
+                "doc_id": 2323717,
+                "date": "2021-02-24",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB591/id/2323717",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=HA&id=831",
+                "text_size": 17758,
+                "text_hash": "3c67383a681a4f9aba99cba7ff457fd6"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1017373,
+                "date": "2021-02-26",
+                "desc": "Reconsider",
+                "yea": 203,
+                "nay": 137,
+                "nv": 29,
+                "absent": 29,
+                "total": 398,
+                "passed": 1,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/HB591/id/1017373",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=26&sy=2021&lb=H&eb=HB0591&sortoption=&txtsessionyear=2021&txtbillnumber=HB591&ddlsponsors=&lsr=840"
+            },
+            {
+                "roll_call_id": 1017374,
+                "date": "2021-02-26",
+                "desc": "OTPA",
+                "yea": 203,
+                "nay": 147,
+                "nv": 19,
+                "absent": 29,
+                "total": 398,
+                "passed": 1,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/HB591/id/1017374",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=27&sy=2021&lb=H&eb=HB0591&sortoption=&txtsessionyear=2021&txtbillnumber=HB591&ddlsponsors=&lsr=840"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-01",
+                "time": "09:30",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Executive Departments and Administration Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-09",
+                "time": "09:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Finance Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-29",
+                "time": "09:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Finance Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-09-14",
+                "time": "15:45",
+                "location": "Legislative Office Building 212",
+                "description": "Finance Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-10-26",
+                "time": "10:00",
+                "location": "Legislative Office Building 210-211",
+                "description": "Finance Executive Session"
+            }
+        ]
+    }
+}

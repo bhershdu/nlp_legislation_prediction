@@ -1,0 +1,223 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1396234,
+        "change_hash": "0c5c8e83c2886f4b5bd7a6aef53299f5",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB280/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=432&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB280",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-09",
+        "progress": [
+            {
+                "date": "2021-01-09",
+                "event": 1
+            },
+            {
+                "date": "2021-01-09",
+                "event": 9
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB280",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to termination of an emergency order issued by the governor.",
+        "description": "Relative to termination of an emergency order issued by the governor.",
+        "pending_committee_id": 1255,
+        "committee": {
+            "committee_id": 1255,
+            "chamber": "H",
+            "chamber_id": 67,
+            "name": "Legislative Administration"
+        },
+        "referrals": [
+            {
+                "date": "2021-01-09",
+                "committee_id": 1255,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Legislative Administration"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-09",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Legislative Administration House Journal  2 P. 42",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-01",
+                "action": "Public Hearing: 03/01/2021 11:15 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/95526791336 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-09",
+                "action": "==CANCELLED== Executive Session: 03/09/2021 09:30 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/97592045901",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-17",
+                "action": "==TIME CHANGE== Executive Session: 03/29/2021 10:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/96696519759",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-30",
+                "action": "Retained in Committee",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-10-06",
+                "action": "Full Committee Work Session: 10/19/2021 01:00 pm Legislative Office Building 305-307",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 18144,
+                "person_hash": "fvwnmezh",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Andrew Prout",
+                "first_name": "Andrew",
+                "middle_name": "",
+                "last_name": "Prout",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-37-HIL",
+                "ftm_eid": 26392533,
+                "votesmart_id": 172342,
+                "opensecrets_id": "",
+                "knowwho_pid": 587485,
+                "ballotpedia": "Andrew_Prout",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21796,
+                "person_hash": "20zp9bez",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Melissa Blasek",
+                "first_name": "Melissa",
+                "middle_name": "",
+                "last_name": "Blasek",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-21-HIL",
+                "ftm_eid": 50226637,
+                "votesmart_id": 195009,
+                "opensecrets_id": "",
+                "knowwho_pid": 744174,
+                "ballotpedia": "Melissa_Blasek",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2232863,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB280/id/2232863",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=437&txtFormat=html",
+                "text_size": 7556,
+                "text_hash": "3d6bb6e69845167434d82223e2075a30"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-01",
+                "time": "11:15",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Legislative Administration Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-09",
+                "time": "09:30",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Legislative Administration Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-09",
+                "time": "09:30",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "(CANCELLED) Legislative Administration Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-29",
+                "time": "10:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Legislative Administration Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-10-19",
+                "time": "13:00",
+                "location": "Legislative Office Building 305-307",
+                "description": "Legislative Administration Work Session"
+            }
+        ],
+        "full_text": "new subparagraph state of emergency declaration termination by the legislature amend rsa ii by inserting after subparagraph c the following new subparagraph d the legislature may terminate any emergency order or any part of an emergency order in the same manner as provided for terminating a state of emergency under subparagraph c"
+    }
+}

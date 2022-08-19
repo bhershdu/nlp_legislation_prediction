@@ -1,0 +1,372 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1393181,
+        "change_hash": "eaf97791a63a95c6f8185e38c77f6a7b",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB67/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=7&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB67",
+        "completed": 0,
+        "status": 2,
+        "status_date": "2021-04-13",
+        "progress": [
+            {
+                "date": "2021-01-04",
+                "event": 1
+            },
+            {
+                "date": "2021-01-04",
+                "event": 9
+            },
+            {
+                "date": "2021-03-09",
+                "event": 10
+            },
+            {
+                "date": "2021-03-09",
+                "event": 11
+            },
+            {
+                "date": "2021-04-13",
+                "event": 2
+            },
+            {
+                "date": "2021-04-13",
+                "event": 9
+            },
+            {
+                "date": "2021-04-27",
+                "event": 11
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB67",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "S",
+        "current_body_id": 68,
+        "title": "Relative to warrant articles in official ballot town, school district, or village district meetings.",
+        "description": "Relative to warrant articles in official ballot town, school district, or village district meetings.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-04",
+                "committee_id": 1257,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Municipal and County Government"
+            },
+            {
+                "date": "2021-04-13",
+                "committee_id": 3825,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Election Law and Municipal Affairs"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-04",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Municipal and County Government House Journal  2 P. 34",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-02",
+                "action": "Public Hearing: 02/09/2021 10:30 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/93215390740 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-18",
+                "action": "Executive Session: 02/18/2021 01:30 pm Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/94522837794",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-09",
+                "action": "Majority Committee Report: Ought to Pass with Amendment # 2021-0553h (Vote 10-7; Regular Calendar) House Calendar 18 P. 55",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-09",
+                "action": "Minority Committee Report: Inexpedient to Legislate",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-09",
+                "action": "Amendment # 2021-0553h: Amendment Adopted Voice Vote 04/09/2021 House Journal  7 P. 23",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-09",
+                "action": "Ought to Pass with Amendment : Motion Adopted DV 193-181 04/09/2021 House Journal  7 P. 23",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-13",
+                "action": "Introduced 04/08/2021 and Referred to Election Law and Municipal Affairs; Senate Journal 12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-21",
+                "action": "Remote Hearing: 04/26/2021, 10:00 am; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  21",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-27",
+                "action": "Committee Report: Inexpedient to Legislate; Vote 5-0; Consent Calendar; 05/06/2021; Senate Calendar  22",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-05-06",
+                "action": "Inexpedient to Legislate, Regular Calendar 23Y-0N, Motion Adopted === BILL KILLED ===; 05/06/2021; Senate Journal 14",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 18167,
+                "person_hash": "gbz9mi50",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "William Marsh",
+                "first_name": "William",
+                "middle_name": "M.",
+                "last_name": "Marsh",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-17-ROC",
+                "ftm_eid": 6483516,
+                "votesmart_id": 65293,
+                "opensecrets_id": "",
+                "knowwho_pid": 587047,
+                "ballotpedia": "William_Marsh",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18153,
+                "person_hash": "h6wcnlm4",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Jess Edwards",
+                "first_name": "Jess",
+                "middle_name": "",
+                "last_name": "Edwards",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-11-HIL",
+                "ftm_eid": 25005737,
+                "votesmart_id": 172496,
+                "opensecrets_id": "",
+                "knowwho_pid": 587584,
+                "ballotpedia": "Jess_Edwards",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19758,
+                "person_hash": "2k4jpn3j",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "John MacDonald",
+                "first_name": "John",
+                "middle_name": "T.",
+                "last_name": "MacDonald",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-06-CAR",
+                "ftm_eid": 45378811,
+                "votesmart_id": 184776,
+                "opensecrets_id": "",
+                "knowwho_pid": 670246,
+                "ballotpedia": "John_MacDonald_(New_Hampshire)",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18158,
+                "person_hash": "nplanada",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Mark Pearson",
+                "first_name": "Mark",
+                "middle_name": "A.",
+                "last_name": "Pearson",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-34-ROC",
+                "ftm_eid": 13004253,
+                "votesmart_id": 69095,
+                "opensecrets_id": "",
+                "knowwho_pid": 250178,
+                "ballotpedia": "Mark_A._Pearson",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19166,
+                "person_hash": "nmyh7fie",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Timothy Lang",
+                "first_name": "Timothy",
+                "middle_name": "P.",
+                "last_name": "Lang",
+                "suffix": "Sr.",
+                "nickname": "",
+                "district": "HD-04-BEL",
+                "ftm_eid": 13703536,
+                "votesmart_id": 141853,
+                "opensecrets_id": "",
+                "knowwho_pid": 426007,
+                "ballotpedia": "Timothy_Lang_Sr.",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19878,
+                "person_hash": "n0xfc702",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Josh Yokela",
+                "first_name": "Josh",
+                "middle_name": "",
+                "last_name": "Yokela",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-33-ROC",
+                "ftm_eid": 45378989,
+                "votesmart_id": 185522,
+                "opensecrets_id": "",
+                "knowwho_pid": 670769,
+                "ballotpedia": "Josh_Yokela",
+                "sponsor_type_id": 2,
+                "sponsor_order": 6,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2227475,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB67/id/2227475",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=5&txtFormat=html",
+                "text_size": 7825,
+                "text_hash": "84f8e9a912d04dac7a1a697785a8e60c"
+            },
+            {
+                "doc_id": 2361788,
+                "date": "2021-04-09",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB67/id/2361788",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=HA&id=5",
+                "text_size": 7647,
+                "text_hash": "629ddd6422f523d420d8944b55df31cb"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-09",
+                "time": "10:30",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Municipal and County Government Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-18",
+                "time": "13:30",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Municipal and County Government Executive Session"
+            }
+        ],
+        "full_text": "new subparagraph government of town meeting official ballot referenda warrant articles amend rsa iv by inserting after subparagraph c the following new subparagraph d no petitioned warrant article shall be amended to change its specific intent"
+    }
+}

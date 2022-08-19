@@ -1,0 +1,463 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1393029,
+        "change_hash": "80c6a65ee8b33005d7f5a69557e9c759",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB141/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=86&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB141",
+        "completed": 0,
+        "status": 2,
+        "status_date": "2021-04-07",
+        "progress": [
+            {
+                "date": "2021-01-12",
+                "event": 1
+            },
+            {
+                "date": "2021-01-12",
+                "event": 9
+            },
+            {
+                "date": "2021-03-31",
+                "event": 10
+            },
+            {
+                "date": "2021-04-07",
+                "event": 2
+            },
+            {
+                "date": "2021-04-07",
+                "event": 9
+            },
+            {
+                "date": "2021-04-28",
+                "event": 10
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB141",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "S",
+        "current_body_id": 68,
+        "title": "Allowing a county to exempt its chief administrative officer from compulsory participation in the retirement system.",
+        "description": "Allowing a county to exempt its chief administrative officer from compulsory participation in the retirement system.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-12",
+                "committee_id": 1243,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Executive Departments and Administration"
+            },
+            {
+                "date": "2021-04-07",
+                "committee_id": 1270,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Executive Departments and Administration"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-12",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Executive Departments and Administration House Journal  2 P. 36",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-03",
+                "action": "Public Hearing on non-germane Amendment # 2021-0594h: 03/15/2021 01:15 pm Members of the public may attend using the following link:To join the webinar: https://zoom.us/j/94033090497 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-08",
+                "action": "Public Hearing: 03/08/2021 01:00 pm Please click the link below to join the webinar:https://zoom.us/j/97343187968",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-18",
+                "action": "Public Hearing on non-germane Amendment # 2021-0877h: 03/24/2021 02:00 pm Members of the public may attend using the following link:To join the webinar: https://zoom.us/j/97152965622 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-31",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-0877h (Vote 19-0; Consent Calendar) House Calendar 18 P. 12",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Amendment # 2021-0877h: Amendment Adopted Voice Vote 04/07/2021 House Journal  5 P. 21",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Ought to Pass with Amendment 2021-0877h: Motion Adopted Voice Vote 04/07/2021 House Journal  5 P. 21",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Reconsider (Rep. Osborne): Motion Failed Voice Vote 04/07/2021 House Journal  5 P. 50",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Introduced 04/01/2021 and Referred to Executive Departments and Administration; Senate Journal 11",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Remote Hearing: 04/14/2021, 09:00 am; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  19",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-28",
+                "action": "Committee Report: Ought to Pass, 05/06/2021; Senate Calendar  22",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-05-06",
+                "action": "Ought to Pass: Regular Calendar 11Y-12N, Motion Failed; 05/06/2021; Senate Journal 14",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-06",
+                "action": "Sen. Bradley Moved Laid on Table, Regular Calendar 15Y-8N, Motion Adopted; 05/06/2021; Senate Journal 14",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-06",
+                "action": "No Pending Motion; 05/06/2021 Senate Journal 14",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 19868,
+                "person_hash": "wfj6hb0c",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Rosemarie Rung",
+                "first_name": "Rosemarie",
+                "middle_name": "",
+                "last_name": "Rung",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-21-HIL",
+                "ftm_eid": 9805733,
+                "votesmart_id": 185559,
+                "opensecrets_id": "",
+                "knowwho_pid": 670584,
+                "ballotpedia": "Rosemarie_Rung",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 17929,
+                "person_hash": "m558mfsl",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Michael Edgar",
+                "first_name": "Michael",
+                "middle_name": "",
+                "last_name": "Edgar",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-21-ROC",
+                "ftm_eid": 9724166,
+                "votesmart_id": 141783,
+                "opensecrets_id": "",
+                "knowwho_pid": 426681,
+                "ballotpedia": "Michelle_Edgar",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19835,
+                "person_hash": "z8gelbx8",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Peter Petrigno",
+                "first_name": "Peter",
+                "middle_name": "",
+                "last_name": "Petrigno",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-23-HIL",
+                "ftm_eid": 45378888,
+                "votesmart_id": 185567,
+                "opensecrets_id": "",
+                "knowwho_pid": 670596,
+                "ballotpedia": "Peter_Petrigno",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19876,
+                "person_hash": "kxf3zylz",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "David Meuse",
+                "first_name": "David",
+                "middle_name": "",
+                "last_name": "Meuse",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-29-ROC",
+                "ftm_eid": 28765616,
+                "votesmart_id": 185615,
+                "opensecrets_id": "",
+                "knowwho_pid": 670889,
+                "ballotpedia": "David_Meuse",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 5026,
+                "person_hash": "fenlx6qz",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Robert Cushing",
+                "first_name": "Robert",
+                "middle_name": "Reynolds",
+                "last_name": "Cushing",
+                "suffix": "",
+                "nickname": "Renny",
+                "district": "HD-21-ROC",
+                "ftm_eid": 6433716,
+                "votesmart_id": 14688,
+                "opensecrets_id": "",
+                "knowwho_pid": 233889,
+                "ballotpedia": "Robert_Cushing",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19799,
+                "person_hash": "6ebk3c85",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Cassandra Levesque",
+                "first_name": "Cassandra",
+                "middle_name": "",
+                "last_name": "Levesque",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-04-STR",
+                "ftm_eid": 45378803,
+                "votesmart_id": 185625,
+                "opensecrets_id": "",
+                "knowwho_pid": 670910,
+                "ballotpedia": "Cassandra_Levesque",
+                "sponsor_type_id": 2,
+                "sponsor_order": 6,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19774,
+                "person_hash": "tec8l4b3",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Joyce Weston",
+                "first_name": "Joyce",
+                "middle_name": "",
+                "last_name": "Weston",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-08-GRA",
+                "ftm_eid": 9723374,
+                "votesmart_id": 185235,
+                "opensecrets_id": "",
+                "knowwho_pid": 670357,
+                "ballotpedia": "Joyce_Weston",
+                "sponsor_type_id": 2,
+                "sponsor_order": 7,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 14488,
+                "person_hash": "elsfgcmi",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Thomas Sherman",
+                "first_name": "Thomas",
+                "middle_name": "",
+                "last_name": "Sherman",
+                "suffix": "",
+                "nickname": "Tom",
+                "district": "SD-024",
+                "ftm_eid": 13703813,
+                "votesmart_id": 141784,
+                "opensecrets_id": "",
+                "knowwho_pid": 426683,
+                "ballotpedia": "Tom_Sherman",
+                "sponsor_type_id": 2,
+                "sponsor_order": 8,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2227328,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB141/id/2227328",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=88&txtFormat=html",
+                "text_size": 21060,
+                "text_hash": "c907a5f93da4888259e790a4172add4f"
+            },
+            {
+                "doc_id": 2359330,
+                "date": "2021-04-07",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB141/id/2359330",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=HA&id=88",
+                "text_size": 23468,
+                "text_hash": "d6558d0eac4a2ef5fb992bb90ae02e57"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1074893,
+                "date": "2021-05-06",
+                "desc": "Ought to Pass",
+                "yea": 11,
+                "nay": 12,
+                "nv": 0,
+                "absent": 1,
+                "total": 24,
+                "passed": 0,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/HB141/id/1074893",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=359&sy=2021&lb=S&eb=HB0141&sortoption=&txtsessionyear=2021&txtbillnumber=HB141&ddlsponsors=&lsr=86"
+            },
+            {
+                "roll_call_id": 1074894,
+                "date": "2021-05-06",
+                "desc": "Laid on Table",
+                "yea": 15,
+                "nay": 8,
+                "nv": 0,
+                "absent": 1,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/HB141/id/1074894",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=360&sy=2021&lb=S&eb=HB0141&sortoption=&txtsessionyear=2021&txtbillnumber=HB141&ddlsponsors=&lsr=86"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-08",
+                "time": "13:00",
+                "location": "Please click the link below to join the webinar:https://zoom.us/",
+                "description": "Executive Departments and Administration Public Hearing"
+            }
+        ]
+    }
+}

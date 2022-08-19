@@ -1,0 +1,286 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1396641,
+        "change_hash": "6759203d76aed52a5ee25ea7c4fb97fe",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB366/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=298&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB366",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-09",
+        "progress": [
+            {
+                "date": "2021-01-09",
+                "event": 1
+            },
+            {
+                "date": "2021-01-09",
+                "event": 9
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB366",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Defining animal hoarding.",
+        "description": "Defining animal hoarding.",
+        "pending_committee_id": 1242,
+        "committee": {
+            "committee_id": 1242,
+            "chamber": "H",
+            "chamber_id": 67,
+            "name": "Environment and Agriculture"
+        },
+        "referrals": [
+            {
+                "date": "2021-01-09",
+                "committee_id": 1242,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Environment and Agriculture"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-09",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Environment and Agriculture House Journal  2 P. 45",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-26",
+                "action": "Public Hearing: 02/03/2021 11:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/95965527325 / Executive session on pending legislation may be held throughout theday (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-11",
+                "action": "Retained in Committee",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-28",
+                "action": "Full Committee Work Session: 05/06/2021 10:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/94919879599",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-11",
+                "action": "Subcommittee Work Session: 05/20/2021 10:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/91984660981",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-08-09",
+                "action": "Subcommittee Work Session: 09/14/2021 01:00 pm Legislative Office Building 303",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-10-06",
+                "action": "Subcommittee Work Session: 10/19/2021 10:30 am Legislative Office Building 301-303",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-10-06",
+                "action": "Executive Session: 10/19/2021 11:00 am Legislative Office Building 301-303",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-10-19",
+                "action": "Executive Session: 10/19/2021 11:00 a.m. Legislative Office Building301-303",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 18152,
+                "person_hash": "gx7i067p",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Howard Pearl",
+                "first_name": "Howard",
+                "middle_name": "",
+                "last_name": "Pearl",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-26-MER",
+                "ftm_eid": 13703940,
+                "votesmart_id": 141848,
+                "opensecrets_id": "",
+                "knowwho_pid": 425998,
+                "ballotpedia": "Howard_Pearl",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19166,
+                "person_hash": "nmyh7fie",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Timothy Lang",
+                "first_name": "Timothy",
+                "middle_name": "P.",
+                "last_name": "Lang",
+                "suffix": "Sr.",
+                "nickname": "",
+                "district": "HD-04-BEL",
+                "ftm_eid": 13703536,
+                "votesmart_id": 141853,
+                "opensecrets_id": "",
+                "knowwho_pid": 426007,
+                "ballotpedia": "Timothy_Lang_Sr.",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18809,
+                "person_hash": "dgedzigb",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Michael Moffett",
+                "first_name": "Michael",
+                "middle_name": "Irving",
+                "last_name": "Moffett",
+                "suffix": "",
+                "nickname": "Mike",
+                "district": "HD-09-MER",
+                "ftm_eid": 6595378,
+                "votesmart_id": 42035,
+                "opensecrets_id": "",
+                "knowwho_pid": 501767,
+                "ballotpedia": "Michael_Moffett",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2236262,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB366/id/2236262",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=293&txtFormat=html",
+                "text_size": 14480,
+                "text_hash": "131dd3f063d10badb2f254001565dbb0"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-03",
+                "time": "11:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Environment and Agriculture Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-05-06",
+                "time": "10:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Environment and Agriculture Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-05-20",
+                "time": "10:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Environment and Agriculture Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-09-14",
+                "time": "13:00",
+                "location": "Legislative Office Building 303",
+                "description": "Environment and Agriculture Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-10-19",
+                "time": "11:00",
+                "location": "Legislative Office Building301-303",
+                "description": "Environment and Agriculture Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-10-19",
+                "time": "10:30",
+                "location": "Legislative Office Building 301-303",
+                "description": "Environment and Agriculture Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-10-19",
+                "time": "11:00",
+                "location": "Legislative Office Building 301-303",
+                "description": "Environment and Agriculture Executive Session"
+            }
+        ],
+        "full_text": "new paragraph cruelty to animals hoarding defined amend rsa by inserting after paragraph the following new paragraph in this section animal hoarding shall mean a situation where an individual or individuals are unable to care for multiple animals in their custody due to psychological reasons for purposes of this section hoarding shall have the same definition as provided in the most current version of the diagnostic and statistical manual of mental disorders animal hoarding amend rsa to read as follows a except as provided in subparagraphs b and c c and d any appropriate law enforcement officer animal control officer or officer of a duly licensed humane society may take into temporary protective custody any animal when there is probable cause to believe that it has been or is being abused or neglected in violation of paragraphs iii or when there is a clear and imminent danger to the animal s health or life and there is not sufficient time to obtain a court order such officer shall leave a written notice indicating the type and number of animals taken into protective custody the name of the officer the time and date taken the reason it was taken the procedure to have the animal returned and any other relevant information such notice shall be left at the location where the animal was taken into custody the officer shall provide for proper care and housing of any animal taken into protective custody under this paragraph if after days the animal has not been returned or claimed the officer shall petition the municipal or district court seeking either permanent custody or a extension of custody or shall file charges under this section if a week s extension is granted by the court and after a period of days the animal remains unclaimed the title and custody of the animal shall rest with the officer on behalf of the officer s department or society the department or society may dispose of the animal in any lawful and humane manner as if it were the rightful owner unless charges are filed if after days the officer or the officer s department determines that charges should be filed under this section the officer shall petition the court where animals have been taken into custody as a result of animal hoarding as defined in paragraph and prior to any action agreement settlement or trial as outlined in paragraph iv or in this paragraph the court may order a person to undergo a psychological or psychiatric evaluation and to undergo any treatment that the court determines to be appropriate after due consideration of such evaluation b if a person is found not competent to stand trial in the absence of a the court may order custody of the seized animals to a third party or person with order of priority being a family member trustee close friend or a guardian with a power of attorney until such time as the court is satisfied that the terms of treatment have been met in the case of a person who was evaluated and found unable to provide proper care and shelter by the court the animals held in custody shall be disposed of and the court shall grant permanent custody to a third party or person with order of priority being a family member trustee close friend or such guardian with a power of attorney who is able to dispose of the animals in a humane manner b c for purposes of subparagraph a the investigating officer for livestock as defined in rsa iii shall be accompanied by a veterinarian licensed under rsa or the state veterinarian who shall set the probable cause criteria for taking the animal or animals c d for purposes of subparagraph a for facilities licensed to conduct live running or harness horseracing or live dog racing pursuant to rsa the appropriate law enforcement officer animal control officer or officer of a duly licensed humane society shall a notify the director of the commission of the circumstances arising under subparagraph a b enter the grounds of the facility with the director of the commission or such person designated by the director of the commission c take such horses or dogs into temporary protective custody as determined by the director of the commission or such person designated by the director of the commission and d comply with subparagraph a after taking a horse or dog from a facility licensed pursuant to rsa into temporary protective custody this paragraph shall not preempt existing or enforcement authority of the commission pursuant to rsa or rules and regulations adopted pursuant to such authority"
+    }
+}

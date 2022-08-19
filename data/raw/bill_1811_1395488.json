@@ -1,0 +1,428 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1395488,
+        "change_hash": "286ff2a2d2a31a9a105d61c774122483",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB260/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=169&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB260",
+        "completed": 0,
+        "status": 2,
+        "status_date": "2021-04-13",
+        "progress": [
+            {
+                "date": "2021-01-09",
+                "event": 1
+            },
+            {
+                "date": "2021-01-09",
+                "event": 9
+            },
+            {
+                "date": "2021-02-19",
+                "event": 10
+            },
+            {
+                "date": "2021-02-19",
+                "event": 11
+            },
+            {
+                "date": "2021-04-13",
+                "event": 2
+            },
+            {
+                "date": "2021-04-13",
+                "event": 9
+            },
+            {
+                "date": "2021-04-27",
+                "event": 11
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB260",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "S",
+        "current_body_id": 68,
+        "title": "Relative to number plates for motor vehicles.",
+        "description": "Relative to number plates for motor vehicles.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-09",
+                "committee_id": 1263,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Transportation"
+            },
+            {
+                "date": "2021-04-13",
+                "committee_id": 1779,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Transportation"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-09",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Transportation House Journal  2 P. 41",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-21",
+                "action": "Public Hearing: 01/29/2021 03:00 pm Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/99305477189 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-01-27",
+                "action": "Executive Session: 02/05/2021 02:15 pm Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/92807074926",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-19",
+                "action": "Majority Committee Report: Ought to Pass with Amendment # 2021-0208h (Vote 10-9; Regular Calendar) House Calendar 18 P. 61",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-19",
+                "action": "Minority Committee Report: Inexpedient to Legislate",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-09",
+                "action": "Amendment # 2021-0208h: Amendment Adopted Voice Vote 04/09/2021 House Journal  7 P. 62",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-09",
+                "action": "Ought to Pass with Amendment 2021-0208h: Motion Adopted Regular Calendar 210-163 04/09/2021 House Journal  7 P. 62",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-13",
+                "action": "Introduced 04/08/2021 and Referred to Transportation; Senate Journal 12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-15",
+                "action": "Remote Hearing: 04/20/2021, 01:30 pm; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-27",
+                "action": "Committee Report: Inexpedient to Legislate, 05/06/2021; Senate Calendar  22",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-05-06",
+                "action": "Inexpedient to Legislate, Regular Calendar 20Y-3N, Motion Adopted === BILL KILLED ===; 05/06/2021; Senate Journal 14",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 18144,
+                "person_hash": "fvwnmezh",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Andrew Prout",
+                "first_name": "Andrew",
+                "middle_name": "",
+                "last_name": "Prout",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-37-HIL",
+                "ftm_eid": 26392533,
+                "votesmart_id": 172342,
+                "opensecrets_id": "",
+                "knowwho_pid": 587485,
+                "ballotpedia": "Andrew_Prout",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19460,
+                "person_hash": "9tstvyhl",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Casey Conley",
+                "first_name": "Casey",
+                "middle_name": "M.",
+                "last_name": "Conley",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-13-STR",
+                "ftm_eid": 43989827,
+                "votesmart_id": 176725,
+                "opensecrets_id": "",
+                "knowwho_pid": 644124,
+                "ballotpedia": "Casey_Conley",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 17486,
+                "person_hash": "e864jck9",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Jason Osborne",
+                "first_name": "Jason",
+                "middle_name": "",
+                "last_name": "Osborne",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-04-ROC",
+                "ftm_eid": 25005584,
+                "votesmart_id": 154541,
+                "opensecrets_id": "",
+                "knowwho_pid": 501770,
+                "ballotpedia": "Jason_Osborne_(New_Hampshire)",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18810,
+                "person_hash": "jop80o18",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Peter Torosian",
+                "first_name": "Peter",
+                "middle_name": "E.",
+                "last_name": "Torosian",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-14-ROC",
+                "ftm_eid": 41757598,
+                "votesmart_id": 172539,
+                "opensecrets_id": "",
+                "knowwho_pid": 587653,
+                "ballotpedia": "Peter_Torosian",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 10931,
+                "person_hash": "qw6kqc7b",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Mark Warden",
+                "first_name": "Mark",
+                "middle_name": "",
+                "last_name": "Warden",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-39-HIL",
+                "ftm_eid": 9715337,
+                "votesmart_id": 122391,
+                "opensecrets_id": "",
+                "knowwho_pid": 296507,
+                "ballotpedia": "Mark_Warden",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19823,
+                "person_hash": "dc1z3223",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Alicia Lekas",
+                "first_name": "Alicia",
+                "middle_name": "",
+                "last_name": "Lekas",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-37-HIL",
+                "ftm_eid": 45378800,
+                "votesmart_id": 185263,
+                "opensecrets_id": "",
+                "knowwho_pid": 670661,
+                "ballotpedia": "Alicia_Lekas",
+                "sponsor_type_id": 2,
+                "sponsor_order": 6,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19824,
+                "person_hash": "8ya6utb2",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Tony Lekas",
+                "first_name": "Tony",
+                "middle_name": "",
+                "last_name": "Lekas",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-37-HIL",
+                "ftm_eid": 9794125,
+                "votesmart_id": 54877,
+                "opensecrets_id": "",
+                "knowwho_pid": 670662,
+                "ballotpedia": "Tony_Lekas",
+                "sponsor_type_id": 2,
+                "sponsor_order": 7,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2235004,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB260/id/2235004",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=168&txtFormat=html",
+                "text_size": 17655,
+                "text_hash": "d3c0e51c6370a903582c0ee45b494f27"
+            },
+            {
+                "doc_id": 2361778,
+                "date": "2021-04-09",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB260/id/2361778",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=HA&id=168",
+                "text_size": 17815,
+                "text_hash": "0038c53ef87817d157187f4f44a707b1"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1049904,
+                "date": "2021-04-09",
+                "desc": "OTPA",
+                "yea": 210,
+                "nay": 163,
+                "nv": 25,
+                "absent": 0,
+                "total": 398,
+                "passed": 1,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/HB260/id/1049904",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=139&sy=2021&lb=H&eb=HB0260&sortoption=&txtsessionyear=2021&txtbillnumber=HB260&ddlsponsors=&lsr=169"
+            },
+            {
+                "roll_call_id": 1074905,
+                "date": "2021-05-06",
+                "desc": "Inexpedient to Legislate",
+                "yea": 20,
+                "nay": 3,
+                "nv": 0,
+                "absent": 1,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/HB260/id/1074905",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=365&sy=2021&lb=S&eb=HB0260&sortoption=&txtsessionyear=2021&txtbillnumber=HB260&ddlsponsors=&lsr=169"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-01-29",
+                "time": "15:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Transportation Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-05",
+                "time": "14:15",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Transportation Executive Session"
+            }
+        ]
+    }
+}

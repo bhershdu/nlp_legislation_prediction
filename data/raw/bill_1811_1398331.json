@@ -1,0 +1,203 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1398331,
+        "change_hash": "634235e34b52b7c6f537e2bb7baaa110",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB446/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=682&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB446",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-10",
+        "progress": [
+            {
+                "date": "2021-01-10",
+                "event": 1
+            },
+            {
+                "date": "2021-01-10",
+                "event": 9
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB446",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Establishing a committee to study the effects of recreational vehicles and other vehicles used in recreational activities on class 5 and 6 roads.",
+        "description": "Establishing a committee to study the effects of recreational vehicles and other vehicles used in recreational activities on class 5 and 6 roads.",
+        "pending_committee_id": 1259,
+        "committee": {
+            "committee_id": 1259,
+            "chamber": "H",
+            "chamber_id": 67,
+            "name": "Resources, Recreation and Development"
+        },
+        "referrals": [
+            {
+                "date": "2021-01-10",
+                "committee_id": 1259,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Resources, Recreation and Development"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-10",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Resources, Recreation and Development House Journal  2 P. 48",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-27",
+                "action": "==CANCELLED== Public Hearing: 02/17/2021 02:00 pm Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/93611943701 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-03",
+                "action": "Public Hearing: 03/03/2021 01:00 pm Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/94760331850 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-11",
+                "action": "Retained in Committee",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-08-30",
+                "action": "Full Committee Work Session: 09/08/2021 10:00 am Legislative Office Building 305",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-09-07",
+                "action": "Full Committee Work Session: 09/15/2021 10:00 am Legislative Office Building 305",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-10-27",
+                "action": "Executive Session: 10/27/2021 10:00 a.m. Legislative Office Building305-307",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 4753,
+                "person_hash": "e4zrb1mf",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Andrew Renzullo",
+                "first_name": "Andrew",
+                "middle_name": "",
+                "last_name": "Renzullo",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-37-HIL",
+                "ftm_eid": 6665308,
+                "votesmart_id": 43000,
+                "opensecrets_id": "",
+                "knowwho_pid": 228826,
+                "ballotpedia": "Andrew_Renzullo",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2234559,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB446/id/2234559",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=668&txtFormat=html",
+                "text_size": 11361,
+                "text_hash": "f1ca9a3abfac57ce66e0d7ca64dd3b47"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-17",
+                "time": "14:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "(CANCELLED) Resources, Recreation and Development Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-03",
+                "time": "13:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Resources, Recreation and Development Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-09-08",
+                "time": "10:00",
+                "location": "Legislative Office Building 305",
+                "description": "Resources, Recreation and Development Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-09-15",
+                "time": "10:00",
+                "location": "Legislative Office Building 305",
+                "description": "Resources, Recreation and Development Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-10-27",
+                "time": "10:00",
+                "location": "Legislative Office Building305-307",
+                "description": "Resources, Recreation and Development Executive Session"
+            }
+        ]
+    }
+}

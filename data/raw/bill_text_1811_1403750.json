@@ -1,0 +1,176 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1403750,
+        "change_hash": "2b6e4f7e5c5ab33011436abd6b147c9d",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB580/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=696&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB580",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-12",
+        "progress": [
+            {
+                "date": "2021-01-12",
+                "event": 1
+            },
+            {
+                "date": "2021-01-12",
+                "event": 9
+            },
+            {
+                "date": "2021-02-16",
+                "event": 11
+            },
+            {
+                "date": "2021-02-16",
+                "event": 10
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB580",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Requiring the approval of the governor before the New Hampshire National Guard can be deployed overseas.",
+        "description": "Requiring the approval of the governor before the New Hampshire National Guard can be deployed overseas.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-12",
+                "committee_id": 1262,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "State-federal Relations and Veterans Affairs"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-12",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to State-Federal Relations and Veterans Affairs House Journal  2 P. 54",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-20",
+                "action": "Public Hearing: 01/29/2021 10:15 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/95866113093 / Executive session on pending legislation may be held throughout the day (time permitting) from the time thecommittee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-03",
+                "action": "Executive Session: 02/12/2021 09:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/93009507127",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-16",
+                "action": "Majority Committee Report: Inexpedient to Legislate (Vote 20-1; Regular Calendar) House Calendar 12 P. 33",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-16",
+                "action": "Minority Committee Report: Ought to Pass",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-25",
+                "action": "Special Order to Regular Calendar of next Session day Without Objection House Journal  4 P. 46",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 19766,
+                "person_hash": "ia8i53pp",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Kevin Craig",
+                "first_name": "Kevin",
+                "middle_name": "",
+                "last_name": "Craig",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-04-COO",
+                "ftm_eid": 45946739,
+                "votesmart_id": 185473,
+                "opensecrets_id": "",
+                "knowwho_pid": 671017,
+                "ballotpedia": "Kevin_Craig_(New_Hampshire)",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2238357,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB580/id/2238357",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=702&txtFormat=html",
+                "text_size": 9648,
+                "text_hash": "c6efb401bc3b5dcc80392b7914dd60d1"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-01-29",
+                "time": "10:15",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "State-Federal Relations and Veterans Affairs Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-12",
+                "time": "09:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "State-Federal Relations and Veterans Affairs Executive Session"
+            }
+        ],
+        "full_text": "call of national guard to federal active duty for overseas deployment the governor shall withhold or withdraw approval of the transfer of the national guard to federal control for overseas deployment in the absence of a a military invasion of the united states b an insurrection or c a calling forth of the guard by the federal government in a manner provided for by congress to execute the laws of the union provided that said laws were made in pursuance of the delegated powers in the constitution of the united states within days of the issuance of an order calling the national guard to federal active duty the governor shall submit a report to the standing committees of the legislature with specified subject matter jurisdiction over military affairs that summarizes his or her review of the order the order s compliance with the criteria established in this section and any action he or she has taken or plans to take in response to that review"
+    }
+}

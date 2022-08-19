@@ -1,0 +1,506 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1405771,
+        "change_hash": "b282ea2013dabfe246f441587fac4a8e",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/SB45/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=834&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=SB45",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2021-07-26",
+        "progress": [
+            {
+                "date": "2021-01-13",
+                "event": 1
+            },
+            {
+                "date": "2021-01-13",
+                "event": 9
+            },
+            {
+                "date": "2021-01-29",
+                "event": 10
+            },
+            {
+                "date": "2021-03-10",
+                "event": 2
+            },
+            {
+                "date": "2021-03-10",
+                "event": 9
+            },
+            {
+                "date": "2021-05-05",
+                "event": 10
+            },
+            {
+                "date": "2021-07-12",
+                "event": 3
+            },
+            {
+                "date": "2021-07-26",
+                "event": 8
+            },
+            {
+                "date": "2021-07-26",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "SB45",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "S",
+        "body_id": 68,
+        "current_body": "S",
+        "current_body_id": 68,
+        "title": "Relative to the controlled drug prescription health and safety program.",
+        "description": "Relative to the controlled drug prescription health and safety program.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-13",
+                "committee_id": 1272,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Health and Human Services"
+            },
+            {
+                "date": "2021-03-10",
+                "committee_id": 1249,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Health, Human Services & Elderly Affairs"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-13",
+                "action": "Introduced 01/06/2021 and Referred to Health and Human Services; Senate Journal 3",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-14",
+                "action": "Remote Hearing: 01/20/2021, 01:15 pm; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  7",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-01-29",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-0167s, 02/11/2021; Senate Calendar  10",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-11",
+                "action": "Committee Amendment # 2021-0167s, Regular Calendar 24Y-0N, Amendment Adopted; 02/11/2021; Senate Journal 4",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-11",
+                "action": "Ought to Pass with Amendment 2021-0167s, Regular Calendar 24Y-0N, Motion Adopted; OT3rdg; 02/11/2021; Senate Journal 4",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-10",
+                "action": "Introduced (in recess of) 02/25/2021 and referred to Health, Human Services and Elderly Affairs House Journal  4 P. 48",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-06",
+                "action": "Public Hearing: 04/13/2021 09:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/94103091494 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-05",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-1253h (Vote 21-0; Consent Calendar) House Calendar 26 P. 8",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-06-03",
+                "action": "Amendment # 2021-1253h: Amendment Adopted Voice Vote 06/03/2021 House Journal  8 P. 70",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-03",
+                "action": "Ought to Pass with Amendment 2021-1253h: Motion Adopted Voice Vote 06/03/2021 House Journal  8 P. 70",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-10",
+                "action": "Sen. Bradley Moved to Concur with the House Amendment, Motion Adopted, Voice Vote; 06/10/2021; Senate Journal 19",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-12",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 06/24/2021); Senate Journal 20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-12",
+                "action": "Enrolled (in recess of) 06/24/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-07-26",
+                "action": "Signed by the Governor on 07/23/2021; Chapter 0148",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-07-26",
+                "action": "I. Sections 1-10 Effective as provided in Section 11",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-26",
+                "action": "II. Remainder Effective 07/23/2021",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 15125,
+                "person_hash": "g54db31d",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Donna Soucy",
+                "first_name": "Donna",
+                "middle_name": "M.",
+                "last_name": "Soucy",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-018",
+                "ftm_eid": 9862727,
+                "votesmart_id": 8532,
+                "opensecrets_id": "",
+                "knowwho_pid": 425979,
+                "ballotpedia": "Donna_Soucy",
+                "sponsor_type_id": 2,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18168,
+                "person_hash": "wzdy4vye",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Bob Giuda",
+                "first_name": "Robert",
+                "middle_name": "",
+                "last_name": "Giuda",
+                "suffix": "",
+                "nickname": "Bob",
+                "district": "SD-002",
+                "ftm_eid": 6594468,
+                "votesmart_id": 21328,
+                "opensecrets_id": "",
+                "knowwho_pid": 208524,
+                "ballotpedia": "Bob_Giuda",
+                "sponsor_type_id": 1,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4775,
+                "person_hash": "kswslwpv",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Sharon Carson",
+                "first_name": "Sharon",
+                "middle_name": "",
+                "last_name": "Carson",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-014",
+                "ftm_eid": 6593753,
+                "votesmart_id": 42537,
+                "opensecrets_id": "",
+                "knowwho_pid": 208650,
+                "ballotpedia": "Sharon_Carson",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21861,
+                "person_hash": "pdunw5it",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Suzanne Prentiss",
+                "first_name": "Suzanne",
+                "middle_name": "M.",
+                "last_name": "Prentiss",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-005",
+                "ftm_eid": 50226736,
+                "votesmart_id": 194271,
+                "opensecrets_id": "",
+                "knowwho_pid": 743968,
+                "ballotpedia": "Suzanne_Prentiss",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18158,
+                "person_hash": "nplanada",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Mark Pearson",
+                "first_name": "Mark",
+                "middle_name": "A.",
+                "last_name": "Pearson",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-34-ROC",
+                "ftm_eid": 13004253,
+                "votesmart_id": 69095,
+                "opensecrets_id": "",
+                "knowwho_pid": 250178,
+                "ballotpedia": "Mark_A._Pearson",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18167,
+                "person_hash": "gbz9mi50",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "William Marsh",
+                "first_name": "William",
+                "middle_name": "M.",
+                "last_name": "Marsh",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-17-ROC",
+                "ftm_eid": 6483516,
+                "votesmart_id": 65293,
+                "opensecrets_id": "",
+                "knowwho_pid": 587047,
+                "ballotpedia": "William_Marsh",
+                "sponsor_type_id": 2,
+                "sponsor_order": 6,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19817,
+                "person_hash": "b2bzem0t",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Gary Merchant",
+                "first_name": "Gary",
+                "middle_name": "",
+                "last_name": "Merchant",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-04-SUL",
+                "ftm_eid": 9718120,
+                "votesmart_id": 185387,
+                "opensecrets_id": "",
+                "knowwho_pid": 670932,
+                "ballotpedia": "Gary_Merchant",
+                "sponsor_type_id": 2,
+                "sponsor_order": 7,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2240702,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB45/id/2240702",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=815&txtFormat=html",
+                "text_size": 19607,
+                "text_hash": "c8dfb5020b755a73918702edfe769c49"
+            },
+            {
+                "doc_id": 2291230,
+                "date": "2021-02-11",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB45/id/2291230",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=SA&id=815",
+                "text_size": 13723,
+                "text_hash": "b23459c5e4c9b9b4709abb56739b8f66"
+            },
+            {
+                "doc_id": 2411644,
+                "date": "2021-02-11",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB45/id/2411644",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=HA&id=815",
+                "text_size": 22711,
+                "text_hash": "cdec60381f5b17c23808a067a0e2562a"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1006729,
+                "date": "2021-02-11",
+                "desc": "Committee Amendment 0167s",
+                "yea": 24,
+                "nay": 0,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB45/id/1006729",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=43&sy=2021&lb=S&eb=SB0045&sortoption=&txtsessionyear=2021&txtbillnumber=SB45&ddlsponsors=&lsr=834"
+            },
+            {
+                "roll_call_id": 1006730,
+                "date": "2021-02-11",
+                "desc": "Ought to Pass w/Amendment",
+                "yea": 24,
+                "nay": 0,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB45/id/1006730",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=44&sy=2021&lb=S&eb=SB0045&sortoption=&txtsessionyear=2021&txtbillnumber=SB45&ddlsponsors=&lsr=834"
+            },
+            {
+                "roll_call_id": 1014003,
+                "date": "2021-02-11",
+                "desc": "Committee Amendment 0167s",
+                "yea": 24,
+                "nay": 0,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB45/id/1014003",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=43&sy=2021&lb=S&eb=SB0045&sortoption=&txtsessionyear=2021&txtbillnumber=SB45&ddlsponsors=&lsr=0834"
+            },
+            {
+                "roll_call_id": 1014004,
+                "date": "2021-02-11",
+                "desc": "Ought to Pass w/Amendment",
+                "yea": 24,
+                "nay": 0,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB45/id/1014004",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=44&sy=2021&lb=S&eb=SB0045&sortoption=&txtsessionyear=2021&txtbillnumber=SB45&ddlsponsors=&lsr=0834"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-04-13",
+                "time": "09:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Health, Human Services and Elderly Affairs Public Hearing"
+            }
+        ],
+        "full_text": "controlled drug prescription health and safety program definitions amend rsa iv to read as follows dispenser means a person or entity who is lawfully authorized to deliver a schedule controlled substance but does not include a a licensed hospital pharmacy under rsa that dispenses less than a supply of a schedule controlled substance from a hospital emergency department or that dispenses for administration in the hospital b a practitioner or other authorized person who administers such a substance c a wholesale distributor of a schedule controlled substance or its analog d a prescriber who dispenses less than a supply of a schedule controlled substance from a hospital emergency department to a patient or e a veterinarian who dispenses less than a supply of a schedule controlled substance to a patient or f a practitioner who does not hold or operate under an active drug enforcement agency registration number to prescribe or dispense controlled substances new paragraph controlled drug prescription health and safety program information amend rsa by inserting after paragraph i the following new paragraph the office may enter into agreements or contracts to facilitate the confidential sharing of information relating to the prescribing and dispensing of schedule controlled substances by practitioners within the state and to establish secure connections between the program and a practitioner s electronic health record keeping system an electronic health record keeping system may allow for the query and retrieval of the provider specified individual s program information for display and retention in the patient s medical information provided that nothing in this section shall allow the electronic health record keeping system owner or license holder to perform data queries unrelated to individuals under the practitioner s care the electronic health record keeping system owner or license holder shall be responsible for ensuring that only authorized individuals have access to program information the program shall record and retain in its database what information was transferred and the identity of the organization who received the information the program shall include this information when a patient requests a report pursuant to rsa i b new paragraph controlled drug prescription health and safety program confidentiality amend rsa by inserting after paragraph ii the following new paragraph a practitioner who intends to request and use information from the program about a patient shall post a sign that can be easily viewed by the public that discloses to the public that the practitioner may access and use information contained in the program in lieu of posting a sign the practitioner may provide such notice in written material provided to the patient providing controlled drug prescription health and safety information amend rsa i a and to read as follows for reviewing information regarding prescriptions issued or dispensed or for conducting medication reconciliation by the requester or for the purpose of investigating the death of an individual or for the purpose of administering rsa vi rsa rsa and other participating health professional boards repeal rsa i b relative to a practitioner or consultant retained by the office of professional licensure and certification to review certain information is repealed contingent version controlled drug prescription health and safety program definitions amend rsa vi to read as follows dispenser means a person or entity who is lawfully authorized to deliver a schedule controlled substance but does not include a a licensed hospital pharmacy under rsa that dispenses less than a supply of a schedule controlled substance from a hospital emergency department or that dispenses for administration in the hospital b a practitioner or other authorized person who administers such a substance c a wholesale distributor of a schedule controlled substance or its analog d a prescriber who dispenses less than a supply of a schedule controlled substance from a hospital emergency department to a patient or e a veterinarian who dispenses less than a supply of a schedule controlled substance to a patient or f a practitioner who does not hold or operate under an active drug enforcement agency registration number to prescribe or dispense controlled substances contingent version new paragraph controlled drug prescription health and safety program information amend rsa by inserting after paragraph i the following new paragraph the department may enter into agreements or contracts to facilitate the confidential sharing of information relating to the prescribing and dispensing of schedule controlled substances by practitioners within the state and to establish secure connections between the program and a practitioner s electronic health record keeping system an electronic health record keeping system may allow for the query and retrieval of the provider specified individual s program information for display and retention in the patient s medical information provided that nothing in this section shall allow the electronic health record keeping system owner or license holder to perform data queries unrelated to individuals under the practitioner s care the electronic health record keeping system owner or license holder shall be responsible for ensuring that only authorized individuals have access to program information the program shall record and retain in its database what information was transferred and the identity of the organization who received the information the program shall include this information when a patient requests a report pursuant to rsa i b contingent version new paragraph controlled drug prescription health and safety program confidentiality amend rsa by inserting after paragraph ii the following new paragraph a practitioner who intends to request and use information from the program about a patient shall post a sign that can be easily viewed by the public that discloses to the public that the practitioner may access and use information contained in the program in lieu of posting a sign the practitioner may provide such notice in written material provided to the patient contingent version providing controlled drug prescription health and safety information amend rsa i a and to read as follows for reviewing information regarding prescriptions issued or dispensed or for conducting medication reconciliation by the requester or for the purpose of investigating the death of an individual or for the purpose of administering rsa vi rsa rsa and other participating health professional boards contingent version repeal rsa i b relative to a practitioner or consultant retained by the department of health and human services to review certain information is repealed contingency if hb of the legislative session becomes law and contains provisions transferring the administration of the controlled drug prescription health and safety program from the office of professional licensure and certification under rsa to the department of health and human services under rsa then sections of this act shall take effect upon its passage and until july and then sections of this act shall take effect july at a m if hb of the legislative session becomes law and does not contain provisions transferring the administration of the controlled drug prescription health and safety program from the office of professional licensure and certification under rsa to the department of health and human services under rsa or if hb does not become law then sections of this act shall not take effect and sections of this act shall take effect upon its passage the remainder of this act shall take effect upon its passage"
+    }
+}

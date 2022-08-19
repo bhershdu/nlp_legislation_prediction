@@ -1,0 +1,570 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1395511,
+        "change_hash": "ba1df14ddc925717bf8e4c8d9f16fc1c",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB242/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=124&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB242",
+        "completed": 0,
+        "status": 5,
+        "status_date": "2021-08-02",
+        "progress": [
+            {
+                "date": "2021-01-09",
+                "event": 1
+            },
+            {
+                "date": "2021-01-09",
+                "event": 9
+            },
+            {
+                "date": "2021-02-18",
+                "event": 10
+            },
+            {
+                "date": "2021-02-18",
+                "event": 11
+            },
+            {
+                "date": "2021-03-04",
+                "event": 2
+            },
+            {
+                "date": "2021-03-04",
+                "event": 9
+            },
+            {
+                "date": "2021-04-06",
+                "event": 10
+            },
+            {
+                "date": "2021-05-12",
+                "event": 10
+            },
+            {
+                "date": "2021-07-15",
+                "event": 3
+            },
+            {
+                "date": "2021-08-02",
+                "event": 5
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB242",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to the content of an adequate education.",
+        "description": "Relative to the content of an adequate education.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-09",
+                "committee_id": 1240,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Education"
+            },
+            {
+                "date": "2021-03-04",
+                "committee_id": 1267,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Education"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-09",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Education House Journal  2 P. 40",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-27",
+                "action": "Public Hearing: 02/04/2021 10:30 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/93534264563 / Executive session on pending legislation may be held throughout the day time permitting from the time the committee is initiallyconvened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-03",
+                "action": "Executive Session: 02/09/2021 09:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/98073405784",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-18",
+                "action": "Majority Committee Report: Ought to Pass with Amendment # 2021-0262h (Vote 11-9; Regular Calendar) House Calendar 12 P. 27",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-18",
+                "action": "Minority Committee Report: Inexpedient to Legislate",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-25",
+                "action": "Amendment # 2021-0262h: Amendment Adopted Voice Vote 02/25/2021 House Journal  4 P. 16",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-25",
+                "action": "Ought to Pass with Amendment : Motion Adopted Regular Calendar 198-149 02/25/2021 House Journal  4 P. 16",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-25",
+                "action": "Reconsider (Rep. Cordelli): Motion Failed DV 144-203 02/25/2021 House Journal  4 P. 20",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-04",
+                "action": "Introduced 03/04/2021 and Referred to Education; Senate Journal 7",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-10",
+                "action": "Remote Hearing: 03/16/2021, 09:15 am; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  15",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-06",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-1114s, 04/08/2021; Senate Calendar  18A",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-08",
+                "action": "Committee Amendment # 2021-1114s, Regular Calendar 24Y-0N, Amendment Adopted; 04/08/2021; Senate Journal 11",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-08",
+                "action": "Ought to Pass with Amendment 2021-1114s, Regular Calendar 14Y-10N, Motion Adopted; Refer to Finance Rule 4-5; 04/08/2021; Senate Journal 11",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-12",
+                "action": "Committee Report: Ought to Pass, 05/20/2021; Senate Calendar  24",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-05-20",
+                "action": "Ought to Pass: Regular Calendar 13Y-9N, Motion Adopted; OT3rdg; 05/20/2021; Senate Journal 16",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-07",
+                "action": "House Non-Concurs with Senate Amendment 2021-1114s and Requests CofC (Reps. Ladd, Cordelli, Hobson, Shaw): Motion Adopted Voice Vote 06/04/2021 House Journal  9 P. 51",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-10",
+                "action": "Sen. Ward Accedes to House Request for Committee of Conference, Motion Adopted, Voice Vote; 06/10/2021; Senate Journal 19",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-10",
+                "action": "President Appoints: Senators Ward, Hennessey, Prentiss; 06/10/2021; Senate Journal 19",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-16",
+                "action": "Conference Committee Meeting: 06/16/2021 09:00 am Legislative Office Building 206-208",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-17",
+                "action": "Conference Committee Report Filed, # 2021-2022c; 06/24/2021",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-24",
+                "action": "Conference Committee Report # 2021-2022c, Adopted, Voice Vote; 06/24/2021; Senate Journal 20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-24",
+                "action": "Conference Committee Report 2021-2022c: Adopted, Voice Vote 06/24/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-15",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 06/24/2021); Senate Journal 20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-15",
+                "action": "Enrolled (in recess of) 06/24/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-08-02",
+                "action": "Vetoed by Governor Sununu 07/30/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 4962,
+                "person_hash": "a8w1fmfn",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Roderick Ladd",
+                "first_name": "Roderick",
+                "middle_name": "M.",
+                "last_name": "Ladd",
+                "suffix": "",
+                "nickname": "Rick",
+                "district": "HD-05-GRA",
+                "ftm_eid": 6677856,
+                "votesmart_id": 109958,
+                "opensecrets_id": "",
+                "knowwho_pid": 269203,
+                "ballotpedia": "Rick_Ladd",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19879,
+                "person_hash": "r1oaxzb8",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Deborah Hobson",
+                "first_name": "Deborah",
+                "middle_name": "L.",
+                "last_name": "Hobson",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-35-ROC",
+                "ftm_eid": 45378761,
+                "votesmart_id": 185523,
+                "opensecrets_id": "",
+                "knowwho_pid": 670772,
+                "ballotpedia": "Deborah_Hobson",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 10468,
+                "person_hash": "p6tivb20",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Steven Smith",
+                "first_name": "Steven",
+                "middle_name": "",
+                "last_name": "Smith",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-11-SUL",
+                "ftm_eid": 6680106,
+                "votesmart_id": 110851,
+                "opensecrets_id": "",
+                "knowwho_pid": 297099,
+                "ballotpedia": "Steven_Smith,_New_Hampshire_Politician",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 14478,
+                "person_hash": "1kegb9fu",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Glenn Cordelli",
+                "first_name": "Glenn",
+                "middle_name": "",
+                "last_name": "Cordelli",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-04-CAR",
+                "ftm_eid": 13703548,
+                "votesmart_id": 143307,
+                "opensecrets_id": "",
+                "knowwho_pid": 427994,
+                "ballotpedia": "Glenn_Cordelli",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4972,
+                "person_hash": "9f0oovab",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Ralph Boehm",
+                "first_name": "Ralph",
+                "middle_name": "G.",
+                "last_name": "Boehm",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-27-HIL",
+                "ftm_eid": 6593575,
+                "votesmart_id": 42443,
+                "opensecrets_id": "",
+                "knowwho_pid": 228819,
+                "ballotpedia": "Ralph_Boehm",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4831,
+                "person_hash": "culspuxr",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Karen Umberger",
+                "first_name": "Karen",
+                "middle_name": "C.",
+                "last_name": "Umberger",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-02-CAR",
+                "ftm_eid": 6678005,
+                "votesmart_id": 109917,
+                "opensecrets_id": "",
+                "knowwho_pid": 269159,
+                "ballotpedia": "Karen_Umberger",
+                "sponsor_type_id": 2,
+                "sponsor_order": 6,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2234683,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB242/id/2234683",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=121&txtFormat=html",
+                "text_size": 25159,
+                "text_hash": "4130aaaebd7dc77ef03e8c7e1b34ca71"
+            },
+            {
+                "doc_id": 2313485,
+                "date": "2021-02-25",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB242/id/2313485",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=HA&id=121",
+                "text_size": 27607,
+                "text_hash": "9cd73313c517bc1a66c3147c488f4763"
+            },
+            {
+                "doc_id": 2360710,
+                "date": "2021-04-08",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB242/id/2360710",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=SA&id=121",
+                "text_size": 28250,
+                "text_hash": "6df761360e400a1742a5556e525351a0"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1017383,
+                "date": "2021-02-26",
+                "desc": "OTPA",
+                "yea": 198,
+                "nay": 149,
+                "nv": 16,
+                "absent": 35,
+                "total": 398,
+                "passed": 1,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/HB242/id/1017383",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=47&sy=2021&lb=H&eb=HB0242&sortoption=&txtsessionyear=2021&txtbillnumber=HB242&ddlsponsors=&lsr=124"
+            },
+            {
+                "roll_call_id": 1037102,
+                "date": "2021-02-26",
+                "desc": "OTPA",
+                "yea": 198,
+                "nay": 149,
+                "nv": 11,
+                "absent": 40,
+                "total": 398,
+                "passed": 1,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/HB242/id/1037102",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=47&sy=2021&lb=H&eb=HB0242&sortoption=&txtsessionyear=2021&txtbillnumber=HB242&ddlsponsors=&lsr=0124"
+            },
+            {
+                "roll_call_id": 1051649,
+                "date": "2021-04-08",
+                "desc": "Committee Amendment 1114s",
+                "yea": 24,
+                "nay": 0,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/HB242/id/1051649",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=295&sy=2021&lb=S&eb=HB0242&sortoption=&txtsessionyear=2021&txtbillnumber=HB242&ddlsponsors=&lsr=124"
+            },
+            {
+                "roll_call_id": 1051650,
+                "date": "2021-04-08",
+                "desc": "Ought to Pass w/Amendment",
+                "yea": 14,
+                "nay": 10,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/HB242/id/1051650",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=296&sy=2021&lb=S&eb=HB0242&sortoption=&txtsessionyear=2021&txtbillnumber=HB242&ddlsponsors=&lsr=124"
+            },
+            {
+                "roll_call_id": 1083997,
+                "date": "2021-05-20",
+                "desc": "Ought to Pass",
+                "yea": 13,
+                "nay": 9,
+                "nv": 0,
+                "absent": 2,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/HB242/id/1083997",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=387&sy=2021&lb=S&eb=HB0242&sortoption=&txtsessionyear=2021&txtbillnumber=HB242&ddlsponsors=&lsr=124"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-04",
+                "time": "10:30",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Education Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-09",
+                "time": "09:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Education Executive Session"
+            }
+        ],
+        "full_text": "policy and purpose amend rsa ii to read as follows respecting new hampshire s long tradition of community involvement it is the purpose of this chapter to ensure that appropriate means are established to provide an opportunity for an adequate education through an integrated system of shared responsibility between state and local government in this system the state establishes minimum standards for public school approval and academic standards for inclusion and delivery of educational services at the local level school districts then have responsibility and flexibility in implementing diverse educational approaches to instruction and curriculum tailored to meet student needs criteria for an adequate education amend rsa to read as follows criteria for an adequate education an adequate education shall provide all students with the opportunity to acquire and apply skill in reading writing and speaking english to enable them to communicate effectively and think creatively and critically knowledge and skill in mathematics and familiarity with methods of science to enable them to analyze information solve problems and make rational decisions knowledge of the biological physical and earth sciences to enable them to understand and appreciate the world and the engineering and geopolitical challenges around them knowledge of civics and government economics geography history and holocaust and genocide education to enable them to participate in the democratic process and to make informed choices as responsible citizens grounding in the arts languages and literature to enable them to appreciate our cultural heritage and develop lifelong interests and involvement in these areas sound wellness and environmental practices to enable them to enhance their own as well as that of others skills for lifelong learning including interpersonal and technological skills to enable them to learn work communicate and participate effectively in a changing society substantive content of an adequate education amend rsa i to read as follows substantive educational content of an adequate education beginning in the school year the specific criteria and substantive educational program that deliver an adequate education is one which instills students with essential knowledge derived from rigorous academic study and applied learning therefore the opportunity for an adequate education shall be defined and identified as the school approval standards in the following areas as rigorous academic study and applied learning in the following core knowledge domains a english language arts and reading b mathematics c biology physical science and earth science d social studies civics and government economics geography and history e arts education f world languages g health and wellness education including a policy for violations of rsa i a h physical education i engineering and technologies j personal finance literacy teachers shall use academic and applied instruction to teach the core domains under paragraph the following skills shall be integrated into the core domains a computer science and digital literacy b logic and rhetoric substantive content of an adequate education amend rsa v b to read as follows b upon receiving a valid completion certificate from a state board approved alternative program a high school under rsa shall grant equivalent high school credit leading to graduation to a student who has completed such alternative program c schools shall accept credits required for high school graduation consistent with rules adopted by the state board of education pursuant to rsa relative to the approval of alternative programs for granting credit leading to graduation d the state board of education shall adopt rules pursuant to rsa relative to the approval of alternative programs for granting credit leading to graduation substantive educational content of an adequate education definition of academic standards amend rsa vi to read as follows in this section a minimum standards for public school approval mean the applicable criteria that public schools and public academies shall meet in order to be an approved school as adopted by the state board of education through administrative rules b academic standards means what a student should know and be able to do in a course program or at each grade level c curriculum means the lessons and academic content taught in school or in a specific course or program d rigorous academic study means a course program or grade level program aligned with curriculum standards and school approval standards e applied learning means an educational approach whereby students have the opportunity to directly engage in learning activities using knowledge and skills theories and models that may be outside of the traditional classroom experience or embedded as part of a course program or grade level program f logic means a reasoning skill that better enables a student to analyze problems in core knowledge domains such as mathematics and to develop problem solutions to better understand the principle of cause and effect and to develop critical thinking skills to better identify fact from unverified information or data g rhetoric means the skill of speaking and writing as a means of communication or persuasion cost of an adequate education amend rsa i to read as follows the general court shall use the definition of the opportunity for an adequate education in rsa to determine the resources necessary to provide essential programs considering educational needs the general court shall make an initial determination of determine the necessary specific resource elements to be included in the opportunity for costing an adequate education the base cost represents the essential per pupil resources to provide a general education student the substantive educational content for the opportunity of an adequate education as required under in addition to funding the base cost the general court finds that students with greater educational needs require additional differentiated aid above the base cost in order to provide these students with the opportunity for an adequate education such differentiated aid is needed for students who a have special educational needs b have limited english language proficiency c are economically disadvantaged or attend schools with significant concentrations of economically disadvantaged students the cost of fiscal capacity disparity aid is a separate grant from adequacy and shall be provided to municipalities with the lowest equalized property valuations per pupil an additional disparity achievement proficiency aid grant shall be provided to eligible school districts schools and charter public schools to improve academic achievement and growth of level and level proficiency students as identified in the annual statewide assessment pursuant to in this section base cost mean s the per pupil resources necessary to provide a student with the opportunity to acquire an adequate education as defined in rsa in situations where no additional differentiated aid is necessary to address the increased costs of providing that opportunity to students who have additional educational needs identified in paragraph base cost shall include teacher specialty teachers principal administrative assistant guidance counselor library media specialist technology coordinator custodian salary and benefits for personnel instructional materials and supplies technology teacher professional development facilities operation and maintenance and transportation accountability for the opportunity for an adequate education amend rsa i a to read as follows a a school shall demonstrate that it provides the opportunity for an adequate education for the school approval standards set forth in rules adopted by the department of education in the following areas english language arts and reading mathematics biology physical science and earth science social studies civics and government economics geography and history arts education world languages health and wellness education physical education engineering and technologies computer science and digital literacy personal finance literacy school year minimum credits required for a high school diploma accountability for the opportunity for an adequate education amend rsa i e to read as follows e the commissioner of the department of education shall require any school that is unable to demonstrate that it provides the opportunity for an adequate education through the school accountability system to resubmit the narrative explanations annually until such demonstration has been made the commissioner shall provide the legislative oversight committee identified in rsa with an annual status report by november the report shall include any school that is unable to demonstrate that it provides an opportunity for an adequate education through the school accountability system notice of this status shall be posted on the school school district or chartered school websites the school school district or chartered public school shall provide written notice of such status to parents or guardians of students enrolled in the affected school"
+    }
+}

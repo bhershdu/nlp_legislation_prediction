@@ -1,0 +1,710 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1405706,
+        "change_hash": "81172d89bfb13bfaa503d50eb7c32394",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/SB43/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=405&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=SB43",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2021-04-13",
+        "progress": [
+            {
+                "date": "2021-01-13",
+                "event": 1
+            },
+            {
+                "date": "2021-01-13",
+                "event": 9
+            },
+            {
+                "date": "2021-02-03",
+                "event": 11
+            },
+            {
+                "date": "2021-02-18",
+                "event": 2
+            },
+            {
+                "date": "2021-02-18",
+                "event": 9
+            },
+            {
+                "date": "2021-03-25",
+                "event": 10
+            },
+            {
+                "date": "2021-04-12",
+                "event": 3
+            },
+            {
+                "date": "2021-04-13",
+                "event": 8
+            },
+            {
+                "date": "2021-04-13",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "SB43",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "S",
+        "body_id": 68,
+        "current_body": "S",
+        "current_body_id": 68,
+        "title": "Authorizing an audit of the Rockingham County district 7 state representative race.",
+        "description": "Authorizing an audit of the Rockingham County district 7 state representative race.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-13",
+                "committee_id": 3825,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Election Law and Municipal Affairs"
+            },
+            {
+                "date": "2021-02-18",
+                "committee_id": 1241,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Election Law"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-13",
+                "action": "Introduced 01/06/2021 and Referred to Election Law and Municipal Affairs; Senate Journal 3",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-13",
+                "action": "Remote Hearing: 01/21/2021, 09:35 am; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  7",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-03",
+                "action": "Committee Report: Inexpedient to Legislate; Vote 5-0; Consent Calendar; 02/11/2021; Senate Calendar  10",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-11",
+                "action": "Sen. Gray Moved Laid on Table, Regular Calendar 14Y-10N, Motion Adopted; 02/11/2021; Senate Journal 4",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-11",
+                "action": "Pending Motion Inexpedient to Legislate; 02/11/2021; Senate Journal 4",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-11",
+                "action": "Sen. Gannon Moved to Remove SB 43 from the Consent Calendar; 02/11/2021; Senate Journal 4",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-18",
+                "action": "Sen. Gray Moved to Remove From Table, Regular Calendar 24Y-0N, Motion Adopted; 02/18/2021; Senate Journal 5",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-18",
+                "action": "Inexpedient to Legislate, Regular Calendar 0Y-24N, Motion Failed; 02/18/2021; Senate Journal 5",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-18",
+                "action": "Sen. Gray Moved Ought to Pass; 02/18/2021; Senate Journal 5",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-18",
+                "action": "Sen. Giuda Floor Amendment # 2021-0432s, Regular Calendar 24Y-0N, Amendment Adopted; 02/18/2021; Senate Journal 5",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-18",
+                "action": "Ought to Pass with Amendment 2021-0432s, Regular Calendar 24Y-0N, Motion Adopted; OT3rdg; 02/18/2021; Senate Journal 5",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-18",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Election Law House Journal  2",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-03",
+                "action": "==CONTINUED== Executive Session: 03/10/2021 10:20 am Members of the public may attend using the following link:To join the webinar: https://zoom.us/j/95087806399 (if necessary)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-05",
+                "action": "Public Hearing: 03/05/2021 10:30 am Please click the link below to join the webinar:https://zoom.us/j/99327579520Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-08",
+                "action": "Executive Session: 03/08/2021 01:00 pm Please click the link below to join the webinar:To join the webinar: https://zoom.us/j/91394352757",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-25",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-0780h (Vote 20-0; Consent Calendar) House Calendar 18 P. 10",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Amendment # 2021-0780h: Amendment Adopted Voice Vote 04/07/2021 House Journal  5 P. 12",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Ought to Pass with Amendment 2021-0780h: Motion Adopted Voice Vote 04/07/2021 House Journal  5 P. 12",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Reconsider (Rep. Osborne): Motion Failed Voice Vote 04/07/2021 House Journal  5 P. 50",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-08",
+                "action": "Sen. Gray Moved to Concur with the House Amendment, Regular Calendar 24Y-0N, Motion Adopted; 04/08/2021; Senate Journal 11",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-12",
+                "action": "Enrolled (in recess of) 04/09/2021 House Journal  7 P. 99",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-12",
+                "action": "Enrolled Regular Calendar 24Y-0N, Motion Adopted, (In recess of 04/08/2021); Senate Journal 12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-13",
+                "action": "Signed by the Governor on 04/12/2021; Chapter 0002; Effective 04/12/2021",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 11579,
+                "person_hash": "xg5ddnit",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Kevin Avard",
+                "first_name": "Kevin",
+                "middle_name": "A.",
+                "last_name": "Avard",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-012",
+                "ftm_eid": 9727190,
+                "votesmart_id": 13431,
+                "opensecrets_id": "",
+                "knowwho_pid": 296158,
+                "ballotpedia": "Kevin_Avard",
+                "sponsor_type_id": 2,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 17477,
+                "person_hash": "1zeltkcr",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "William Gannon",
+                "first_name": "William",
+                "middle_name": "M.",
+                "last_name": "Gannon",
+                "suffix": "",
+                "nickname": "Bill",
+                "district": "SD-023",
+                "ftm_eid": 1161567,
+                "votesmart_id": 154540,
+                "opensecrets_id": "",
+                "knowwho_pid": 502121,
+                "ballotpedia": "William_Gannon",
+                "sponsor_type_id": 1,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4760,
+                "person_hash": "8scgvpbd",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Jeb Bradley",
+                "first_name": "Jeb",
+                "middle_name": "",
+                "last_name": "Bradley",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-003",
+                "ftm_eid": 6636719,
+                "votesmart_id": 4953,
+                "opensecrets_id": "",
+                "knowwho_pid": 197009,
+                "ballotpedia": "Jeb_Bradley",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21864,
+                "person_hash": "f53ogink",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Denise Ricciardi",
+                "first_name": "Denise",
+                "middle_name": "",
+                "last_name": "Ricciardi",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-009",
+                "ftm_eid": 50226734,
+                "votesmart_id": 194274,
+                "opensecrets_id": "",
+                "knowwho_pid": 743987,
+                "ballotpedia": "Denise_Ricciardi",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18168,
+                "person_hash": "wzdy4vye",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Bob Giuda",
+                "first_name": "Robert",
+                "middle_name": "",
+                "last_name": "Giuda",
+                "suffix": "",
+                "nickname": "Bob",
+                "district": "SD-002",
+                "ftm_eid": 6594468,
+                "votesmart_id": 21328,
+                "opensecrets_id": "",
+                "knowwho_pid": 208524,
+                "ballotpedia": "Bob_Giuda",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19792,
+                "person_hash": "a2u2ftfn",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Tony Piemonte",
+                "first_name": "Tony",
+                "middle_name": "",
+                "last_name": "Piemonte",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-04-ROC",
+                "ftm_eid": 45378892,
+                "votesmart_id": 185304,
+                "opensecrets_id": "",
+                "knowwho_pid": 670610,
+                "ballotpedia": "Tony_Piemonte",
+                "sponsor_type_id": 2,
+                "sponsor_order": 6,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4766,
+                "person_hash": "ysx7fhwg",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Alfred Baldasaro",
+                "first_name": "Alfred",
+                "middle_name": "P.",
+                "last_name": "Baldasaro",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-05-ROC",
+                "ftm_eid": 6670814,
+                "votesmart_id": 69087,
+                "opensecrets_id": "",
+                "knowwho_pid": 250165,
+                "ballotpedia": "Alfred_Baldasaro",
+                "sponsor_type_id": 2,
+                "sponsor_order": 7,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4803,
+                "person_hash": "fb283v6c",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "David Welch",
+                "first_name": "David",
+                "middle_name": "A.",
+                "last_name": "Welch",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-13-ROC",
+                "ftm_eid": 6596316,
+                "votesmart_id": 8602,
+                "opensecrets_id": "",
+                "knowwho_pid": 197148,
+                "ballotpedia": "David_Welch",
+                "sponsor_type_id": 2,
+                "sponsor_order": 8,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2240633,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB43/id/2240633",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=396&txtFormat=html",
+                "text_size": 8979,
+                "text_hash": "68b91dcb534bff3b79cc31bd96907040"
+            },
+            {
+                "doc_id": 2300351,
+                "date": "2021-02-18",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB43/id/2300351",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=SA&id=396",
+                "text_size": 11151,
+                "text_hash": "6822e05ac082772c745077a565174c10"
+            },
+            {
+                "doc_id": 2359303,
+                "date": "2021-02-18",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB43/id/2359303",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=HA&id=396",
+                "text_size": 16205,
+                "text_hash": "805f083531a304eb6403b7d75b809a9f"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1006425,
+                "date": "2021-02-11",
+                "desc": "Laid on Table",
+                "yea": 14,
+                "nay": 10,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB43/id/1006425",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=47&sy=2021&lb=S&eb=SB0043&sortoption=&txtsessionyear=2021&txtbillnumber=SB43&ddlsponsors=&lsr=405"
+            },
+            {
+                "roll_call_id": 1010292,
+                "date": "2021-02-18",
+                "desc": "Remove from Table",
+                "yea": 24,
+                "nay": 0,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB43/id/1010292",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=71&sy=2021&lb=S&eb=SB0043&sortoption=&txtsessionyear=2021&txtbillnumber=SB43&ddlsponsors=&lsr=405"
+            },
+            {
+                "roll_call_id": 1010293,
+                "date": "2021-02-18",
+                "desc": "Inexpedient to Legislate",
+                "yea": 0,
+                "nay": 24,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 0,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB43/id/1010293",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=72&sy=2021&lb=S&eb=SB0043&sortoption=&txtsessionyear=2021&txtbillnumber=SB43&ddlsponsors=&lsr=405"
+            },
+            {
+                "roll_call_id": 1010294,
+                "date": "2021-02-18",
+                "desc": "Floor Amendment 0432s",
+                "yea": 24,
+                "nay": 0,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB43/id/1010294",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=73&sy=2021&lb=S&eb=SB0043&sortoption=&txtsessionyear=2021&txtbillnumber=SB43&ddlsponsors=&lsr=405"
+            },
+            {
+                "roll_call_id": 1010295,
+                "date": "2021-02-18",
+                "desc": "Ought to Pass w/Amendment",
+                "yea": 24,
+                "nay": 0,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB43/id/1010295",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=74&sy=2021&lb=S&eb=SB0043&sortoption=&txtsessionyear=2021&txtbillnumber=SB43&ddlsponsors=&lsr=405"
+            },
+            {
+                "roll_call_id": 1015731,
+                "date": "2021-02-11",
+                "desc": "Laid on Table",
+                "yea": 14,
+                "nay": 10,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB43/id/1015731",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=47&sy=2021&lb=S&eb=SB0043&sortoption=&txtsessionyear=2021&txtbillnumber=SB43&ddlsponsors=&lsr=0405"
+            },
+            {
+                "roll_call_id": 1015732,
+                "date": "2021-02-18",
+                "desc": "Remove from Table",
+                "yea": 24,
+                "nay": 0,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB43/id/1015732",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=71&sy=2021&lb=S&eb=SB0043&sortoption=&txtsessionyear=2021&txtbillnumber=SB43&ddlsponsors=&lsr=0405"
+            },
+            {
+                "roll_call_id": 1015733,
+                "date": "2021-02-18",
+                "desc": "Inexpedient to Legislate",
+                "yea": 0,
+                "nay": 24,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 0,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB43/id/1015733",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=72&sy=2021&lb=S&eb=SB0043&sortoption=&txtsessionyear=2021&txtbillnumber=SB43&ddlsponsors=&lsr=0405"
+            },
+            {
+                "roll_call_id": 1015734,
+                "date": "2021-02-18",
+                "desc": "Floor Amendment 0432s",
+                "yea": 24,
+                "nay": 0,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB43/id/1015734",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=73&sy=2021&lb=S&eb=SB0043&sortoption=&txtsessionyear=2021&txtbillnumber=SB43&ddlsponsors=&lsr=0405"
+            },
+            {
+                "roll_call_id": 1015735,
+                "date": "2021-02-18",
+                "desc": "Ought to Pass w/Amendment",
+                "yea": 24,
+                "nay": 0,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB43/id/1015735",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=74&sy=2021&lb=S&eb=SB0043&sortoption=&txtsessionyear=2021&txtbillnumber=SB43&ddlsponsors=&lsr=0405"
+            },
+            {
+                "roll_call_id": 1051675,
+                "date": "2021-04-08",
+                "desc": "Concur",
+                "yea": 24,
+                "nay": 0,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB43/id/1051675",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=293&sy=2021&lb=S&eb=SB0043&sortoption=&txtsessionyear=2021&txtbillnumber=SB43&ddlsponsors=&lsr=405"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-05",
+                "time": "10:30",
+                "location": "Please click the link below to join the webinar:https://zoom.us/",
+                "description": "Election Law Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-08",
+                "time": "13:00",
+                "location": "Please click the link below to join the webinar:1. To join the w",
+                "description": "Election Law Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-08",
+                "time": "13:00",
+                "location": "Please click the link below to join the webinar:To join the webi",
+                "description": "Election Law Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-10",
+                "time": "10:20",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Election Law Executive Session"
+            }
+        ],
+        "full_text": "purpose notwithstanding any provisions of law to the contrary this act authorizes and directs an audit of the ballot counting machines and their memory cards and the hand tabulations of ballots regarding the general election on november in windham new hampshire of rockingham county district house of representatives for the purpose of determining the accuracy of the ballot counting devices the process of hand tallying and the process of vote tabulation and certification of races forensic election audit team a forensic election audit team shall be formed to complete the audit described in section and it shall be comprised of one person designated by town of windham one person designated jointly by the offices of secretary of state and attorney general one person selected jointly by the designee of the town and the designee of the secretary of state and attorney general audit process the audit process shall be determined by the forensic election audit team formed pursuant to section such that there is a determination as to whether the machine counting devices and memory cards functioned properly on november whether the number of ballots tallied by hand in windham and those tallied by hand by the secretary of state during the recount on november were the same as the number of ballots cast at a minimum the audit process referenced in section shall include the following a all ballots shall be run through all the ballot counting machines used by the town of windham on november b determine the total ballots cast the total ballots counted and total ballots received from the secretary of state c a hand tallying of all ballots cast in windham in the rockingham county district state representative race the race for governor and the race for united states senator the audit shall occur at a location other than in the town of windham and other than the customary places the secretary of state conducts recounts the audit shall be and recorded the facility chosen for the audit shall be sufficient to ensure of the audit access for members of the public security for the audit process and overnight storage of the machines and materials public access to the audit shall be granted in equal numbers to observe as is deemed appropriate by the fire marshal for the space under federal state and local laws and regulations including health and safety regulations to the following groups windham designees designees of the secretary of state and attorney general and members of the public the select board of the town of windham shall select the windham designees the secretary of state shall determine a method for selecting the members of the public windham shall be responsible for transport of the machine counting devices used in the general election on november to the audit location and for the return of the devices to windham upon completion of the audit the secretary of state and attorney general shall be responsible for the transport of the ballots to the audit location and for the return of the ballots to their storage site the secretary of state and attorney general shall also be responsible for arranging the security at the location where the audit occurs the secretary of state attorney general and the town of windham shall provide the election audit team whatever information or documentation the auditors require to perform the audit forensic election audit team report required within days of the conclusion of the audit the forensic election audit team shall produce a report which shall include but not be limited to a finding as to whether the ballot counting machines and memory cards accurately counted the ballots subject to the audit whether hand tabulation procedures followed by the town of windham at the general election and hand tabulation procedures followed by the secretary of state at the recount may have contributed to variances reported at the recount done for the rockingham county district house of representatives race in windham and recommendations as to what improvements to the machine processing and tabulation processes might be considered in the future the report shall be provided to the secretary of state the town of windham and the ballot law commission the report shall be made available to the public forthwith report required secretary of state and attorney general within days of receipt of the forensic election audit team s report required pursuant to section the attorney general and secretary of state shall issue a report to the speaker of the house of representatives president of the senate and the select board of the town of windham as to results of the audit and any resulting recommendations report required ballot law commission within days after receipt of the forensic election audit team s report the ballot law commission shall in accordance with rsa issue a report as to the performance of the ballot counting devices authority to unseal ballot boxes the secretary of state and attorney general shall have authority to unseal the ballot boxes in order to conduct the audit the ballots shall be boxed and sealed after the audit in accordance with the procedures of rsa affirmation of ballot law commission ruling the results of the audit shall not alter the official results of the rockingham county district house of representatives race as determined by the ruling of the ballot law commission on november upholding the recount of that race deadline the forensic election audit shall be completed within days of the effective date of this act"
+    }
+}

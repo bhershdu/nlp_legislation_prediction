@@ -1,0 +1,387 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1396399,
+        "change_hash": "17007ad85f6cd984376f37b884a0a33a",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB380/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=500&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB380",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2021-04-26",
+        "progress": [
+            {
+                "date": "2021-01-10",
+                "event": 1
+            },
+            {
+                "date": "2021-01-10",
+                "event": 9
+            },
+            {
+                "date": "2021-02-18",
+                "event": 10
+            },
+            {
+                "date": "2021-03-04",
+                "event": 2
+            },
+            {
+                "date": "2021-03-04",
+                "event": 9
+            },
+            {
+                "date": "2021-03-15",
+                "event": 10
+            },
+            {
+                "date": "2021-04-12",
+                "event": 3
+            },
+            {
+                "date": "2021-04-26",
+                "event": 8
+            },
+            {
+                "date": "2021-04-26",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB380",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to the election of Grafton county commissioners.",
+        "description": "Relative to the election of Grafton county commissioners.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-10",
+                "committee_id": 1257,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Municipal and County Government"
+            },
+            {
+                "date": "2021-03-04",
+                "committee_id": 3825,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Election Law and Municipal Affairs"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-10",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Municipal and County Government House Journal  2 P. 45",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-27",
+                "action": "Public Hearing: 02/08/2021 11:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/96815613466 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-02",
+                "action": "Executive Session: 02/09/2021 02:00 pm Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/93215390740",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-18",
+                "action": "Committee Report: Ought to Pass (Vote 17-0; Consent Calendar) House Calendar 12 P. 10",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-24",
+                "action": "Ought to Pass: Motion Adopted Voice Vote 02/24/2021 House Journal  3 P. 14",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-04",
+                "action": "Introduced 03/04/2021 and Referred to Election Law and Municipal Affairs; Senate Journal 7",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-09",
+                "action": "Remote Hearing: 03/15/2021, 09:15 am; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  15",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-15",
+                "action": "Committee Report: Ought to Pass, 03/25/2021; Vote 5-0; Consent Calendar; Senate Calendar  16",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-25",
+                "action": "Ought to Pass: Regular Calendar 24Y-0N, Motion Adopted; OT3rdg; 03/25/2021; Senate Journal 9",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-12",
+                "action": "Enrolled (in recess of) 04/09/2021 House Journal  7 P. 99",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-12",
+                "action": "Enrolled Regular Calendar 24Y-0N, Motion Adopted, (In recess of 04/08/2021); Senate Journal 12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-26",
+                "action": "Signed by Governor Sununu 04/23/2021; Chapter 14; Eff: 06/22/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 19833,
+                "person_hash": "oksr8u28",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Edward Gordon",
+                "first_name": "Edward",
+                "middle_name": "",
+                "last_name": "Gordon",
+                "suffix": "",
+                "nickname": "Ned",
+                "district": "HD-09-GRA",
+                "ftm_eid": 45972179,
+                "votesmart_id": 8649,
+                "opensecrets_id": "",
+                "knowwho_pid": 670369,
+                "ballotpedia": "Edward_M._Gordon",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4829,
+                "person_hash": "p7484y9q",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Susan Almy",
+                "first_name": "Susan",
+                "middle_name": "W.",
+                "last_name": "Almy",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-13-GRA",
+                "ftm_eid": 199534,
+                "votesmart_id": 15165,
+                "opensecrets_id": "",
+                "knowwho_pid": 197099,
+                "ballotpedia": "Susan_Almy",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4962,
+                "person_hash": "a8w1fmfn",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Roderick Ladd",
+                "first_name": "Roderick",
+                "middle_name": "M.",
+                "last_name": "Ladd",
+                "suffix": "",
+                "nickname": "Rick",
+                "district": "HD-05-GRA",
+                "ftm_eid": 6677856,
+                "votesmart_id": 109958,
+                "opensecrets_id": "",
+                "knowwho_pid": 269203,
+                "ballotpedia": "Rick_Ladd",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 15598,
+                "person_hash": "y2n5c6x5",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "George Sykes",
+                "first_name": "George",
+                "middle_name": "",
+                "last_name": "Sykes",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-13-GRA",
+                "ftm_eid": 9768424,
+                "votesmart_id": 141710,
+                "opensecrets_id": "",
+                "knowwho_pid": 426586,
+                "ballotpedia": "George_Sykes",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 5010,
+                "person_hash": "zlw1guie",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Suzanne Smith",
+                "first_name": "Suzanne",
+                "middle_name": "",
+                "last_name": "Smith",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-08-GRA",
+                "ftm_eid": 6494669,
+                "votesmart_id": 110098,
+                "opensecrets_id": "",
+                "knowwho_pid": 237442,
+                "ballotpedia": "Suzanne_Smith_(New_Hampshire)",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 17481,
+                "person_hash": "ghibvwim",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Erin Hennessey",
+                "first_name": "Erin",
+                "middle_name": "Tapper",
+                "last_name": "Hennessey",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-001",
+                "ftm_eid": 25005445,
+                "votesmart_id": 154433,
+                "opensecrets_id": "",
+                "knowwho_pid": 501701,
+                "ballotpedia": "Erin_Hennessey",
+                "sponsor_type_id": 2,
+                "sponsor_order": 6,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2235046,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB380/id/2235046",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=497&txtFormat=html",
+                "text_size": 9369,
+                "text_hash": "cfcf8a70bba26e75af993a0f2810dcc6"
+            },
+            {
+                "doc_id": 2347727,
+                "date": "2021-03-25",
+                "type": "Enrolled",
+                "type_id": 5,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB380/id/2347727",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&v=SP&id=497",
+                "text_size": 9380,
+                "text_hash": "b34dd029da0d25759cfc4b7416a8ffed"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-08",
+                "time": "11:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Municipal and County Government Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-09",
+                "time": "14:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Municipal and County Government Executive Session"
+            }
+        ],
+        "full_text": "election county commissioners grafton county removed amend rsa vi a to read as follows a grafton and hillsborough counties county county commissioner by those voters in each county commissioner district in each the county new subparagraph election grafton county commissioners amend rsa vi by inserting after subparagraph i the following new subparagraph j grafton county commissioner by the voters in each county commissioner district provided that at the state general election the commissioner from district shall be elected to a term the commissioner from district shall be elected to a term and the commissioner from district shall be elected to a term at each subsequent state general election commissioners shall be chosen in the county by the voters of the districts in which a commissioner s term is expiring and of the commissioners so chosen one shall serve a term and one shall serve a term and both shall hold their offices until their successors are chosen and qualified following the state general election the term shall be rotated in sequence starting with district"
+    }
+}

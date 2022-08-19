@@ -1,0 +1,252 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1393051,
+        "change_hash": "d8033a9e352fbbad3dda877750fdea8f",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB216/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=360&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB216",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-04",
+        "progress": [
+            {
+                "date": "2021-01-04",
+                "event": 1
+            },
+            {
+                "date": "2021-01-04",
+                "event": 9
+            },
+            {
+                "date": "2021-03-22",
+                "event": 11
+            },
+            {
+                "date": "2021-03-22",
+                "event": 10
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB216",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to public notice of and access to meetings under the right to know law.",
+        "description": "Relative to public notice of and access to meetings under the right to know law.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-04",
+                "committee_id": 1250,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Judiciary"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-04",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Judiciary House Journal  2 P. 39",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-19",
+                "action": "Public Hearing: 02/19/2021 10:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/92168223794 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-02",
+                "action": "==CANCELLED== Executive Session: 03/02/2021 09:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/95501229688",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-10",
+                "action": "Executive Session: 03/10/2021 09:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/95164452682",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-22",
+                "action": "Majority Committee Report: Inexpedient to Legislate (Vote 11-10; Regular Calendar) House Calendar 18 P. 75",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-22",
+                "action": "Minority Committee Report: Ought to Pass with Amendment # 2021-0680h",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 4823,
+                "person_hash": "vrqfec9s",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Lucy Weber",
+                "first_name": "Lucy",
+                "middle_name": "McVitty",
+                "last_name": "Weber",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-02-CHE",
+                "ftm_eid": 6478956,
+                "votesmart_id": 65198,
+                "opensecrets_id": "",
+                "knowwho_pid": 249884,
+                "ballotpedia": "Lucy_McVitty_Weber",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 12886,
+                "person_hash": "2bsgot9r",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Marjorie Porter",
+                "first_name": "Marjorie",
+                "middle_name": "",
+                "last_name": "Porter",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-01-HIL",
+                "ftm_eid": 6510482,
+                "votesmart_id": 14523,
+                "opensecrets_id": "",
+                "knowwho_pid": 296493,
+                "ballotpedia": "Marjorie_Porter",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 5039,
+                "person_hash": "wsg4iz9c",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Mary Walz",
+                "first_name": "Mary",
+                "middle_name": "Beth",
+                "last_name": "Walz",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-23-MER",
+                "ftm_eid": 6464009,
+                "votesmart_id": 42845,
+                "opensecrets_id": "",
+                "knowwho_pid": 228853,
+                "ballotpedia": "Mary_Beth_Walz",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2227350,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB216/id/2227350",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=356&txtFormat=html",
+                "text_size": 12764,
+                "text_hash": "ce0d072b6665e7f793e6941bf71d7b57"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-19",
+                "time": "10:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Judiciary Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-02",
+                "time": "09:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Judiciary Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-02",
+                "time": "09:00",
+                "location": "Members of the public may attend using the following links: 1. T",
+                "description": "Judiciary Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-02",
+                "time": "09:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "(CANCELLED) Judiciary Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-10",
+                "time": "09:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Judiciary Executive Session"
+            }
+        ],
+        "full_text": "access to governmental records and meetings meetings open to the public amend rsa iii to read as follows a public body may but is not required to allow one or more members of the body to one or more members of a public body may participate in a meeting by electronic or other means of communication for the benefit of the public and the governing body subject to the provisions of this paragraph a a member of the public body may participate in a meeting other than by attendance in person at the location of the meeting only when such attendance is not reasonably practical any reason that such attendance is not reasonably practical shall be stated in the minutes of the meeting b except in an emergency a quorum of the public body shall be physically present at the location specified in the meeting notice as the location of the meeting for purposes of this subparagraph an emergency means that immediate action is imperative and the physical presence of a quorum is not reasonably practical within the period of time requiring action the determination that an emergency exists shall be made by the chairman or presiding officer of the public body and the facts upon which that determination is based shall be included in the minutes of the meeting c each part of a meeting required to be open to the public shall be audible or otherwise discernable to the public at the location specified in the meeting notice as the location of the meeting a a physical location is not required for any meeting provided the meeting complies with the provisions of this paragraph b public access shall be provided to the public by telephone with additional access possibilities by video or other electronic means c public notice of the meeting with all information necessary to access the meeting telephonically and by other means shall be given as provided in this chapter the notice shall provide a mechanism for the public to alert the public body during the meeting if there are problems with access the meeting shall be adjourned if the public is unable to access the meeting d each member participating electronically or otherwise must in a meeting required to be open to the public shall be able to simultaneously hear each other and speak to each other during the meeting and shall be audible or otherwise discernable to the public in attendance at the meeting s location if the meeting has a physical location any member participating in such fashion shall identify the location from which the person is participating and the persons present in the location from which the member is participating no meeting shall be conducted by electronic mail or any other form of communication that does not permit the public to hear read or otherwise discern meeting discussion contemporaneously at the meeting location specified in the meeting notice d e any meeting held pursuant to the terms of this paragraph shall comply with all of the requirements of this chapter relating to public meetings and shall not circumvent the spirit and purpose of this chapter as expressed in rsa e f a member participating in a meeting by the means described in this paragraph is deemed to be present at the meeting for purposes of voting all votes taken during such a meeting shall be by roll call vote"
+    }
+}

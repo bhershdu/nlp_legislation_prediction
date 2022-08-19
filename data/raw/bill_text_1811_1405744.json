@@ -1,0 +1,395 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1405744,
+        "change_hash": "4a594838ca2fe05a912ef4e88baa8931",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/SB46/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=989&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=SB46",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2021-07-06",
+        "progress": [
+            {
+                "date": "2021-01-13",
+                "event": 1
+            },
+            {
+                "date": "2021-01-13",
+                "event": 9
+            },
+            {
+                "date": "2021-02-18",
+                "event": 10
+            },
+            {
+                "date": "2021-03-10",
+                "event": 2
+            },
+            {
+                "date": "2021-03-10",
+                "event": 9
+            },
+            {
+                "date": "2021-05-26",
+                "event": 10
+            },
+            {
+                "date": "2021-06-22",
+                "event": 3
+            },
+            {
+                "date": "2021-07-06",
+                "event": 8
+            },
+            {
+                "date": "2021-07-06",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "SB46",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "S",
+        "body_id": 68,
+        "current_body": "S",
+        "current_body_id": 68,
+        "title": "Relative to the use of electronic poll books by cities and towns.",
+        "description": "Relative to the use of electronic poll books by cities and towns.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-13",
+                "committee_id": 3825,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Election Law and Municipal Affairs"
+            },
+            {
+                "date": "2021-03-10",
+                "committee_id": 1241,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Election Law"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-13",
+                "action": "Introduced 01/06/2021 and Referred to Election Law and Municipal Affairs; Senate Journal 3",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-13",
+                "action": "Remote Hearing: 01/21/2021, 09:20 am; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  7",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-18",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-0419s, 03/04/2021; Vote 5-0; Consent Calendar; Senate Calendar  12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-04",
+                "action": "Ought to Pass with Amendment 2021-0419s, Regular Calendar 23Y-1N, Motion Adopted; OT3rdg; 03/04/2021; Senate Journal 6",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-04",
+                "action": "Committee Amendment # 2021-0419s, Regular Calendar 23Y-1N, Amendment Adopted; 03/04/2021; Senate Journal 6",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-10",
+                "action": "Introduced (in recess of) 02/25/2021 and referred to Election Law House Journal  4 P. 48",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-25",
+                "action": "Public Hearing: 03/31/2021 10:30 am Members of the public may attend using the following link:To join the webinar: https://zoom.us/j/95912119642 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-29",
+                "action": "Full Committee Work Session: 05/05/2021 10:00 am Members of the public may attend using the following link:To join the webinar: https://zoom.us/j/98783397971 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-12",
+                "action": "Executive Session: 05/19/2021 10:00 am Members of the public may attend using the following link:To join the webinar: https://zoom.us/j/99392215410",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-26",
+                "action": "Committee Report: Ought to Pass (Vote 20-0; Consent Calendar) House Calendar 26 P. 5",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-06-03",
+                "action": "Ought to Pass: Motion Adopted Voice Vote 06/03/2021 House Journal  8 P. 5",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-22",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 06/10/2021); Senate Journal 20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-22",
+                "action": "Enrolled (in recess of) 06/10/2021 House Journal  10 P. 23",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-07-06",
+                "action": "Signed by the Governor on 07/01/2021; Chapter 0101; Effective 08/30/2021",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 21857,
+                "person_hash": "10182fj6",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Rebecca Perkins Kwoka",
+                "first_name": "Rebecca",
+                "middle_name": "",
+                "last_name": "Perkins Kwoka",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-021",
+                "ftm_eid": 50165879,
+                "votesmart_id": 194373,
+                "opensecrets_id": "",
+                "knowwho_pid": 743972,
+                "ballotpedia": "Rebecca_Perkins_Kwoka",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4924,
+                "person_hash": "5p0a0w6s",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Cindy Rosenwald",
+                "first_name": "Lucinda",
+                "middle_name": "",
+                "last_name": "Rosenwald",
+                "suffix": "",
+                "nickname": "Cindy",
+                "district": "SD-013",
+                "ftm_eid": 6463841,
+                "votesmart_id": 42204,
+                "opensecrets_id": "",
+                "knowwho_pid": 228804,
+                "ballotpedia": "Lucinda_Rosenwald",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 15558,
+                "person_hash": "9mn5cv50",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "James Gray",
+                "first_name": "James",
+                "middle_name": "",
+                "last_name": "Gray",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-006",
+                "ftm_eid": 6554869,
+                "votesmart_id": 128181,
+                "opensecrets_id": "",
+                "knowwho_pid": 426275,
+                "ballotpedia": "James_Gray_(New_Hampshire)",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 14488,
+                "person_hash": "elsfgcmi",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Thomas Sherman",
+                "first_name": "Thomas",
+                "middle_name": "",
+                "last_name": "Sherman",
+                "suffix": "",
+                "nickname": "Tom",
+                "district": "SD-024",
+                "ftm_eid": 13703813,
+                "votesmart_id": 141784,
+                "opensecrets_id": "",
+                "knowwho_pid": 426683,
+                "ballotpedia": "Tom_Sherman",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 15125,
+                "person_hash": "g54db31d",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Donna Soucy",
+                "first_name": "Donna",
+                "middle_name": "M.",
+                "last_name": "Soucy",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-018",
+                "ftm_eid": 9862727,
+                "votesmart_id": 8532,
+                "opensecrets_id": "",
+                "knowwho_pid": 425979,
+                "ballotpedia": "Donna_Soucy",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2240672,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB46/id/2240672",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=980&txtFormat=html",
+                "text_size": 13523,
+                "text_hash": "7f41c28f7dc73ae91ed179c4f3d0220b"
+            },
+            {
+                "doc_id": 2323325,
+                "date": "2021-03-04",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB46/id/2323325",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=SA&id=980",
+                "text_size": 14921,
+                "text_hash": "70b7ef324e03dd54f297a9736d6a077c"
+            },
+            {
+                "doc_id": 2411575,
+                "date": "2021-03-04",
+                "type": "Enrolled",
+                "type_id": 5,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB46/id/2411575",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&v=HP&id=980",
+                "text_size": 14927,
+                "text_hash": "979a9b065552b944eb776e50320642b1"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-31",
+                "time": "10:30",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Election Law Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-05-05",
+                "time": "10:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Election Law Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-05-19",
+                "time": "10:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Election Law Executive Session"
+            }
+        ],
+        "full_text": "electronic poll books authorization amend rsa to read as follows electronic poll books cities and towns are hereby authorized to conduct a trial of use electronic poll book devices for voter registration and for elections the trial shall be compliant provided that any city or town using electronic poll book devices shall comply with all statutes directly or indirectly related to voter checklists and maintenance of the statewide centralized voter registration database including the processes related to voter registration voter and the processing of absentee ballots the collection of all fields of data required for registration or and the delivery of that data to the secretary of state in a format compatible with the statewide centralized voter registration database the provisions of rsa rsa rsa rsa and rsa as they relate to manual entries on a paper checklist are hereby waived in order to accommodate an electronic poll book provided the same information required of the voter is obtained and recorded by the electronic poll book and can be retrieved and or printed at any time including during an election in addition nonpublic data related to individual voter data shall remain confidential and no voter data shall be released or retained by an electronic poll book vendor including its agents or any company or individual that provides software hardware or services to the vendor for any purpose an electronic poll book vendor shall not have access to any voter data except as specifically necessary to setup maintain or train for an electronic poll book program authorized under rsa adequate systems shall be in place as determined by the local election officials for local elections and the secretary of state for all other elections a system shall include a real time download or accurate account of voters who have checked in or registered on the day of the election the electronic poll book shall have the ability to generate a paper voter checklist completely marked to reflect participation in the election up to the time of any system failure or malfunction a and sufficient number of high speed printers shall be available in the polling place to produce a paper checklist for use in the event of a system failure or a paper checklist shall be marked in parallel with the electronic poll book reflecting the real time of voters with a lag time of no more than minutes a marked checklist shall be printed upon the completion of every election along with any reports required by statute and shall be retained by the clerk the cities and towns shall assume all costs associated with electronic poll books no electronic poll book trial program may proceed unless the electronic poll books system and application has been recommended for approval by an evaluator of electronic election systems approved by the secretary of state using requirements established by the secretary of state within days of the effective date of this section the secretary of state shall designate at least one evaluator of electronic election systems to draft test cases conduct tests and make recommendations recommendations to the secretary of state from an evaluator of electronic election systems shall be conditioned upon safe use procedures the secretary of state may approve electronic poll book systems in whole or in part based on recommendations from an evaluator of electronic election systems no city or town may use an electronic poll book system that has not been approved by the secretary of state the secretary of state within days of the effective date of this section shall prepare requirements for conducting a trial of electronic poll book devices that outline specific conditions that must be met for compliance with this section an electronic poll book trial program must originate with a city or town election before becoming eligible for use at a state election in the same city or town for the initial use of an electronic poll book approved by the secretary of state in whole or in part the city or town clerk shall file with the secretary of state all documentation that is necessary to show that all requirements in this section have been met no later than days before an electronic poll book trial program shall take place within days after the initial use of electronic poll books in accordance with this section the city or town shall submit a report to the secretary of state who shall review such reports and forward them to the speaker of the house of representatives the president of the senate and the chairpersons of the house and senate standing committees with jurisdiction over election law each report shall describe the outcome of the program addressing voter experiences wait times voter throughput times personnel costs hardware and software costs and the completeness and accuracy of the data recorded reported and submitted for import to the statewide centralized voter registration database the secretary of state shall prepare at least once each calendar year a regularly updated set of instructions and best use practices for the use of electronic poll books in state elections based on reports from the city and town clerks evaluation vendors and electronic poll book system providers repeal relative to the prospective repeal of the electronic poll book trial program is repealed"
+    }
+}

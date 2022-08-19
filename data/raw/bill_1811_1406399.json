@@ -1,0 +1,203 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1406399,
+        "change_hash": "568828b18a1f6eb3d815ea7d87ff5715",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB627/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=390&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB627",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-14",
+        "progress": [
+            {
+                "date": "2021-01-14",
+                "event": 1
+            },
+            {
+                "date": "2021-01-14",
+                "event": 9
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB627",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Establishing a value added grant matching fund for New Hampshire agricultural producers.",
+        "description": "Establishing a value added grant matching fund for New Hampshire agricultural producers.",
+        "pending_committee_id": 1242,
+        "committee": {
+            "committee_id": 1242,
+            "chamber": "H",
+            "chamber_id": 67,
+            "name": "Environment and Agriculture"
+        },
+        "referrals": [
+            {
+                "date": "2021-01-14",
+                "committee_id": 1242,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Environment and Agriculture"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-14",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Environment and Agriculture House Journal  2 P. 57",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-20",
+                "action": "Public Hearing: 01/27/2021 09:30 am Members of the public may attend using the following links:To join the webinar: https://www.zoom.us/j/92887623403 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-18",
+                "action": "Retained in Committee",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-28",
+                "action": "Full Committee Work Session: 05/06/2021 10:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/94919879599",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-08-09",
+                "action": "Full Committee Work Session: 09/14/2021 02:00 pm Legislative Office Building 303",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-10-06",
+                "action": "Executive Session: 10/19/2021 11:00 am Legislative Office Building 301-303",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-10-19",
+                "action": "Executive Session: 10/19/2021 11:00 a.m. Legislative Office Building301-303",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 15423,
+                "person_hash": "2ifxavzg",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Peter Bixby",
+                "first_name": "Peter",
+                "middle_name": "W.",
+                "last_name": "Bixby",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-17-STR",
+                "ftm_eid": 13703837,
+                "votesmart_id": 141796,
+                "opensecrets_id": "",
+                "knowwho_pid": 426709,
+                "ballotpedia": "Peter_Bixby",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2241527,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB627/id/2241527",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=387&txtFormat=html",
+                "text_size": 13785,
+                "text_hash": "b45557f930cfb7534a526f56aef62a95"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-01-27",
+                "time": "09:30",
+                "location": "Members of the public may attend using the following links:To jo",
+                "description": "Environment and Agriculture Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-05-06",
+                "time": "10:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Environment and Agriculture Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-09-14",
+                "time": "14:00",
+                "location": "Legislative Office Building 303",
+                "description": "Environment and Agriculture Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-10-19",
+                "time": "11:00",
+                "location": "Legislative Office Building 301-303",
+                "description": "Environment and Agriculture Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-10-19",
+                "time": "11:00",
+                "location": "Legislative Office Building301-303",
+                "description": "Environment and Agriculture Executive Session"
+            }
+        ]
+    }
+}

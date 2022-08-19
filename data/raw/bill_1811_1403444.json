@@ -1,0 +1,190 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1403444,
+        "change_hash": "44169a0aa20adb0fccc25b65e55d27b9",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB528/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=656&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB528",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-12",
+        "progress": [
+            {
+                "date": "2021-01-12",
+                "event": 1
+            },
+            {
+                "date": "2021-01-12",
+                "event": 9
+            },
+            {
+                "date": "2021-02-17",
+                "event": 11
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB528",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to electronic filing of state tax returns.",
+        "description": "Relative to electronic filing of state tax returns.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-12",
+                "committee_id": 1264,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Ways and Means"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-12",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Ways and Means House Journal  2 P. 52",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-27",
+                "action": "Public Hearing: 02/04/2021 09:30 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/95843569442 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-04",
+                "action": "Full Committee Work Session: 02/10/2021 09:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/99928276230 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-17",
+                "action": "Committee Report: Inexpedient to Legislate (Vote 23-0; Consent Calendar) House Calendar 12",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-24",
+                "action": "Inexpedient to Legislate: Motion Adopted Voice Vote 02/24/2021 House Journal  3 P. 21",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 19830,
+                "person_hash": "h40x79f9",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Michael Gunski",
+                "first_name": "Michael",
+                "middle_name": "",
+                "last_name": "Gunski",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-06-HIL",
+                "ftm_eid": 45378748,
+                "votesmart_id": 185243,
+                "opensecrets_id": "",
+                "knowwho_pid": 670387,
+                "ballotpedia": "Michael_Gunski",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19889,
+                "person_hash": "vemndw1q",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Joe Alexander",
+                "first_name": "Joe",
+                "middle_name": "H.",
+                "last_name": "Alexander",
+                "suffix": "Jr.",
+                "nickname": "",
+                "district": "HD-06-HIL",
+                "ftm_eid": 42579614,
+                "votesmart_id": 175812,
+                "opensecrets_id": "",
+                "knowwho_pid": 598264,
+                "ballotpedia": "Joe_Alexander_Jr.",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2238059,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB528/id/2238059",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=645&txtFormat=html",
+                "text_size": 18786,
+                "text_hash": "6fffdf3344b85bc770b5496ccd3819ad"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-04",
+                "time": "09:30",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Ways and Means Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-10",
+                "time": "09:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Ways and Means Work Session"
+            }
+        ]
+    }
+}

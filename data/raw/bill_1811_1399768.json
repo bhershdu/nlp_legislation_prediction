@@ -1,0 +1,179 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1399768,
+        "change_hash": "92fb0cbd31c80649bc4553ac5e370c03",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB512/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=781&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB512",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-11",
+        "progress": [
+            {
+                "date": "2021-01-11",
+                "event": 1
+            },
+            {
+                "date": "2021-01-11",
+                "event": 9
+            },
+            {
+                "date": "2021-03-09",
+                "event": 11
+            },
+            {
+                "date": "2021-03-09",
+                "event": 10
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB512",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to emergency housing assistance.",
+        "description": "Relative to emergency housing assistance.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-11",
+                "committee_id": 1257,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Municipal and County Government"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-11",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Municipal and County Government House Journal  2 P. 51",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-01",
+                "action": "Public Hearing: 03/01/2021 11:30 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/97119253057 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-09",
+                "action": "Majority Committee Report: Inexpedient to Legislate (Vote 10-9; Regular Calendar) House Calendar 18 P. 79",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-09",
+                "action": "Minority Committee Report: Ought to Pass with Amendment # 2021-0563h",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 19460,
+                "person_hash": "9tstvyhl",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Casey Conley",
+                "first_name": "Casey",
+                "middle_name": "M.",
+                "last_name": "Conley",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-13-STR",
+                "ftm_eid": 43989827,
+                "votesmart_id": 176725,
+                "opensecrets_id": "",
+                "knowwho_pid": 644124,
+                "ballotpedia": "Casey_Conley",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21857,
+                "person_hash": "10182fj6",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Rebecca Perkins Kwoka",
+                "first_name": "Rebecca",
+                "middle_name": "",
+                "last_name": "Perkins Kwoka",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-021",
+                "ftm_eid": 50165879,
+                "votesmart_id": 194373,
+                "opensecrets_id": "",
+                "knowwho_pid": 743972,
+                "ballotpedia": "Rebecca_Perkins_Kwoka",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2234080,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB512/id/2234080",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=771&txtFormat=html",
+                "text_size": 8299,
+                "text_hash": "fcdc61749ccefe0843dac983a681c6be"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-01",
+                "time": "11:30",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Municipal and County Government Public Hearing"
+            }
+        ]
+    }
+}

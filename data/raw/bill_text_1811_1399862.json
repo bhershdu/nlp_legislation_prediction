@@ -1,0 +1,313 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1399862,
+        "change_hash": "d9ab8805ba1ffc9201b2937542411fd7",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB503/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=659&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB503",
+        "completed": 0,
+        "status": 2,
+        "status_date": "2021-04-13",
+        "progress": [
+            {
+                "date": "2021-01-11",
+                "event": 1
+            },
+            {
+                "date": "2021-01-11",
+                "event": 9
+            },
+            {
+                "date": "2021-03-11",
+                "event": 10
+            },
+            {
+                "date": "2021-03-11",
+                "event": 11
+            },
+            {
+                "date": "2021-04-13",
+                "event": 2
+            },
+            {
+                "date": "2021-04-13",
+                "event": 9
+            },
+            {
+                "date": "2021-05-13",
+                "event": 9
+            },
+            {
+                "date": "2021-05-20",
+                "event": 9
+            },
+            {
+                "date": "2021-10-27",
+                "event": 10
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB503",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "S",
+        "current_body_id": 68,
+        "title": "Codifying the council on housing stability.",
+        "description": "Codifying the council on housing stability.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-11",
+                "committee_id": 1249,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Health, Human Services & Elderly Affairs"
+            },
+            {
+                "date": "2021-04-13",
+                "committee_id": 1272,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Health and Human Services"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-11",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Health, Human Services and Elderly Affairs House Journal  2 P. 51",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-02",
+                "action": "Public Hearing: 03/02/2021 11:15 am Members of the public may attend using the following links:1. To join the webinar: https://www.zoom.us/j/99282187833 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-11",
+                "action": "Majority Committee Report: Ought to Pass with Amendment # 2021-0678h (Vote 19-2; Regular Calendar) House Calendar 18 P. 49",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-11",
+                "action": "Minority Committee Report: Inexpedient to Legislate",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-08",
+                "action": "Amendment # 2021-0678h: Amendment Adopted Voice Vote 04/08/2021 House Journal  6 P. 87",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-08",
+                "action": "Lay on Table (Rep. Sylvia): Motion Failed DV 140-213 04/08/2021 House Journal  6 P. 89",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-08",
+                "action": "Ought to Pass with Amendment 2021-0678h: Motion Adopted DV 210-115 04/08/2021 House Journal  6 P. 89",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-08",
+                "action": "Reconsider (Rep. Verville): Motion Failed Regular Calendar 142-214 04/08/2021 House Journal  6 P. 89",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-13",
+                "action": "Introduced 04/08/2021 and Referred to Health and Human Services; Senate Journal 12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-21",
+                "action": "Remote Hearing: 04/28/2021, 09:45 am; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  21",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-13",
+                "action": "Committee Report: Rereferred to Committee, 05/20/2021; Vote 5-0; Consent Calendar; Senate Calendar  24",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-05-20",
+                "action": "Rereferred to Committee, Motion Adopted, Voice Vote; 05/20/2021; Senate Journal 16",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-10-21",
+                "action": "Hearing: 10/26/2021, Room 100, State House, 11:00 am, on proposed amendment # 2021-2204s; Senate Calendar  42",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-10-27",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-2219s",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 4809,
+                "person_hash": "zt8tlk1e",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Patrick Long",
+                "first_name": "Patrick",
+                "middle_name": "T.",
+                "last_name": "Long",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-42-HIL",
+                "ftm_eid": 6478714,
+                "votesmart_id": 66257,
+                "opensecrets_id": "",
+                "knowwho_pid": 250010,
+                "ballotpedia": "Patrick_Long",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19891,
+                "person_hash": "865n4e99",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Matthew Wilhelm",
+                "first_name": "Matthew",
+                "middle_name": "B.",
+                "last_name": "Wilhelm",
+                "suffix": "",
+                "nickname": "Matt",
+                "district": "HD-42-HIL",
+                "ftm_eid": 42048257,
+                "votesmart_id": 185372,
+                "opensecrets_id": "",
+                "knowwho_pid": 670679,
+                "ballotpedia": "Matt_Wilhelm",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2234168,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB503/id/2234168",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=642&txtFormat=html",
+                "text_size": 15713,
+                "text_hash": "d697157e6926bb203798c5fccba0795c"
+            },
+            {
+                "doc_id": 2360674,
+                "date": "2021-04-08",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB503/id/2360674",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=HA&id=642",
+                "text_size": 25492,
+                "text_hash": "fe50b31a61060bb49a33239d11911719"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1049757,
+                "date": "2021-04-08",
+                "desc": "Reconsider",
+                "yea": 142,
+                "nay": 214,
+                "nv": 42,
+                "absent": 0,
+                "total": 398,
+                "passed": 0,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/HB503/id/1049757",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=115&sy=2021&lb=H&eb=HB0503&sortoption=&txtsessionyear=2021&txtbillnumber=HB503&ddlsponsors=&lsr=659"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-02",
+                "time": "11:15",
+                "location": "Members of the public may attend using the following links:1. To",
+                "description": "Health, Human Services and Elderly Affairs Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-10-26",
+                "time": "11:00",
+                "location": "Room 100, State House",
+                "description": "Health and Human Services Hearing"
+            }
+        ],
+        "full_text": "statement of intent the intent of the general court is to codify the council on housing stability established by the governor in executive order to add additional members and to expand upon its existing duties to further address homelessness in new hampshire new chapter council on housing stability amend rsa by inserting after chapter the following new chapter chapter council on housing stability council on housing stability established there is hereby established the council on housing stability for the purpose of creating and implementing a plan to create housing stability for all citizens of the state of new hampshire membership the initial members of the council on housing stability shall be those appointed by executive order and shall serve at the pleasure of the governor as follows a two individuals one of whom shall be a parent and one of whom shall be a young adult who have current and or recent lived experience with housing instability b commissioners or executive directors or their designees of the following agencies department of health and human services department of education department of safety department of transportation department of business and economic affairs department of corrections department of employment security department of military affairs and veterans services new hampshire housing finance authority community development finance authority c the bureau chief of the bureau of housing supports d the director of the division of behavioral health services or designee e the director of the division of economic and housing stability or designee f the director of the division for children youth and families or designee g one representative of each of new hampshire s continuum of care appointed by each continuum h a representative of the new hampshire municipal association i a representatives of a local educational agency j a representative of the department of education responsible for programs for children experiencing homelessness k a representative of the nh landlord association l a representative of nh builder s association m a representative of local providers of housing services n a representative of housing action new hampshire o a representative of a county economic development council p a representative of the community behavioral health association appointed by the association q a representative of the faith based community r a representative of a member agency of the nh coalition against domestic and sexual violence nominated by the coalition s two representatives of the philanthropic community with expertise in housing instability t a representative of the business community with an interest in affordable housing u three legislators one appointed by the governor one appointed by the senate president and one appointed by the speaker of the house of representatives v any other individual or representative of an organization or entity that the governor deems appropriate to support the work of the council w three mayors or their designees representing different regions of new hampshire x a representative from a law enforcement agency additional members are appointed as follows a one representative of waypoint appointed by that organization b one representative of nami nh appointed by that organization c one municipal welfare director appointed by the new hampshire welfare association d one representative of families in transition appointed by that organization e one representative of the nashua soup kitchen and shelter appointed by that organization f one representative of harbor homes inc appointed by that organization g one representative of the new hampshire coalition to end homelessness appointed by the coalition h one representative of the nh providers association appointed by that organization i one representative of the new hampshire psychological association appointed by the association the council is authorized to perform its work virtually if physical meeting is necessary legislative members of the council shall receive mileage at the legislative rate when attending to the duties of the council the council may form subcommittees as necessary in the course of its work duties quorum authority to accept grants the council on housing stability shall develop and monitor a plan which makes recommendations to address and or undertake the following a necessary measures to strengthen new hampshire s housing market and to create housing stability for all citizens b conduct an affordable housing needs assessment in each county to determine the housing deficit c the barriers to affordable housing and what can be done to remove such barriers d the necessary system of care to support individuals and families to obtain and maintain stable housing e integrate and coordinate a housing stability governance structure across state government and connect to local communities by conducting ongoing needs assessment and strategic planning f enhance the interoperability of data systems within and across government agencies to inform and monitor program and service access equity and quality g have housing options available throughout citizens lifespans based on the needs and desire people have at different times of their life h develop a comprehensive update to the state s plan on homelessness which shall include but not be limited to reviewing the coordinated services currently administered in new hampshire including outreach treatment and transitional to independence services reviewing housing availability for unsheltered individuals identifying the number of children experiencing homelessness the adequacy of available services and shelter options identifying the number of veterans experiencing homelessness the adequacy of available services and shelter options reviewing service agencies and their involvement in their communities identifying public and private programs that effectively address and prevent homelessness the ability of those programs to meet the need for assistance and potential funding sources for expansion if appropriate reviewing the state of new hampshire s regional capacity in shelters and programs in addressing homelessness exploring national models that successfully address and mitigate homelessness the council on housing stability shall be led by the department of health and human services the department of business and economic affairs and the new hampshire community development finance authority a majority of the appointed council members shall constitute a quorum and all official actions of the council shall require a majority vote of those present and voting the council may accept grants and other assistance to support its work contingent upon the approval of the governor and executive council such items may be brought forward by any state agency that is represented on the council reporting requirement the council on housing stability shall submit its initial report and action plan dated december to the speaker of the house of representatives the president of the senate the house clerk the senate clerk and the state library the council shall report its final plan to the speaker of the house of representatives the president of the senate the house clerk the senate clerk the governor and the state library at its earliest convenience thereafter on or before november the council shall provide an annual report of its activities and the status of the plan to create housing stability for all citizens of the state to the speaker of the house of representatives the president of the senate the house clerk the senate clerk the governor and the state library"
+    }
+}

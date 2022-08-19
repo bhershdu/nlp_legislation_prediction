@@ -1,0 +1,424 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1393045,
+        "change_hash": "43183a97ddd7caf487762856f07c17bf",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB99/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=108&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB99",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2021-08-16",
+        "progress": [
+            {
+                "date": "2021-01-04",
+                "event": 1
+            },
+            {
+                "date": "2021-01-04",
+                "event": 9
+            },
+            {
+                "date": "2021-02-11",
+                "event": 10
+            },
+            {
+                "date": "2021-03-04",
+                "event": 2
+            },
+            {
+                "date": "2021-03-04",
+                "event": 9
+            },
+            {
+                "date": "2021-04-13",
+                "event": 10
+            },
+            {
+                "date": "2021-07-23",
+                "event": 3
+            },
+            {
+                "date": "2021-08-16",
+                "event": 8
+            },
+            {
+                "date": "2021-08-16",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB99",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to seasonal platforms on public waters of the state.",
+        "description": "Relative to seasonal platforms on public waters of the state.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-04",
+                "committee_id": 1259,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Resources, Recreation and Development"
+            },
+            {
+                "date": "2021-03-04",
+                "committee_id": 1736,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Energy and Natural Resources"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-04",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Resources, Recreation and Development House Journal  2 P. 35",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-21",
+                "action": "Public Hearing: 01/27/2021 10:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/99531020872 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-11",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-0203h (Vote 20-0; Consent Calendar) House Calendar 12 P. 11",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-24",
+                "action": "Amendment # 2021-0203h: Amendment Adopted Voice Vote 02/24/2021 House Journal  3 P. 15",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-24",
+                "action": "Ought to Pass with Amendment 2021-0203h: Motion Adopted Voice Vote 02/24/2021 House Journal  3 P. 15",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-04",
+                "action": "Introduced 03/04/2021 and Referred to Energy and Natural Resources; Senate Journal 7",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-23",
+                "action": "Remote Hearing: 03/29/2021, 01:30 pm; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  17",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-13",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-1122s, 04/22/2021; Senate Calendar  20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-22",
+                "action": "Committee Amendment # 2021-1122s, Regular Calendar 24Y-0N, Amendment Adopted; 04/22/2021; Senate Journal 12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-22",
+                "action": "Ought to Pass with Amendment 2021-1122s, Regular Calendar 24Y-0N, Motion Adopted; OT3rdg; 04/22/2021; Senate Journal 12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-10",
+                "action": "House Concurs with Senate Amendment 2021-1122s (Rep. Renzullo): Motion Adopted Voice Vote 06/10/2021 House Journal  10 P. 17",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-08",
+                "action": "Enrolled Bill Amendment # 2021-2059e Adopted, Voice Vote, (In recess of 06/24/2021); Senate Journal 20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-12",
+                "action": "Enrolled Bill Amendment # 2021-2059e: Amendment Adopted Voice Vote (in recess of) 06/24/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-21",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 06/24/2021); Senate Journal 20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-23",
+                "action": "Enrolled (in recess of) 06/24/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-08-16",
+                "action": "Signed by Governor Sununu 08/10/2021; Chapter 181; Eff: 01/01/2022",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 19758,
+                "person_hash": "2k4jpn3j",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "John MacDonald",
+                "first_name": "John",
+                "middle_name": "T.",
+                "last_name": "MacDonald",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-06-CAR",
+                "ftm_eid": 45378811,
+                "votesmart_id": 184776,
+                "opensecrets_id": "",
+                "knowwho_pid": 670246,
+                "ballotpedia": "John_MacDonald_(New_Hampshire)",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18167,
+                "person_hash": "gbz9mi50",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "William Marsh",
+                "first_name": "William",
+                "middle_name": "M.",
+                "last_name": "Marsh",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-17-ROC",
+                "ftm_eid": 6483516,
+                "votesmart_id": 65293,
+                "opensecrets_id": "",
+                "knowwho_pid": 587047,
+                "ballotpedia": "William_Marsh",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 15544,
+                "person_hash": "c25fk7m0",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Karel Crawford",
+                "first_name": "Karel",
+                "middle_name": "A.",
+                "last_name": "Crawford",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-04-CAR",
+                "ftm_eid": 13703549,
+                "votesmart_id": 141860,
+                "opensecrets_id": "",
+                "knowwho_pid": 426019,
+                "ballotpedia": "Karel_Crawford",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4760,
+                "person_hash": "8scgvpbd",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Jeb Bradley",
+                "first_name": "Jeb",
+                "middle_name": "",
+                "last_name": "Bradley",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-003",
+                "ftm_eid": 6636719,
+                "votesmart_id": 4953,
+                "opensecrets_id": "",
+                "knowwho_pid": 197009,
+                "ballotpedia": "Jeb_Bradley",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21807,
+                "person_hash": "tlbyuyoy",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Brodie Deshaies",
+                "first_name": "Brodie",
+                "middle_name": "",
+                "last_name": "Deshaies",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-06-CAR",
+                "ftm_eid": 50226968,
+                "votesmart_id": 194708,
+                "opensecrets_id": "",
+                "knowwho_pid": 744060,
+                "ballotpedia": "Brodie_Deshaies",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2227344,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB99/id/2227344",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=106&txtFormat=html",
+                "text_size": 17037,
+                "text_hash": "482190ec1647c6c84a5e9d37d6dfca83"
+            },
+            {
+                "doc_id": 2324178,
+                "date": "2021-02-24",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB99/id/2324178",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=HA&id=106",
+                "text_size": 16965,
+                "text_hash": "d280df1346a15a5aaae4c3b2569b3ac4"
+            },
+            {
+                "doc_id": 2380224,
+                "date": "2021-04-22",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB99/id/2380224",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=SA&id=106",
+                "text_size": 18054,
+                "text_hash": "f66af85b9294195f7dac84693890f589"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1060795,
+                "date": "2021-04-22",
+                "desc": "Committee Amendment 1122s",
+                "yea": 24,
+                "nay": 0,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/HB99/id/1060795",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=312&sy=2021&lb=S&eb=HB0099&sortoption=&txtsessionyear=2021&txtbillnumber=HB99&ddlsponsors=&lsr=108"
+            },
+            {
+                "roll_call_id": 1060796,
+                "date": "2021-04-22",
+                "desc": "Ought to Pass w/Amendment",
+                "yea": 24,
+                "nay": 0,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/HB99/id/1060796",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=313&sy=2021&lb=S&eb=HB0099&sortoption=&txtsessionyear=2021&txtbillnumber=HB99&ddlsponsors=&lsr=108"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-01-27",
+                "time": "10:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Resources, Recreation and Development Public Hearing"
+            }
+        ],
+        "full_text": "new subdivision anchored seasonal platforms amend rsa by inserting after section the following new subdivision anchored seasonal platforms definitions in this subdivision anchored seasonal platform means a seasonal platform inflatable platform float or device attached to such platform inflatable platform or float that is attached by chains cables ropes or related equipment to a fixed object or stationary point or that is attached to an anchor or weight which is designed to rest on the bed or to be buried in the bed of a navigable body of water director means the director division of state police department of safety division means the division of state police department of safety shorefront property means any property abutting public waters of the state shorefront property shall include a a lot on the public waters that is divided by a road so that the lot is on the opposite side of the road from the public waters or divided by an exclusive which has been acquired as a result of an eminent domain proceeding which resulted in the break or loss of property between the property owner s residence and shore frontage b a lot of record with not less than feet of frontage c shorefront property shall not mean a deeded nor shall it mean lots not contiguous to the shore with any other type of legal shorefront access property owned in common by associations and other groups shall be deemed owned by the group and shall not convey any rights to individual members of such group anchored seasonal platform limitations no person shall erect install maintain or exercise control over an anchored seasonal platform on the public waters of the state who is not the legal owner of the adjacent shorefront property except as authorized in paragraph iii below any person erecting installing maintaining or exercising control over an anchored seasonal platform on any public body of water shall attach his or her name and contact information to any such seasonal platform as provided in this subdivision and in accordance with rules established under rsa seasonal platforms installed on public waters that support a local state or federal government agency an agency s or a conservation group engaged in the activities may be installed provided the platform meets the minimum requirements established in rsa anchored seasonal platform location no anchored seasonal platform shall be located a in such a manner that it constitutes a hazard to the public safety because it interferes with or impedes or could potentially interfere with or impede navigation or b in such proximity to moorings or to other anchored seasonal platforms as to constitute a hazard to public safety or c in such a manner that it presents an unreasonable adverse effect on the environment including but not limited to water quality wildlife habitats or natural areas or d in such a manner that it unreasonably interferes with other recreational uses of the water and adjacent land the director shall develop rules for the purposes of this subdivision pursuant to rsa and removal of anchored seasonal platforms powers of director the director or his or her agents shall remove or cause the removal of or shall move or cause the moving of any anchored seasonal platform which a is in violation of rsa or b does not bear the legible owner s name and legible contact information as required under rsa or c constitutes a hazard to public safety because of the manner in which it is constructed or maintained the owner of record of anchored seasonal platform if known shall be notified by the director or his or her agents of the removal or relocation by certified mail with return receipt requested within days of removal or relocation any anchored seasonal platform which is removed pursuant to paragraph i or is found adrift shall be stored in a safe place and the owner shall be notified the owner shall reimburse the state or agent of the state for any costs incurred including the cost of removal relocation transporting storing and disposal the platform if a seasonal platform is removed or found adrift and the owner cannot be determined it shall be stored for a period of at least weeks to allow the owner the opportunity to reclaim the platform the owner is responsible for reimbursing the state for all costs identified in paragraph iii above liability nothing in this subdivision shall relieve the owner or installer of an anchored seasonal platform from liability relating to water pollution accidents or other liabilities associated with ownership of an anchored seasonal platform rulemaking the director of the division shall adopt rules under rsa relative to a the use design weight or size construction labeling lighting placement including safe spacing and required maintenance of individual anchored seasonal platforms b the enforcement of this subdivision c controls of seasonal platforms of any local state or federal government agency such an agency s or to any conservation groups engaged in the execution of their duties including but not limited to work related to law enforcement bridge and road work pollution control the protection of fish and wildlife or environmental studies penalty any person violating the provisions of this subdivision shall be guilty of a violation for the first offense and guilty of a misdemeanor for any additional offenses"
+    }
+}

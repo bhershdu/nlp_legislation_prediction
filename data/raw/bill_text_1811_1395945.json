@@ -1,0 +1,431 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1395945,
+        "change_hash": "03fa97eab993f969a59273d0d8edee9a",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB286/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=449&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB286",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2021-05-19",
+        "progress": [
+            {
+                "date": "2021-01-09",
+                "event": 1
+            },
+            {
+                "date": "2021-01-09",
+                "event": 9
+            },
+            {
+                "date": "2021-02-23",
+                "event": 10
+            },
+            {
+                "date": "2021-04-07",
+                "event": 2
+            },
+            {
+                "date": "2021-04-07",
+                "event": 9
+            },
+            {
+                "date": "2021-04-15",
+                "event": 10
+            },
+            {
+                "date": "2021-05-06",
+                "event": 3
+            },
+            {
+                "date": "2021-05-19",
+                "event": 8
+            },
+            {
+                "date": "2021-05-19",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB286",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Establishing a committee to study the response of law enforcement and the criminal justice system to homelessness in New Hampshire,",
+        "description": "Establishing a committee to study the response of law enforcement and the criminal justice system to homelessness in New Hampshire,",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-09",
+                "committee_id": 1239,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Criminal Justice and Public Safety"
+            },
+            {
+                "date": "2021-04-07",
+                "committee_id": 1273,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Judiciary"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-09",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Criminal Justice and Public Safety House Journal  2 P. 42",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-17",
+                "action": "Public Hearing: 02/17/2021 10:45 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/98063742762 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-23",
+                "action": "Committee Report: Ought to Pass (Vote 19-2; Consent Calendar) House Calendar 18 P. 6",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Ought to Pass: Motion Adopted Voice Vote 04/07/2021 House Journal  5 P. 7",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Reconsider (Rep. Osborne): Motion Failed Voice Vote 04/07/2021 House Journal  5 P. 50",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Introduced 04/01/2021 and Referred to Judiciary; Senate Journal 11",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-08",
+                "action": "Remote Hearing: 04/15/2021, 02:00 pm; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  19",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-15",
+                "action": "Committee Report: Ought to Pass, 04/22/2021; Vote 5-0; Consent Calendar; Senate Calendar  20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-22",
+                "action": "Ought to Pass: Regular Calendar 23Y-1N, Motion Adopted; OT3rdg; 04/22/2021; Senate Journal 12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-06",
+                "action": "Enrolled (in recess of) 04/09/2021 House Journal  7 P. 102",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-05-06",
+                "action": "Enrolled Regular Calendar 23Y-0N, Motion Adopted, (In recess of 05/06/2021); Senate Journal 15",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-19",
+                "action": "Signed by Governor Sununu 05/17/2021; Chapter 39; Eff: 05/17/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 19853,
+                "person_hash": "8vuwq9jh",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Nicole Klein-Knight",
+                "first_name": "Nicole",
+                "middle_name": "",
+                "last_name": "Klein-Knight",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-11-HIL",
+                "ftm_eid": 45378780,
+                "votesmart_id": 185343,
+                "opensecrets_id": "",
+                "knowwho_pid": 670409,
+                "ballotpedia": "Nicole_Klein-Knight",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21847,
+                "person_hash": "xpplg1d5",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Melbourne Moran",
+                "first_name": "Melbourne",
+                "middle_name": "",
+                "last_name": "Moran",
+                "suffix": "Jr.",
+                "nickname": "",
+                "district": "HD-34-HIL",
+                "ftm_eid": 50226649,
+                "votesmart_id": 194957,
+                "opensecrets_id": "",
+                "knowwho_pid": 744561,
+                "ballotpedia": "Melbourne_Moran_Jr.",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 15580,
+                "person_hash": "wrup7d7d",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Linda Massimilla",
+                "first_name": "Linda",
+                "middle_name": "",
+                "last_name": "Massimilla",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-01-GRA",
+                "ftm_eid": 9753448,
+                "votesmart_id": 143257,
+                "opensecrets_id": "",
+                "knowwho_pid": 428009,
+                "ballotpedia": "Linda_Massimilla",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19862,
+                "person_hash": "i8p76svj",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Willis Griffith",
+                "first_name": "Willis",
+                "middle_name": "",
+                "last_name": "Griffith",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-18-HIL",
+                "ftm_eid": 45378747,
+                "votesmart_id": 185359,
+                "opensecrets_id": "",
+                "knowwho_pid": 670561,
+                "ballotpedia": "Willis_Griffith",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21835,
+                "person_hash": "obohez3u",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Tony Labranche",
+                "first_name": "Tony",
+                "middle_name": "",
+                "last_name": "Labranche",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-22-HIL",
+                "ftm_eid": 50226570,
+                "votesmart_id": 194956,
+                "opensecrets_id": "",
+                "knowwho_pid": 744546,
+                "ballotpedia": "Tony_Labranche",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21852,
+                "person_hash": "ukrm5num",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Ariel Oxaal",
+                "first_name": "Ariel",
+                "middle_name": "",
+                "last_name": "Oxaal",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-15-STR",
+                "ftm_eid": 49505552,
+                "votesmart_id": 194848,
+                "opensecrets_id": "",
+                "knowwho_pid": 744661,
+                "ballotpedia": "Ariel_Oxaal",
+                "sponsor_type_id": 2,
+                "sponsor_order": 6,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19851,
+                "person_hash": "gaierpu8",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Donald Bouchard",
+                "first_name": "Donald",
+                "middle_name": "J.",
+                "last_name": "Bouchard",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-11-HIL",
+                "ftm_eid": 45378643,
+                "votesmart_id": 185340,
+                "opensecrets_id": "",
+                "knowwho_pid": 670406,
+                "ballotpedia": "Donald_Bouchard",
+                "sponsor_type_id": 2,
+                "sponsor_order": 7,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19820,
+                "person_hash": "2j84ykvn",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Deb Stevens",
+                "first_name": "Deb",
+                "middle_name": "",
+                "last_name": "Stevens",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-34-HIL",
+                "ftm_eid": 45378953,
+                "votesmart_id": 185589,
+                "opensecrets_id": "",
+                "knowwho_pid": 670638,
+                "ballotpedia": "Deb_Stevens",
+                "sponsor_type_id": 2,
+                "sponsor_order": 8,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2232846,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB286/id/2232846",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=445&txtFormat=html",
+                "text_size": 9794,
+                "text_hash": "c2f65769963668357b87a7c88056896a"
+            },
+            {
+                "doc_id": 2379964,
+                "date": "2021-04-22",
+                "type": "Enrolled",
+                "type_id": 5,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB286/id/2379964",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&v=SP&id=445",
+                "text_size": 9805,
+                "text_hash": "16b9474cb33758803e1ad10c63b26aac"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-17",
+                "time": "10:45",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Criminal Justice and Public Safety Public Hearing"
+            }
+        ],
+        "full_text": "committee established there is established a committee to study the response of law enforcement and the criminal justice system to homelessness in new hampshire membership and compensation the members of the committee shall be as follows a three members of the house of representatives appointed by the speaker of the house of representatives b one member of the senate appointed by the president of the senate members of the committee shall receive mileage at the legislative rate when attending to the duties of the committee duties the committee shall study how law enforcement and the criminal justice system respond to homelessness in new hampshire chairperson quorum the members of the study committee shall elect a chairperson from among the members the first meeting of the committee shall be called by the house member the first meeting of the committee shall be held within days of the effective date of this section three members of the committee shall constitute a quorum report the committee shall report its findings and any recommendations for proposed legislation to the speaker of the house of representatives the president of the senate the house clerk the senate clerk the governor and the state library on or before november"
+    }
+}

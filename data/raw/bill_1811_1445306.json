@@ -1,0 +1,178 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1445306,
+        "change_hash": "79a0fd777ed6e2f4eb6b8f33863e25bb",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/SB159/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=971&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=SB159",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-02-09",
+        "progress": [
+            {
+                "date": "2021-02-09",
+                "event": 1
+            },
+            {
+                "date": "2021-02-09",
+                "event": 9
+            },
+            {
+                "date": "2021-03-10",
+                "event": 10
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "SB159",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "S",
+        "body_id": 68,
+        "current_body": "S",
+        "current_body_id": 68,
+        "title": "Establishing the department of children's services and juvenile justice.",
+        "description": "Establishing the department of children's services and juvenile justice.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-02-09",
+                "committee_id": 1272,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Health and Human Services"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-02-09",
+                "action": "Introduced 02/04/2021 and Referred to Health and Human Services; Senate Journal 4",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-17",
+                "action": "Remote Hearing: 03/03/2021, 08:45 am; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-10",
+                "action": "Committee Report: Ought to Pass, 03/18/2021; Senate Calendar  15",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-18",
+                "action": "Sen. Bradley Moved Laid on Table, Regular Calendar 24Y-0N, Motion Adopted; 03/18/2021; Senate Journal 8",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-18",
+                "action": "Pending Motion Ought to Pass; 03/18/2021; Senate Journal 8",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 4775,
+                "person_hash": "kswslwpv",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Sharon Carson",
+                "first_name": "Sharon",
+                "middle_name": "",
+                "last_name": "Carson",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-014",
+                "ftm_eid": 6593753,
+                "votesmart_id": 42537,
+                "opensecrets_id": "",
+                "knowwho_pid": 208650,
+                "ballotpedia": "Sharon_Carson",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2285010,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB159/id/2285010",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=962&txtFormat=html",
+                "text_size": 60775,
+                "text_hash": "8d341a4c41000023acbc61c6b4e5517b"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1036545,
+                "date": "2021-03-18",
+                "desc": "Laid on Table",
+                "yea": 24,
+                "nay": 0,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB159/id/1036545",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=183&sy=2021&lb=S&eb=SB0159&sortoption=&txtsessionyear=2021&txtbillnumber=SB159&ddlsponsors=&lsr=971"
+            },
+            {
+                "roll_call_id": 1102390,
+                "date": "2021-03-18",
+                "desc": "Laid on Table",
+                "yea": 24,
+                "nay": 0,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB159/id/1102390",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=183&sy=2021&lb=S&eb=SB0159&sortoption=&txtsessionyear=2021&txtbillnumber=SB159&ddlsponsors=&lsr=0971"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": []
+    }
+}

@@ -1,0 +1,322 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1430844,
+        "change_hash": "344caff54bf6902a59d6f2f835499759",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/SB108/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=867&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=SB108",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-29",
+        "progress": [
+            {
+                "date": "2021-01-29",
+                "event": 1
+            },
+            {
+                "date": "2021-01-29",
+                "event": 9
+            },
+            {
+                "date": "2021-02-18",
+                "event": 9
+            },
+            {
+                "date": "2021-03-04",
+                "event": 9
+            },
+            {
+                "date": "2021-03-04",
+                "event": 9
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "SB108",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "S",
+        "body_id": 68,
+        "current_body": "S",
+        "current_body_id": 68,
+        "title": "Relative to school resource officers.",
+        "description": "Relative to school resource officers.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-29",
+                "committee_id": 1267,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Education"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-29",
+                "action": "Introduced 01/06/2021 and Referred to Education; Senate Journal 3",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-04",
+                "action": "Remote Hearing: 02/09/2021, 09:00 am; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  10",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-18",
+                "action": "Committee Report: Rereferred to Committee, 03/04/2021; Vote 5-0; Consent Calendar; Senate Calendar  12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-04",
+                "action": "Sen. Bradley Moved to Remove SB108 from the Consent Calendar; 03/04/2021; Senate Journal 6",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-04",
+                "action": "Rereferred to Committee, Regular Calendar 12Y-12N, Motion Failed; 03/04/2021; Senate Journal 6",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-04",
+                "action": "Sen. Bradley Moved Reconsideration on Rerefer, Regular Calendar 24Y-0N, Motion Adopted; 03/04/2021; Senate Journal 6",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-04",
+                "action": "Rereferred to Committee, Regular Calendar 11Y-13N, Motion Failed; 03/04/2021; Senate Journal 6",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-04",
+                "action": "Sen. Bradley Moved Inexpedient to Legislate; 03/04/2021; Senate Journal 6",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-04",
+                "action": "Inexpedient to Legislate, Regular Calendar 14Y-10N, Motion Adopted === BILL KILLED ===; 03/04/2021; Senate Journal 6",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 21883,
+                "person_hash": "70cv20ch",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Becky Whitley",
+                "first_name": "Becky",
+                "middle_name": "",
+                "last_name": "Whitley",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-015",
+                "ftm_eid": 50226754,
+                "votesmart_id": 194987,
+                "opensecrets_id": "",
+                "knowwho_pid": 743970,
+                "ballotpedia": "Becky_Whitley",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21857,
+                "person_hash": "10182fj6",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Rebecca Perkins Kwoka",
+                "first_name": "Rebecca",
+                "middle_name": "",
+                "last_name": "Perkins Kwoka",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-021",
+                "ftm_eid": 50165879,
+                "votesmart_id": 194373,
+                "opensecrets_id": "",
+                "knowwho_pid": 743972,
+                "ballotpedia": "Rebecca_Perkins_Kwoka",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 17471,
+                "person_hash": "7ldkn52f",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Patricia Cornell",
+                "first_name": "Patricia",
+                "middle_name": "",
+                "last_name": "Cornell",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-18-HIL",
+                "ftm_eid": 9701043,
+                "votesmart_id": 154281,
+                "opensecrets_id": "",
+                "knowwho_pid": 503474,
+                "ballotpedia": "Patricia_Cornell",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19843,
+                "person_hash": "xz34mimu",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Sue Mullen",
+                "first_name": "Sue",
+                "middle_name": "",
+                "last_name": "Mullen",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-07-HIL",
+                "ftm_eid": 45378856,
+                "votesmart_id": 185326,
+                "opensecrets_id": "",
+                "knowwho_pid": 670399,
+                "ballotpedia": "Sue_Mullen",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2267356,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB108/id/2267356",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=858&txtFormat=html",
+                "text_size": 24342,
+                "text_hash": "9727fe126de9c2a5580fe763e7d31fb0"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1022821,
+                "date": "2021-03-04",
+                "desc": "Rereferred",
+                "yea": 12,
+                "nay": 12,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 0,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB108/id/1022821",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=96&sy=2021&lb=S&eb=SB0108&sortoption=&txtsessionyear=2021&txtbillnumber=SB108&ddlsponsors=&lsr=867"
+            },
+            {
+                "roll_call_id": 1022822,
+                "date": "2021-03-04",
+                "desc": "Reconsideration",
+                "yea": 24,
+                "nay": 0,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB108/id/1022822",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=97&sy=2021&lb=S&eb=SB0108&sortoption=&txtsessionyear=2021&txtbillnumber=SB108&ddlsponsors=&lsr=867"
+            },
+            {
+                "roll_call_id": 1022823,
+                "date": "2021-03-04",
+                "desc": "Rereferred",
+                "yea": 11,
+                "nay": 13,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 0,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB108/id/1022823",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=98&sy=2021&lb=S&eb=SB0108&sortoption=&txtsessionyear=2021&txtbillnumber=SB108&ddlsponsors=&lsr=867"
+            },
+            {
+                "roll_call_id": 1022824,
+                "date": "2021-03-04",
+                "desc": "Inexpedient to Legislate",
+                "yea": 14,
+                "nay": 10,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB108/id/1022824",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=99&sy=2021&lb=S&eb=SB0108&sortoption=&txtsessionyear=2021&txtbillnumber=SB108&ddlsponsors=&lsr=867"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": []
+    }
+}

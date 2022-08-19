@@ -1,0 +1,183 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1395671,
+        "change_hash": "e928c2583a720daf9c5f2c9a129affde",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB316/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=406&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB316",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-09",
+        "progress": [
+            {
+                "date": "2021-01-09",
+                "event": 1
+            },
+            {
+                "date": "2021-01-09",
+                "event": 9
+            },
+            {
+                "date": "2021-03-02",
+                "event": 11
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB316",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Requiring a person issued a summons to remain of good behavior.",
+        "description": "Requiring a person issued a summons to remain of good behavior.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-09",
+                "committee_id": 1239,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Criminal Justice and Public Safety"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-09",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Criminal Justice and Public Safety House Journal  2 P. 43",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-26",
+                "action": "Public Hearing: 02/26/2021 01:45 pm Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/92701022260 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-02",
+                "action": "Committee Report: Inexpedient to Legislate (Vote 21-0; Consent Calendar) House Calendar 18 P. 6",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Inexpedient to Legislate: Motion Adopted Voice Vote 04/07/2021 House Journal  5 P. 7",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Reconsider (Rep. Osborne): Motion Failed Voice Vote 04/07/2021 House Journal  5 P. 50",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 18802,
+                "person_hash": "mzg77iv9",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Dave Testerman",
+                "first_name": "Dave",
+                "middle_name": "",
+                "last_name": "Testerman",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-02-MER",
+                "ftm_eid": 41757550,
+                "votesmart_id": 172475,
+                "opensecrets_id": "",
+                "knowwho_pid": 587505,
+                "ballotpedia": "Dave_Testerman",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18167,
+                "person_hash": "gbz9mi50",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "William Marsh",
+                "first_name": "William",
+                "middle_name": "M.",
+                "last_name": "Marsh",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-17-ROC",
+                "ftm_eid": 6483516,
+                "votesmart_id": 65293,
+                "opensecrets_id": "",
+                "knowwho_pid": 587047,
+                "ballotpedia": "William_Marsh",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2232818,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB316/id/2232818",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=395&txtFormat=html",
+                "text_size": 10357,
+                "text_hash": "7c3b42bad016d2df8cb6ba51a773aca8"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-26",
+                "time": "13:45",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Criminal Justice and Public Safety Public Hearing"
+            }
+        ],
+        "full_text": "summons instead of arrest amend rsa i to read as follows in any case in which it is lawful for a peace officer to arrest without a warrant a person for a misdemeanor or violation he or she may instead issue to the person in hand a written summons in substantially the following form the state of new hampshire to you are hereby notified to appear before the circuit court of the state of new hampshire district division to be holden in on the day of at o clock in the forenoon afternoon to answer to a complaint to be filed in said court charging you with in violation of the laws of the state of new hampshire if you are charged with a class a misdemeanor or felony and you want a lawyer to represent you at the arraignment and throughout your case but you cannot afford to hire a lawyer you must fill out an application for counsel and deliver it to the circuit court identified above as soon as possible the court will appoint an attorney to represent you if your application shows that you are eligible if you believe that you are eligible for appointed counsel you may apply prior to your arraignment hereof fail not as you will answer your default under the penalty of the law in that behalf made and provided pending appearance as described herein you shall remain of good behavior dated at name the day of title upon failure to appear or to remain of good behavior a warrant of arrest may issue any person who fails to remain of good behavior or appear in answer to such summons shall be guilty of a misdemeanor"
+    }
+}

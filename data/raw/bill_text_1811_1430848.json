@@ -1,0 +1,383 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1430848,
+        "change_hash": "9796b02247e84ba527b53c30167c1699",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/SB110/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=609&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=SB110",
+        "completed": 0,
+        "status": 2,
+        "status_date": "2021-03-31",
+        "progress": [
+            {
+                "date": "2021-01-29",
+                "event": 1
+            },
+            {
+                "date": "2021-01-29",
+                "event": 9
+            },
+            {
+                "date": "2021-03-11",
+                "event": 10
+            },
+            {
+                "date": "2021-03-31",
+                "event": 2
+            },
+            {
+                "date": "2021-03-31",
+                "event": 9
+            },
+            {
+                "date": "2021-05-05",
+                "event": 11
+            },
+            {
+                "date": "2021-05-05",
+                "event": 10
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "SB110",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "S",
+        "body_id": 68,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to animals in motor vehicles.",
+        "description": "Relative to animals in motor vehicles.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-29",
+                "committee_id": 1273,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Judiciary"
+            },
+            {
+                "date": "2021-03-31",
+                "committee_id": 1239,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Criminal Justice and Public Safety"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-29",
+                "action": "Introduced 01/06/2021 and Referred to Judiciary; Senate Journal 3",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-04",
+                "action": "Remote Hearing: 02/09/2021, 01:00 pm; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  10",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-11",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-0761s, 03/18/2021; Vote 5-0; Consent Calendar; Senate Calendar  15",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-18",
+                "action": "Committee Amendment # 2021-0761s, Regular Calendar 23Y-1N, Amendment Adopted; 03/18/2021; Senate Journal 8",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-18",
+                "action": "Ought to Pass with Amendment 2021-0761s, Regular Calendar 23Y-1N, Motion Adopted; OT3rdg; 03/18/2021; Senate Journal 8",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-31",
+                "action": "Introduced (in recess of) 02/25/2021 and referred to Criminal Justice and Public Safety House Journal  4 P. 50",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-14",
+                "action": "Public Hearing: 04/21/2021 09:45 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/93366148832 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-05",
+                "action": "Majority Committee Report: Inexpedient to Legislate (Vote 16-5; Regular Calendar) House Calendar 26 P. 17",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-05-05",
+                "action": "Minority Committee Report: Ought to Pass",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-06-03",
+                "action": "Lay on Table (Rep. Abbas): Motion Adopted DV 210-158 06/03/2021 House Journal  8 P. 93",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 14488,
+                "person_hash": "elsfgcmi",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Thomas Sherman",
+                "first_name": "Thomas",
+                "middle_name": "",
+                "last_name": "Sherman",
+                "suffix": "",
+                "nickname": "Tom",
+                "district": "SD-024",
+                "ftm_eid": 13703813,
+                "votesmart_id": 141784,
+                "opensecrets_id": "",
+                "knowwho_pid": 426683,
+                "ballotpedia": "Tom_Sherman",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4958,
+                "person_hash": "2po1aje7",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "David Watters",
+                "first_name": "David",
+                "middle_name": "H.",
+                "last_name": "Watters",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-004",
+                "ftm_eid": 6494743,
+                "votesmart_id": 110047,
+                "opensecrets_id": "",
+                "knowwho_pid": 269494,
+                "ballotpedia": "David_Watters",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 17477,
+                "person_hash": "1zeltkcr",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "William Gannon",
+                "first_name": "William",
+                "middle_name": "M.",
+                "last_name": "Gannon",
+                "suffix": "",
+                "nickname": "Bill",
+                "district": "SD-023",
+                "ftm_eid": 1161567,
+                "votesmart_id": 154540,
+                "opensecrets_id": "",
+                "knowwho_pid": 502121,
+                "ballotpedia": "William_Gannon",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4775,
+                "person_hash": "kswslwpv",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Sharon Carson",
+                "first_name": "Sharon",
+                "middle_name": "",
+                "last_name": "Carson",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-014",
+                "ftm_eid": 6593753,
+                "votesmart_id": 42537,
+                "opensecrets_id": "",
+                "knowwho_pid": 208650,
+                "ballotpedia": "Sharon_Carson",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4871,
+                "person_hash": "w5q7sakl",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "John Reagan",
+                "first_name": "John",
+                "middle_name": "",
+                "last_name": "Reagan",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-017",
+                "ftm_eid": 737365,
+                "votesmart_id": 65169,
+                "opensecrets_id": "",
+                "knowwho_pid": 250155,
+                "ballotpedia": "John_Reagan",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18127,
+                "person_hash": "kl3fp6h1",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Ellen Read",
+                "first_name": "Ellen",
+                "middle_name": "",
+                "last_name": "Read",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-16-ROC",
+                "ftm_eid": 6494587,
+                "votesmart_id": 172683,
+                "opensecrets_id": "",
+                "knowwho_pid": 587693,
+                "ballotpedia": "Ellen_Read",
+                "sponsor_type_id": 2,
+                "sponsor_order": 6,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18445,
+                "person_hash": "u7g5blau",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Kate Murray",
+                "first_name": "Kate",
+                "middle_name": "",
+                "last_name": "Murray",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-24-ROC",
+                "ftm_eid": 9724127,
+                "votesmart_id": 172694,
+                "opensecrets_id": "",
+                "knowwho_pid": 587707,
+                "ballotpedia": "Kate_Murray",
+                "sponsor_type_id": 2,
+                "sponsor_order": 7,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2267358,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB110/id/2267358",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=632&txtFormat=html",
+                "text_size": 8482,
+                "text_hash": "2b842d30778757341977aacef19f9941"
+            },
+            {
+                "doc_id": 2340255,
+                "date": "2021-03-18",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB110/id/2340255",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=SA&id=632",
+                "text_size": 8555,
+                "text_hash": "8339885f17a9b00a8650a10603f98fbe"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-04-21",
+                "time": "09:45",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Criminal Justice and Public Safety Public Hearing"
+            }
+        ],
+        "full_text": "animals in motor vehicles amend rsa iii and iv to read as follows a any law enforcement officer or agent of a licensed humane organization may take action necessary to rescue a confined animal endangered by extreme temperatures and to remove the threat of further serious harm b any individual may take action to rescue an animal confined within a vehicle endangered by extreme temperatures provided that such actions are expressly authorized by a law enforcement officer and witnessed by another individual no officer authorized individual or agent taking action under paragraph iii shall be liable for damage reasonably necessary to rescue the confined animal"
+    }
+}

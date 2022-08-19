@@ -1,0 +1,261 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1396515,
+        "change_hash": "f6a5b08af4f1ba6153c06808f855169a",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB391/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=475&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB391",
+        "completed": 0,
+        "status": 2,
+        "status_date": "2021-04-13",
+        "progress": [
+            {
+                "date": "2021-01-10",
+                "event": 1
+            },
+            {
+                "date": "2021-01-10",
+                "event": 9
+            },
+            {
+                "date": "2021-02-17",
+                "event": 10
+            },
+            {
+                "date": "2021-04-13",
+                "event": 2
+            },
+            {
+                "date": "2021-04-13",
+                "event": 9
+            },
+            {
+                "date": "2021-05-25",
+                "event": 10
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB391",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Establishing a commission to review and make recommendations on campaign finance laws.",
+        "description": "Establishing a commission to review and make recommendations on campaign finance laws.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-10",
+                "committee_id": 1241,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Election Law"
+            },
+            {
+                "date": "2021-04-13",
+                "committee_id": 3825,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Election Law and Municipal Affairs"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-10",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Election Law House Journal  2 P. 45",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-27",
+                "action": "Public Hearing: 02/05/2021 01:00 pm Members of the public may attend using the following link:To join the webinar: https://zoom.us/j/93640014012 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initiallyconvened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-03",
+                "action": "Executive Session: 02/12/2021 01:30 pm Members of the public may attend using the following link:To join the webinar: https://zoom.us/j/95709405955",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-17",
+                "action": "Committee Report: Ought to Pass (Vote 11-9; Regular Calendar) House Calendar 12 P. 29",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-25",
+                "action": "Special Order to Regular Calendar of next Session day Without Objection House Journal  4 P. 46",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-08",
+                "action": "Ought to Pass: Motion Adopted Regular Calendar 202-167 04/08/2021 House Journal  6 P. 61",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-13",
+                "action": "Introduced 04/08/2021 and Referred to Election Law and Municipal Affairs; Senate Journal 12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-05-04",
+                "action": "Remote Hearing: 05/10/2021, 09:15 am; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  23",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-25",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-1683s, 05/27/2021; Vote 5-0; Consent Calendar; Senate Calendar  25A",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-05-27",
+                "action": "Committee Amendment # 2021-1683s, Amendment Adopted, Voice Vote; 05/27/2021; Senate Journal 17",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-27",
+                "action": "Ought to Pass with Amendment 2021-1683s, Motion Adopted, Voice Vote; OT3rdg; 05/27/2021; Senate Journal 17",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-10",
+                "action": "House Non-Concurs with Senate Amendment 2021-1683s (Rep. B. Griffin): Motion Adopted DV 192-166 06/10/2021 House Journal  10 P. 9",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 18153,
+                "person_hash": "h6wcnlm4",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Jess Edwards",
+                "first_name": "Jess",
+                "middle_name": "",
+                "last_name": "Edwards",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-11-HIL",
+                "ftm_eid": 25005737,
+                "votesmart_id": 172496,
+                "opensecrets_id": "",
+                "knowwho_pid": 587584,
+                "ballotpedia": "Jess_Edwards",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2235020,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB391/id/2235020",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=482&txtFormat=html",
+                "text_size": 9515,
+                "text_hash": "e7c95037164e25f012079bc68db61c4e"
+            },
+            {
+                "doc_id": 2405770,
+                "date": "2021-05-27",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB391/id/2405770",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=SA&id=482",
+                "text_size": 12777,
+                "text_hash": "8cf438befa40be361063536dc37bdf4e"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1049703,
+                "date": "2021-04-08",
+                "desc": "OTP",
+                "yea": 202,
+                "nay": 167,
+                "nv": 29,
+                "absent": 0,
+                "total": 398,
+                "passed": 1,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/HB391/id/1049703",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=107&sy=2021&lb=H&eb=HB0391&sortoption=&txtsessionyear=2021&txtbillnumber=HB391&ddlsponsors=&lsr=475"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-05",
+                "time": "13:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Election Law Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-12",
+                "time": "13:30",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Election Law Executive Session"
+            }
+        ],
+        "full_text": "commission established there is established a commission to review and make recommendations on campaign finance laws of the state of new hampshire the members of the commission shall be as follows a two members of the senate election law and municipal affairs committee one from the majority appointed by the president of the senate and one from the minority nominated by the senate minority leader and appointed by the president of the senate b three members of the house of representatives election law committee from the majority appointed by the speaker of the house of representatives and one from the minority nominated by the minority leader of the house of representatives and appointed by the speaker of the house of representatives c the attorney general or designee d the secretary of state or designee legislative members of the commission shall receive mileage at the legislative rate when attending to the duties of the commission the commission shall during at least one of its meetings seek comment from individuals representing the major political parties regarding their concerns and or issues with existing campaign finance laws the commission shall solicit input and receive public testimony from any person or independent organizations that participate in the election process the commission shall review and make specific recommendations on the following items a existing campaign finance laws and any inconsistencies that may exist therein b determining whether state campaign finance laws differ from current federal campaign finance laws c making legislative recommendations to streamline and improve the current process in an effort to balance transparency and reporting requirements for both candidates and political committees d providing direction and clarity for those committees that have local reporting requirements in addition to the state reporting requirements the members of the study commission shall elect a chairperson from among the members the first meeting of the commission shall be called by the senate member the first meeting of the commission shall be held within days of the effective date of this section four members of the commission shall constitute a quorum the commission shall report its findings and any recommendations for proposed legislation to the president of the senate the speaker of the house of representatives the senate election law and municipal affairs committee and the house election law committee on or before june the report shall describe the activities and findings of the commission and recommendations for proposed legislation and rulemaking by relevant agencies prospective repeal rsa relative to the commission to review and make recommendations on campaign finance laws is repealed the remainder of this act shall take effect upon its passage"
+    }
+}

@@ -1,0 +1,448 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1393003,
+        "change_hash": "b534fb8baf09995a8221d7073f99f7b2",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB196/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=362&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB196",
+        "completed": 0,
+        "status": 2,
+        "status_date": "2021-04-13",
+        "progress": [
+            {
+                "date": "2021-01-04",
+                "event": 1
+            },
+            {
+                "date": "2021-01-04",
+                "event": 9
+            },
+            {
+                "date": "2021-03-23",
+                "event": 10
+            },
+            {
+                "date": "2021-03-23",
+                "event": 11
+            },
+            {
+                "date": "2021-04-13",
+                "event": 2
+            },
+            {
+                "date": "2021-04-13",
+                "event": 9
+            },
+            {
+                "date": "2021-05-25",
+                "event": 9
+            },
+            {
+                "date": "2021-05-27",
+                "event": 9
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB196",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "S",
+        "current_body_id": 68,
+        "title": "Adding trespass as an exception to the charge of criminal threatening.",
+        "description": "Adding trespass as an exception to the charge of criminal threatening.",
+        "pending_committee_id": 1273,
+        "committee": {
+            "committee_id": 1273,
+            "chamber": "S",
+            "chamber_id": 68,
+            "name": "Judiciary"
+        },
+        "referrals": [
+            {
+                "date": "2021-01-04",
+                "committee_id": 1239,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Criminal Justice and Public Safety"
+            },
+            {
+                "date": "2021-04-13",
+                "committee_id": 1273,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Judiciary"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-04",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Criminal Justice and Public Safety House Journal  2 P. 38",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-03",
+                "action": "Public Hearing: 03/03/2021 03:15 pm Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/96477061090 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-23",
+                "action": "Majority Committee Report: Ought to Pass with Amendment # 2021-0758h (Vote 11-10; Regular Calendar) House Calendar 18 P. 35",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-23",
+                "action": "Minority Committee Report: Inexpedient to Legislate",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Amendment # 2021-0758h: Amendment Adopted Regular Calendar 203-164 04/07/2021 House Journal  5 P. 143",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Ought to Pass with Amendment 2021-0758h: Motion Adopted Regular Calendar 208-159 04/07/2021 House Journal  5 P. 143",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-13",
+                "action": "Introduced 04/08/2021 and Referred to Judiciary; Senate Journal 12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-05-06",
+                "action": "Remote Hearing: 05/10/2021, 01:00 pm; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  23",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-25",
+                "action": "Committee Report: Rereferred to Committee, 05/27/2021; Vote 5-0; Consent Calendar; Senate Calendar  25A",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-05-27",
+                "action": "Rereferred to Committee, Motion Adopted, Voice Vote; 05/27/2021; Senate Journal 17",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 19788,
+                "person_hash": "u64uxl45",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Michael Yakubovich",
+                "first_name": "Michael",
+                "middle_name": "",
+                "last_name": "Yakubovich",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-24-MER",
+                "ftm_eid": 45378987,
+                "votesmart_id": 185288,
+                "opensecrets_id": "",
+                "knowwho_pid": 670727,
+                "ballotpedia": "Michael_Yakubovich",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19144,
+                "person_hash": "jfm12os5",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "David Binford",
+                "first_name": "David",
+                "middle_name": "W.",
+                "last_name": "Binford",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-15-GRA",
+                "ftm_eid": 41757478,
+                "votesmart_id": 172601,
+                "opensecrets_id": "",
+                "knowwho_pid": 587150,
+                "ballotpedia": "David_W._Binford",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19877,
+                "person_hash": "fuqaltb9",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Terry Roy",
+                "first_name": "Terry",
+                "middle_name": "",
+                "last_name": "Roy",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-32-ROC",
+                "ftm_eid": 45378923,
+                "votesmart_id": 185521,
+                "opensecrets_id": "",
+                "knowwho_pid": 670768,
+                "ballotpedia": "Terry_Roy",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19824,
+                "person_hash": "8ya6utb2",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Tony Lekas",
+                "first_name": "Tony",
+                "middle_name": "",
+                "last_name": "Lekas",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-37-HIL",
+                "ftm_eid": 9794125,
+                "votesmart_id": 54877,
+                "opensecrets_id": "",
+                "knowwho_pid": 670662,
+                "ballotpedia": "Tony_Lekas",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21863,
+                "person_hash": "xojju4ii",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Jennifer Rhodes",
+                "first_name": "Jennifer",
+                "middle_name": "",
+                "last_name": "Rhodes",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-15-CHE",
+                "ftm_eid": 50226849,
+                "votesmart_id": 194753,
+                "opensecrets_id": "",
+                "knowwho_pid": 744159,
+                "ballotpedia": "Jennifer_Rhodes",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19819,
+                "person_hash": "8zx0v085",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Judy Aron",
+                "first_name": "Judy",
+                "middle_name": "",
+                "last_name": "Aron",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-07-SUL",
+                "ftm_eid": 45378624,
+                "votesmart_id": 185539,
+                "opensecrets_id": "",
+                "knowwho_pid": 670808,
+                "ballotpedia": "Judy_Aron",
+                "sponsor_type_id": 2,
+                "sponsor_order": 6,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19792,
+                "person_hash": "a2u2ftfn",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Tony Piemonte",
+                "first_name": "Tony",
+                "middle_name": "",
+                "last_name": "Piemonte",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-04-ROC",
+                "ftm_eid": 45378892,
+                "votesmart_id": 185304,
+                "opensecrets_id": "",
+                "knowwho_pid": 670610,
+                "ballotpedia": "Tony_Piemonte",
+                "sponsor_type_id": 2,
+                "sponsor_order": 7,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 10924,
+                "person_hash": "n896l4e6",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Debra DeSimone",
+                "first_name": "Debra",
+                "middle_name": "L.",
+                "last_name": "DeSimone",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-14-ROC",
+                "ftm_eid": 6677758,
+                "votesmart_id": 110064,
+                "opensecrets_id": "",
+                "knowwho_pid": 269435,
+                "ballotpedia": "Debra_DeSimone",
+                "sponsor_type_id": 2,
+                "sponsor_order": 8,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2227305,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB196/id/2227305",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=354&txtFormat=html",
+                "text_size": 8533,
+                "text_hash": "ac9639756a1c1bf6736392cf3e8edee9"
+            },
+            {
+                "doc_id": 2359300,
+                "date": "2021-04-07",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB196/id/2359300",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=HA&id=354",
+                "text_size": 8301,
+                "text_hash": "2e348e86fbb4811c4b8f5fd596af30be"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1048920,
+                "date": "2021-04-07",
+                "desc": "Adopt Amendment",
+                "yea": 203,
+                "nay": 164,
+                "nv": 9,
+                "absent": 22,
+                "total": 398,
+                "passed": 1,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/HB196/id/1048920",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=86&sy=2021&lb=H&eb=HB0196&sortoption=&txtsessionyear=2021&txtbillnumber=HB196&ddlsponsors=&lsr=362"
+            },
+            {
+                "roll_call_id": 1048921,
+                "date": "2021-04-07",
+                "desc": "OTPA",
+                "yea": 208,
+                "nay": 159,
+                "nv": 9,
+                "absent": 22,
+                "total": 398,
+                "passed": 1,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/HB196/id/1048921",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=87&sy=2021&lb=H&eb=HB0196&sortoption=&txtsessionyear=2021&txtbillnumber=HB196&ddlsponsors=&lsr=362"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-03",
+                "time": "15:15",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Criminal Justice and Public Safety Public Hearing"
+            }
+        ]
+    }
+}

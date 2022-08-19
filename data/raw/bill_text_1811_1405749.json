@@ -1,0 +1,249 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1405749,
+        "change_hash": "36ad8134a6454831d6d2d5eea874de55",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB602/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=568&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB602",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-13",
+        "progress": [
+            {
+                "date": "2021-01-13",
+                "event": 1
+            },
+            {
+                "date": "2021-01-13",
+                "event": 9
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB602",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to reimbursements for telemedicine.",
+        "description": "Relative to reimbursements for telemedicine.",
+        "pending_committee_id": 1249,
+        "committee": {
+            "committee_id": 1249,
+            "chamber": "H",
+            "chamber_id": 67,
+            "name": "Health, Human Services & Elderly Affairs"
+        },
+        "referrals": [
+            {
+                "date": "2021-01-13",
+                "committee_id": 1249,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Health, Human Services & Elderly Affairs"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-13",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Health, Human Services and Elderly Affairs House Journal  2 P. 56",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-27",
+                "action": "==CANCELLED== Public Hearing: 02/02/2021 09:30 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/91285911171 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-08",
+                "action": "Public Hearing: 03/08/2021 10:00 am Members of the public may attend using the following link: To join the webinar: https://www.zoom.us/j/99826124489 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-09",
+                "action": "Retained in Committee",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-09-08",
+                "action": "Subcommittee Work Session: 10/06/2021 02:00 pm Legislative Office Building 205",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-10-13",
+                "action": "Executive Session: 10/26/2021 09:30 am Legislative Office Building 205-207",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 18153,
+                "person_hash": "h6wcnlm4",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Jess Edwards",
+                "first_name": "Jess",
+                "middle_name": "",
+                "last_name": "Edwards",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-11-HIL",
+                "ftm_eid": 25005737,
+                "votesmart_id": 172496,
+                "opensecrets_id": "",
+                "knowwho_pid": 587584,
+                "ballotpedia": "Jess_Edwards",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 17486,
+                "person_hash": "e864jck9",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Jason Osborne",
+                "first_name": "Jason",
+                "middle_name": "",
+                "last_name": "Osborne",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-04-ROC",
+                "ftm_eid": 25005584,
+                "votesmart_id": 154541,
+                "opensecrets_id": "",
+                "knowwho_pid": 501770,
+                "ballotpedia": "Jason_Osborne_(New_Hampshire)",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4896,
+                "person_hash": "mtn0aneh",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "John Hunt",
+                "first_name": "John",
+                "middle_name": "B.",
+                "last_name": "Hunt",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-11-CHE",
+                "ftm_eid": 6594796,
+                "votesmart_id": 8051,
+                "opensecrets_id": "",
+                "knowwho_pid": 197041,
+                "ballotpedia": "John_Hunt_(New_Hampshire)",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2269555,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB602/id/2269555",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=551&txtFormat=html",
+                "text_size": 26740,
+                "text_hash": "6c5a8b57afadd91ef0b27d20ef51d56d"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-02",
+                "time": "09:30",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Health, Human Services and Elderly Affairs Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-02",
+                "time": "09:30",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "(CANCELLED) Health, Human Services and Elderly Affairs Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-08",
+                "time": "10:00",
+                "location": "Members of the public may attend using the following link: To jo",
+                "description": "Health, Human Services and Elderly Affairs Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-10-06",
+                "time": "14:00",
+                "location": "Legislative Office Building 205",
+                "description": "Health, Human Services and Elderly Affairs Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-10-26",
+                "time": "09:30",
+                "location": "Legislative Office Building 205-207",
+                "description": "Health, Human Services and Elderly Affairs Executive Session"
+            }
+        ],
+        "full_text": "medicaid program reimbursement amend rsa iii b and c to read as follows b the medicaid program shall provide coverage and reimbursement for health care services provided through tele medicine on the same basis as the medicaid program provides coverage and reimbursement for health care services provided in person c the combined amount of reimbursement that the medicaid program allows for the compensation to the distant site and the originating site shall not be less be no greater than that the total amount allowed for health care services provided in person medicaid program reimbursement amend rsa iii e to read as follows e the medicaid program shall provide reimbursement for all modes of telehealth including video and audio or other electronic media provided by medical providers to treat all members for all medically necessary services telemedicine definition amend rsa iii to read as follows telemedicine as it pertains to the delivery of health care services means the use of audio video or other electronic media for the purpose of diagnosis consultation or treatment telemedicine does not include the use of telephone or facsimile telemedicine insurance coverage amend rsa iii to read as follows an insurer offering a health plan in this state shall provide coverage and reimbursement for health care services provided through telemedicine on the same basis as the insurer provides coverage and reimbursement for health care services provided in person compensation limit amend rsa v to read as follows the combined amount of reimbursement that a health benefit plan allows for the compensation to the distant site and the originating site shall be the same as no greater than the total amount allowed for health care services provided in person reimbursement telehealth amend rsa xi to read as follows an insurer shall provide reimbursement for all modes of telehealth including video and audio or other electronic media provided by medical providers to treat all members for all medically necessary services medical providers telehealth amend the introductory paragraph of rsa xii to read as follows the following medical providers shall be allowed to perform health care services through the use of all modes of telehealth including video and audio or other electronic media medical providers include but are not limited to telemedicine definition amend rsa i to read as follows telemedicine means the use of audio video or other electronic media for the purpose of diagnosis consultation or treatment telemedicine shall not include the use of telephone or facsimile telemedicine definition amend rsa xii a to read as follows a telemedicine means the use of audio video or other electronic media for the purpose of diagnosis consultation or treatment telemedicine shall not include the use of telephone or facsimile hearing care providers telemedicine definition amend rsa to read as follows services provided by telemedicine persons licensed by the board shall be permitted to provide services through the use of telemedicine telemedicine means the use of audio video or other electronic media for the purpose of diagnosis consultation or treatment telemedicine shall not include the use of telephone or facsimile podiatry telemedicine defined amend rsa to read as follows services provided by telemedicine persons licensed by the board shall be permitted to provide services through the use of telemedicine telemedicine means the use of audio video or other electronic media for the purpose of diagnosis consultation or treatment telemedicine shall not include the use of telephone or facsimile chiropractic examiners telemedicine definition amend rsa to read as follows services provided by telemedicine persons licensed by the board shall be permitted to provide services through the use of telemedicine telemedicine means the use of audio video or other electronic media for the purpose of diagnosis consultation or treatment telemedicine shall not include the use of telephone or facsimile midwivery telemedicine definition amend rsa to read as follows telemedicine a midwife certified under this chapter shall be permitted to provide services through the use of telemedicine telemedicine means the use of audio video or other electronic media for the purpose of diagnosis consultation or treatment telemedicine shall not include the use of telephone or facsimile optometry telemedicine definition amend rsa to read as follows telemedicine means the use of audio video or other electronic media for the purpose of diagnosis consultation or treatment telemedicine shall not include the use of telephone or facsimile naturopathic medicine telemedicine definition amend rsa vi to read as follows doctors of naturopathic medicine shall be permitted to provide services through the use of telemedicine telemedicine means the use of audio video or other electronic media for the purpose of diagnosis consultation or treatment telemedicine shall not include the use of telephone or facsimile allied health professionals telemedicine definition amend rsa to read as follows telemedicine persons licensed by governing boards under this chapter shall be permitted to provide services through the use of telemedicine telemedicine means the use of audio video or other electronic media for the purpose of diagnosis consultation or treatment telemedicine shall not include the use of telephone or facsimile acupuncture telemedicine definition amend rsa v to read as follows persons licensed by the board to practice acupuncture shall be permitted to provide services through the use of telemedicine telemedicine means the use of audio video or other electronic media for the purpose of diagnosis consultation or treatment telemedicine shall not include the use of telephone or facsimile psychologists telemedicine definition amend rsa i to read as follows persons licensed by the board shall be permitted to provide services through the use of telemedicine telemedicine means the use of audio video or other electronic media for the purpose of diagnosis consultation or treatment telemedicine shall not include the use of telephone or facsimile mental health practice telemedicine definition amend rsa to read as follows telemedicine persons licensed by the board shall be permitted to provide services through the use of telemedicine telemedicine means the use of audio video or other electronic media for the purpose of diagnosis consultation or treatment telemedicine shall not include the use of telephone or facsimile alcohol and other drug use professionals telemedicine definition amend rsa to read as follows telemedicine persons licensed by the board shall be permitted to provide services through the use of telemedicine telemedicine means the use of audio video or other electronic media for the purpose of diagnosis consultation or treatment telemedicine shall not include the use of telephone or facsimile opthalmic dispensers telemedicine definition amend rsa to read as follows telemedicine registered ophthalmic dispensers shall be permitted to provide services through the use of telemedicine telemedicine means the use of audio video or other electronic media for the purpose of diagnosis consultation or treatment telemedicine shall not include the use of telephone or facsimile licensed pharmacists telemedicine definition amend rsa to read as follows telemedicine persons licensed by the board shall be permitted to provide services through the use of telemedicine telemedicine means the use of audio video or other electronic media for the purpose of diagnosis consultation or treatment telemedicine shall not include the use of telephone or facsimile board of registration of medical technicians telemedicine definition amend rsa to read as follows telemedicine medical technicians registered by the board shall be permitted to provide services through the use of telemedicine telemedicine means the use of audio video or other electronic media for the purpose of diagnosis consultation or treatment telemedicine shall not include the use of telephone or facsimile medical imaging and radiation therapy telemedicine definition amend rsa to read as follows telemedicine persons licensed by the board shall be permitted to provide services through the use of telemedicine telemedicine means the use of audio video or other electronic media for the purpose of diagnosis consultation or treatment telemedicine shall not include the use of telephone or facsimile dentists and dentistry telemedicine definition amend rsa to read as follows telemedicine persons licensed by the board shall be permitted to provide services through the use of telemedicine telemedicine means the use of audio video or other electronic media for the purpose of diagnosis consultation or treatment telemedicine shall not include the use of telephone or facsimile"
+    }
+}

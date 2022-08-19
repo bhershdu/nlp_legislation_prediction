@@ -1,0 +1,67 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1393000,
+        "change_hash": "c9707054e0af771c33c0d7ede0616f61",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/SR5/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=577&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=SR5",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2020-12-02",
+        "progress": [
+            {
+                "date": "2020-12-02",
+                "event": 1
+            },
+            {
+                "date": "2020-12-02",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "SR5",
+        "bill_type": "R",
+        "bill_type_id": "2",
+        "body": "S",
+        "body_id": 68,
+        "current_body": "S",
+        "current_body_id": 68,
+        "title": "RESOLVED, that the Senate meet in Joint Convention with the House of Representatives for the purpose of electing the Secretary of State and the State Treasurer.",
+        "description": "RESOLVED, that the Senate meet in Joint Convention with the House of Representatives for the purpose of electing the Secretary of State and the State Treasurer.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [],
+        "history": [
+            {
+                "date": "2020-12-02",
+                "action": "Introduced and Adopted, Voice Vote; 12/02/2020; Senate Journal 1",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            }
+        ],
+        "sponsors": [],
+        "sasts": [],
+        "subjects": [],
+        "texts": [],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": []
+    }
+}

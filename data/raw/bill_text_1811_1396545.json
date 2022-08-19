@@ -1,0 +1,245 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1396545,
+        "change_hash": "2b95a7fbd3659c0c78dd9aee6bf3c36f",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB339/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=262&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB339",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-09",
+        "progress": [
+            {
+                "date": "2021-01-09",
+                "event": 1
+            },
+            {
+                "date": "2021-01-09",
+                "event": 9
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB339",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Establishing a committee to study air quality in school buildings.",
+        "description": "Establishing a committee to study air quality in school buildings.",
+        "pending_committee_id": 1240,
+        "committee": {
+            "committee_id": 1240,
+            "chamber": "H",
+            "chamber_id": 67,
+            "name": "Education"
+        },
+        "referrals": [
+            {
+                "date": "2021-01-09",
+                "committee_id": 1240,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Education"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-09",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Education House Journal  2 P. 44",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-02",
+                "action": "Public Hearing: 03/02/2021 11:15 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/97910276071 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-11",
+                "action": "Executive Session: 03/11/2021 09:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/95090800832",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-11",
+                "action": "Retained in Committee",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-08-16",
+                "action": "Subcommittee Work Session: 09/01/2021 10:00 am Legislative Office Building 207",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-09-08",
+                "action": "Subcommittee Work Session: 09/22/2021 01:00 pm Legislative Office Building 206-208",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-09-24",
+                "action": "Subcommittee Work Session: 10/13/2021 01:00 pm Legislative Office Building 205-207",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-10-05",
+                "action": "Executive Session: 11/09/2021 09:30 am Legislative Office Building 205-207",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 19475,
+                "person_hash": "p9mlth9z",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Brian Sullivan",
+                "first_name": "Brian",
+                "middle_name": "M.",
+                "last_name": "Sullivan",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-01-SUL",
+                "ftm_eid": 14018516,
+                "votesmart_id": 176610,
+                "opensecrets_id": "",
+                "knowwho_pid": 644912,
+                "ballotpedia": "Brian_Sullivan_(New_Hampshire)",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4955,
+                "person_hash": "ivx9pciv",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Dianne Schuett",
+                "first_name": "Dianne",
+                "middle_name": "E.",
+                "last_name": "Schuett",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-20-MER",
+                "ftm_eid": 6494657,
+                "votesmart_id": 109892,
+                "opensecrets_id": "",
+                "knowwho_pid": 269368,
+                "ballotpedia": "Dianne_Schuett",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2232765,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB339/id/2232765",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=261&txtFormat=html",
+                "text_size": 12852,
+                "text_hash": "35c905720702c8815c449980933f3613"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-02",
+                "time": "11:15",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Education Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-11",
+                "time": "09:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Education Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-09-01",
+                "time": "10:00",
+                "location": "Legislative Office Building 207",
+                "description": "Education Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-09-22",
+                "time": "13:00",
+                "location": "Legislative Office Building 206-208",
+                "description": "Education Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-10-13",
+                "time": "13:00",
+                "location": "Legislative Office Building 205-207",
+                "description": "Education Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-11-09",
+                "time": "09:30",
+                "location": "Legislative Office Building 205-207",
+                "description": "Education Executive Session"
+            }
+        ],
+        "full_text": "committee established there is established a committee to study new hampshire school building air quality and recommend policies to improve school environmental factors and related considerations that influence chronic absenteeism academic performance and and health performance indicators membership and compensation the members of the committee shall be as follows a three members of the house of representatives appointed by the speaker of the house of representatives b three members of the senate appointed by the president of the senate members of the committee shall receive mileage at the legislative rate when attending to the duties of the committee the committee shall solicit the testimony of any person it deems relevant to its study including a the commissioner of the department of education or designee b the commissioner of the department of health and human services or designee c the president of the or designee d the president of or designee e the president of the new hampshire school nurses association or designee f the president of the new hampshire school administrators association or designee g the president of the new hampshire school boards association or designee duties the committee shall review the history of environmental and air quality incidents that have affected new hampshire schools review the status of new hampshire schools ability to provide adequate ventilation to reduce the transmission of airborne pathogens research the effect of air quality in new hampshire school buildings on student success and safety review current new hampshire laws and rules relative to environmental and air quality in schools review current laws and rules relative to environmental and air quality in schools in other states recommend changes to current laws and rules to reduce environmental factors that could negatively affect students and staff chairperson quorum the members of the study committee shall elect a chairperson from among the members the first meeting of the committee shall be called by the house member the first meeting of the committee shall be held within days of the effective date of this section four members of the committee shall constitute a quorum report the committee shall report its findings and any recommendations for proposed legislation to the speaker of the house of representatives the president of the senate the house clerk the senate clerk the governor and the state library on or before november"
+    }
+}

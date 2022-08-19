@@ -1,0 +1,232 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1393080,
+        "change_hash": "2d5ff6197568cf3415373ff9229ea507",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB175/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=132&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB175",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-04",
+        "progress": [
+            {
+                "date": "2021-01-04",
+                "event": 1
+            },
+            {
+                "date": "2021-01-04",
+                "event": 9
+            },
+            {
+                "date": "2021-03-30",
+                "event": 11
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB175",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to reciprocal driver education.",
+        "description": "Relative to reciprocal driver education.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-04",
+                "committee_id": 1263,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Transportation"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-04",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Transportation House Journal  2 P. 38",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-03",
+                "action": "Public Hearing: 02/12/2021 01:30 pm Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/98796113084 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-05",
+                "action": "Executive Session: 03/05/2021 11:30 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/99182085994",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-30",
+                "action": "Committee Report: Inexpedient to Legislate (Vote 19-0; Consent Calendar) House Calendar 18 P. 24",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Inexpedient to Legislate: Motion Adopted Voice Vote 04/07/2021 House Journal  5 P. 47",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Reconsider (Rep. Osborne): Motion Failed Voice Vote 04/07/2021 House Journal  5 P. 50",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 19148,
+                "person_hash": "uoe1imz7",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Barbara Comtois",
+                "first_name": "Barbara",
+                "middle_name": "",
+                "last_name": "Comtois",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-07-BEL",
+                "ftm_eid": 6694842,
+                "votesmart_id": 172408,
+                "opensecrets_id": "",
+                "knowwho_pid": 587013,
+                "ballotpedia": "Barbara_Comtois",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 17360,
+                "person_hash": "dga0ijjy",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Raymond Howard",
+                "first_name": "Raymond",
+                "middle_name": "",
+                "last_name": "Howard",
+                "suffix": "Jr.",
+                "nickname": "",
+                "district": "HD-08-BEL",
+                "ftm_eid": 25005409,
+                "votesmart_id": 154406,
+                "opensecrets_id": "",
+                "knowwho_pid": 502539,
+                "ballotpedia": "Raymond_Howard",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21843,
+                "person_hash": "svykd3jh",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "James Mason",
+                "first_name": "James",
+                "middle_name": "",
+                "last_name": "Mason",
+                "suffix": "",
+                "nickname": "Jim",
+                "district": "HD-02-MER",
+                "ftm_eid": 15860313,
+                "votesmart_id": 141907,
+                "opensecrets_id": "",
+                "knowwho_pid": 744241,
+                "ballotpedia": "James_Mason_(New_Hampshire)",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2227379,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB175/id/2227379",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=130&txtFormat=html",
+                "text_size": 8338,
+                "text_hash": "ae6a8880a29e59335ac59f298ee6c46e"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-12",
+                "time": "13:30",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Transportation Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-05",
+                "time": "11:30",
+                "location": "Members of the public may attend using the following links: 1. T",
+                "description": "Transportation Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-05",
+                "time": "11:30",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Transportation Executive Session"
+            }
+        ],
+        "full_text": "driver education reciprocity amend rsa to read as follows driver education reciprocity the provisions of rsa shall not prevent the issuance of a driver s license to any individual who can provide satisfactory evidence of completion of a course of driver education approved by the state in which the course is offered provided that the commissioner of safety shall determine that such course is essentially equivalent to the state s minimum standards the commissioner shall take all reasonable steps to facilitate appropriate interstate driver education the commissioner shall include in its report pursuant to rsa a report to the general court on the progress of reciprocal driver education"
+    }
+}

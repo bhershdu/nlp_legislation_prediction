@@ -1,0 +1,193 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1423694,
+        "change_hash": "3c998e5370387189383e2d9dde6b57d3",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/SB90/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=1038&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=SB90",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-26",
+        "progress": [
+            {
+                "date": "2021-01-26",
+                "event": 1
+            },
+            {
+                "date": "2021-01-26",
+                "event": 9
+            },
+            {
+                "date": "2021-03-09",
+                "event": 11
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "SB90",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "S",
+        "body_id": 68,
+        "current_body": "S",
+        "current_body_id": 68,
+        "title": "Adopting omnibus legislation on redistricting.",
+        "description": "Adopting omnibus legislation on redistricting.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-26",
+                "committee_id": 3825,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Election Law and Municipal Affairs"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-26",
+                "action": "Introduced 01/06/2021 and Referred to Election Law and Municipal Affairs; Senate Journal 3",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-17",
+                "action": "Remote Hearing: 03/01/2021, 09:30 am; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-09",
+                "action": "Committee Report: Inexpedient to Legislate, 03/18/2021; Senate Calendar  15",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-18",
+                "action": "Sen. Gray Moved Laid on Table, Regular Calendar 24Y-0N, Motion Adopted; 03/18/2021; Senate Journal 8",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-18",
+                "action": "Pending Motion Inexpedient to Legislate; 03/18/2021; Senate Journal 8",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-01",
+                "action": "Sen. Perkins Kwoka Moved to Remove From Table, Regular Calendar 10Y-14N, Motion Failed; 04/01/2021; Senate Journal 10",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-01",
+                "action": "Pending Motion Inexpedient to Legislate; 04/01/2021; Senate Journal 10",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 21857,
+                "person_hash": "10182fj6",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Rebecca Perkins Kwoka",
+                "first_name": "Rebecca",
+                "middle_name": "",
+                "last_name": "Perkins Kwoka",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-021",
+                "ftm_eid": 50165879,
+                "votesmart_id": 194373,
+                "opensecrets_id": "",
+                "knowwho_pid": 743972,
+                "ballotpedia": "Rebecca_Perkins_Kwoka",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2259420,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB90/id/2259420",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=1029&txtFormat=html",
+                "text_size": 14297,
+                "text_hash": "3cc373853f4dcbf55c9b38fe629f5e9f"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1035915,
+                "date": "2021-03-18",
+                "desc": "Laid on Table",
+                "yea": 24,
+                "nay": 0,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB90/id/1035915",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=175&sy=2021&lb=S&eb=SB0090&sortoption=&txtsessionyear=2021&txtbillnumber=SB90&ddlsponsors=&lsr=1038"
+            },
+            {
+                "roll_call_id": 1045854,
+                "date": "2021-04-01",
+                "desc": "Remove from Table",
+                "yea": 10,
+                "nay": 14,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 0,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB90/id/1045854",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=285&sy=2021&lb=S&eb=SB0090&sortoption=&txtsessionyear=2021&txtbillnumber=SB90&ddlsponsors=&lsr=1038"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [],
+        "full_text": "sponsorship this act consists of the following proposed legislation lsr relative to resources used by legislative committees in connection with redistricting sponsored by sen perkins kwoka prime dist sen rosenwald dist sen kahn dist sen watters dist sen d allesandro dist sen prentiss dist sen sherman dist sen soucy dist sen whitley dist rep porter hills rep ward rock rep espitia hills rep hamblet rock lsr relative to maps created or considered by legislative committees tasked with redistricting sponsored by sen perkins kwoka prime dist sen watters dist sen cavanaugh dist sen whitley dist sen rosenwald dist sen sherman dist rep porter hills rep ward rock rep espitia hills rep hamblet rock rep wilhelm hills lsr requiring that any legislative committee meetings on redistricting be open to the public sponsored by sen perkins kwoka prime dist sen rosenwald dist sen kahn dist sen watters dist sen d allesandro dist sen prentiss dist sen sherman dist rep porter hills rep ward rock rep espitia hills rep hamblet rock rep wilhelm hills legislation enacted the general court hereby enacts the following legislation part i relative to resources used by legislative committees in connection with redistricting redistricting resources used for redistricting any resources used to assist any legislative committee appointed to consider redistricting after the decennial census that have been paid for with state funds shall be made available to both the majority and minority political parties of both the house of representatives and senate part ii relative to maps created or considered by legislative committees tasked with redistricting redistricting maps created or considered during redistricting process any legislative committee appointed to consider redistricting after the decennial census that creates or considers any map of proposed legislative districts shall make such created or considered maps available to the public on a public internet website part requiring that any legislative committee meetings on redistricting be open to the public redistricting public access to legislative meetings any meeting of any legislative committee appointed to consider redistricting after the decennial census shall be open to the public and made available electronically via live stream the public shall be given the opportunity to testify and participate electronically at each meeting held by any legislative committee appointed to consider redistricting"
+    }
+}

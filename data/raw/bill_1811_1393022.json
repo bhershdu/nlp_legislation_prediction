@@ -1,0 +1,315 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1393022,
+        "change_hash": "92cb6c4a4c2e341a87f2d268c2a85f10",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB103/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=69&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB103",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-04",
+        "progress": [
+            {
+                "date": "2021-01-04",
+                "event": 1
+            },
+            {
+                "date": "2021-01-04",
+                "event": 9
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB103",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Establishing a dental benefit under the state Medicaid program.",
+        "description": "Establishing a dental benefit under the state Medicaid program.",
+        "pending_committee_id": 1249,
+        "committee": {
+            "committee_id": 1249,
+            "chamber": "H",
+            "chamber_id": 67,
+            "name": "Health, Human Services & Elderly Affairs"
+        },
+        "referrals": [
+            {
+                "date": "2021-01-04",
+                "committee_id": 1249,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Health, Human Services & Elderly Affairs"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-04",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Health, Human Services and Elderly Affairs House Journal  2 P. 35",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-20",
+                "action": "==RECESSED== Public Hearing: 02/01/2021 01:00 pm Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/96551569054 / Executive session on pending legislation may be held throughout the day (time permitting) from the time thecommittee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-08",
+                "action": "==CONTINUED== Public Hearing: 03/08/2021 01:00 pm Members of the public may attend using the following link: To join the webinar: https://www.zoom.us/j/99826124489 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-09",
+                "action": "Retained in Committee",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-08-17",
+                "action": "Subcommittee Work Session: 09/02/2021 10:00 am Legislative Office Building 205",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-10-11",
+                "action": "Subcommittee Work Session: 10/18/2021 02:00 pm Legislative Office Building 201-205",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-10-13",
+                "action": "Executive Session: 10/26/2021 09:30 am Legislative Office Building 205-207",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 19763,
+                "person_hash": "1qkehx22",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Joe Schapiro",
+                "first_name": "Joe",
+                "middle_name": "",
+                "last_name": "Schapiro",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-16-CHE",
+                "ftm_eid": 45378927,
+                "votesmart_id": 185232,
+                "opensecrets_id": "",
+                "knowwho_pid": 670266,
+                "ballotpedia": "Joe_Schapiro",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19778,
+                "person_hash": "i25q4xga",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Laurel Stavis",
+                "first_name": "Laurel",
+                "middle_name": "",
+                "last_name": "Stavis",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-13-GRA",
+                "ftm_eid": 45378950,
+                "votesmart_id": 185538,
+                "opensecrets_id": "",
+                "knowwho_pid": 670362,
+                "ballotpedia": "Laurel_Stavis",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19743,
+                "person_hash": "ryfcko8x",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Rebecca McWilliams",
+                "first_name": "Rebecca",
+                "middle_name": "",
+                "last_name": "McWilliams",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-27-MER",
+                "ftm_eid": 45378835,
+                "votesmart_id": 185383,
+                "opensecrets_id": "",
+                "knowwho_pid": 670731,
+                "ballotpedia": "Rebecca_McWilliams",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19779,
+                "person_hash": "68858t2b",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Safiya Wazir",
+                "first_name": "Safiya",
+                "middle_name": "",
+                "last_name": "Wazir",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-17-MER",
+                "ftm_eid": 45378979,
+                "votesmart_id": 185377,
+                "opensecrets_id": "",
+                "knowwho_pid": 670704,
+                "ballotpedia": "Safiya_Wazir",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4924,
+                "person_hash": "5p0a0w6s",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Cindy Rosenwald",
+                "first_name": "Lucinda",
+                "middle_name": "",
+                "last_name": "Rosenwald",
+                "suffix": "",
+                "nickname": "Cindy",
+                "district": "SD-013",
+                "ftm_eid": 6463841,
+                "votesmart_id": 42204,
+                "opensecrets_id": "",
+                "knowwho_pid": 228804,
+                "ballotpedia": "Lucinda_Rosenwald",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2227321,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB103/id/2227321",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=76&txtFormat=html",
+                "text_size": 14429,
+                "text_hash": "c3f8b27860ff483b3589419bde5d53c1"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-01",
+                "time": "13:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Health, Human Services and Elderly Affairs Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-08",
+                "time": "13:00",
+                "location": "Members of the public may attend using the following link: To jo",
+                "description": "Health, Human Services and Elderly Affairs Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-09-02",
+                "time": "10:00",
+                "location": "Legislative Office Building 205",
+                "description": "Health, Human Services and Elderly Affairs Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-10-18",
+                "time": "13:00",
+                "location": "Legislative Office Building 201-205",
+                "description": "Health, Human Services and Elderly Affairs Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-10-18",
+                "time": "14:00",
+                "location": "Legislative Office Building 201-205",
+                "description": "Health, Human Services and Elderly Affairs Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-10-26",
+                "time": "09:30",
+                "location": "Legislative Office Building 205-207",
+                "description": "Health, Human Services and Elderly Affairs Executive Session"
+            }
+        ]
+    }
+}

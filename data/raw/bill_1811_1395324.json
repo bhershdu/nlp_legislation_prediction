@@ -1,0 +1,83 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1395324,
+        "change_hash": "dadb4099a88db512a45b256df4059a21",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/SR7/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=579&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=SR7",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2021-01-06",
+        "progress": [
+            {
+                "date": "2021-01-06",
+                "event": 1
+            },
+            {
+                "date": "2021-01-06",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "SR7",
+        "bill_type": "R",
+        "bill_type_id": "2",
+        "body": "S",
+        "body_id": 68,
+        "current_body": "S",
+        "current_body_id": 68,
+        "title": "RESOLVED, that the vote for Governor and Executive Council be referred to a Select Committee consisting of two with instruction to examine and count the same and report to the Senate.",
+        "description": "RESOLVED, that the vote for Governor and Executive Council be referred to a Select Committee consisting of two with instruction to examine and count the same and report to the Senate.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [],
+        "history": [
+            {
+                "date": "2021-01-06",
+                "action": "Introduced and Adopted, Regular Calendar 24Y-0N; 01/06/2021 Senate Journal 2",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            }
+        ],
+        "sponsors": [],
+        "sasts": [],
+        "subjects": [],
+        "texts": [],
+        "votes": [
+            {
+                "roll_call_id": 984515,
+                "date": "2021-01-06",
+                "desc": "Ought to Pass",
+                "yea": 24,
+                "nay": 0,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SR7/id/984515",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=3&sy=2021&lb=S&eb=SR0007&sortoption=&txtsessionyear=2021&txtbillnumber=SR7&ddlsponsors=&lsr=579"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": []
+    }
+}

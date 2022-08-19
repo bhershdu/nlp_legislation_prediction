@@ -1,0 +1,743 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1439533,
+        "change_hash": "5d648cd09191ef989ff036652b6afd94",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/SB141/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=955&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=SB141",
+        "completed": 0,
+        "status": 5,
+        "status_date": "2021-08-12",
+        "progress": [
+            {
+                "date": "2021-02-05",
+                "event": 1
+            },
+            {
+                "date": "2021-02-05",
+                "event": 9
+            },
+            {
+                "date": "2021-03-10",
+                "event": 10
+            },
+            {
+                "date": "2021-03-30",
+                "event": 10
+            },
+            {
+                "date": "2021-04-13",
+                "event": 2
+            },
+            {
+                "date": "2021-04-13",
+                "event": 9
+            },
+            {
+                "date": "2021-05-25",
+                "event": 11
+            },
+            {
+                "date": "2021-05-25",
+                "event": 10
+            },
+            {
+                "date": "2021-06-22",
+                "event": 3
+            },
+            {
+                "date": "2021-08-12",
+                "event": 5
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "SB141",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "S",
+        "body_id": 68,
+        "current_body": "S",
+        "current_body_id": 68,
+        "title": "Relative to the procedure for conducting firearm background checks.",
+        "description": "Relative to the procedure for conducting firearm background checks.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-02-05",
+                "committee_id": 1273,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Judiciary"
+            },
+            {
+                "date": "2021-04-13",
+                "committee_id": 1239,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Criminal Justice and Public Safety"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-02-05",
+                "action": "Introduced 02/04/2021 and Referred to Judiciary; Senate Journal 4",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-10",
+                "action": "Remote Hearing: 02/16/2021, 01:00 pm; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  11",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-10",
+                "action": "Committee Report: Ought to Pass, 03/18/2021; Senate Calendar  15",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-18",
+                "action": "Sen. Giuda Floor Amendment # 2021-0876s, Regular Calendar 14Y-10N, Amendment Adopted; 03/18/2021; Senate Journal 8",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-18",
+                "action": "Ought to Pass with Amendment 2021-0876s, Regular Calendar 15Y-9N, Motion Adopted; 03/18/2021; Senate Journal 8",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-18",
+                "action": "Sen. Bradley Moved Reconsideration on Ought to Pass with Amendment, Regular Calendar 24Y-0N, Motion Adopted; 03/18/2021; Senate Journal 9",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-18",
+                "action": "Ought to Pass with Amendment 2021-0876s, Regular Calendar 14Y-10N, Motion Adopted; Refer to Finance Rule 4-5; 03/18/2021; Senate Journal 8",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-30",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-1053s, 04/01/2021; Senate Calendar  17A",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-01",
+                "action": "Committee Amendment # 2021-1053s, Regular Calendar 14Y-10N, Amendment Adopted; 04/01/2021; Senate Journal 10",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-01",
+                "action": "Ought to Pass with Amendment 2021-1053s, Regular Calendar 14Y-10N, Motion Adopted; OT3rdg; 04/01/2021; Senate Journal 10",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-13",
+                "action": "Introduced (in recess of) 04/09/2021 and referred to Criminal Justice and Public Safety House Journal  7 P. 100",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-21",
+                "action": "Public Hearing: 04/28/2021 09:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/97143779905 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-10",
+                "action": "Executive Session: 05/10/2021 09:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/97305033264",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-25",
+                "action": "Majority Committee Report: Inexpedient to Legislate (Vote 15-6; Regular Calendar) House Calendar 26 P. 17",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-05-25",
+                "action": "Minority Committee Report: Ought to Pass",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-06-03",
+                "action": "Lay on Table (Rep. Umberger): Motion Failed Regular Calendar 56-319 06/03/2021 House Journal  8 P. 96",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-03",
+                "action": "Inexpedient to Legislate: Motion Failed Regular Calendar 186-191 06/03/2021 House Journal  8 P. 98",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-03",
+                "action": "Indefinitely Postpone (Rep. Espitia): Motion Failed Regular Calendar 181-196 06/03/2021 House Journal  8 P. 100",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-03",
+                "action": "Ought to Pass: Motion Adopted Regular Calendar 197-180 06/03/2021 House Journal  8 P. 102",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-03",
+                "action": "Reconsider (Rep. Prout): Motion Failed Regular Calendar 172-204 06/03/2021 House Journal  8 P. 104",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-22",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 06/10/2021); Senate Journal 20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-22",
+                "action": "Enrolled (in recess of) 06/10/2021 House Journal  10 P. 23",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-08-12",
+                "action": "Vetoed by Governor 08/10/2021",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 18168,
+                "person_hash": "wzdy4vye",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Bob Giuda",
+                "first_name": "Robert",
+                "middle_name": "",
+                "last_name": "Giuda",
+                "suffix": "",
+                "nickname": "Bob",
+                "district": "SD-002",
+                "ftm_eid": 6594468,
+                "votesmart_id": 21328,
+                "opensecrets_id": "",
+                "knowwho_pid": 208524,
+                "ballotpedia": "Bob_Giuda",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 11579,
+                "person_hash": "xg5ddnit",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Kevin Avard",
+                "first_name": "Kevin",
+                "middle_name": "A.",
+                "last_name": "Avard",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-012",
+                "ftm_eid": 9727190,
+                "votesmart_id": 13431,
+                "opensecrets_id": "",
+                "knowwho_pid": 296158,
+                "ballotpedia": "Kevin_Avard",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 11732,
+                "person_hash": "td463xk2",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "John Burt",
+                "first_name": "John",
+                "middle_name": "A.",
+                "last_name": "Burt",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-39-HIL",
+                "ftm_eid": 13004208,
+                "votesmart_id": 122389,
+                "opensecrets_id": "",
+                "knowwho_pid": 297081,
+                "ballotpedia": "John_Burt",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18153,
+                "person_hash": "h6wcnlm4",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Jess Edwards",
+                "first_name": "Jess",
+                "middle_name": "",
+                "last_name": "Edwards",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-11-HIL",
+                "ftm_eid": 25005737,
+                "votesmart_id": 172496,
+                "opensecrets_id": "",
+                "knowwho_pid": 587584,
+                "ballotpedia": "Jess_Edwards",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21863,
+                "person_hash": "xojju4ii",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Jennifer Rhodes",
+                "first_name": "Jennifer",
+                "middle_name": "",
+                "last_name": "Rhodes",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-15-CHE",
+                "ftm_eid": 50226849,
+                "votesmart_id": 194753,
+                "opensecrets_id": "",
+                "knowwho_pid": 744159,
+                "ballotpedia": "Jennifer_Rhodes",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21815,
+                "person_hash": "li8c4scq",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Ted Gorski",
+                "first_name": "Ted",
+                "middle_name": "",
+                "last_name": "Gorski",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-07-HIL",
+                "ftm_eid": 16014704,
+                "votesmart_id": 194995,
+                "opensecrets_id": "",
+                "knowwho_pid": 744116,
+                "ballotpedia": "Ted_Gorski",
+                "sponsor_type_id": 2,
+                "sponsor_order": 6,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21829,
+                "person_hash": "3wryyk1h",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Niki Kelsey",
+                "first_name": "Niki",
+                "middle_name": "",
+                "last_name": "Kelsey",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-07-HIL",
+                "ftm_eid": 50226732,
+                "votesmart_id": 194996,
+                "opensecrets_id": "",
+                "knowwho_pid": 744124,
+                "ballotpedia": "Niki_Kelsey",
+                "sponsor_type_id": 2,
+                "sponsor_order": 7,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2277540,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB141/id/2277540",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=946&txtFormat=html",
+                "text_size": 37355,
+                "text_hash": "49b22b8561f968fef393e70b150c044d"
+            },
+            {
+                "doc_id": 2342829,
+                "date": "2021-03-18",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB141/id/2342829",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=SA&id=946",
+                "text_size": 39858,
+                "text_hash": "d183ca2bfed2aa0762a847e431c2bed0"
+            },
+            {
+                "doc_id": 2355232,
+                "date": "2021-03-18",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB141/id/2355232",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=SA2&id=946",
+                "text_size": 40149,
+                "text_hash": "afdbcf16b268dd401bcc6fdb88151c90"
+            },
+            {
+                "doc_id": 2419390,
+                "date": "2021-03-18",
+                "type": "Enrolled",
+                "type_id": 5,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB141/id/2419390",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&v=HP&id=946",
+                "text_size": 42718,
+                "text_hash": "8c6249af48f064bcba15fc54ef6e1f48"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1036101,
+                "date": "2021-03-18",
+                "desc": "Floor Amendment",
+                "yea": 14,
+                "nay": 10,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB141/id/1036101",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=195&sy=2021&lb=S&eb=SB0141&sortoption=&txtsessionyear=2021&txtbillnumber=SB141&ddlsponsors=&lsr=955"
+            },
+            {
+                "roll_call_id": 1036102,
+                "date": "2021-03-18",
+                "desc": "Ought to Pass w/Amendment",
+                "yea": 15,
+                "nay": 9,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB141/id/1036102",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=196&sy=2021&lb=S&eb=SB0141&sortoption=&txtsessionyear=2021&txtbillnumber=SB141&ddlsponsors=&lsr=955"
+            },
+            {
+                "roll_call_id": 1036103,
+                "date": "2021-03-18",
+                "desc": "Reconsideration",
+                "yea": 24,
+                "nay": 0,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB141/id/1036103",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=197&sy=2021&lb=S&eb=SB0141&sortoption=&txtsessionyear=2021&txtbillnumber=SB141&ddlsponsors=&lsr=955"
+            },
+            {
+                "roll_call_id": 1036104,
+                "date": "2021-03-18",
+                "desc": "Ought to Pass w/Amendment",
+                "yea": 14,
+                "nay": 10,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB141/id/1036104",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=198&sy=2021&lb=S&eb=SB0141&sortoption=&txtsessionyear=2021&txtbillnumber=SB141&ddlsponsors=&lsr=955"
+            },
+            {
+                "roll_call_id": 1037132,
+                "date": "2021-03-18",
+                "desc": "Floor Amendment",
+                "yea": 14,
+                "nay": 10,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB141/id/1037132",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=195&sy=2021&lb=S&eb=SB0141&sortoption=&txtsessionyear=2021&txtbillnumber=SB141&ddlsponsors=&lsr=0955"
+            },
+            {
+                "roll_call_id": 1037133,
+                "date": "2021-03-18",
+                "desc": "Ought to Pass w/Amendment",
+                "yea": 15,
+                "nay": 9,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB141/id/1037133",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=196&sy=2021&lb=S&eb=SB0141&sortoption=&txtsessionyear=2021&txtbillnumber=SB141&ddlsponsors=&lsr=0955"
+            },
+            {
+                "roll_call_id": 1037134,
+                "date": "2021-03-18",
+                "desc": "Reconsideration",
+                "yea": 24,
+                "nay": 0,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB141/id/1037134",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=197&sy=2021&lb=S&eb=SB0141&sortoption=&txtsessionyear=2021&txtbillnumber=SB141&ddlsponsors=&lsr=0955"
+            },
+            {
+                "roll_call_id": 1037135,
+                "date": "2021-03-18",
+                "desc": "Ought to Pass w/Amendment",
+                "yea": 14,
+                "nay": 10,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB141/id/1037135",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=198&sy=2021&lb=S&eb=SB0141&sortoption=&txtsessionyear=2021&txtbillnumber=SB141&ddlsponsors=&lsr=0955"
+            },
+            {
+                "roll_call_id": 1046243,
+                "date": "2021-04-01",
+                "desc": "Committee Amendment 1053s",
+                "yea": 14,
+                "nay": 10,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB141/id/1046243",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=256&sy=2021&lb=S&eb=SB0141&sortoption=&txtsessionyear=2021&txtbillnumber=SB141&ddlsponsors=&lsr=955"
+            },
+            {
+                "roll_call_id": 1046244,
+                "date": "2021-04-01",
+                "desc": "Ought to Pass w/Amendment",
+                "yea": 14,
+                "nay": 10,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB141/id/1046244",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=257&sy=2021&lb=S&eb=SB0141&sortoption=&txtsessionyear=2021&txtbillnumber=SB141&ddlsponsors=&lsr=955"
+            },
+            {
+                "roll_call_id": 1091910,
+                "date": "2021-06-03",
+                "desc": "Table",
+                "yea": 56,
+                "nay": 319,
+                "nv": 23,
+                "absent": 0,
+                "total": 398,
+                "passed": 0,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/SB141/id/1091910",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=152&sy=2021&lb=H&eb=SB0141&sortoption=&txtsessionyear=2021&txtbillnumber=SB141&ddlsponsors=&lsr=955"
+            },
+            {
+                "roll_call_id": 1091911,
+                "date": "2021-06-03",
+                "desc": "ITL",
+                "yea": 186,
+                "nay": 191,
+                "nv": 21,
+                "absent": 0,
+                "total": 398,
+                "passed": 0,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/SB141/id/1091911",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=153&sy=2021&lb=H&eb=SB0141&sortoption=&txtsessionyear=2021&txtbillnumber=SB141&ddlsponsors=&lsr=955"
+            },
+            {
+                "roll_call_id": 1091912,
+                "date": "2021-06-03",
+                "desc": "Indefinitely Postpone",
+                "yea": 181,
+                "nay": 196,
+                "nv": 21,
+                "absent": 0,
+                "total": 398,
+                "passed": 0,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/SB141/id/1091912",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=154&sy=2021&lb=H&eb=SB0141&sortoption=&txtsessionyear=2021&txtbillnumber=SB141&ddlsponsors=&lsr=955"
+            },
+            {
+                "roll_call_id": 1091913,
+                "date": "2021-06-03",
+                "desc": "OTP",
+                "yea": 197,
+                "nay": 180,
+                "nv": 21,
+                "absent": 0,
+                "total": 398,
+                "passed": 1,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/SB141/id/1091913",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=155&sy=2021&lb=H&eb=SB0141&sortoption=&txtsessionyear=2021&txtbillnumber=SB141&ddlsponsors=&lsr=955"
+            },
+            {
+                "roll_call_id": 1091914,
+                "date": "2021-06-03",
+                "desc": "Reconsider",
+                "yea": 172,
+                "nay": 204,
+                "nv": 22,
+                "absent": 0,
+                "total": 398,
+                "passed": 0,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/SB141/id/1091914",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=156&sy=2021&lb=H&eb=SB0141&sortoption=&txtsessionyear=2021&txtbillnumber=SB141&ddlsponsors=&lsr=955"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-04-28",
+                "time": "09:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Criminal Justice and Public Safety Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-05-10",
+                "time": "09:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Criminal Justice and Public Safety Executive Session"
+            }
+        ]
+    }
+}

@@ -1,0 +1,255 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1396389,
+        "change_hash": "5bfa262958066b8e49b57582d1adcf26",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB343/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=413&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB343",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-09",
+        "progress": [
+            {
+                "date": "2021-01-09",
+                "event": 1
+            },
+            {
+                "date": "2021-01-09",
+                "event": 9
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB343",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to billing for ambulance services.",
+        "description": "Relative to billing for ambulance services.",
+        "pending_committee_id": 1238,
+        "committee": {
+            "committee_id": 1238,
+            "chamber": "H",
+            "chamber_id": 67,
+            "name": "Commerce and Consumer Affairs"
+        },
+        "referrals": [
+            {
+                "date": "2021-01-09",
+                "committee_id": 1238,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Commerce and Consumer Affairs"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-09",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Commerce and Consumer Affairs House Journal  2 P. 44",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-26",
+                "action": "Public Hearing: 02/02/2021 02:15 pm Members of the public may attend using the following links:To join the webinar: https://www.zoom.us/j/92235067141 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-02",
+                "action": "Executive Session: 02/10/2021 01:45 pm Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/95521072179",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-23",
+                "action": "Retained in Committee",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-08-17",
+                "action": "Subcommittee Work Session: 09/21/2021 11:30 am Legislative Office Building 302-304",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-10-06",
+                "action": "Subcommittee Work Session: 10/12/2021 09:00 am Legislative Office Building 301-303",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-10-26",
+                "action": "Executive Session: 10/26/2021 10:00 a.m. Legislative Office Building306-308",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 19774,
+                "person_hash": "tec8l4b3",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Joyce Weston",
+                "first_name": "Joyce",
+                "middle_name": "",
+                "last_name": "Weston",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-08-GRA",
+                "ftm_eid": 9723374,
+                "votesmart_id": 185235,
+                "opensecrets_id": "",
+                "knowwho_pid": 670357,
+                "ballotpedia": "Joyce_Weston",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 16620,
+                "person_hash": "9i4aeg6i",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "David Luneau",
+                "first_name": "David",
+                "middle_name": "",
+                "last_name": "Luneau",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-10-MER",
+                "ftm_eid": 26767892,
+                "votesmart_id": 155796,
+                "opensecrets_id": "",
+                "knowwho_pid": 512992,
+                "ballotpedia": "David_Luneau",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18167,
+                "person_hash": "gbz9mi50",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "William Marsh",
+                "first_name": "William",
+                "middle_name": "M.",
+                "last_name": "Marsh",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-17-ROC",
+                "ftm_eid": 6483516,
+                "votesmart_id": 65293,
+                "opensecrets_id": "",
+                "knowwho_pid": 587047,
+                "ballotpedia": "William_Marsh",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2232752,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB343/id/2232752",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=405&txtFormat=html",
+                "text_size": 15599,
+                "text_hash": "dbae6d354f6b6cc33210d6b1706d9d75"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-02",
+                "time": "14:15",
+                "location": "Members of the public may attend using the following links:To jo",
+                "description": "Commerce and Consumer Affairs Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-10",
+                "time": "13:45",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Commerce and Consumer Affairs Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-09-21",
+                "time": "11:30",
+                "location": "Legislative Office Building 302-304",
+                "description": "Commerce and Consumer Affairs Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-10-12",
+                "time": "09:00",
+                "location": "Legislative Office Building 301-303",
+                "description": "Commerce and Consumer Affairs Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-10-26",
+                "time": "10:00",
+                "location": "Legislative Office Building306-308",
+                "description": "Commerce and Consumer Affairs Executive Session"
+            }
+        ]
+    }
+}

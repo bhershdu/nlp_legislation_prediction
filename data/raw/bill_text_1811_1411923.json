@@ -1,0 +1,431 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1411923,
+        "change_hash": "9280a9c2055521f4a6646568a60b43f1",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/SB54/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=925&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=SB54",
+        "completed": 0,
+        "status": 2,
+        "status_date": "2021-03-10",
+        "progress": [
+            {
+                "date": "2021-01-19",
+                "event": 1
+            },
+            {
+                "date": "2021-01-19",
+                "event": 9
+            },
+            {
+                "date": "2021-02-18",
+                "event": 10
+            },
+            {
+                "date": "2021-03-10",
+                "event": 2
+            },
+            {
+                "date": "2021-03-10",
+                "event": 9
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "SB54",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "S",
+        "body_id": 68,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to the absentee ballot application form.",
+        "description": "Relative to the absentee ballot application form.",
+        "pending_committee_id": 1241,
+        "committee": {
+            "committee_id": 1241,
+            "chamber": "H",
+            "chamber_id": 67,
+            "name": "Election Law"
+        },
+        "referrals": [
+            {
+                "date": "2021-01-19",
+                "committee_id": 3825,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Election Law and Municipal Affairs"
+            },
+            {
+                "date": "2021-03-10",
+                "committee_id": 1241,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Election Law"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-19",
+                "action": "Introduced 01/06/2021 and Referred to Election Law and Municipal Affairs; Senate Journal 3",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-21",
+                "action": "Remote Hearing: 01/25/2021, 09:15 am; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  8",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-18",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-0422s, 03/04/2021; Senate Calendar  12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-04",
+                "action": "Committee Amendment # 2021-0422s, Regular Calendar 14Y-10N, Amendment Adopted; 03/04/2021; Senate Journal 6",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-04",
+                "action": "Ought to Pass with Amendment 2021-0422s, Regular Calendar 14Y-10N, Motion Adopted; OT3rdg; 03/04/2021; Senate Journal 6",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-10",
+                "action": "Introduced (in recess of) 02/25/2021 and referred to Election Law House Journal  4 P. 48",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-25",
+                "action": "Public Hearing: 03/31/2021 11:15 am Members of the public may attend using the following link:To join the webinar: https://zoom.us/j/95912119642 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-29",
+                "action": "Full Committee Work Session: 05/05/2021 10:00 am Members of the public may attend using the following link:To join the webinar: https://zoom.us/j/98783397971 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-12",
+                "action": "Executive Session: 05/19/2021 10:00 am Members of the public may attend using the following link:To join the webinar: https://zoom.us/j/99392215410",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-20",
+                "action": "Retained in Committee",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 18168,
+                "person_hash": "wzdy4vye",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Bob Giuda",
+                "first_name": "Robert",
+                "middle_name": "",
+                "last_name": "Giuda",
+                "suffix": "",
+                "nickname": "Bob",
+                "district": "SD-002",
+                "ftm_eid": 6594468,
+                "votesmart_id": 21328,
+                "opensecrets_id": "",
+                "knowwho_pid": 208524,
+                "ballotpedia": "Bob_Giuda",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4953,
+                "person_hash": "q2fztrlr",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Gary Daniels",
+                "first_name": "Gary",
+                "middle_name": "L.",
+                "last_name": "Daniels",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-011",
+                "ftm_eid": 6593963,
+                "votesmart_id": 5006,
+                "opensecrets_id": "",
+                "knowwho_pid": 249979,
+                "ballotpedia": "Gary_Daniels",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18152,
+                "person_hash": "gx7i067p",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Howard Pearl",
+                "first_name": "Howard",
+                "middle_name": "",
+                "last_name": "Pearl",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-26-MER",
+                "ftm_eid": 13703940,
+                "votesmart_id": 141848,
+                "opensecrets_id": "",
+                "knowwho_pid": 425998,
+                "ballotpedia": "Howard_Pearl",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21842,
+                "person_hash": "w44e3v5y",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Wayne MacDonald",
+                "first_name": "Wayne",
+                "middle_name": "D.",
+                "last_name": "MacDonald",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-05-ROC",
+                "ftm_eid": 14799618,
+                "votesmart_id": 195047,
+                "opensecrets_id": "",
+                "knowwho_pid": 744326,
+                "ballotpedia": "Wayne_MacDonald",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18158,
+                "person_hash": "nplanada",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Mark Pearson",
+                "first_name": "Mark",
+                "middle_name": "A.",
+                "last_name": "Pearson",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-34-ROC",
+                "ftm_eid": 13004253,
+                "votesmart_id": 69095,
+                "opensecrets_id": "",
+                "knowwho_pid": 250178,
+                "ballotpedia": "Mark_A._Pearson",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 5099,
+                "person_hash": "vzldns9c",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Kenneth Weyler",
+                "first_name": "Kenneth",
+                "middle_name": "",
+                "last_name": "Weyler",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-13-ROC",
+                "ftm_eid": 13004260,
+                "votesmart_id": 8607,
+                "opensecrets_id": "",
+                "knowwho_pid": 283733,
+                "ballotpedia": "Ken_Weyler",
+                "sponsor_type_id": 2,
+                "sponsor_order": 6,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2247380,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB54/id/2247380",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=916&txtFormat=html",
+                "text_size": 10063,
+                "text_hash": "2f3482bf8ebbdf5684be9032839009ea"
+            },
+            {
+                "doc_id": 2330800,
+                "date": "2021-03-04",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB54/id/2330800",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=SA&id=916",
+                "text_size": 21072,
+                "text_hash": "125e32425e4d12cb80161c783f301e8e"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1022856,
+                "date": "2021-03-04",
+                "desc": "Committee Amendment 0422s",
+                "yea": 14,
+                "nay": 10,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB54/id/1022856",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=82&sy=2021&lb=S&eb=SB0054&sortoption=&txtsessionyear=2021&txtbillnumber=SB54&ddlsponsors=&lsr=925"
+            },
+            {
+                "roll_call_id": 1022857,
+                "date": "2021-03-04",
+                "desc": "Ought to Pass w/Amendment",
+                "yea": 14,
+                "nay": 10,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB54/id/1022857",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=83&sy=2021&lb=S&eb=SB0054&sortoption=&txtsessionyear=2021&txtbillnumber=SB54&ddlsponsors=&lsr=925"
+            },
+            {
+                "roll_call_id": 1037072,
+                "date": "2021-03-04",
+                "desc": "Committee Amendment 0422s",
+                "yea": 14,
+                "nay": 10,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB54/id/1037072",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=82&sy=2021&lb=S&eb=SB0054&sortoption=&txtsessionyear=2021&txtbillnumber=SB54&ddlsponsors=&lsr=0925"
+            },
+            {
+                "roll_call_id": 1037073,
+                "date": "2021-03-04",
+                "desc": "Ought to Pass w/Amendment",
+                "yea": 14,
+                "nay": 10,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB54/id/1037073",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=83&sy=2021&lb=S&eb=SB0054&sortoption=&txtsessionyear=2021&txtbillnumber=SB54&ddlsponsors=&lsr=0925"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-31",
+                "time": "11:15",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Election Law Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-05-05",
+                "time": "10:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Election Law Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-05-19",
+                "time": "10:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Election Law Executive Session"
+            }
+        ],
+        "full_text": "absentee ballot application form amend rsa i to read as follows prior to any state election the secretary of state shall prepare the appropriate application forms for absentee ballots worded in substantially the following form the secretary of state shall insert the names of all parties qualified as set forth in rsa in the list of parties on the application form the secretary of state shall prepare the application forms in such quantity as he or she deems necessary absence excluding absence due to residence outside the united states religious observance and disability i hereby declare that check one _____ i am a duly qualified voter who is currently registered to vote in this town ward _____ i am absent from the town city where i am domiciled and will be until after the next election or i am unable to register in person due to a disability and request that the forms necessary for absentee voter registration be sent to me with the absentee ballot i will be entitled to vote by absentee ballot because check one _____ i plan to be absent on the day of the election from the city town or unincorporated place where i am domiciled _____ i am requesting a ballot for the presidential primary election and i may be absent on the day of the election from the city town or unincorporated place where i am domiciled but the date of the election has not been announced i understand that i may only make such a request days after the filing period for candidates has closed and that if i will not be absent on the date of the election i am not eligible to vote by absentee ballot _____ i cannot appear in public on election day because of observance of a religious commitment _____ i am unable to vote in person due to a disability _____ i cannot appear at any time during polling hours at my polling place because of an employment obligation for the purposes of this application the term employment shall include the care of children and infirm adults with or without compensation for use only on the monday immediately prior to the election i cannot appear at my polling place on election day because the national weather service has issued a winter storm warning blizzard warning or ice storm warning for election day applicable to my city town or unincorporated place and either check one ______ i am elderly or infirm or i have a physical disability and would otherwise vote in person but i have concerns for my safety traveling in the storm ______ i anticipate that school child care or adult care will be canceled and would otherwise vote in person but will need to care for children or infirm adults any person who votes or attempts to vote using an absentee ballot who is not entitled to vote by absentee ballot shall be guilty of a misdemeanor rsa i am requesting an official absentee ballot for the following election check one _____ presidential primary to be held on _____________________ mm dd yyyy the date may appear as blank when the date is not known _____ state primary to be held on __________________ mm dd yyyy _____ general election for primary elections i am a member of or i am now declaring my affiliation with the check one _____ republican party _____ democratic party _____ name of any party determined by the secretary of state to have achieved official status under rsa and am requesting a ballot for that party s primary please print applicant s name __________________________________________________ last first middle sr jr iii identity information please provide one or more of the following or contact the town clerk for assistance _________________________________ driver s license or nondriver s picture identification card number and state of issuance _________________________________ last digits of applicant s social security number __________________________________ other contact town clerk applicant s voting domicile home address ___________________________________________________________________________ street number street name apt unit city town ward zip code mail the ballot to me at this address if different than the home address ___________________________________________________________________________ street number street name apt unit city town ward zip code applicant s phone number _________________________ applicant s email address __________________________ applicant s signature _________________________________ date signed ___________________________ mm dd yyyy i attest that i assisted the applicant in executing this form because he or she has a disability signature ____________________ print name ____________________ if your absentee ballot application or affidavit envelope has the printed name and signature of a person who assisted you with voting your signature will not be compared to your signature on the absentee ballot affidavit to verify your identity otherwise if your signatures do not appear to be made by the same person your absentee ballot may not be counted the applicant must sign this form to receive an absentee ballot any person who witnesses and assists a voter with a disability in executing this form shall print and sign his or her name in the space provided on the application form the moderator will not compare the voter s signature on the application with the signature on the absentee ballot affidavit when a person assisting the voter has signed the statement on the absentee ballot application or affidavit envelope that assistance was provided absentee ballot application procedure identity information identity information sufficient to satisfy the requirements of rsa i shall include a driver s license number and state of issuance a nondriver s picture identification card number and state of issuance the last digits of a social security number or any other information or records that the town clerk may verify the town clerk is authorized to verify driver s license and nondriver s picture identification card information when provided with the department of safety division of motor vehicles or local law enforcement the statewide centralized voter registration database shall be reviewed and updated based on any information provided with the absentee ballot application"
+    }
+}

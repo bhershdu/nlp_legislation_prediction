@@ -1,0 +1,157 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1400255,
+        "change_hash": "a39dcb1ed36b9ea0b08eeb8e130903ab",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB489/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=816&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB489",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-11",
+        "progress": [
+            {
+                "date": "2021-01-11",
+                "event": 1
+            },
+            {
+                "date": "2021-01-11",
+                "event": 9
+            },
+            {
+                "date": "2021-03-08",
+                "event": 11
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB489",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Prohibiting certain political contributions.",
+        "description": "Prohibiting certain political contributions.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-11",
+                "committee_id": 1241,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Election Law"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-11",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Election Law House Journal  2 P. 50",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-27",
+                "action": "Public Hearing: 02/05/2021 01:45 pm Members of the public may attend using the following link:To join the webinar: https://zoom.us/j/93640014012 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initiallyconvened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-17",
+                "action": "Executive Session: 02/17/2021 01:30 pm Please click the link below to join the webinar:https://zoom.us/j/95842759377",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-08",
+                "action": "Committee Report: Inexpedient to Legislate (Vote 11-9; Regular Calendar) House Calendar 18 P. 71",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 19431,
+                "person_hash": "asgzf446",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Kristina Schultz",
+                "first_name": "Kristina",
+                "middle_name": "",
+                "last_name": "Schultz",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-18-MER",
+                "ftm_eid": 9696467,
+                "votesmart_id": 176781,
+                "opensecrets_id": "",
+                "knowwho_pid": 632942,
+                "ballotpedia": "Kris_Schultz",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2234558,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB489/id/2234558",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=784&txtFormat=html",
+                "text_size": 7128,
+                "text_hash": "416688b20360def5da428b40a5258164"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-05",
+                "time": "13:45",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Election Law Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-17",
+                "time": "13:30",
+                "location": "Please click the link below to join the webinar:https://zoom.us/",
+                "description": "Election Law Executive Session"
+            }
+        ]
+    }
+}

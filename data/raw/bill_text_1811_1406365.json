@@ -1,0 +1,189 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1406365,
+        "change_hash": "c6412b4c96c8eb09e2fdaca5b2a9ae01",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB623/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=380&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB623",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-14",
+        "progress": [
+            {
+                "date": "2021-01-14",
+                "event": 1
+            },
+            {
+                "date": "2021-01-14",
+                "event": 9
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB623",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to education funding.",
+        "description": "Relative to education funding.",
+        "pending_committee_id": 1244,
+        "committee": {
+            "committee_id": 1244,
+            "chamber": "H",
+            "chamber_id": 67,
+            "name": "Finance"
+        },
+        "referrals": [
+            {
+                "date": "2021-01-14",
+                "committee_id": 1244,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Finance"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-14",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Finance House Journal  2 P. 57",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-04",
+                "action": "Public Hearing: 02/09/2021 10:30 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/92166004660 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-16",
+                "action": "Executive Session: 02/16/2021 10:30 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/92166004660",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-23",
+                "action": "Retained in Committee",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-09-13",
+                "action": "Division II Work Session: 10/06/2021 10:00 am Legislative Office Building 209",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-10-06",
+                "action": "Executive Session: 10/26/2021 10:00 am Legislative Office Building 210-211",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 16620,
+                "person_hash": "9i4aeg6i",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "David Luneau",
+                "first_name": "David",
+                "middle_name": "",
+                "last_name": "Luneau",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-10-MER",
+                "ftm_eid": 26767892,
+                "votesmart_id": 155796,
+                "opensecrets_id": "",
+                "knowwho_pid": 512992,
+                "ballotpedia": "David_Luneau",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2241493,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB623/id/2241493",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=381&txtFormat=html",
+                "text_size": 10904,
+                "text_hash": "681824169bb5ec26447de9b211607f5e"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-09",
+                "time": "10:30",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Finance Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-16",
+                "time": "10:30",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Finance Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-10-06",
+                "time": "10:00",
+                "location": "Legislative Office Building 209",
+                "description": "Finance Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-10-26",
+                "time": "10:00",
+                "location": "Legislative Office Building 210-211",
+                "description": "Finance Executive Session"
+            }
+        ],
+        "full_text": "new subparagraph determination of education grants amend rsa iv by inserting after subparagraph d the following new subparagraph e for fiscal years and the total education grant to each municipality shall not be less than the amount of such grant in the prior year adequate education grants for kindergarten amend vi to read as follows the remainder of this act shall take effect upon its passage lba hb fiscal note as introduced agencies contacted department of education"
+    }
+}

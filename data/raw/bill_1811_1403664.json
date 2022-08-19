@@ -1,0 +1,342 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1403664,
+        "change_hash": "c38db3e659d5b34aa126b29523d07610",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB521/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=773&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB521",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-12",
+        "progress": [
+            {
+                "date": "2021-01-12",
+                "event": 1
+            },
+            {
+                "date": "2021-01-12",
+                "event": 9
+            },
+            {
+                "date": "2021-02-09",
+                "event": 9
+            },
+            {
+                "date": "2021-10-29",
+                "event": 11
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB521",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to the chartered public school annual grant for leased space.",
+        "description": "Relative to the chartered public school annual grant for leased space.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-12",
+                "committee_id": 1240,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Education"
+            },
+            {
+                "date": "2021-02-09",
+                "committee_id": 1244,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Finance"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-12",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Education House Journal  2 P. 52",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-09",
+                "action": "Vacated and Referred to Finance (): Motion Adopted Voice Vote (in recess of) 01/06/2021 House Journal  2 P. 58",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-16",
+                "action": "Executive Session: 02/16/2021 10:30 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/92166004660",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-16",
+                "action": "Public Hearing: 02/16/2021 10:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/92166004660 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-23",
+                "action": "Retained in Committee",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-09-13",
+                "action": "Division II Work Session: 10/06/2021 10:00 am Legislative Office Building 209",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-10-06",
+                "action": "Executive Session: 10/26/2021 10:00 am Legislative Office Building 210-211",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-10-29",
+                "action": "Committee Report: Inexpedient to Legislate 521-FN 10/28/2021 (Vote 21-0; )",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 21846,
+                "person_hash": "gdp0vkqa",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Maureen Mooney",
+                "first_name": "Maureen",
+                "middle_name": "",
+                "last_name": "Mooney",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-21-HIL",
+                "ftm_eid": 6595386,
+                "votesmart_id": 42661,
+                "opensecrets_id": "",
+                "knowwho_pid": 213057,
+                "ballotpedia": "Maureen_Mooney",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19148,
+                "person_hash": "uoe1imz7",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Barbara Comtois",
+                "first_name": "Barbara",
+                "middle_name": "",
+                "last_name": "Comtois",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-07-BEL",
+                "ftm_eid": 6694842,
+                "votesmart_id": 172408,
+                "opensecrets_id": "",
+                "knowwho_pid": 587013,
+                "ballotpedia": "Barbara_Comtois",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21822,
+                "person_hash": "uhhk90d9",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Bob Healey",
+                "first_name": "Bob",
+                "middle_name": "",
+                "last_name": "Healey",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-21-HIL",
+                "ftm_eid": 50226638,
+                "votesmart_id": 195010,
+                "opensecrets_id": "",
+                "knowwho_pid": 744176,
+                "ballotpedia": "Bob_Healey",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 14478,
+                "person_hash": "1kegb9fu",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Glenn Cordelli",
+                "first_name": "Glenn",
+                "middle_name": "",
+                "last_name": "Cordelli",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-04-CAR",
+                "ftm_eid": 13703548,
+                "votesmart_id": 143307,
+                "opensecrets_id": "",
+                "knowwho_pid": 427994,
+                "ballotpedia": "Glenn_Cordelli",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4871,
+                "person_hash": "w5q7sakl",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "John Reagan",
+                "first_name": "John",
+                "middle_name": "",
+                "last_name": "Reagan",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-017",
+                "ftm_eid": 737365,
+                "votesmart_id": 65169,
+                "opensecrets_id": "",
+                "knowwho_pid": 250155,
+                "ballotpedia": "John_Reagan",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4953,
+                "person_hash": "q2fztrlr",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Gary Daniels",
+                "first_name": "Gary",
+                "middle_name": "L.",
+                "last_name": "Daniels",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-011",
+                "ftm_eid": 6593963,
+                "votesmart_id": 5006,
+                "opensecrets_id": "",
+                "knowwho_pid": 249979,
+                "ballotpedia": "Gary_Daniels",
+                "sponsor_type_id": 2,
+                "sponsor_order": 6,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2238274,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB521/id/2238274",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=779&txtFormat=html",
+                "text_size": 13389,
+                "text_hash": "d93d74185bd96da971008301d7ac7599"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-16",
+                "time": "10:30",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Finance Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-16",
+                "time": "10:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Finance Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-10-06",
+                "time": "10:00",
+                "location": "Legislative Office Building 209",
+                "description": "Finance Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-10-26",
+                "time": "10:00",
+                "location": "Legislative Office Building 210-211",
+                "description": "Finance Executive Session"
+            }
+        ]
+    }
+}

@@ -1,0 +1,498 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1395366,
+        "change_hash": "7177804fe68691decc963be9ab45e9d3",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/SB26/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=527&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=SB26",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2021-07-15",
+        "progress": [
+            {
+                "date": "2021-01-06",
+                "event": 1
+            },
+            {
+                "date": "2021-01-06",
+                "event": 9
+            },
+            {
+                "date": "2021-03-03",
+                "event": 9
+            },
+            {
+                "date": "2021-03-11",
+                "event": 9
+            },
+            {
+                "date": "2021-03-17",
+                "event": 2
+            },
+            {
+                "date": "2021-03-17",
+                "event": 9
+            },
+            {
+                "date": "2021-05-24",
+                "event": 10
+            },
+            {
+                "date": "2021-07-01",
+                "event": 3
+            },
+            {
+                "date": "2021-07-15",
+                "event": 8
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "SB26",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "S",
+        "body_id": 68,
+        "current_body": "S",
+        "current_body_id": 68,
+        "title": "Relative to roads within the Woodsville Fire District.",
+        "description": "Relative to roads within the Woodsville Fire District.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-06",
+                "committee_id": 1270,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Executive Departments and Administration"
+            },
+            {
+                "date": "2021-03-17",
+                "committee_id": 1258,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Public Works and Highways"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-06",
+                "action": "Introduced 01/06/2021 and Referred to Executive Departments and Administration; Senate Journal 3",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-07",
+                "action": "Remote Hearing: 01/13/2021, 09:30 am; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  6",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-03",
+                "action": "Committee Report: Rereferred to Committee, 03/11/2021; Senate Calendar  14",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-11",
+                "action": "Rereferred to Committee, Regular Calendar 6Y-17N, Motion Failed; 03/11/2021; Senate Journal 7",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-11",
+                "action": "Sen. Carson Moved Ought to Pass; 03/11/2021; Senate Journal 7",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-11",
+                "action": "Sen. Giuda Floor Amendment # 2021-0765s, Regular Calendar 23Y-0N, Amendment Adopted; 03/11/2021; Senate Journal 7",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-11",
+                "action": "Ought to Pass with Amendment 2021-0765s, Regular Calendar 20Y-3N, Motion Adopted; OT3rdg; 03/11/2021; Senate Journal 7",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-17",
+                "action": "Introduced (in recess of) 02/25/2021 and referred to Public Works and Highways House Journal  4 P. 50",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-21",
+                "action": "Public Hearing: 05/05/2021 01:15 pm Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/94154238304 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-10",
+                "action": "Executive Session: 05/19/2021 10:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/93826339511",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-24",
+                "action": "Committee Report: Ought to Pass (Vote 18-3; Regular Calendar) House Calendar 26 P. 29",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-06-04",
+                "action": "FLAM # 2021-1803h (Rep. Ladd): Amendment Failed DV 72-301 06/04/2021 House Journal  9 P. 27",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-04",
+                "action": "Lay on Table (Rep. Cordelli): Motion Failed DV 62-303 06/04/2021 House Journal  9 P. 28",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-04",
+                "action": "Ought to Pass: Motion Adopted Voice Vote 06/04/2021 House Journal  9 P. 28",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-01",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 06/24/2021); Senate Journal 20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-01",
+                "action": "Enrolled (in recess of) 06/24/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-07-15",
+                "action": "Law Without Signature 07/14/2021; Chapter 0124; Effective 07/14/2021; Art 44, Pt II, NH Constitution",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 18168,
+                "person_hash": "wzdy4vye",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Bob Giuda",
+                "first_name": "Robert",
+                "middle_name": "",
+                "last_name": "Giuda",
+                "suffix": "",
+                "nickname": "Bob",
+                "district": "SD-002",
+                "ftm_eid": 6594468,
+                "votesmart_id": 21328,
+                "opensecrets_id": "",
+                "knowwho_pid": 208524,
+                "ballotpedia": "Bob_Giuda",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4958,
+                "person_hash": "2po1aje7",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "David Watters",
+                "first_name": "David",
+                "middle_name": "H.",
+                "last_name": "Watters",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-004",
+                "ftm_eid": 6494743,
+                "votesmart_id": 110047,
+                "opensecrets_id": "",
+                "knowwho_pid": 269494,
+                "ballotpedia": "David_Watters",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 11989,
+                "person_hash": "szz8y6ea",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Regina Birdsell",
+                "first_name": "Regina",
+                "middle_name": "",
+                "last_name": "Birdsell",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-019",
+                "ftm_eid": 6695412,
+                "votesmart_id": 126600,
+                "opensecrets_id": "",
+                "knowwho_pid": 296214,
+                "ballotpedia": "Regina_Birdsell",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19144,
+                "person_hash": "jfm12os5",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "David Binford",
+                "first_name": "David",
+                "middle_name": "W.",
+                "last_name": "Binford",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-15-GRA",
+                "ftm_eid": 41757478,
+                "votesmart_id": 172601,
+                "opensecrets_id": "",
+                "knowwho_pid": 587150,
+                "ballotpedia": "David_W._Binford",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 5099,
+                "person_hash": "vzldns9c",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Kenneth Weyler",
+                "first_name": "Kenneth",
+                "middle_name": "",
+                "last_name": "Weyler",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-13-ROC",
+                "ftm_eid": 13004260,
+                "votesmart_id": 8607,
+                "opensecrets_id": "",
+                "knowwho_pid": 283733,
+                "ballotpedia": "Ken_Weyler",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2229761,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB26/id/2229761",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=533&txtFormat=html",
+                "text_size": 13454,
+                "text_hash": "c542f56c8d6c08543a80ca2325498f2e"
+            },
+            {
+                "doc_id": 2333612,
+                "date": "2021-03-11",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB26/id/2333612",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=SA&id=533",
+                "text_size": 12419,
+                "text_hash": "8e683a0b2fa4ec94680a113b024af613"
+            },
+            {
+                "doc_id": 2412293,
+                "date": "2021-03-11",
+                "type": "Enrolled",
+                "type_id": 5,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB26/id/2412293",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&v=HP&id=533",
+                "text_size": 12425,
+                "text_hash": "67ee520eef2ee523809b0adfe0e85773"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1037015,
+                "date": "2021-03-11",
+                "desc": "Rereferred",
+                "yea": 6,
+                "nay": 17,
+                "nv": 0,
+                "absent": 1,
+                "total": 24,
+                "passed": 0,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB26/id/1037015",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=116&sy=2021&lb=S&eb=SB0026&sortoption=&txtsessionyear=2021&txtbillnumber=SB26&ddlsponsors=&lsr=0527"
+            },
+            {
+                "roll_call_id": 1037016,
+                "date": "2021-03-11",
+                "desc": "Floor Amendment 0765s",
+                "yea": 23,
+                "nay": 0,
+                "nv": 0,
+                "absent": 1,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB26/id/1037016",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=117&sy=2021&lb=S&eb=SB0026&sortoption=&txtsessionyear=2021&txtbillnumber=SB26&ddlsponsors=&lsr=0527"
+            },
+            {
+                "roll_call_id": 1037017,
+                "date": "2021-03-11",
+                "desc": "Ought to Pass w/Amendment",
+                "yea": 20,
+                "nay": 3,
+                "nv": 0,
+                "absent": 1,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB26/id/1037017",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=118&sy=2021&lb=S&eb=SB0026&sortoption=&txtsessionyear=2021&txtbillnumber=SB26&ddlsponsors=&lsr=0527"
+            },
+            {
+                "roll_call_id": 1037675,
+                "date": "2021-03-11",
+                "desc": "Rereferred",
+                "yea": 6,
+                "nay": 17,
+                "nv": 0,
+                "absent": 1,
+                "total": 24,
+                "passed": 0,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB26/id/1037675",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=116&sy=2021&lb=S&eb=SB0026&sortoption=&txtsessionyear=2021&txtbillnumber=SB26&ddlsponsors=&lsr=527"
+            },
+            {
+                "roll_call_id": 1037676,
+                "date": "2021-03-11",
+                "desc": "Floor Amendment 0765s",
+                "yea": 23,
+                "nay": 0,
+                "nv": 0,
+                "absent": 1,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB26/id/1037676",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=117&sy=2021&lb=S&eb=SB0026&sortoption=&txtsessionyear=2021&txtbillnumber=SB26&ddlsponsors=&lsr=527"
+            },
+            {
+                "roll_call_id": 1037677,
+                "date": "2021-03-11",
+                "desc": "Ought to Pass w/Amendment",
+                "yea": 20,
+                "nay": 3,
+                "nv": 0,
+                "absent": 1,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB26/id/1037677",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=118&sy=2021&lb=S&eb=SB0026&sortoption=&txtsessionyear=2021&txtbillnumber=SB26&ddlsponsors=&lsr=527"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-05-05",
+                "time": "13:15",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Public Works and Highways Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-05-19",
+                "time": "10:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Public Works and Highways Executive Session"
+            }
+        ]
+    }
+}

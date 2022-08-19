@@ -1,0 +1,446 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1392992,
+        "change_hash": "f056a8be9925cfe6c70cd9e175378986",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB128/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=51&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB128",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2021-05-19",
+        "progress": [
+            {
+                "date": "2021-01-04",
+                "event": 1
+            },
+            {
+                "date": "2021-01-04",
+                "event": 9
+            },
+            {
+                "date": "2021-03-10",
+                "event": 10
+            },
+            {
+                "date": "2021-04-07",
+                "event": 2
+            },
+            {
+                "date": "2021-04-07",
+                "event": 9
+            },
+            {
+                "date": "2021-04-14",
+                "event": 10
+            },
+            {
+                "date": "2021-05-06",
+                "event": 3
+            },
+            {
+                "date": "2021-05-19",
+                "event": 8
+            },
+            {
+                "date": "2021-05-19",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB128",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Adding notification requirements to the weather modification statute.",
+        "description": "Adding notification requirements to the weather modification statute.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-04",
+                "committee_id": 1243,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Executive Departments and Administration"
+            },
+            {
+                "date": "2021-04-07",
+                "committee_id": 1270,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Executive Departments and Administration"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-04",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Executive Departments and Administration House Journal  2 P. 36",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-22",
+                "action": "Public Hearing: 02/22/2021 10:00 am Please click the link below to join the webinar:https://zoom.us/j/97378434787Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-04",
+                "action": "Executive Session: 03/04/2021 10:30 am Please click the link below to join the webinar:https://zoom.us/j/92570492865",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-10",
+                "action": "Committee Report: Ought to Pass (Vote 18-0; Consent Calendar) House Calendar 18 P. 11",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Ought to Pass: Motion Adopted Voice Vote 04/07/2021 House Journal  5 P. 21",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Reconsider (Rep. Osborne): Motion Failed Voice Vote 04/07/2021 House Journal  5 P. 50",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Introduced 04/01/2021 and Referred to Executive Departments and Administration; Senate Journal 11",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Remote Hearing: 04/14/2021, 09:45 am; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  19",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-14",
+                "action": "Committee Report: Ought to Pass, 04/22/2021; Vote 5-0; Consent Calendar; Senate Calendar  20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-22",
+                "action": "Ought to Pass: Regular Calendar 23Y-1N, Motion Adopted; OT3rdg; 04/22/2021; Senate Journal 12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-06",
+                "action": "Enrolled (in recess of) 04/09/2021 House Journal  7 P. 102",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-05-06",
+                "action": "Enrolled Regular Calendar 23Y-0N, Motion Adopted, (In recess of 05/06/2021); Senate Journal 15",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-19",
+                "action": "Signed by Governor Sununu 05/17/2021; Chapter 34; Eff: 07/16/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 16889,
+                "person_hash": "nqhihhjo",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "John Potucek",
+                "first_name": "John",
+                "middle_name": "",
+                "last_name": "Potucek",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-06-ROC",
+                "ftm_eid": 9891524,
+                "votesmart_id": 154553,
+                "opensecrets_id": "",
+                "knowwho_pid": 501775,
+                "ballotpedia": "John_Potucek",
+                "sponsor_type_id": 2,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19819,
+                "person_hash": "8zx0v085",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Judy Aron",
+                "first_name": "Judy",
+                "middle_name": "",
+                "last_name": "Aron",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-07-SUL",
+                "ftm_eid": 45378624,
+                "votesmart_id": 185539,
+                "opensecrets_id": "",
+                "knowwho_pid": 670808,
+                "ballotpedia": "Judy_Aron",
+                "sponsor_type_id": 1,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19784,
+                "person_hash": "swul5611",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "James Allard",
+                "first_name": "James",
+                "middle_name": "C.",
+                "last_name": "Allard",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-21-MER",
+                "ftm_eid": 45378622,
+                "votesmart_id": 185505,
+                "opensecrets_id": "",
+                "knowwho_pid": 670709,
+                "ballotpedia": "James_Allard",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 17360,
+                "person_hash": "dga0ijjy",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Raymond Howard",
+                "first_name": "Raymond",
+                "middle_name": "",
+                "last_name": "Howard",
+                "suffix": "Jr.",
+                "nickname": "",
+                "district": "HD-08-BEL",
+                "ftm_eid": 25005409,
+                "votesmart_id": 154406,
+                "opensecrets_id": "",
+                "knowwho_pid": 502539,
+                "ballotpedia": "Raymond_Howard",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 15247,
+                "person_hash": "z1he67k0",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Michael Sylvia",
+                "first_name": "Michael",
+                "middle_name": "",
+                "last_name": "Sylvia",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-06-BEL",
+                "ftm_eid": 16072474,
+                "votesmart_id": 143477,
+                "opensecrets_id": "",
+                "knowwho_pid": 436674,
+                "ballotpedia": "Michael_Sylvia",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18170,
+                "person_hash": "dj3w7est",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Ruth Ward",
+                "first_name": "Ruth",
+                "middle_name": "B.",
+                "last_name": "Ward",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-008",
+                "ftm_eid": 13703554,
+                "votesmart_id": 141865,
+                "opensecrets_id": "",
+                "knowwho_pid": 426026,
+                "ballotpedia": "Ruth_Ward",
+                "sponsor_type_id": 2,
+                "sponsor_order": 6,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19824,
+                "person_hash": "8ya6utb2",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Tony Lekas",
+                "first_name": "Tony",
+                "middle_name": "",
+                "last_name": "Lekas",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-37-HIL",
+                "ftm_eid": 9794125,
+                "votesmart_id": 54877,
+                "opensecrets_id": "",
+                "knowwho_pid": 670662,
+                "ballotpedia": "Tony_Lekas",
+                "sponsor_type_id": 2,
+                "sponsor_order": 7,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19825,
+                "person_hash": "rsi244to",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Rene Nunez",
+                "first_name": "Rene",
+                "middle_name": "Hershel",
+                "last_name": "Nunez",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-37-HIL",
+                "ftm_eid": 45378867,
+                "votesmart_id": 128075,
+                "opensecrets_id": "",
+                "knowwho_pid": 670663,
+                "ballotpedia": "Hershel_Nunez",
+                "sponsor_type_id": 2,
+                "sponsor_order": 8,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2227295,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB128/id/2227295",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=51&txtFormat=html",
+                "text_size": 9498,
+                "text_hash": "aa5b418f3ef1d1e9642f51028b602363"
+            },
+            {
+                "doc_id": 2380213,
+                "date": "2021-04-22",
+                "type": "Enrolled",
+                "type_id": 5,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB128/id/2380213",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&v=SP&id=51",
+                "text_size": 9509,
+                "text_hash": "bf69e2c014b6e8571365abc8f0ff2e53"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-22",
+                "time": "10:00",
+                "location": "Please click the link below to join the webinar:https://zoom.us/",
+                "description": "Executive Departments and Administration Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-04",
+                "time": "10:30",
+                "location": "Please click the link below to join the webinar:https://zoom.us/",
+                "description": "Executive Departments and Administration Executive Session"
+            }
+        ],
+        "full_text": "weather modification notification required amend rsa to read as follows weather modification experimentation any department or agency of the state may with the approval of the governor and council and within the limits of appropriated funds or by means of gifts donations or grants engage in and undertake experimentation in the techniques and methods for weather modification and may cooperate therein with the federal government with authorized agencies of other states and with interested persons and organizations at least months prior to the presentation to the governor and executive council for approval of engagement in or experimentation in techniques and methods for weather modification the department or agency of the state participating in such engagement or experimentation shall do the following a place a public notice in at least newspapers within the state and on the departmental internet website informing the public of the date and type of the proposed weather modification program or experimentation events within the state b disclose to the public the chemical compounds and technologies to be used in the proposed weather modification program or experimentation events in the state including the effects of the program or experimentation on human health what wildlife and wildlife habitats may be affected and the source of funding to perform such program or experimentation c solicit public input regarding the proposed weather modification program or experimentation"
+    }
+}

@@ -1,0 +1,241 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1396431,
+        "change_hash": "bb3018008eb2c972528653d64a4406e0",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB408/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=4&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB408",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-10",
+        "progress": [
+            {
+                "date": "2021-01-10",
+                "event": 1
+            },
+            {
+                "date": "2021-01-10",
+                "event": 9
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB408",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to employment restrictions for registered sex offenders.",
+        "description": "Relative to employment restrictions for registered sex offenders.",
+        "pending_committee_id": 1239,
+        "committee": {
+            "committee_id": 1239,
+            "chamber": "H",
+            "chamber_id": 67,
+            "name": "Criminal Justice and Public Safety"
+        },
+        "referrals": [
+            {
+                "date": "2021-01-10",
+                "committee_id": 1239,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Criminal Justice and Public Safety"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-10",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Criminal Justice and Public Safety House Journal  2 P. 46",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-26",
+                "action": "Public Hearing: 02/26/2021 11:45 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/92701022260 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-31",
+                "action": "Retained in Committee",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-09-22",
+                "action": "Subcommittee Work Session: 09/28/2021 10:00 am Legislative Office Building 205-207",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-09-28",
+                "action": "Full Committee Work Session: 10/05/2021 11:00 am Legislative Office Building 201-203",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-10-13",
+                "action": "Executive Session: 10/20/2021 11:00 am Legislative Office Building 201-203",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 18157,
+                "person_hash": "ye7258gp",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Kevin Verville",
+                "first_name": "Kevin",
+                "middle_name": "",
+                "last_name": "Verville",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-02-ROC",
+                "ftm_eid": 41757571,
+                "votesmart_id": 172491,
+                "opensecrets_id": "",
+                "knowwho_pid": 587570,
+                "ballotpedia": "Kevin_Verville",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4766,
+                "person_hash": "ysx7fhwg",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Alfred Baldasaro",
+                "first_name": "Alfred",
+                "middle_name": "P.",
+                "last_name": "Baldasaro",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-05-ROC",
+                "ftm_eid": 6670814,
+                "votesmart_id": 69087,
+                "opensecrets_id": "",
+                "knowwho_pid": 250165,
+                "ballotpedia": "Alfred_Baldasaro",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4871,
+                "person_hash": "w5q7sakl",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "John Reagan",
+                "first_name": "John",
+                "middle_name": "",
+                "last_name": "Reagan",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-017",
+                "ftm_eid": 737365,
+                "votesmart_id": 65169,
+                "opensecrets_id": "",
+                "knowwho_pid": 250155,
+                "ballotpedia": "John_Reagan",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2234670,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB408/id/2234670",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=3&txtFormat=html",
+                "text_size": 11896,
+                "text_hash": "7291dd88cd14014dde90a1fe04854293"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-26",
+                "time": "11:45",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Criminal Justice and Public Safety Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-09-28",
+                "time": "10:00",
+                "location": "Legislative Office Building 205-207",
+                "description": "Criminal Justice and Public Safety Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-10-05",
+                "time": "11:00",
+                "location": "Legislative Office Building 201-203",
+                "description": "Criminal Justice and Public Safety Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-10-20",
+                "time": "11:00",
+                "location": "Legislative Office Building 201-203",
+                "description": "Criminal Justice and Public Safety Executive Session"
+            }
+        ],
+        "full_text": "sexual assault and related offenses prohibition from contact with a minor amend rsa to read as follows prohibition from child care service of persons convicted of certain offenses contact with minors a person is guilty of a class a felony if having been convicted in this or any other jurisdiction of any felonious offense involving child sexual abuse images or of a felonious physical assault on a minor or of any sexual assault he or she knowingly undertakes engages in any employment or volunteer service involving the which purpose involves the direct care instruction or guidance of or repeat interaction with a minor children including but not limited to service as a teacher a coach or worker of any type in child athletics a day care worker a boy or girl scout master or leader or worker a summer camp counselor or worker of any type a guidance counselor or a school administrator of any type a a person is guilty of a class b felony if having been convicted in this or any other jurisdiction of any of the offenses specified in paragraph i of this section he or she knowingly fails to provide information of such conviction when applying or volunteering for service or engages in any employment of any type involving which purpose involves the direct care instruction or guidance of or repeat interaction with a minor children including but not limited to the types of services set forth in paragraph i b a public or private employer shall either verbally or in writing advise an applicant for an employment or volunteer position that the position applied for may involve contact with minors which may be prohibited under this section if the applicant was convicted in this or any other jurisdiction of any of the offenses specified in paragraph i of this section a person is guilty of a class b felony if having been convicted in this or any other jurisdiction of any of the offenses specified in paragraph i of this section he or she knowingly fails to provide information of such conviction when making application for initial teacher certification in this state"
+    }
+}

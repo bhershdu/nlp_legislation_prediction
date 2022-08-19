@@ -1,0 +1,187 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1393077,
+        "change_hash": "35bd6970744e030e7ab57577983e5f90",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB151/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=111&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB151",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-04",
+        "progress": [
+            {
+                "date": "2021-01-04",
+                "event": 1
+            },
+            {
+                "date": "2021-01-04",
+                "event": 9
+            },
+            {
+                "date": "2021-03-29",
+                "event": 11
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB151",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to changes of registration of certain voters after a primary election.",
+        "description": "Relative to changes of registration of certain voters after a primary election.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-04",
+                "committee_id": 1241,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Election Law"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-04",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Election Law House Journal  2 P. 37",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-17",
+                "action": "Public Hearing: 02/17/2021 09:45 am Please click the link below to join the webinar:https://zoom.us/j/95842759377Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-03",
+                "action": "==CONTINUED== Executive Session: 03/10/2021 10:10 am Members of the public may attend using the following link:To join the webinar: https://zoom.us/j/95087806399 (if necessary)",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-05",
+                "action": "Executive Session: 03/05/2021 12:00 pm Please click the link below to join the webinar:https://zoom.us/j/99327579520",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-29",
+                "action": "Committee Report: Inexpedient to Legislate (Vote 19-1; Consent Calendar) House Calendar 18 P. 8",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Inexpedient to Legislate: Motion Adopted Voice Vote 04/07/2021 House Journal  5 P. 11",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Reconsider (Rep. Osborne): Motion Failed Voice Vote 04/07/2021 House Journal  5 P. 50",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 19871,
+                "person_hash": "s68lmcsc",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Jim Maggiore",
+                "first_name": "Jim",
+                "middle_name": "",
+                "last_name": "Maggiore",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-22-ROC",
+                "ftm_eid": 41772679,
+                "votesmart_id": 172400,
+                "opensecrets_id": "",
+                "knowwho_pid": 586928,
+                "ballotpedia": "Jim_Maggiore_(New_Hampshire_House)",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2227376,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB151/id/2227376",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=113&txtFormat=html",
+                "text_size": 15883,
+                "text_hash": "689e98fd4c9ceffdd8072d5ec695885d"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-17",
+                "time": "09:45",
+                "location": "Please click the link below to join the webinar:https://zoom.us/",
+                "description": "Election Law Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-05",
+                "time": "12:00",
+                "location": "Please click the link below to join the webinar:https://zoom.us/",
+                "description": "Election Law Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-10",
+                "time": "10:10",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Election Law Executive Session"
+            }
+        ],
+        "full_text": "voters and checklists change of registration amend rsa to read as follows change of registration change of registration of a voter whose party membership has been previously registered a any legal voter whose party membership has been registered may change such registration by appearing in person before the supervisors of the checklist for his or her town or ward any time they meet except as prohibited by paragraph iv and stating to them under oath or affirmation if required that he or she intends to affiliate with and generally supports the candidates of the party with which he or she offers to register in which case he or she shall be registered as a member of such party or he or she does not wish to be registered as a member of any party in which case his or her party designation shall be removed from the checklist b he or she may also change such registration at any primary upon making oath or affirmation to the same effect but he or she shall not be permitted in such case to vote the ballot of any party at such primary change of registration of a voter who has been registered as an undeclared voter a any legal voter who has been registered as an undeclared voter may register as a member of the party of the voter s choice by appearing before the supervisors of the checklist for the voter s town or ward any time they meet except as prohibited by paragraph iv and stating to them under oath or affirmation if required that the voter intends to affiliate with and generally supports the candidates of the party with which the voter offers to register in which case the voter shall be registered as a member of such party b a voter may also register as a member of a party at any primary by requesting to be registered as a member and voting the ballot of the party of the voter s choice a voter may also register once again as an undeclared voter after voting in a primary as a registered member of a party by returning the card or signing the list of undeclared voters from the statewide centralized voter registration database provided for in paragraph if cards are used the voter shall return the card to the person at the polls designated by the town or city clerk to accept the card all such cards and lists shall be in the possession of the supervisors of the checklist at the close of the polls on election day supervisors of the checklist will return the voter s registration to undeclared after the close of the polls on election day notwithstanding any provision of paragraphs i and ii to the contrary no person who has voted in a primary may thereafter on the day of said primary change the person s party registration unless prior to voting in the primary the person was registered as an undeclared voter in which case the person may once again register as an undeclared voter as provided in subparagraph ii b no person who is already registered to vote whether his or her party membership has been previously registered or not shall affiliate with a party or disaffiliate from a party between the first wednesday in june and the day before the state primary election a at any primary the supervisors of the checklist shall make available within the polling place a card or list of undeclared voters from the statewide centralized voter registration database to enable a voter who was registered as an undeclared voter but who changed registration on the day of the primary in order to vote as a registered member of a party to change registration so that the voter is registered once again as an undeclared voter the card or list shall be in substantially the following form name ____________________________ print address __________________________ __________________________________ __________________________________ i hereby request that my political party registration be changed as follows from democrat or republican or name of any party determined by the secretary of state to have achieved official status under rsa to undeclared signed under the pains and penalties of perjury ______________________________________________ date______________ b the supervisors of the checklist upon receipt of such a card or list shall keep it in accordance with rsa and at the public session of supervisors of the checklist on election day shall change the party of the voter as indicated on the card or list"
+    }
+}

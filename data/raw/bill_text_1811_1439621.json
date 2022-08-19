@@ -1,0 +1,421 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1439621,
+        "change_hash": "0b8d9f344e96c08bb7873509907430f4",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/SB142/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=891&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=SB142",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2021-08-03",
+        "progress": [
+            {
+                "date": "2021-02-05",
+                "event": 1
+            },
+            {
+                "date": "2021-02-05",
+                "event": 9
+            },
+            {
+                "date": "2021-03-03",
+                "event": 10
+            },
+            {
+                "date": "2021-03-24",
+                "event": 10
+            },
+            {
+                "date": "2021-04-13",
+                "event": 2
+            },
+            {
+                "date": "2021-04-13",
+                "event": 9
+            },
+            {
+                "date": "2021-05-26",
+                "event": 10
+            },
+            {
+                "date": "2021-07-15",
+                "event": 3
+            },
+            {
+                "date": "2021-08-03",
+                "event": 8
+            },
+            {
+                "date": "2021-08-03",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "SB142",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "S",
+        "body_id": 68,
+        "current_body": "S",
+        "current_body_id": 68,
+        "title": "Reestablishing the commission to study the incidence of post-traumatic stress disorder in first responders and reestablishing the commission to study grandfamilies in New Hampshire.",
+        "description": "Reestablishing the commission to study the incidence of post-traumatic stress disorder in first responders and reestablishing the commission to study grandfamilies in New Hampshire.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-02-05",
+                "committee_id": 1270,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Executive Departments and Administration"
+            },
+            {
+                "date": "2021-04-13",
+                "committee_id": 1255,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Legislative Administration"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-02-05",
+                "action": "Introduced 02/04/2021 and Referred to Executive Departments and Administration; Senate Journal 4",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-11",
+                "action": "Remote Hearing: 02/17/2021, 09:15 am; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  11",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-03",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-0603s, 03/11/2021; Vote 5-0; Consent Calendar; Senate Calendar  14",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-11",
+                "action": "Committee Amendment # 2021-0603s, Regular Calendar 23Y-1N, Amendment Adopted; 03/11/2021; Senate Journal 7",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-11",
+                "action": "Ought to Pass with Amendment 2021-0603s, Regular Calendar 23Y-1N, Motion Adopted; Refer to Finance Rule 4-5; 03/11/2021; Senate Journal 7",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-24",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-0997s, 04/01/2021; Senate Calendar  17",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-01",
+                "action": "Committee Amendment # 2021-0997s, Regular Calendar 24Y-0N, Amendment Adopted; 04/01/2021; Senate Journal 10",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-01",
+                "action": "Ought to Pass with Amendment 2021-0997s, Regular Calendar 24Y-0N, Motion Adopted; OT3rdg; 04/01/2021; Senate Journal 10",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-13",
+                "action": "Introduced (in recess of) 04/09/2021 and referred to Legislative Administration House Journal  7 P. 100",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-28",
+                "action": "Public Hearing: 05/11/2021 10:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/99990261785 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-11",
+                "action": "Executive Session: 05/20/2021 09:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/94943238342",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-26",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-1612h (Vote 14-0; Consent Calendar) House Calendar 26 P. 10",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-06-03",
+                "action": "Amendment # 2021-1612h: Amendment Adopted Voice Vote 06/03/2021 House Journal  8 P. 79",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-03",
+                "action": "Ought to Pass with Amendment 2021-1612h: Motion Adopted Voice Vote 06/03/2021 House Journal  8 P. 79",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-10",
+                "action": "Sen. Carson Moved Nonconcur with the House Amendment; Requests C of C, Motion Adopted, Voice Vote; 06/10/2021; Senate Journal 19",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-10",
+                "action": "President Appoints: Senators Carson, Birdsell, Prentiss; 06/10/2021; Senate Journal 19",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-10",
+                "action": "House Accedes to Senate Request for CofC (Rep. Hill): Motion Adopted Voice Vote 06/10/2021 House Journal  10 P. 16",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-10",
+                "action": "Speaker Appoints: Reps. Hill, Greene, Simon, Rouillard 06/10/2021 House Journal  10 P. 16",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-11",
+                "action": "Committee of Conference Meeting: 06/14/2021, 2:00 p.m., Room 100, State House",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-17",
+                "action": "Conference Committee Report # 2021-1961c Filed 06/10/2021; House Amendment",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-24",
+                "action": "Conference Committee Report 2021-1961c: Adopted, Voice Vote 06/24/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-24",
+                "action": "Conference Committee Report # 2021-1961c, Adopted, Voice Vote; 06/24/2021; Senate Journal 20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-15",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 06/24/2021); Senate Journal 20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-15",
+                "action": "Enrolled (in recess of) 06/24/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-08-03",
+                "action": "Signed by the Governor on 07/30/2021; Chapter 0178",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-08-03",
+                "action": "I. Section 3 Effective 11/01/2022",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-08-03",
+                "action": "II. Remainder Effective 07/30/2021",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 11989,
+                "person_hash": "szz8y6ea",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Regina Birdsell",
+                "first_name": "Regina",
+                "middle_name": "",
+                "last_name": "Birdsell",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-019",
+                "ftm_eid": 6695412,
+                "votesmart_id": 126600,
+                "opensecrets_id": "",
+                "knowwho_pid": 296214,
+                "ballotpedia": "Regina_Birdsell",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2277620,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB142/id/2277620",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=882&txtFormat=html",
+                "text_size": 54964,
+                "text_hash": "8e1ef59f6daa869f69e261e0057a7f81"
+            },
+            {
+                "doc_id": 2333628,
+                "date": "2021-03-11",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB142/id/2333628",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=SA&id=882",
+                "text_size": 55231,
+                "text_hash": "03b37715f58086b526d0d35b417f08e2"
+            },
+            {
+                "doc_id": 2365537,
+                "date": "2021-03-11",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB142/id/2365537",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=SA2&id=882",
+                "text_size": 44507,
+                "text_hash": "be5a81941af3180af9b318905d716f65"
+            },
+            {
+                "doc_id": 2411516,
+                "date": "2021-03-11",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/SB142/id/2411516",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=HA&id=882",
+                "text_size": 29985,
+                "text_hash": "60424800633168b293496afc2dcded31"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1045843,
+                "date": "2021-04-01",
+                "desc": "Committee Amendment 0997s",
+                "yea": 24,
+                "nay": 0,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB142/id/1045843",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=258&sy=2021&lb=S&eb=SB0142&sortoption=&txtsessionyear=2021&txtbillnumber=SB142&ddlsponsors=&lsr=891"
+            },
+            {
+                "roll_call_id": 1045844,
+                "date": "2021-04-01",
+                "desc": "Ought to Pass w/Amendment",
+                "yea": 24,
+                "nay": 0,
+                "nv": 0,
+                "absent": 0,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/SB142/id/1045844",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=259&sy=2021&lb=S&eb=SB0142&sortoption=&txtsessionyear=2021&txtbillnumber=SB142&ddlsponsors=&lsr=891"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-05-11",
+                "time": "10:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Legislative Administration Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-05-20",
+                "time": "09:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Legislative Administration Executive Session"
+            }
+        ],
+        "full_text": "commission to study the incidence of stress disorder in first responders reestablished a there is reestablished the commission to study the incidence of stress disorder in first responders and whether such disorder should be covered under workers compensation the members of the commission shall be as follows one member of the senate appointed by the president of the senate three members of the house of representatives one of whom shall be from the labor industrial and rehabilitative services committee one of whom shall be from the executive departments and administration committee and one of whom shall be from the relations and veterans affairs committee appointed by the speaker of the house of representatives the labor commissioner or designee the commissioner of safety or designee the insurance commissioner or designee the commissioner of the department of corrections or designee a representative of the new hampshire municipal association appointed by the association a representative of the new hampshire association of counties appointed by the association a representative of the national alliance on mental illness new hampshire appointed by the alliance a fire chief appointed by the new hampshire association of fire chiefs one member appointed by the new hampshire association of chiefs of police one member appointed by the new hampshire police association a representative of the professional firefighters of new hampshire appointed by that organization a representative of the new hampshire association of emergency medical technicians appointed by the association a representative of the new hampshire public risk management exchange appointed by that organization an attorney appointed by the new hampshire association for justice b legislative members of the commission shall receive mileage at the legislative rate when attending to the duties of the commission a the commission shall study costs associated with training and resources application of training and operation of the presumption that stress disorder in first responders is occupationally caused whether a first responder s death from suicide is a line of duty death life insurance payouts for first responders who die of suicide life insurance payouts for retired first responders who die of suicide federal line of duty deaths by suicide cost and administration of resiliency training the need for culture change to enable first responders to openly address ptsd issues without impacting their careers discuss the intersection of benefits provided by workers compensation and the new hampshire retirement system when a first responder retires because of ptsd and whether additional benefits are warranted including a retirement insurance subsidy b the commission may solicit input from any person or entity the commission deems relevant to its study the members of the commission shall elect a chairperson from among the members the first meeting of the commission shall be called by the senate member the first meeting of the commission shall be held within days of the effective date of this section nine members of the commission shall constitute a quorum on or before november the commission shall submit an interim report of its findings and any recommendations for proposed legislation to the president of the senate the speaker of the house of representatives the senate clerk the house clerk the governor and the state library and shall submit a final report on or before november commission to study grandfamilies in new hampshire there is established a commission to study grandfamilies in new hampshire the membership of the commission shall be as follows a one member of the senate appointed by the senate president b three members of the house of representatives one of whom shall serve on the health human services and elderly affairs committee one of whom shall serve on the committee responsible for children and family law and one of whom shall serve on the finance committee appointed by the speaker of the house of representatives c the commissioner of the department of health and human services or designee d the commissioner of the department of education or designee e one representative of the division of family assistance department of health and human services appointed by that division f one representative of the division for children youth and families department of health and human services appointed by that division g one representative of the family assistance advisory council appointed by the council h one representative of waypoint formerly child and family services of new hampshire appointed by that organization i one representative of a family resource center appointed by family support new hampshire j one representative of court appointed special advocates of new hampshire appointed by that organization k one representative of new futures appointed by that organization l one representative of national alliance on mental illness new hampshire appointed by that organization m one representative of the nh head start directors association appointed by the association n one public school principal appointed by the new hampshire association of school principals o one pediatrician licensed in new hampshire appointed by the new hampshire pediatric society p one member of the new hampshire bar association appointed by the association q one representative of aarp appointed by that organization r one representative of the new hampshire association of chiefs of police appointed by the association s three grandparent caregivers appointed by the family assistance advisory council t one representative of a community health center in new hampshire appointed by the governor u one member of the parenting a second time around pasta support group appointed by the ymca of greater londonderry the commission shall address issues related to grandfamilies in new hampshire the commission s duties shall include but not be limited to a review of current data regarding grandfamilies in new hampshire b review of current barriers facing grandparents who are raising children in new hampshire c identification of causes of issues affecting new hampshire grandfamilies d development of corrective actions for addressing issues facing grandfamilies in new hampshire e identification of current actions being taken to assist grandfamilies in new hampshire and their effectiveness members of the commission shall elect a chairperson from among the members the first meeting of the commission shall be called by the senate member the first meeting of the commission shall be held within days of the effective date of this section seven members of the commission shall constitute a quorum legislative members of the commission shall receive mileage at the legislative rate when attending to the duties of the commission the commission shall submit an interim report of its findings and any recommendations for proposed legislation to the president of the senate the speaker of the house of representatives the senate clerk the house clerk the governor and the state library on or before november the commission shall submit a final report on or before november repeal the following are repealed rsa establishing a commission to study the incidence of stress disorder in first responders rsa establishing a commission to study grandfamilies in new hampshire the remainder shall take effect upon its passage lba amended sb fiscal note as amended by the senate amendment s methodology the office of legislative budget assistant states this bill has no fiscal impact on state county and local expenditures or revenue agencies contacted none"
+    }
+}

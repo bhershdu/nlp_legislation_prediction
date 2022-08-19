@@ -1,0 +1,347 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1393156,
+        "change_hash": "0b433756e049893788fca8811e378a1e",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB199/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=374&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB199",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2021-08-03",
+        "progress": [
+            {
+                "date": "2021-01-04",
+                "event": 1
+            },
+            {
+                "date": "2021-01-04",
+                "event": 9
+            },
+            {
+                "date": "2021-02-18",
+                "event": 10
+            },
+            {
+                "date": "2021-04-07",
+                "event": 2
+            },
+            {
+                "date": "2021-04-07",
+                "event": 9
+            },
+            {
+                "date": "2021-05-17",
+                "event": 10
+            },
+            {
+                "date": "2021-07-15",
+                "event": 3
+            },
+            {
+                "date": "2021-08-03",
+                "event": 8
+            },
+            {
+                "date": "2021-08-03",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB199",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Including soil health and soil conservation in the state soil conservation plan.",
+        "description": "Including soil health and soil conservation in the state soil conservation plan.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-04",
+                "committee_id": 1242,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Environment and Agriculture"
+            },
+            {
+                "date": "2021-04-07",
+                "committee_id": 1736,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Energy and Natural Resources"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-04",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Environment and Agriculture House Journal  2 P. 39",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-20",
+                "action": "Public Hearing: 01/27/2021 03:45 pm Members of the public may attend using the following links:To join the webinar: https://www.zoom.us/j/92887623403 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-18",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-0351h (Vote 18-1; Consent Calendar) House Calendar 18 P. 10",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Amendment # 2021-0351h: Amendment Adopted Voice Vote 04/07/2021 House Journal  5 P. 14",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Ought to Pass with Amendment 2021-0351h: Motion Adopted Voice Vote 04/07/2021 House Journal  5 P. 14",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Reconsider (Rep. Osborne): Motion Failed Voice Vote 04/07/2021 House Journal  5 P. 50",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Introduced 04/01/2021 and Referred to Energy and Natural Resources; Senate Journal 11",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-19",
+                "action": "Remote Hearing: 04/19/2021, 01:00 pm; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-17",
+                "action": "Committee Report: Ought to Pass, 05/20/2021; Senate Calendar  24A",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-05-20",
+                "action": "Sen. Bradley Floor Amendment # 2021-1581s, Regular Calendar 13Y-9N, Amendment Adopted; 05/20/2021; Senate Journal 16",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-20",
+                "action": "Ought to Pass with Amendment 2021-1581s, Motion Adopted, Voice Vote; OT3rdg; 05/20/2021; Senate Journal 16",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-07",
+                "action": "House Non-Concurs with Senate Amendment 2021-1581s and Requests CofC (Reps. Pearl, Aron, Homola, Bixby): Motion Adopted Voice Vote 06/04/2021 House Journal  9 P. 51",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-10",
+                "action": "Sen. Avard Accedes to House Request for Committee of Conference, Motion Adopted, Voice Vote; 06/10/2021; Senate Journal 19",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-10",
+                "action": "President Appoints: Senators Avard, Bradley, Perkins Kwoka; 06/10/2021; Senate Journal 19",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-14",
+                "action": "Conferee Change; Senator Watters Replaces Senator Perkins Kwoka; Senate Journal 20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-15",
+                "action": "Conference Committee Meeting: 06/15/2021 09:00 am Legislative Office Building 301-303",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-17",
+                "action": "Conference Committee Report Filed, # 2021-1983c; 06/24/2021",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-24",
+                "action": "Conference Committee Report # 2021-1983c, Adopted, Voice Vote; 06/24/2021; Senate Journal 20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-24",
+                "action": "Conference Committee Report 2021-1983c: Adopted, Voice Vote 06/24/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-15",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 06/24/2021); Senate Journal 20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-15",
+                "action": "Enrolled (in recess of) 06/24/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-08-03",
+                "action": "Signed by Governor Sununu 07/30/2021; Chapter 167; Eff: 09/28/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 15423,
+                "person_hash": "2ifxavzg",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Peter Bixby",
+                "first_name": "Peter",
+                "middle_name": "W.",
+                "last_name": "Bixby",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-17-STR",
+                "ftm_eid": 13703837,
+                "votesmart_id": 141796,
+                "opensecrets_id": "",
+                "knowwho_pid": 426709,
+                "ballotpedia": "Peter_Bixby",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2227452,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB199/id/2227452",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=374&txtFormat=html",
+                "text_size": 29262,
+                "text_hash": "2823a5ea75e300deb911e57ea1e45e3e"
+            },
+            {
+                "doc_id": 2359358,
+                "date": "2021-04-07",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB199/id/2359358",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=HA&id=374",
+                "text_size": 29310,
+                "text_hash": "a823a268038fba761f6066b7d27a4c0f"
+            },
+            {
+                "doc_id": 2400584,
+                "date": "2021-05-20",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB199/id/2400584",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=SA&id=374",
+                "text_size": 30220,
+                "text_hash": "f238506ead7b441e8977ffdf68ce15f8"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1083984,
+                "date": "2021-05-20",
+                "desc": "Floor Amendment 1581s",
+                "yea": 13,
+                "nay": 9,
+                "nv": 0,
+                "absent": 2,
+                "total": 24,
+                "passed": 1,
+                "chamber": "S",
+                "chamber_id": 68,
+                "url": "https://legiscan.com/NH/rollcall/HB199/id/1083984",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=386&sy=2021&lb=S&eb=HB0199&sortoption=&txtsessionyear=2021&txtbillnumber=HB199&ddlsponsors=&lsr=374"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-01-27",
+                "time": "15:45",
+                "location": "Members of the public may attend using the following links:To jo",
+                "description": "Environment and Agriculture Public Hearing"
+            }
+        ],
+        "full_text": "state plan implementation of the federal soil conservation amend rsa to read as follows state plan the department is hereby authorized empowered and directed to formulate and submit to the secretary of agriculture in conformity with the provisions of said soil conservation and domestic allotment act a state plan for each year it shall be the purpose of each such plan and each such plan shall be designed to promote such utilization of land and such farming practices as the department finds will tend in conjunction with the operation of such other plans as may be approved for other states by the secretary of agriculture to preserve and improve soil fertility and soil health to promote adaptation to changes in climate and environment to promote the economic use and conservation of land to diminish exploitation and wasteful and unscientific use of natural soil resources to protect rivers and waterways against the results of soil erosion and aid in flood control and to reestablish and maintain the ratio between the purchasing power of the net income per person on farms and that of the income per person not on farms as defined in subsection a of section of the soil conservation and domestic allotment act each such plan shall provide for adjustments in utilization of land and in farming practices through agreements with producers or through other voluntary methods and for benefit payments in connection therewith and for such methods of administration not in conflict with any law of the state and for such reports as the secretary of agriculture finds necessary for the effective administration of the plan and for ascertaining whether the plan is being carried out according to its terms declaration of policy conservation districts soil conservation amend rsa to read as follows declaration of policy it is hereby declared to be the policy of the state to provide for the establishment of conservation districts under the supervision of a state conservation committee said districts to be composed of landowners and land occupiers within the district who may join together in the interest of the health conservation and development of the soil water and related natural resources and preventing soil erosion floodwater and sediment damages promoting soil health practices drought resilience and adaption to changes in climate and environment it is the intent of this subdivision to facilitate the joint effort of landowners land occupiers and units of government in carrying out measures for the conservation and development of lands within the district voluntarily and with such assistance as may be available for this purpose from local state or federal governmental agencies soil conservation conservation districts amend rsa to read as follows definitions as used in this subdivision the following words shall have the following meanings adaptation means the process of adjustment to actual or scientifically projected conditions ii district or conservation district means the territory included within the boundaries of a county organized in accordance with the provisions of this subdivision ii iii land occupier or occupier of land includes any person who shall hold title to or shall be in lawful possession of any parcel of land lying within a district organized under the provisions of this subdivision iii iv district supervisor or supervisor shall mean a member of the governing body appointed in accordance with the provisions of this subdivision soil health means the overall composition of the soil including the amount of organic matter in and water holding capacity of the soil and the continued capacity of soil to function as a vital living ecosystem that sustains plants animals and humans healthy soils practices mean agricultural practices that improve the health of soils including but not limited to consideration of depth of topsoil horizons water infiltration rate organic carbon content nutrient content bulk density biological activity biological and microbiological diversity and minimization of bare ground plant biostimulant means a substance microorganism or mixtures thereof that when applied to seeds plants the rhizosphere soil or other growth media act to support a plant s natural nutrition processes independently of the plant biostimulant s nutrient content improving nutrient availability uptake or use efficiency tolerance to abiotic stress and consequent growth development quality or yield creation of conservation districts soil health amend rsa to read as follows creation of conservation districts there are hereby established as governmental subdivisions of this state and public bodies corporate and politic conservation districts as follows each of the counties within the state is hereby incorporated into a conservation district each of the districts shall be known by the name of the county to which its boundaries conform upon the appointment of the district supervisors as hereinafter provided the districts shall become duly organized and thereafter the districts and the supervisors thereof shall have all powers and duties conferred upon them by this subdivision provided however that no such district shall exercise any of the powers conferred on districts or the supervisors thereof under this subdivision until after the state conservation committee shall adopt a resolution determining that there is a need in the interest of public health safety and welfare for such district to function and that a substantial proportion of the land occupiers of such districts are in favor of its operation in making such determinations the committee may accept petitions and conduct such public meetings and referenda as it deems necessary and shall give due consideration to the distribution and intensity of erosion floodwaters and sediment damages the effects of drought need for land drainage and changes in land use and the conservation and development of the natural resources the impact of changing climate and environment and capacity of soil health to improve resilience on land within the said district and to other relevant factors from and after the date of adoption by the committee of a resolution in favor of the operation of a particular district such district shall be deemed to be duly organized and the supervisors of such district shall thereupon be entitled to exercise the powers conferred on them by this subdivision a certified copy of such resolution shall be evidence of the due organization of such districts all districts heretofore organized under rsa or shall be identified as conservation districts and shall have all the powers and duties provided in this subdivision for conservation districts conservation districts powers of districts an supervisors soil conservation amend rsa to read as follows powers of districts and supervisors a conservation district organized under the provisions of this subdivision and the supervisors thereof shall have the following powers in addition to others granted in other sections of this subdivision to conduct surveys investigations and research relating to the character of soil erosion floodwater and sediment damages land drainage the health conservation and development of the soil water and related natural resources the impact of drought and the promotion of practices to adapt to a changing climate and environment and the preventive and control measures and works of improvement needed to publish the results of such surveys investigations or research and to disseminate information concerning such preventive and control measures and works of improvement provided however that in order to avoid duplication of research activities no district shall initiate any research program except in cooperation with the government of this state or any of its agencies or with the united states or any of its agencies to conduct demonstrational projects within the district on lands owned or controlled by this state or any of its agencies with the cooperation and consent of the agency administering and having jurisdiction thereof and on any other lands within the district upon obtaining the consent of the occupier of such lands or the necessary rights or interests in such lands in order to demonstrate by example the means methods and measures by which soil and soil resources may be conserved and soil health improved and how soil erosion in the form of soil blowing and soil washing may be prevented and controlled and how land may be drained and floodwater and sediment damages may be prevented and how other works of improvement for the health conservation and development of the soil water and related natural resources may be carried out and how healthy soils practices can aid in adaptation to changes in climate and environment to carry out preventive and control measures and works of improvement for the health conservation and development of the soil water and related natural resources within the district including but not limited to engineering operations methods of cultivation the growing of vegetation the drainage of land and changes in use of land and measures for the prevention of floodwater and sediment damages on lands owned or controlled by this state or any of its agencies with the cooperation and consent of the agency administering and having jurisdiction thereof and on any other land within the district upon obtaining the consent of the occupier of such lands or the necessary rights or interests in such lands to cooperate or enter into agreements with and to furnish financial or other aid to any agency governmental or otherwise or any occupier of lands within the district in carrying out the erosion control flood prevention drainage watershed protection and resource conservation and development projects or other works of improvement for the health conservation and development of the soil water and related natural resources within the district subject to such conditions as the supervisors may deem necessary to advance the purposes of this subdivision to obtain options upon and to acquire by purchase exchange lease gift grant bequest devise or otherwise any property real or personal or rights or interests therein to maintain administer and improve any properties acquired to receive income from such properties and to expend such income in carrying out the purposes and provisions of this subdivision and to sell lease or otherwise dispose of any of its property or interests therein in furtherance of the purposes and provisions of this subdivision to make available on such terms as it shall prescribe to land occupiers within the district incentives education technical assistance agricultural and engineering machinery equipment fertilizer plant biostimulant seeds seedlings and such other material or equipment as will assist such land occupiers to carry on operations upon their lands for the health conservation and development of soil water and related natural resources for the promotion of practices to foster drought resilience and adapt to a changing climate and environment for the drainage of land for the prevention and control of soil erosion and for the prevention of floodwater and sediment damages to construct improve operate and maintain such structures as may be necessary or convenient for the performance of any of the operations authorized in this subdivision to develop comprehensive plans for changes in land use and for the conservation and development of the healthy soil water and related natural resources for the control and prevention of soil erosion for land drainage and for the prevention of floodwater and sediment damages within the district for the promotion of drought resilience and for adaptation to changes in climate and environment which plans shall specify in such detail as may be possible the acts procedures performances and avoidances which are necessary or desirable for the effectuation of such plans including the specification of engineering operations methods of cultivation the growing of vegetation cropping programs tillage practices and changes in use of lands and to publish such plans and information and bring them to the attention of occupiers of lands within the district to take over by purchase lease or otherwise and to administer any soil health soil conservation drainage drought resilience flood prevention erosion control erosion prevention watershed protection or resource conservation and development project or other works of improvement for the health conservation and development of soil water and related natural resources or combinations thereof located within its boundaries undertaken by the united states or any of its agencies or by this state or any of its agencies to manage as agent of the united states or any of its agencies or of this state or any of its agencies any soil health soil conservation drought resilience drainage flood prevention erosion control erosion prevention watershed protection or resource conservation and development project or other works of improvement for the health conservation and development of soil water and related natural resources or combinations thereof within its boundaries to act as agent for the united states or any of its agencies or for this state or any of its agencies in connection with the acquisition construction operation or administration of any soil health soil conservation drainage drought resilience flood prevention erosion control erosion prevention watershed protection or resource conservation and development project or other works of improvement for the health conservation and development of soil water and related natural resources or combinations thereof within its boundaries to accept donations gifts and contributions in money services materials or otherwise from the united states or any of its agencies or from this state or any of its agencies and to use or expend such moneys services materials or other contributions in carrying on its operations as a condition to the extending of any benefits under this subdivision to or the performance of work upon any lands not owned or controlled by this state or any of its agencies the supervisors may require contributions in money services materials or otherwise to any operations conferring such benefits and may require land occupiers to enter into and perform such agreements or covenants as to the permanent use of such lands as will tend to provide drainage prevent or control erosion prevent floodwater and sediment damages and otherwise provide for the conservation and development of the resources thereon"
+    }
+}

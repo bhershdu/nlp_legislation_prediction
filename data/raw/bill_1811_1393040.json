@@ -1,0 +1,164 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1393040,
+        "change_hash": "976e732d9c2d871153992a8df6b45f1f",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB68/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=13&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB68",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-04",
+        "progress": [
+            {
+                "date": "2021-01-04",
+                "event": 1
+            },
+            {
+                "date": "2021-01-04",
+                "event": 9
+            },
+            {
+                "date": "2021-02-23",
+                "event": 11
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB68",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to the definition of child abuse.",
+        "description": "Relative to the definition of child abuse.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-04",
+                "committee_id": 1237,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Children and Family Law"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-04",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Children and Family Law House Journal  2 P. 34",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-27",
+                "action": "==RECESSED== Public Hearing: 02/03/2021 01:15 pm Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/96640856922 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-09",
+                "action": "==CONTINUED== Public Hearing: 02/18/2021 01:15 pm Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/95160795068 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-23",
+                "action": "Committee Report: Inexpedient to Legislate (Vote 15-0; Consent Calendar) House Calendar 18 P. 2",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Removed from Consent (Rep. Testerman) 04/07/2021 House Journal  5 P. 2",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 18802,
+                "person_hash": "mzg77iv9",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Dave Testerman",
+                "first_name": "Dave",
+                "middle_name": "",
+                "last_name": "Testerman",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-02-MER",
+                "ftm_eid": 41757550,
+                "votesmart_id": 172475,
+                "opensecrets_id": "",
+                "knowwho_pid": 587505,
+                "ballotpedia": "Dave_Testerman",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2227339,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB68/id/2227339",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=9&txtFormat=html",
+                "text_size": 8024,
+                "text_hash": "858f097fd2d39f2928d99cb532ccc207"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-03",
+                "time": "13:15",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Children and Family Law Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-18",
+                "time": "13:15",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Children and Family Law Public Hearing"
+            }
+        ]
+    }
+}

@@ -1,0 +1,314 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1398395,
+        "change_hash": "eef9b787b392e2dedf9551e6afcfc4a5",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB422/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=571&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB422",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-10",
+        "progress": [
+            {
+                "date": "2021-01-10",
+                "event": 1
+            },
+            {
+                "date": "2021-01-10",
+                "event": 9
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB422",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to the one-half credit required course in United States and New Hampshire government and civics.",
+        "description": "Relative to the one-half credit required course in United States and New Hampshire government and civics.",
+        "pending_committee_id": 1240,
+        "committee": {
+            "committee_id": 1240,
+            "chamber": "H",
+            "chamber_id": 67,
+            "name": "Education"
+        },
+        "referrals": [
+            {
+                "date": "2021-01-10",
+                "committee_id": 1240,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Education"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-10",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Education House Journal  2 P. 47",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-02",
+                "action": "Public Hearing: 03/02/2021 10:15 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/97910276071 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-11",
+                "action": "Executive Session: 03/11/2021 09:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/95090800832",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-11",
+                "action": "Retained in Committee",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-08-16",
+                "action": "Subcommittee Work Session: 09/01/2021 01:00 pm Legislative Office Building 207",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-09-08",
+                "action": "Subcommittee Work Session: 09/22/2021 10:00 am Legislative Office Building 206-208",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-09-29",
+                "action": "Executive Session: 10/14/2021 09:30 am Legislative Office Building 205-207",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-09-29",
+                "action": "Executive Session: 10/14/2021 09:30 am Legislative Office Building 205-207",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 19160,
+                "person_hash": "tsvwjqxp",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "John Janigian",
+                "first_name": "John",
+                "middle_name": "",
+                "last_name": "Janigian",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-08-ROC",
+                "ftm_eid": 40527566,
+                "votesmart_id": 173063,
+                "opensecrets_id": "",
+                "knowwho_pid": 587626,
+                "ballotpedia": "John_Janigian",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18810,
+                "person_hash": "jop80o18",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Peter Torosian",
+                "first_name": "Peter",
+                "middle_name": "E.",
+                "last_name": "Torosian",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-14-ROC",
+                "ftm_eid": 41757598,
+                "votesmart_id": 172539,
+                "opensecrets_id": "",
+                "knowwho_pid": 587653,
+                "ballotpedia": "Peter_Torosian",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19158,
+                "person_hash": "w1hs0gt8",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Betty Gay",
+                "first_name": "Betty",
+                "middle_name": "I.",
+                "last_name": "Gay",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-08-ROC",
+                "ftm_eid": 41757586,
+                "votesmart_id": 172527,
+                "opensecrets_id": "",
+                "knowwho_pid": 587625,
+                "ballotpedia": "Betty_Gay",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 5001,
+                "person_hash": "wticrvli",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Robert Elliott",
+                "first_name": "Robert",
+                "middle_name": "J.",
+                "last_name": "Elliott",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-08-ROC",
+                "ftm_eid": 6670912,
+                "votesmart_id": 69091,
+                "opensecrets_id": "",
+                "knowwho_pid": 250174,
+                "ballotpedia": "Robert_Elliott_(New_Hampshire)",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 17929,
+                "person_hash": "m558mfsl",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Michael Edgar",
+                "first_name": "Michael",
+                "middle_name": "",
+                "last_name": "Edgar",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-21-ROC",
+                "ftm_eid": 9724166,
+                "votesmart_id": 141783,
+                "opensecrets_id": "",
+                "knowwho_pid": 426681,
+                "ballotpedia": "Michelle_Edgar",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2235014,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB422/id/2235014",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=561&txtFormat=html",
+                "text_size": 9410,
+                "text_hash": "23cc03458c88d417e5c4956415cb110b"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-02",
+                "time": "10:15",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Education Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-11",
+                "time": "09:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Education Executive Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-09-01",
+                "time": "13:00",
+                "location": "Legislative Office Building 207",
+                "description": "Education Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-09-22",
+                "time": "10:00",
+                "location": "Legislative Office Building 206-208",
+                "description": "Education Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-10-14",
+                "time": "09:30",
+                "location": "Legislative Office Building 205-207",
+                "description": "Education Executive Session"
+            }
+        ]
+    }
+}

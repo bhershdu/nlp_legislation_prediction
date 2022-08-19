@@ -1,0 +1,237 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1403871,
+        "change_hash": "1553aa2ece4ea111d66e0e9b93699703",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB558/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=783&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB558",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-12",
+        "progress": [
+            {
+                "date": "2021-01-12",
+                "event": 1
+            },
+            {
+                "date": "2021-01-12",
+                "event": 9
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB558",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Establishing a committee to study the use of information technology in the legislative process.",
+        "description": "Establishing a committee to study the use of information technology in the legislative process.",
+        "pending_committee_id": 1255,
+        "committee": {
+            "committee_id": 1255,
+            "chamber": "H",
+            "chamber_id": 67,
+            "name": "Legislative Administration"
+        },
+        "referrals": [
+            {
+                "date": "2021-01-12",
+                "committee_id": 1255,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Legislative Administration"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-12",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Legislative Administration House Journal  2 P. 53",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-22",
+                "action": "Public Hearing: 02/22/2021 10:30 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/91906391213 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-09",
+                "action": "Retained in Committee",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-10-06",
+                "action": "Full Committee Work Session: 10/19/2021 01:00 pm Legislative Office Building 305-307",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 19891,
+                "person_hash": "865n4e99",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Matthew Wilhelm",
+                "first_name": "Matthew",
+                "middle_name": "B.",
+                "last_name": "Wilhelm",
+                "suffix": "",
+                "nickname": "Matt",
+                "district": "HD-42-HIL",
+                "ftm_eid": 42048257,
+                "votesmart_id": 185372,
+                "opensecrets_id": "",
+                "knowwho_pid": 670679,
+                "ballotpedia": "Matt_Wilhelm",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19889,
+                "person_hash": "vemndw1q",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Joe Alexander",
+                "first_name": "Joe",
+                "middle_name": "H.",
+                "last_name": "Alexander",
+                "suffix": "Jr.",
+                "nickname": "",
+                "district": "HD-06-HIL",
+                "ftm_eid": 42579614,
+                "votesmart_id": 175812,
+                "opensecrets_id": "",
+                "knowwho_pid": 598264,
+                "ballotpedia": "Joe_Alexander_Jr.",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19862,
+                "person_hash": "i8p76svj",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Willis Griffith",
+                "first_name": "Willis",
+                "middle_name": "",
+                "last_name": "Griffith",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-18-HIL",
+                "ftm_eid": 45378747,
+                "votesmart_id": 185359,
+                "opensecrets_id": "",
+                "knowwho_pid": 670561,
+                "ballotpedia": "Willis_Griffith",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21883,
+                "person_hash": "70cv20ch",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Becky Whitley",
+                "first_name": "Becky",
+                "middle_name": "",
+                "last_name": "Whitley",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-015",
+                "ftm_eid": 50226754,
+                "votesmart_id": 194987,
+                "opensecrets_id": "",
+                "knowwho_pid": 743970,
+                "ballotpedia": "Becky_Whitley",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2238474,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB558/id/2238474",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=769&txtFormat=html",
+                "text_size": 14841,
+                "text_hash": "041c0e937a1a919a14b1f747104eb811"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-22",
+                "time": "10:30",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Legislative Administration Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-10-19",
+                "time": "13:00",
+                "location": "Legislative Office Building 305-307",
+                "description": "Legislative Administration Work Session"
+            }
+        ],
+        "full_text": "purpose the general court finds that the pandemic which challenged new hampshire throughout and into forced both houses of the state legislature to adopt information technology to conduct remote committee hearings and meetings the use of video conferencing technologies among others enabled legislators to participate in hearings from their homes or other remote locations and eliminated barriers for members of the public for whom it can often be costly and logistically challenging to attend committee hearings at the state capitol legislative committee established use of information technology in the legislative process there is established a committee to review and study the use of information technology in the legislative process the members of the committee shall be as follows a four members of the house of representatives one of whom shall be from the minority party appointed by the speaker of the house of representatives b one member of the senate appointed by the president of the senate members of the committee shall receive mileage at the legislative rate when attending to the duties of the committee the committee shall study information technology in the legislative process and shall a review the use of information technology in the legislative process including but not limited to public hearings committee and subcommittee meetings and communications prior to and throughout the pandemic b develop a training needs assessment for legislators and staff to effectively utilize the currently available online office suite video conferencing programs or other similar commercial software applications for legislative work c evaluate the technical staffing and logistical needs to continue the use of video conferencing and other information technologies for committee and subcommittee meetings and hearings d explore any technical staffing and logistical needs and costs facing local communities to access meetings and hearings over videoconferencing technology e determine the administrative costs anticipated to sustain the use of videoconferencing and other information technologies in the legislative process f review the rules of the house of representatives and the senate to identify what uses of information technology are currently permitted and what changes are required to further authorize the use of video conferencing for public hearings committee and subcommittee work and communications g research laws and programs enacted in other states counties or municipalities authorizing and supporting the use of video conferencing and other information technologies in the legislative process h study any other issue that the committee determines is relevant to its objective the committee shall solicit information from any individual or entity the committee deems relevant to its study including but not limited to a the clerk of the new hampshire house of representatives b the clerk of the new hampshire senate c the attorney general d the university system and community college system of new hampshire e the new hampshire association of regional planning commissions f municipal and community leaders from coos county and other remote areas of new hampshire g the new hampshire disability rights center new hampshire council on developmental disabilities community support network inc and other organizations supporting individuals and families with mental physical and developmental challenges h new futures and other health and civic advocacy organizations the members of the study committee shall elect a chairperson from among the members the first meeting of the committee shall be called by the house member the first meeting of the committee shall be held within days of the effective date of this section three members of the committee shall constitute a quorum the committee shall report its findings and any recommendations for proposed legislation and rule changes to the speaker of the house of representatives the president of the senate the house clerk the senate clerk the governor and the state library on or before november"
+    }
+}

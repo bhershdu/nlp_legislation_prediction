@@ -1,0 +1,664 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1393215,
+        "change_hash": "8cce1b0cfbf9607a176a86306d97bb6b",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB187/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=173&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB187",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2021-08-16",
+        "progress": [
+            {
+                "date": "2021-01-04",
+                "event": 1
+            },
+            {
+                "date": "2021-01-04",
+                "event": 9
+            },
+            {
+                "date": "2021-02-03",
+                "event": 10
+            },
+            {
+                "date": "2021-02-24",
+                "event": 9
+            },
+            {
+                "date": "2021-04-01",
+                "event": 10
+            },
+            {
+                "date": "2021-04-07",
+                "event": 2
+            },
+            {
+                "date": "2021-04-07",
+                "event": 9
+            },
+            {
+                "date": "2021-05-13",
+                "event": 10
+            },
+            {
+                "date": "2021-07-28",
+                "event": 3
+            },
+            {
+                "date": "2021-08-16",
+                "event": 8
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB187",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to the emergency powers of the commissioner of health and human services and relative to the membership of the oversight committee on health and human services.",
+        "description": "Relative to the emergency powers of the commissioner of health and human services and relative to the membership of the oversight committee on health and human services.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-04",
+                "committee_id": 1249,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Health, Human Services & Elderly Affairs"
+            },
+            {
+                "date": "2021-02-24",
+                "committee_id": 1243,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Executive Departments and Administration"
+            },
+            {
+                "date": "2021-04-07",
+                "committee_id": 1272,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Health and Human Services"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-04",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Health, Human Services and Elderly Affairs House Journal  2 P. 38",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-20",
+                "action": "Public Hearing: 02/01/2021 09:45 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/96551569054 / Executive session on pending legislation may be held throughout the day (time permitting) from the time thecommittee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-03",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-0161h (Vote 19-2; Regular Calendar) House Calendar 12 P. 21",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-24",
+                "action": "Amendment # 2021-0161h: Amendment Adopted Voice Vote 02/24/2021 House Journal  3 P. 65",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-24",
+                "action": "Ought to Pass with Amendment : Motion Adopted Regular Calendar 333-6 02/24/2021 House Journal  3 P. 65",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-24",
+                "action": "Referred to Executive Departments and Administration 02/24/2021 House Journal  3 P. 65",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-15",
+                "action": "Public Hearing: 03/15/2021 10:00 am Please click the link below to join the webinar:https://zoom.us/j/94033090497Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-01",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-0952h (Vote 17-1; Consent Calendar) House Calendar 18 P. 12",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Amendment # 2021-0952h: Amendment Adopted Voice Vote 04/07/2021 House Journal  5 P. 22",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Ought to Pass with Amendment 2021-0952h: Motion Adopted Voice Vote 04/07/2021 House Journal  5 P. 22",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Reconsider (Rep. Osborne): Motion Failed Voice Vote 04/07/2021 House Journal  5 P. 50",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Introduced 04/01/2021 and Referred to Health and Human Services; Senate Journal 11",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-29",
+                "action": "Remote Hearing: 05/05/2021, 09:15 am; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  22",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-29",
+                "action": "Remote Hearing: 05/05/2021, 09:30 am, on proposed amendment # 2021-1242s; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  22",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-13",
+                "action": "Committee Report: Ought to Pass with Amendment # 2021-1444s, 05/20/2021; Vote 5-0; Consent Calendar; Senate Calendar  24",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-05-20",
+                "action": "Committee Amendment # 2021-1444s, Amendment Adopted, Voice Vote; 05/20/2021; Senate Journal 16",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-20",
+                "action": "Ought to Pass with Amendment 2021-1444s, Motion Adopted, Voice Vote; OT3rdg; 05/20/2021; Senate Journal 16",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-07",
+                "action": "House Non-Concurs with Senate Amendment 2021-1444s and Requests CofC (Reps. M. Pearson, Acton, McGuire, P. Schmidt): Motion Adopted Voice Vote 06/04/2021 House Journal  9 P. 51",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-08",
+                "action": "Conferee Change: Rep. Weber Replaces Rep. P. Schmidt 06/04/2021 House Journal  9 P. 53",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-08",
+                "action": "Conferee Change: Rep. S. Pearson Replaces Rep. McGuire 06/04/2021 House Journal  9 P. 53",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-10",
+                "action": "Sen. Bradley Accedes to House Request for Committee of Conference, Motion Adopted, Voice Vote; 06/10/2021; Senate Journal 19",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-10",
+                "action": "President Appoints: Senators Gray, Bradley, Sherman; 06/10/2021; Senate Journal 19",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-10",
+                "action": "==RECESSED== Conference Committee Meeting: 06/14/2021 09:00 am Legislative Office Building 301-303",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-15",
+                "action": "==RECESSED== Conference Committee Meeting: 06/15/2021 10:30 am Legislative Office Building 301-303",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-17",
+                "action": "==CONTINUED== Conference Committee Meeting: 06/17/2021 09:00 am Legislative Office Building 301-303",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-17",
+                "action": "Conference Committee Report Filed, # 2021-2036c; 06/24/2021",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-24",
+                "action": "Conference Committee Report # 2021-2036c, Adopted, Voice Vote; 06/24/2021; Senate Journal 20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-06-24",
+                "action": "Conference Committee Report 2021-2036c: Adopted, Voice Vote 06/24/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-28",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 06/24/2021); Senate Journal 20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-07-28",
+                "action": "Enrolled (in recess of) 06/24/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-08-16",
+                "action": "Law Without Signature 08/11/2021; Chapter 211; Eff: 08/11/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 18167,
+                "person_hash": "gbz9mi50",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "William Marsh",
+                "first_name": "William",
+                "middle_name": "M.",
+                "last_name": "Marsh",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-17-ROC",
+                "ftm_eid": 6483516,
+                "votesmart_id": 65293,
+                "opensecrets_id": "",
+                "knowwho_pid": 587047,
+                "ballotpedia": "William_Marsh",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19166,
+                "person_hash": "nmyh7fie",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Timothy Lang",
+                "first_name": "Timothy",
+                "middle_name": "P.",
+                "last_name": "Lang",
+                "suffix": "Sr.",
+                "nickname": "",
+                "district": "HD-04-BEL",
+                "ftm_eid": 13703536,
+                "votesmart_id": 141853,
+                "opensecrets_id": "",
+                "knowwho_pid": 426007,
+                "ballotpedia": "Timothy_Lang_Sr.",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4766,
+                "person_hash": "ysx7fhwg",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Alfred Baldasaro",
+                "first_name": "Alfred",
+                "middle_name": "P.",
+                "last_name": "Baldasaro",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-05-ROC",
+                "ftm_eid": 6670814,
+                "votesmart_id": 69087,
+                "opensecrets_id": "",
+                "knowwho_pid": 250165,
+                "ballotpedia": "Alfred_Baldasaro",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18153,
+                "person_hash": "h6wcnlm4",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Jess Edwards",
+                "first_name": "Jess",
+                "middle_name": "",
+                "last_name": "Edwards",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-11-HIL",
+                "ftm_eid": 25005737,
+                "votesmart_id": 172496,
+                "opensecrets_id": "",
+                "knowwho_pid": 587584,
+                "ballotpedia": "Jess_Edwards",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19766,
+                "person_hash": "ia8i53pp",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Kevin Craig",
+                "first_name": "Kevin",
+                "middle_name": "",
+                "last_name": "Craig",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-04-COO",
+                "ftm_eid": 45946739,
+                "votesmart_id": 185473,
+                "opensecrets_id": "",
+                "knowwho_pid": 671017,
+                "ballotpedia": "Kevin_Craig_(New_Hampshire)",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 18144,
+                "person_hash": "fvwnmezh",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Andrew Prout",
+                "first_name": "Andrew",
+                "middle_name": "",
+                "last_name": "Prout",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-37-HIL",
+                "ftm_eid": 26392533,
+                "votesmart_id": 172342,
+                "opensecrets_id": "",
+                "knowwho_pid": 587485,
+                "ballotpedia": "Andrew_Prout",
+                "sponsor_type_id": 2,
+                "sponsor_order": 6,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 17486,
+                "person_hash": "e864jck9",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Jason Osborne",
+                "first_name": "Jason",
+                "middle_name": "",
+                "last_name": "Osborne",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-04-ROC",
+                "ftm_eid": 25005584,
+                "votesmart_id": 154541,
+                "opensecrets_id": "",
+                "knowwho_pid": 501770,
+                "ballotpedia": "Jason_Osborne_(New_Hampshire)",
+                "sponsor_type_id": 2,
+                "sponsor_order": 7,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19176,
+                "person_hash": "e0ortnzo",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Jeffrey Salloway",
+                "first_name": "Jeffrey",
+                "middle_name": "C.",
+                "last_name": "Salloway",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-05-STR",
+                "ftm_eid": 41757421,
+                "votesmart_id": 172710,
+                "opensecrets_id": "",
+                "knowwho_pid": 587732,
+                "ballotpedia": "Jeffrey_Salloway",
+                "sponsor_type_id": 2,
+                "sponsor_order": 8,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 21796,
+                "person_hash": "20zp9bez",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Melissa Blasek",
+                "first_name": "Melissa",
+                "middle_name": "",
+                "last_name": "Blasek",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-21-HIL",
+                "ftm_eid": 50226637,
+                "votesmart_id": 195009,
+                "opensecrets_id": "",
+                "knowwho_pid": 744174,
+                "ballotpedia": "Melissa_Blasek",
+                "sponsor_type_id": 2,
+                "sponsor_order": 9,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2227507,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB187/id/2227507",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=164&txtFormat=html",
+                "text_size": 26676,
+                "text_hash": "9cf6a64f018575169c05d94fdec03208"
+            },
+            {
+                "doc_id": 2321948,
+                "date": "2021-02-24",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB187/id/2321948",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=HA&id=164",
+                "text_size": 28052,
+                "text_hash": "17a53a39e7fcb8f1c788fb721aceb0a6"
+            },
+            {
+                "doc_id": 2359548,
+                "date": "2021-02-24",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB187/id/2359548",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=HA2&id=164",
+                "text_size": 30300,
+                "text_hash": "4ea4f30d56b314a1d8d9ff26784d0ebd"
+            },
+            {
+                "doc_id": 2400880,
+                "date": "2021-05-20",
+                "type": "Amended",
+                "type_id": 3,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB187/id/2400880",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&txtFormat=html&v=SA&id=164",
+                "text_size": 29260,
+                "text_hash": "3eda1bd1c078e55de7b9f3188422452f"
+            }
+        ],
+        "votes": [
+            {
+                "roll_call_id": 1017376,
+                "date": "2021-02-26",
+                "desc": "OTPA",
+                "yea": 333,
+                "nay": 6,
+                "nv": 31,
+                "absent": 28,
+                "total": 398,
+                "passed": 1,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/HB187/id/1017376",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=28&sy=2021&lb=H&eb=HB0187&sortoption=&txtsessionyear=2021&txtbillnumber=HB187&ddlsponsors=&lsr=173"
+            },
+            {
+                "roll_call_id": 1037126,
+                "date": "2021-02-26",
+                "desc": "OTPA",
+                "yea": 333,
+                "nay": 6,
+                "nv": 26,
+                "absent": 33,
+                "total": 398,
+                "passed": 1,
+                "chamber": "H",
+                "chamber_id": 67,
+                "url": "https://legiscan.com/NH/rollcall/HB187/id/1037126",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/Roll_Calls/billstatus_rcdetails.aspx?vs=28&sy=2021&lb=H&eb=HB0187&sortoption=&txtsessionyear=2021&txtbillnumber=HB187&ddlsponsors=&lsr=0173"
+            }
+        ],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-01",
+                "time": "09:45",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Health, Human Services and Elderly Affairs Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-15",
+                "time": "10:00",
+                "location": "Please click the link below to join the webinar:https://zoom.us/",
+                "description": "Executive Departments and Administration Public Hearing"
+            }
+        ],
+        "full_text": "department of safety public health emergency management powers amend rsa to read as follows public health powers and duties during the existence of a state of emergency under this chapter the commissioner of health and human services shall have the following powers and duties subject to the direction and control of the governor which are in addition to those set forth in rsa provided that such powers and duties shall be limited to the specific nature of the emergency its geographic limits and the conditions that brought it about as specified in the declaration of the state of emergency the commissioner shall have the responsibility and authority to carry out all public health activities within the state in cooperation and collaboration with the division of homeland security and emergency management the commissioner may without the approval of the governor s executive council or the legislative fiscal committee and notwithstanding the provisions of rsa and and any other law to the contrary purchase and distribute serums vaccines immunizing agents antibiotics and other pharmaceutical agents that the commissioner deems to be in the interest of public health if there is a statewide or regional shortage or threatened shortage of any serums vaccines immunizing agents antibiotics and other pharmaceutical agents the commissioner may control restrict prioritize and ration the use sale dispensing distribution or transportation of such products as necessary to best protect the health safety and welfare of the people of this state in making rationing or other supply and distribution decisions the commissioner shall determine high risk or critical need groups that shall receive priority for such products the commissioner shall have no power to restrict the ability of a licensed practitioner to prescribe pursuant to rsa and rsa if during a public health emergency a treatment or vaccination becomes available which is anticipated to be in limited supply the commissioner shall develop in consultation with the ethics oversight advisory committee established in rsa a plan for its distribution the commissioner may investigate any incident or imminent threat of any disease or health condition that may be caused by a natural disaster radiation or chemical exposure or the release of any microorganism infectious substance or naturally occurring or manufactured biological product that poses a risk of a significant number of human fatalities or incidents of permanent or disability such investigations may include requiring information from any health care provider or other person affected by or having information related to the incident or threat inspections of buildings and conveyances and their contents laboratory analysis of samples collected during the course of such inspections and requiring a physical examination and the provision of specimens of body secretions excretions fluids and discharges for laboratory examination of any person having a disease or health condition that necessitates an investigation under this paragraph the commissioner may order a person to undergo such medical care as may be necessary to treat or prevent an incident or threat of disease or other health condition prompting an investigation pursuant to paragraph such care may include immunization of individuals as necessary to prevent the spread of contagious disease except that an individual may refuse treatment or immunization pursuant to the provisions of rsa vi rsa and rsa any order compelling an investigation physical examination the provision of specimens medical treatment or care or immunization and any other order of the commissioner under this chapter shall be subject to the due process requirements of rsa the department of health and human services shall acquire and retain only the minimum amount of information specimens and samples relating to individuals necessary to carry out its obligations under this section any genetic testing of specimens and samples shall be limited to the viruses bacteria fungi or other microorganisms therein personally identifiable information shall not be acquired or retained unless necessary for the department to carry out its responsibilities under this section rsa or any other provision of law such information shall not be retained beyond the duration of the state of emergency without the approval of the governor and executive council which information shall be subject to the confidentiality provisions of rsa except as provided in paragraph ix an emergency order issued under this section shall be subject to review by the joint legislative oversight committee on health and human services established in rsa the commissioner shall notify the ethics oversight advisory committee established in rsa of any emergency order issued under this section and the joint legislative oversight committee shall consider the input of the ethics committee if provided in any decision if the emergency precludes either committee from meeting in person they shall be authorized notwithstanding any other provision of law to meet remotely for this purpose an emergency order issued under paragraph v or vi shall be subject to legislative oversight by the ethics oversight advisory committee pursuant to rsa ii b communicable disease ethics committee amend rsa to read as follows ethics oversight advisory committee there is hereby established an ethics oversight advisory committee to offer advice to the commissioner relative to the ethical issues that may be identified in the course of planning for and responding to outbreaks of communicable disease that threaten to become epidemic or pandemic and to review and provide recommendations for investigations orders and treatment ordered by the commissioner the committee shall a consider the ethical implications of any of the powers that may be exercised by the commissioner under the provisions of this chapter including but not limited to the confiscation distribution and rationing of serums vaccines immunizing agents antibiotics and other pharmaceutical agents and mechanical equipment the issuance and enforcement of orders of isolation quarantine medical examination and medical treatment issues relative to information sharing and confidentiality and the provisions for due process for orders issued pursuant to this chapter b review at least annually a report of investigations conducted pursuant to rsa and orders issued under rsa v and vi and provide recommendations to the department any information furnished to the committee shall be aggregated and the department shall not share any confidential information with the committee c consider the competing rights of disabled persons who might be unable to comply with certain orders health care workers who are entitled to a safe workplace and the need to protect the public from communicable disease and may recommend modification of orders to address specific concerns d consider both the need to protect the most vulnerable members of society as well as the need for the most efficacious means to control a public health emergency when consulting with the commissioner pursuant to rsa in developing a plan for the distribution of a new treatment or vaccination the members of the committee shall be as follows a two members of the house or representatives one of whom shall be from the minority party appointed by the speaker of the house of representatives b one member of the senate appointed by the senate president c the director of the department of health and human services division of public health services b d the state epidemiologist c e the attorney general or designee d f a representative of a public health network appointed by the commissioner e g a representative from a college or university public health program appointed by the commissioner f h a chief of police or a police officer of a local police department appointed by the new hampshire association of chiefs of police g i a chief of a local fire department appointed by the new hampshire association of fire chiefs h j a physician licensed under rsa appointed by the new hampshire medical society i k the commissioner of the department of safety or designee j l a member of a fire department with a minimum of certification appointed by the professional firefighters of new hampshire k m a representative of a hospital appointed by the new hampshire hospital association l a county representative appointed by the new hampshire association of counties n the commissioner of the department of labor or designee o a representative of the disability rights center of new hampshire appointed by the center the commissioner shall appoint a member of the committee to act as chairperson the committee shall elect one of the legislative members as chairperson legislative members of the committee shall receive mileage at the legislative rate when attending to the duties of the committee the committee shall meet initially within days of the effective date of this section and then as regularly as the chairperson shall direct the commissioner may at any time direct questions to the committee or request guidance on ethical issues the committee shall be solely advisory in nature and any guidance guidelines or protocols issued by the committee shall not be binding on the commissioner may provide advisory opinions including draft guidance guidelines or protocols which shall not be binding on the commissioner or any member of the public department of health and human services oversight committee amend rsa i to read as follows there shall be an oversight committee on health and human services consisting of the following members as follows a two three members of the senate at least one of whom shall be a member of the senate health and human services committee and one of whom shall be a member of the senate finance committee appointed by the president of the senate and b three five members of the house of representatives of whom shall be from the health human services and elderly affairs committee and one of whom shall be from the house finance committee division responsible for the department of health and human services appointed by the speaker of the house of representatives two members of the house of representatives one of whom shall be appointed by the speaker of the house of representatives and one of whom shall be appointed by the leader of the minority party of the house of representatives shall be available to serve at the request of the committee chairperson as an alternate member for an absent committee member an alternate member shall have full voting authority while serving for an absent committee member"
+    }
+}

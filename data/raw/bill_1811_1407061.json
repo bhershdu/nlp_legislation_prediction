@@ -1,0 +1,516 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1407061,
+        "change_hash": "6f052c2395cf62fcb9ae8685fad55013",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB626/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=512&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB626",
+        "completed": 1,
+        "status": 4,
+        "status_date": "2021-06-09",
+        "progress": [
+            {
+                "date": "2021-01-14",
+                "event": 1
+            },
+            {
+                "date": "2021-01-14",
+                "event": 9
+            },
+            {
+                "date": "2021-03-24",
+                "event": 10
+            },
+            {
+                "date": "2021-03-24",
+                "event": 11
+            },
+            {
+                "date": "2021-04-13",
+                "event": 2
+            },
+            {
+                "date": "2021-04-13",
+                "event": 9
+            },
+            {
+                "date": "2021-04-20",
+                "event": 10
+            },
+            {
+                "date": "2021-05-26",
+                "event": 3
+            },
+            {
+                "date": "2021-06-09",
+                "event": 8
+            },
+            {
+                "date": "2021-06-09",
+                "event": 4
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB626",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to historic horse racing.",
+        "description": "Relative to historic horse racing.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-14",
+                "committee_id": 1264,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Ways and Means"
+            },
+            {
+                "date": "2021-04-13",
+                "committee_id": 1277,
+                "chamber": "S",
+                "chamber_id": 68,
+                "name": "Ways and Means"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-14",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Ways and Means House Journal  2 P. 57",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-01-27",
+                "action": "Public Hearing: 02/11/2021 01:00 pm Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/99381153388 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-18",
+                "action": "Full Committee Work Session: 03/02/2021 09:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/94528213728 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-18",
+                "action": "Full Committee Work Session: 03/03/2021 09:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/92309184005 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-24",
+                "action": "Majority Committee Report: Ought to Pass (Vote 16-5; Regular Calendar) House Calendar 18 P. 27",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-24",
+                "action": "Minority Committee Report: Inexpedient to Legislate",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-07",
+                "action": "Ought to Pass: Motion Adopted DV 223-152 04/07/2021 House Journal  5 P. 63",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-13",
+                "action": "Introduced 04/08/2021 and Referred to Ways and Means; Senate Journal 12",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-14",
+                "action": "Remote Hearing: 04/19/2021, 09:15 am; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  20",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-04-20",
+                "action": "Committee Report: Ought to Pass, 04/29/2021; Vote 5-0; Consent Calendar; Senate Calendar  21",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-29",
+                "action": "Ought to Pass: Regular Calendar 24Y-0N, Motion Adopted; OT3rdg; 04/29/2021; Senate Journal 13",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-12",
+                "action": "Enrolled Bill Amendment # 2021-1354e Regular Calendar 23Y-0N, Amendment Adopted, (In recess of 05/06/2021); Senate Journal 15",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-13",
+                "action": "Enrolled Bill Amendment # 2021-1354e: Amendment Adopted Voice Vote (in recess of) 04/09/2021 House Journal  7 P. 103",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-26",
+                "action": "Enrolled Adopted, Voice Vote, (In recess 05/20/2021); Senate Journal 17",
+                "chamber": "S",
+                "chamber_id": 68,
+                "importance": 0
+            },
+            {
+                "date": "2021-05-26",
+                "action": "Enrolled (in recess of) 04/09/2021 House Journal  7 P. 104",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-06-09",
+                "action": "Signed by Governor Sununu 06/08/2021; Chapter 66; I. Sec. 10 Eff: 07/01/2024 / II. Rem. Eff: 06/08/2021",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 11837,
+                "person_hash": "9bfp0ziy",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Patrick Abrami",
+                "first_name": "Patrick",
+                "middle_name": "",
+                "last_name": "Abrami",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-19-ROC",
+                "ftm_eid": 13004265,
+                "votesmart_id": 126608,
+                "opensecrets_id": "",
+                "knowwho_pid": 296219,
+                "ballotpedia": "Patrick_Abrami",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 17302,
+                "person_hash": "xh0ul6ms",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Fred Doucette",
+                "first_name": "Fred",
+                "middle_name": "",
+                "last_name": "Doucette",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-08-ROC",
+                "ftm_eid": 25005600,
+                "votesmart_id": 154566,
+                "opensecrets_id": "",
+                "knowwho_pid": 502645,
+                "ballotpedia": "Fred_Doucette",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 4883,
+                "person_hash": "d1gyrn1n",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "John Graham",
+                "first_name": "John",
+                "middle_name": "A.",
+                "last_name": "Graham",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-18-HIL",
+                "ftm_eid": 6594544,
+                "votesmart_id": 42142,
+                "opensecrets_id": "",
+                "knowwho_pid": 208616,
+                "ballotpedia": "John_Graham,_New_Hampshire_Representative",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19166,
+                "person_hash": "nmyh7fie",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Timothy Lang",
+                "first_name": "Timothy",
+                "middle_name": "P.",
+                "last_name": "Lang",
+                "suffix": "Sr.",
+                "nickname": "",
+                "district": "HD-04-BEL",
+                "ftm_eid": 13703536,
+                "votesmart_id": 141853,
+                "opensecrets_id": "",
+                "knowwho_pid": 426007,
+                "ballotpedia": "Timothy_Lang_Sr.",
+                "sponsor_type_id": 2,
+                "sponsor_order": 4,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19837,
+                "person_hash": "xmfztr7z",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Jennie Gomarlo",
+                "first_name": "Jennie",
+                "middle_name": "",
+                "last_name": "Gomarlo",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-12-CHE",
+                "ftm_eid": 45378742,
+                "votesmart_id": 185511,
+                "opensecrets_id": "",
+                "knowwho_pid": 670261,
+                "ballotpedia": "Jennie_Gomarlo",
+                "sponsor_type_id": 2,
+                "sponsor_order": 5,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 17481,
+                "person_hash": "ghibvwim",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Erin Hennessey",
+                "first_name": "Erin",
+                "middle_name": "Tapper",
+                "last_name": "Hennessey",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-001",
+                "ftm_eid": 25005445,
+                "votesmart_id": 154433,
+                "opensecrets_id": "",
+                "knowwho_pid": 501701,
+                "ballotpedia": "Erin_Hennessey",
+                "sponsor_type_id": 2,
+                "sponsor_order": 6,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19435,
+                "person_hash": "pcvm1xbc",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Kevin Cavanaugh",
+                "first_name": "Kevin",
+                "middle_name": "J.",
+                "last_name": "Cavanaugh",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-016",
+                "ftm_eid": 43568196,
+                "votesmart_id": 176396,
+                "opensecrets_id": "",
+                "knowwho_pid": 634333,
+                "ballotpedia": "Kevin_Cavanaugh_(New_Hampshire)",
+                "sponsor_type_id": 2,
+                "sponsor_order": 7,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 19460,
+                "person_hash": "9tstvyhl",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Casey Conley",
+                "first_name": "Casey",
+                "middle_name": "M.",
+                "last_name": "Conley",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-13-STR",
+                "ftm_eid": 43989827,
+                "votesmart_id": 176725,
+                "opensecrets_id": "",
+                "knowwho_pid": 644124,
+                "ballotpedia": "Casey_Conley",
+                "sponsor_type_id": 2,
+                "sponsor_order": 8,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 15125,
+                "person_hash": "g54db31d",
+                "party_id": "1",
+                "state_id": 29,
+                "party": "D",
+                "role_id": 2,
+                "role": "Sen",
+                "name": "Donna Soucy",
+                "first_name": "Donna",
+                "middle_name": "M.",
+                "last_name": "Soucy",
+                "suffix": "",
+                "nickname": "",
+                "district": "SD-018",
+                "ftm_eid": 9862727,
+                "votesmart_id": 8532,
+                "opensecrets_id": "",
+                "knowwho_pid": 425979,
+                "ballotpedia": "Donna_Soucy",
+                "sponsor_type_id": 2,
+                "sponsor_order": 9,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2242173,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB626/id/2242173",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=514&txtFormat=html",
+                "text_size": 30287,
+                "text_hash": "8cea5a538e421e44919962aa83d8f76a"
+            },
+            {
+                "doc_id": 2359368,
+                "date": "2021-04-07",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB626/id/2359368",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&v=HP&id=514",
+                "text_size": 43623,
+                "text_hash": "e8ead7e66270de5fe01b5b6fc7c4ea16"
+            },
+            {
+                "doc_id": 2385194,
+                "date": "2021-04-29",
+                "type": "Enrolled",
+                "type_id": 5,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB626/id/2385194",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&v=SP&id=514",
+                "text_size": 48150,
+                "text_hash": "fba331c5b5146883fc513586e11c0363"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-11",
+                "time": "13:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Ways and Means Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-02",
+                "time": "09:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Ways and Means Work Session"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-03-03",
+                "time": "09:00",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Ways and Means Work Session"
+            }
+        ]
+    }
+}

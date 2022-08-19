@@ -1,0 +1,228 @@
+{
+    "status": "OK",
+    "bill": {
+        "bill_id": 1403772,
+        "change_hash": "42c6c99be6f732291d8590f84da7b7b7",
+        "session_id": 1811,
+        "session": {
+            "session_id": 1811,
+            "state_id": 29,
+            "year_start": 2021,
+            "year_end": 2021,
+            "prefile": 0,
+            "sine_die": 1,
+            "prior": 1,
+            "special": 0,
+            "session_tag": "Regular Session",
+            "session_title": "2021 Regular Session",
+            "session_name": "2021 Regular Session"
+        },
+        "url": "https://legiscan.com/NH/bill/HB544/2021",
+        "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/bill_status.aspx?lsr=732&sy=2021&sortoption=&txtsessionyear=2021&txtbillnumber=HB544",
+        "completed": 0,
+        "status": 1,
+        "status_date": "2021-01-12",
+        "progress": [
+            {
+                "date": "2021-01-12",
+                "event": 1
+            },
+            {
+                "date": "2021-01-12",
+                "event": 9
+            },
+            {
+                "date": "2021-03-24",
+                "event": 10
+            },
+            {
+                "date": "2021-03-24",
+                "event": 11
+            }
+        ],
+        "state": "NH",
+        "state_id": 29,
+        "bill_number": "HB544",
+        "bill_type": "B",
+        "bill_type_id": "1",
+        "body": "H",
+        "body_id": 67,
+        "current_body": "H",
+        "current_body_id": 67,
+        "title": "Relative to the propagation of divisive concepts.",
+        "description": "Relative to the propagation of divisive concepts.",
+        "pending_committee_id": 0,
+        "committee": [],
+        "referrals": [
+            {
+                "date": "2021-01-12",
+                "committee_id": 1243,
+                "chamber": "H",
+                "chamber_id": 67,
+                "name": "Executive Departments and Administration"
+            }
+        ],
+        "history": [
+            {
+                "date": "2021-01-12",
+                "action": "Introduced (in recess of) 01/06/2021 and referred to Executive Departments and Administration House Journal  2 P. 53",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-02-03",
+                "action": "==RECESSED== Public Hearing: 02/11/2021 11:30 am Members of the public may attend using the following link:To join the webinar: https://zoom.us/j/91078617911 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-02-11",
+                "action": "==CONTINUED== Public Hearing: 02/18/2021 01:30 pm Members of the public may attend using the following link:To join the webinar: https://zoom.us/j/97238685330 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened.",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            },
+            {
+                "date": "2021-03-24",
+                "action": "Majority Committee Report: Ought to Pass with Amendment # 2021-0611h (Vote 10-9; Regular Calendar) House Calendar 18 P. 45",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-03-24",
+                "action": "Minority Committee Report: Inexpedient to Legislate",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 1
+            },
+            {
+                "date": "2021-04-08",
+                "action": "Lay on Table (Rep. Osborne): Motion Adopted DV 347-18 04/08/2021 House Journal  6 P. 72",
+                "chamber": "H",
+                "chamber_id": 67,
+                "importance": 0
+            }
+        ],
+        "sponsors": [
+            {
+                "people_id": 17101,
+                "person_hash": "mgtaphqs",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Keith Ammon",
+                "first_name": "Keith",
+                "middle_name": "",
+                "last_name": "Ammon",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-40-HIL",
+                "ftm_eid": 16391636,
+                "votesmart_id": 154517,
+                "opensecrets_id": "",
+                "knowwho_pid": 502116,
+                "ballotpedia": "Keith_Ammon",
+                "sponsor_type_id": 1,
+                "sponsor_order": 1,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 14478,
+                "person_hash": "1kegb9fu",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Glenn Cordelli",
+                "first_name": "Glenn",
+                "middle_name": "",
+                "last_name": "Cordelli",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-04-CAR",
+                "ftm_eid": 13703548,
+                "votesmart_id": 143307,
+                "opensecrets_id": "",
+                "knowwho_pid": 427994,
+                "ballotpedia": "Glenn_Cordelli",
+                "sponsor_type_id": 2,
+                "sponsor_order": 2,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            },
+            {
+                "people_id": 17486,
+                "person_hash": "e864jck9",
+                "party_id": "2",
+                "state_id": 29,
+                "party": "R",
+                "role_id": 1,
+                "role": "Rep",
+                "name": "Jason Osborne",
+                "first_name": "Jason",
+                "middle_name": "",
+                "last_name": "Osborne",
+                "suffix": "",
+                "nickname": "",
+                "district": "HD-04-ROC",
+                "ftm_eid": 25005584,
+                "votesmart_id": 154541,
+                "opensecrets_id": "",
+                "knowwho_pid": 501770,
+                "ballotpedia": "Jason_Osborne_(New_Hampshire)",
+                "sponsor_type_id": 2,
+                "sponsor_order": 3,
+                "committee_sponsor": 0,
+                "committee_id": 0,
+                "state_federal": 0
+            }
+        ],
+        "sasts": [],
+        "subjects": [],
+        "texts": [
+            {
+                "doc_id": 2238380,
+                "date": "0000-00-00",
+                "type": "Introduced",
+                "type_id": 1,
+                "mime": "text/html",
+                "mime_id": 1,
+                "url": "https://legiscan.com/NH/text/HB544/id/2238380",
+                "state_link": "https://gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2021&id=714&txtFormat=html",
+                "text_size": 23674,
+                "text_hash": "5fa62f2d9f4929bae4b00a2099fe9faf"
+            }
+        ],
+        "votes": [],
+        "amendments": [],
+        "supplements": [],
+        "calendar": [
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-11",
+                "time": "11:30",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Executive Departments and Administration Public Hearing"
+            },
+            {
+                "type_id": 1,
+                "type": "Hearing",
+                "date": "2021-02-18",
+                "time": "13:30",
+                "location": "Members of the public may attend using the following link:To joi",
+                "description": "Executive Departments and Administration Public Hearing"
+            }
+        ],
+        "full_text": "new chapter propagation of divisive concepts prohibited amend rsa by inserting after chapter the following new chapter chapter propagation of divisive concepts prohibited definitions in this chapter contractor means any and all persons individuals corporations or businesses of any kind that in any manner have entered into a contract or perform a subcontract pursuant to a contract with the state of new hampshire divisive concept means the concept that a one race or sex is inherently superior to another race or sex b the state of new hampshire or the united states is fundamentally racist or sexist c an individual by virtue of his or her race or sex is inherently racist sexist or oppressive whether consciously or unconsciously d an individual should be discriminated against or receive adverse treatment solely or partly because of his or her race or sex e members of one race or sex cannot and should not attempt to treat others without respect to race or sex f an individual s moral character is necessarily determined by his or her race or sex g an individual by virtue of his or her race or sex bears responsibility for actions committed in the past by other members of the same race or sex h any individual should feel discomfort guilt anguish or any other form of psychological distress on account of his or her race or sex or i meritocracy or traits such as a hard work ethic are racist or sexist or were created by a particular race to oppress another race j the term divisive concepts includes any other form of race or sex stereotyping or any other form of race or sex scapegoating race or sex stereotyping means ascribing character traits values moral and ethical codes privileges status or beliefs to a race or sex or to an individual because of his or her race or sex race or sex scapegoating means assigning fault blame or bias to a race or sex or to members of a race or sex because of their race or sex it similarly encompasses any claim that consciously or unconsciously and by virtue of his or her race or sex members of any race are inherently racist or are inherently inclined to oppress others or that members of a sex are inherently sexist or inclined to oppress others the state of new hampshire means all agencies and political subdivisions of the state of new hampshire including counties cities towns school districts and the state university system student means any and all students of any school district school college or university which receives grants funds or assets from the state of new hampshire unlawful propagation of divisive concepts requirements for the state of new hampshire a the state of new hampshire shall not teach instruct or train any employee contractor staff member student or any other individual or group to adopt or believe any of the divisive concepts defined in rsa b no employee contractor staff member or student of the state of new hampshire shall face any penalty or discrimination on account of his or her refusal to support believe endorse embrace confess act upon or otherwise assent to the divisive concepts defined in rsa requirements for government contractors a all state contracts entered into on or after the effective date of this chapter shall include the following provision during the performance of this contract the contractor agrees as follows the contractor shall not use any workplace training that inculcates in its employees any form of race or sex stereotyping or any form of race or sex scapegoating including the concepts that a one race or sex is inherently superior to another race or sex b an individual by virtue of his or her race or sex is inherently racist sexist or oppressive whether consciously or unconsciously c an individual should be discriminated against or receive adverse treatment solely or partly because of his or her race or sex d members of one race or sex cannot and should not attempt to treat others without respect to race or sex e an individual s moral character is necessarily determined by his or her race or sex f an individual by virtue of his or her race or sex bears responsibility for actions committed in the past by other members of the same race or sex g any individual should feel discomfort guilt anguish or any other form of psychological distress on account of his or her race or sex or h meritocracy or traits such as a hard work ethic are racist or sexist or were created by a particular race to oppress another race the term race or sex stereotyping means ascribing character traits values moral and ethical codes privileges status or beliefs to a race or sex or to an individual because of his or her race or sex and the term race or sex scapegoating means assigning fault blame or bias to a race or sex or to members of a race or sex because of their race or sex b the contractor shall send to each labor union or representative of workers with which the contractor has a collective bargaining agreement or other contract or understanding a notice to be provided by the agency contracting officer advising the labor union or workers representative of the contractor s commitments under this section and shall post copies of the notice in conspicuous places available to employees and applicants for employment c in the event of the contractor s noncompliance with the requirements of this section or with any rules regulations or policies that may be promulgated in accordance with this section the contract may be canceled terminated or suspended in whole or in part and the contractor may be declared ineligible for further government contracts d the contractor shall include the provisions of this section in every subcontract or purchase order unless exempted by rules regulations or policies of the department of administrative services so that such provisions shall be binding upon each subcontractor or vendor the contractor shall take such action with respect to any subcontract or purchase order as may be directed by the department of administrative services as a means of enforcing such provisions including sanctions for noncompliance the department of administrative services or an agency designated by the department of administrative services is directed to investigate complaints received alleging that a state contractor is utilizing such training programs in violation of the contractor s obligations under the binding provisions of this section the department shall take appropriate enforcement action and provide remedial relief as appropriate the heads of all agencies shall review their respective grant programs and identify programs for which the agency may as a condition of receiving such a grant require the recipient to certify that it will not use state funds or assets to promote any of the divisive concepts defined in rsa requirements for agencies a the fair and equal treatment of individuals is an inviolable principle that must be maintained in the state workplace agencies should continue all training that will foster a workplace that is respectful of all employees accordingly the head of each agency shall use his or her authority under to ensure that the agency agency employees while on duty status and any contractors hired by the agency to provide training workshops forums or similar programming for purposes of this section training to agency employees do not teach advocate act upon or promote in any training to agency employees any of the divisive concepts listed in rsa and agency diversity and inclusion efforts shall first and foremost encourage agency employees not to judge each other by their color race ethnicity sex or any other characteristic protected by federal or state law b the commissioner of the department of administrative services pursuant to rsa shall develop regulations for the enforcement of the provisions of this statute c each agency head shall issue a policy incorporating the requirements of this chapter into agency operations including by making compliance with the policy a provision in all agency contracts request that the agency thoroughly review and assess not less than annually thereafter agency compliance with the requirements of the policy in the form of a report submitted to the department of administrative services and assign at least one senior political appointee responsibility for ensuring compliance with the requirements of the policy review of agency training a all training programs for state agency employees relating to diversity or inclusion shall before being used be reviewed by the department of administrative services for compliance with the requirements of rsa b if a contractor provides a training for agency employees relating to diversity or inclusion that teaches advocates or promotes the divisive concepts defined in rsa ii and such action is in violation of the applicable contract the agency that contracted for such training shall evaluate whether to pursue debarment of that contractor consistent with applicable law and regulations general provisions nothing in this chapter shall prevent agencies or contractors from promoting racial cultural or ethnic diversity or inclusiveness provided such efforts are consistent with the requirements of this chapter nothing in this chapter shall be construed to prohibit discussing as part of a larger course of academic instruction the divisive concepts listed in rsa ii in an objective manner and without endorsement if any provision of this chapter or the application of any provision to any person or circumstance is held to be invalid the remainder of this chapter and the application of its provisions to any other persons or circumstances shall not be affected thereby"
+    }
+}
